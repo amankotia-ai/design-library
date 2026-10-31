@@ -1,0 +1,293 @@
+{
+  "reviewer": "/root/independent_qa",
+  "time": "2026-10-30T17:29:59.437Z",
+  "checks": [
+    {
+      "name": "home 1440 three cards",
+      "ok": true
+    },
+    {
+      "name": "home 1440 fits",
+      "ok": true
+    },
+    {
+      "name": "home 1440 real images",
+      "ok": true
+    },
+    {
+      "name": "home 768 three cards",
+      "ok": true
+    },
+    {
+      "name": "home 768 fits",
+      "ok": true
+    },
+    {
+      "name": "home 768 real images",
+      "ok": true
+    },
+    {
+      "name": "home 390 three cards",
+      "ok": true
+    },
+    {
+      "name": "home 390 fits",
+      "ok": true
+    },
+    {
+      "name": "home 390 real images",
+      "ok": true
+    },
+    {
+      "name": "card to Quiet Serif",
+      "ok": true
+    },
+    {
+      "name": "Quiet Serif guidance headings",
+      "ok": true
+    },
+    {
+      "name": "Quiet Serif inventory",
+      "ok": true
+    },
+    {
+      "name": "Quiet Serif evidence",
+      "ok": true
+    },
+    {
+      "name": "Quiet Serif detail desktop fits",
+      "ok": true
+    },
+    {
+      "name": "Quiet Serif inventory to Study",
+      "ok": true
+    },
+    {
+      "name": "Quiet Serif study iframe",
+      "ok": true
+    },
+    {
+      "name": "Quiet Serif assembled study route",
+      "ok": true
+    },
+    {
+      "name": "Quiet Serif detail mobile fits",
+      "ok": true
+    },
+    {
+      "name": "card to Cobalt Grid",
+      "ok": true
+    },
+    {
+      "name": "Cobalt Grid guidance headings",
+      "ok": true
+    },
+    {
+      "name": "Cobalt Grid inventory",
+      "ok": true
+    },
+    {
+      "name": "Cobalt Grid evidence",
+      "ok": true
+    },
+    {
+      "name": "Cobalt Grid detail desktop fits",
+      "ok": true
+    },
+    {
+      "name": "Cobalt Grid inventory to Study",
+      "ok": true
+    },
+    {
+      "name": "Cobalt Grid study iframe",
+      "ok": true
+    },
+    {
+      "name": "Cobalt Grid assembled study route",
+      "ok": true
+    },
+    {
+      "name": "Cobalt Grid detail mobile fits",
+      "ok": true
+    },
+    {
+      "name": "card to Blueprint",
+      "ok": true
+    },
+    {
+      "name": "Blueprint guidance headings",
+      "ok": true
+    },
+    {
+      "name": "Blueprint inventory",
+      "ok": true
+    },
+    {
+      "name": "Blueprint evidence",
+      "ok": true
+    },
+    {
+      "name": "Blueprint detail desktop fits",
+      "ok": true
+    },
+    {
+      "name": "Blueprint inventory to Study",
+      "ok": true
+    },
+    {
+      "name": "Blueprint study iframe",
+      "ok": true
+    },
+    {
+      "name": "Blueprint assembled study route",
+      "ok": true
+    },
+    {
+      "name": "Blueprint detail mobile fits",
+      "ok": true
+    },
+    {
+      "name": "switch updates detail",
+      "ok": true
+    },
+    {
+      "name": "switch updates URL",
+      "ok": true
+    },
+    {
+      "name": "switch reload preserves",
+      "ok": true
+    },
+    {
+      "name": "legacy section page",
+      "ok": true
+    },
+    {
+      "name": "legacy selection page",
+      "ok": true
+    },
+    {
+      "name": "legacy section signal-page",
+      "ok": true
+    },
+    {
+      "name": "legacy selection signal-page",
+      "ok": true
+    },
+    {
+      "name": "legacy section blueprint-page",
+      "ok": true
+    },
+    {
+      "name": "legacy selection blueprint-page",
+      "ok": true
+    },
+    {
+      "name": "legacy section hero",
+      "ok": true
+    },
+    {
+      "name": "legacy selection hero",
+      "ok": true
+    },
+    {
+      "name": "legacy section quote",
+      "ok": true
+    },
+    {
+      "name": "legacy selection quote",
+      "ok": true
+    },
+    {
+      "name": "legacy section signal-workshop",
+      "ok": true
+    },
+    {
+      "name": "legacy selection signal-workshop",
+      "ok": true
+    },
+    {
+      "name": "legacy section blueprint-editor",
+      "ok": true
+    },
+    {
+      "name": "legacy selection blueprint-editor",
+      "ok": true
+    },
+    {
+      "name": "keyboard first dismiss",
+      "ok": true
+    },
+    {
+      "name": "keyboard brand link",
+      "ok": true
+    },
+    {
+      "name": "focus outline visible",
+      "ok": true
+    },
+    {
+      "name": "keyboard home navigation",
+      "ok": true
+    },
+    {
+      "name": "native keyboard select",
+      "ok": true
+    },
+    {
+      "name": "compare preserved",
+      "ok": true
+    },
+    {
+      "name": "overlay preserved",
+      "ok": true
+    },
+    {
+      "name": "Cobalt specimen uses Inter library sans",
+      "ok": true
+    },
+    {
+      "name": "no browser errors",
+      "ok": true,
+      "detail": []
+    },
+    {
+      "name": "runtime equality main.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime equality data.js",
+      "ok": true
+    },
+    {
+      "name": "runtime equality system-browser.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime equality system-browser.css",
+      "ok": true
+    },
+    {
+      "name": "runtime equality library-tokens.css",
+      "ok": true
+    },
+    {
+      "name": "runtime equality style.css",
+      "ok": true
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "pilot/src/main.jsx": "81117626b9f6cf58f5faad0d4e3e32b3c5a98ab9804cb121558ceab224f422de",
+    "pilot/src/data.js": "f059f695f314da8fd6325a418de256f70bcdb56c903ed5e822f7a60a0e2a5349",
+    "pilot/src/system-browser.jsx": "76a23527bbf47a8cbf6a2bf8e82f9055670c1c41e7d947fc8313bb254b4e0317",
+    "pilot/src/system-browser.css": "dc9916772d3cabbf123f1b3474c9890bb2d6e0bc2f9b729369b9f6feb094295e",
+    "pilot/src/library-tokens.css": "842a8e50e34f6c5f6926681e3ecc7592a0af617330cae336a4ed4702ef8ac7f5",
+    "pilot/src/style.css": "74aad432a16264ab4e05e8b061b8488f181c861a927fc85174701ddbead0e105",
+    "pilot/evidence/system-browser-home-desktop.png": "e90d4fc305f43c4b661d23b9673010a29efbd8ae2ff97591f3c5b0916bfc3c9e",
+    "pilot/evidence/system-browser-home-mobile.png": "b3e730a3bbd2ca0fbbadb488dc64ba3390647847dbaaaac6600d2617a400d2c5",
+    "pilot/evidence/system-browser-detail-desktop.png": "5132d531bfc28f77ba4b229d3347b3617975bcd37dd0af887804cd13b0dffee3",
+    "pilot/evidence/system-browser-detail-mobile.png": "01cea1040da772a345b64a7020d982081e69a6c7c07ae049c0b45c6fbec4cc1c"
+  },
+  "passed": true
+}

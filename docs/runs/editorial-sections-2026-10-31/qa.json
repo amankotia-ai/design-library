@@ -1,0 +1,1100 @@
+{
+  "reviewer": "/root/independent_qa",
+  "time": "2026-10-30T20:15:55.528Z",
+  "passed": true,
+  "checks": [
+    {
+      "name": "project-detail 1440 fit",
+      "ok": true
+    },
+    {
+      "name": "project-detail 1440 images",
+      "ok": true
+    },
+    {
+      "name": "project-detail 1440 text bounds",
+      "ok": true
+    },
+    {
+      "name": "image-index 1440 fit",
+      "ok": true
+    },
+    {
+      "name": "image-index 1440 images",
+      "ok": true
+    },
+    {
+      "name": "image-index 1440 text bounds",
+      "ok": true
+    },
+    {
+      "name": "split-material 1440 fit",
+      "ok": true
+    },
+    {
+      "name": "split-material 1440 images",
+      "ok": true
+    },
+    {
+      "name": "split-material 1440 text bounds",
+      "ok": true
+    },
+    {
+      "name": "image-rail 1440 fit",
+      "ok": true
+    },
+    {
+      "name": "image-rail 1440 images",
+      "ok": true
+    },
+    {
+      "name": "image-rail 1440 text bounds",
+      "ok": true
+    },
+    {
+      "name": "assembled 1440 fit",
+      "ok": true
+    },
+    {
+      "name": "assembled 1440 unique ids",
+      "ok": true
+    },
+    {
+      "name": "assembled 1440 all images",
+      "ok": true
+    },
+    {
+      "name": "assembled 1440 section order",
+      "ok": true
+    },
+    {
+      "name": "project-detail 768 fit",
+      "ok": true
+    },
+    {
+      "name": "project-detail 768 images",
+      "ok": true
+    },
+    {
+      "name": "project-detail 768 text bounds",
+      "ok": true
+    },
+    {
+      "name": "image-index 768 fit",
+      "ok": true
+    },
+    {
+      "name": "image-index 768 images",
+      "ok": true
+    },
+    {
+      "name": "image-index 768 text bounds",
+      "ok": true
+    },
+    {
+      "name": "split-material 768 fit",
+      "ok": true
+    },
+    {
+      "name": "split-material 768 images",
+      "ok": true
+    },
+    {
+      "name": "split-material 768 text bounds",
+      "ok": true
+    },
+    {
+      "name": "image-rail 768 fit",
+      "ok": true
+    },
+    {
+      "name": "image-rail 768 images",
+      "ok": true
+    },
+    {
+      "name": "image-rail 768 text bounds",
+      "ok": true
+    },
+    {
+      "name": "assembled 768 fit",
+      "ok": true
+    },
+    {
+      "name": "assembled 768 unique ids",
+      "ok": true
+    },
+    {
+      "name": "assembled 768 all images",
+      "ok": true
+    },
+    {
+      "name": "assembled 768 section order",
+      "ok": true
+    },
+    {
+      "name": "project-detail 390 fit",
+      "ok": true
+    },
+    {
+      "name": "project-detail 390 images",
+      "ok": true
+    },
+    {
+      "name": "project-detail 390 text bounds",
+      "ok": true
+    },
+    {
+      "name": "image-index 390 fit",
+      "ok": true
+    },
+    {
+      "name": "image-index 390 images",
+      "ok": true
+    },
+    {
+      "name": "image-index 390 text bounds",
+      "ok": true
+    },
+    {
+      "name": "split-material 390 fit",
+      "ok": true
+    },
+    {
+      "name": "split-material 390 images",
+      "ok": true
+    },
+    {
+      "name": "split-material 390 text bounds",
+      "ok": true
+    },
+    {
+      "name": "image-rail 390 fit",
+      "ok": true
+    },
+    {
+      "name": "image-rail 390 images",
+      "ok": true
+    },
+    {
+      "name": "image-rail 390 text bounds",
+      "ok": true
+    },
+    {
+      "name": "assembled 390 fit",
+      "ok": true
+    },
+    {
+      "name": "assembled 390 unique ids",
+      "ok": true
+    },
+    {
+      "name": "assembled 390 all images",
+      "ok": true
+    },
+    {
+      "name": "assembled 390 section order",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection0 pressed",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection0 title",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection0 copy",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection0 stable frame",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection0 keyboard focus",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection1 pressed",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection1 title",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection1 copy",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection1 stable frame",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection1 keyboard focus",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection2 pressed",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection2 title",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection2 copy",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection2 stable frame",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection2 keyboard focus",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection3 pressed",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection3 title",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection3 copy",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection3 stable frame",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 selection3 keyboard focus",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 all image sequences change",
+      "ok": true
+    },
+    {
+      "name": "rail 1440 each image rotates",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection0 pressed",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection0 title",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection0 copy",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection0 stable frame",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection0 keyboard focus",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection1 pressed",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection1 title",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection1 copy",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection1 stable frame",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection1 keyboard focus",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection2 pressed",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection2 title",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection2 copy",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection2 stable frame",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection2 keyboard focus",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection3 pressed",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection3 title",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection3 copy",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection3 stable frame",
+      "ok": true
+    },
+    {
+      "name": "rail 390 selection3 keyboard focus",
+      "ok": true
+    },
+    {
+      "name": "rail 390 all image sequences change",
+      "ok": true
+    },
+    {
+      "name": "rail 390 each image rotates",
+      "ok": true
+    },
+    {
+      "name": "image index four meaningful anchors",
+      "ok": true
+    },
+    {
+      "name": "hero nav targets",
+      "ok": true
+    },
+    {
+      "name": "four Study preview cards",
+      "ok": true
+    },
+    {
+      "name": "four Study previews loaded",
+      "ok": true
+    },
+    {
+      "name": "project-detail dropdown",
+      "ok": true
+    },
+    {
+      "name": "project-detail Study selected",
+      "ok": true
+    },
+    {
+      "name": "project-detail no false Compare",
+      "ok": true
+    },
+    {
+      "name": "project-detail mobile frame",
+      "ok": true
+    },
+    {
+      "name": "project-detail mobile Open",
+      "ok": true
+    },
+    {
+      "name": "image-index dropdown",
+      "ok": true
+    },
+    {
+      "name": "image-index Study selected",
+      "ok": true
+    },
+    {
+      "name": "image-index no false Compare",
+      "ok": true
+    },
+    {
+      "name": "image-index mobile frame",
+      "ok": true
+    },
+    {
+      "name": "image-index mobile Open",
+      "ok": true
+    },
+    {
+      "name": "split-material dropdown",
+      "ok": true
+    },
+    {
+      "name": "split-material Study selected",
+      "ok": true
+    },
+    {
+      "name": "split-material no false Compare",
+      "ok": true
+    },
+    {
+      "name": "split-material mobile frame",
+      "ok": true
+    },
+    {
+      "name": "split-material mobile Open",
+      "ok": true
+    },
+    {
+      "name": "image-rail dropdown",
+      "ok": true
+    },
+    {
+      "name": "image-rail Study selected",
+      "ok": true
+    },
+    {
+      "name": "image-rail no false Compare",
+      "ok": true
+    },
+    {
+      "name": "image-rail mobile frame",
+      "ok": true
+    },
+    {
+      "name": "image-rail mobile Open",
+      "ok": true
+    },
+    {
+      "name": "seven source references",
+      "ok": true
+    },
+    {
+      "name": "new source authors attribution",
+      "ok": true
+    },
+    {
+      "name": "generated asset disclosure",
+      "ok": true
+    },
+    {
+      "name": "browser errors",
+      "ok": true,
+      "data": []
+    },
+    {
+      "name": "long paragraph grows section without clipping",
+      "ok": true
+    },
+    {
+      "name": "faithful source unchanged raster",
+      "ok": true
+    },
+    {
+      "name": "runtime editorial-sections.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime editorial-sections.css",
+      "ok": true
+    },
+    {
+      "name": "runtime main.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime data.js",
+      "ok": true
+    },
+    {
+      "name": "runtime sections.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime sections.css",
+      "ok": true
+    },
+    {
+      "name": "runtime quote.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime tokens.css",
+      "ok": true
+    }
+  ],
+  "measurements": [
+    {
+      "width": 1440,
+      "id": "project-detail",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "Somewhere,\nslowly.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 24,
+          "right": 112.171875,
+          "top": 113,
+          "bottom": 133,
+          "ok": true
+        },
+        {
+          "x": 24,
+          "right": 242.65625,
+          "top": 594.59375,
+          "bottom": 674.59375,
+          "ok": true
+        }
+      ],
+      "height": 1010.59375
+    },
+    {
+      "width": 1440,
+      "id": "image-index",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "A few ways\nof looking.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 24,
+          "right": 166.5625,
+          "top": 96,
+          "bottom": 116,
+          "ok": true
+        },
+        {
+          "x": 24,
+          "right": 167.0625,
+          "top": 357.59375,
+          "bottom": 397.59375,
+          "ok": true
+        }
+      ],
+      "height": 570.65625
+    },
+    {
+      "width": 1440,
+      "id": "split-material",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "A material\nmemory.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 24,
+          "right": 477.328125,
+          "top": 96,
+          "bottom": 228,
+          "ok": true
+        },
+        {
+          "x": 728,
+          "right": 1064,
+          "top": 96,
+          "bottom": 228,
+          "ok": true
+        }
+      ],
+      "height": 892
+    },
+    {
+      "width": 1440,
+      "id": "image-rail",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "In good\ncompany.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 24,
+          "right": 131.046875,
+          "top": 113,
+          "bottom": 133,
+          "ok": true
+        },
+        {
+          "x": 962.65625,
+          "right": 1416,
+          "top": 373,
+          "bottom": 393,
+          "ok": true
+        },
+        {
+          "x": 962.65625,
+          "right": 1242.65625,
+          "top": 717,
+          "bottom": 789,
+          "ok": true
+        },
+        {
+          "x": 962.65625,
+          "right": 1416,
+          "top": 853,
+          "bottom": 873,
+          "ok": true
+        }
+      ],
+      "height": 969
+    },
+    {
+      "width": 768,
+      "id": "project-detail",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "Somewhere,\nslowly.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 20,
+          "right": 100.828125,
+          "top": 81,
+          "bottom": 101,
+          "ok": true
+        },
+        {
+          "x": 20,
+          "right": 348,
+          "top": 873.953125,
+          "bottom": 945.953125,
+          "ok": true
+        }
+      ],
+      "height": 1205.953125
+    },
+    {
+      "width": 768,
+      "id": "image-index",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "A few ways\nof looking.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 20,
+          "right": 748,
+          "top": 64,
+          "bottom": 84,
+          "ok": true
+        },
+        {
+          "x": 206,
+          "right": 748,
+          "top": 236,
+          "bottom": 276,
+          "ok": true
+        }
+      ],
+      "height": 1457.3125
+    },
+    {
+      "width": 768,
+      "id": "split-material",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "A material\nmemory.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 20,
+          "right": 748,
+          "top": 64,
+          "bottom": 84,
+          "ok": true
+        },
+        {
+          "x": 206,
+          "right": 748,
+          "top": 276,
+          "bottom": 324,
+          "ok": true
+        }
+      ],
+      "height": 1162.65625
+    },
+    {
+      "width": 768,
+      "id": "image-rail",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "In good\ncompany.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 20,
+          "right": 118.125,
+          "top": 81,
+          "bottom": 101,
+          "ok": true
+        },
+        {
+          "x": 323.1875,
+          "right": 748,
+          "top": 285,
+          "bottom": 305,
+          "ok": true
+        },
+        {
+          "x": 323.1875,
+          "right": 603.1875,
+          "top": 561,
+          "bottom": 627,
+          "ok": true
+        },
+        {
+          "x": 323.1875,
+          "right": 748,
+          "top": 769,
+          "bottom": 785,
+          "ok": true
+        }
+      ],
+      "height": 1470.953125
+    },
+    {
+      "width": 390,
+      "id": "project-detail",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "Somewhere,\nslowly.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 20,
+          "right": 100.828125,
+          "top": 81,
+          "bottom": 101,
+          "ok": true
+        },
+        {
+          "x": 20,
+          "right": 278.5,
+          "top": 617.796875,
+          "bottom": 713.796875,
+          "ok": true
+        }
+      ],
+      "height": 973.796875
+    },
+    {
+      "width": 390,
+      "id": "image-index",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "A few ways\nof looking.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 20,
+          "right": 370,
+          "top": 64,
+          "bottom": 84,
+          "ok": true
+        },
+        {
+          "x": 111.5,
+          "right": 370,
+          "top": 236,
+          "bottom": 276,
+          "ok": true
+        }
+      ],
+      "height": 953.3125
+    },
+    {
+      "width": 390,
+      "id": "split-material",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "A material\nmemory.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 20,
+          "right": 370,
+          "top": 64,
+          "bottom": 84,
+          "ok": true
+        },
+        {
+          "x": 111.5,
+          "right": 370,
+          "top": 276,
+          "bottom": 396,
+          "ok": true
+        }
+      ],
+      "height": 856.65625
+    },
+    {
+      "width": 390,
+      "id": "image-rail",
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        },
+        {
+          "ok": true,
+          "fit": "cover"
+        }
+      ],
+      "head": [
+        {
+          "text": "In good\ncompany.",
+          "ok": true
+        }
+      ],
+      "paragraphs": [
+        {
+          "x": 20,
+          "right": 118.125,
+          "top": 81,
+          "bottom": 101,
+          "ok": true
+        },
+        {
+          "x": 172,
+          "right": 370,
+          "top": 285,
+          "bottom": 305,
+          "ok": true
+        },
+        {
+          "x": 172,
+          "right": 370,
+          "top": 561,
+          "bottom": 627,
+          "ok": true
+        },
+        {
+          "x": 172,
+          "right": 370,
+          "top": 769,
+          "bottom": 785,
+          "ok": true
+        }
+      ],
+      "height": 904
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "pilot/src/editorial-sections.jsx": "0b21fd88738fadef69dee049c3658b16deca9272bd217bd41ec382fb60cafdc6",
+    "pilot/src/editorial-sections.css": "87139a33072f4e4c2d605edbaac9b3c9300e8131d731e9dd1e38afb4c3d94a68",
+    "pilot/src/main.jsx": "182401b70058205b8d0f68768a2a8fd4402b61d0e0bcb0b2bbf2f83cff0a471c",
+    "pilot/src/data.js": "f1c2c68a433144cd03684cb4defe58b81085172d260a69e178b34e4051bb6b85",
+    "pilot/src/sections.jsx": "96d6f9960f1282682b689976d57875a8cde4b1f8362ca2bf3ee679a8d6c2f617",
+    "pilot/src/sections.css": "1bc191fc6b288add616ed5688c9345d226e399ffc340b3866e4a0a5251b5eab2",
+    "pilot/src/quote.jsx": "3a4716585a95564ad258e3d6cd5328897697bfa89ae79b09508e659b525b6bff",
+    "pilot/src/tokens.css": "bf7494a52ba6c300483a860e5ba58571e571d3190df9594d5817473918183534",
+    "pilot/evidence/editorial-sections/assembled-1440.png": "d49adbe91fbc2489547fc0d459a6a5eddd5c724b1b88d4763fb7d1d67437b826",
+    "pilot/evidence/editorial-sections/assembled-390.png": "2c01206f950a3681b12e5190996d25ebc17d93e07d3cf538b8a8de482782d368",
+    "pilot/evidence/editorial-sections/example-browser.png": "565725fc4e7dbb81fcf101022f4a19f116bde2db3f1ce49d125239dcb4202322",
+    "pilot/evidence/editorial-sections/image-index-1440.png": "852a96dd13ecd4940a0dd0a37dad453fcd77bfae54907272f5197dc849cf1049",
+    "pilot/evidence/editorial-sections/image-index-390.png": "39e4428e29935c75d04312aadfc0e90f414aea9a4fc707b7531797c429569fbb",
+    "pilot/evidence/editorial-sections/image-rail-1440.png": "296e6a09e638b2758bc91847c4c038bd140e86dc02f996fd9c75c660be99df47",
+    "pilot/evidence/editorial-sections/image-rail-390.png": "07bfbd2c35604983d5d7bacf12202fa353d32fddfe0925d5ba44ba252bad4bff",
+    "pilot/evidence/editorial-sections/project-detail-1440.png": "67aecef47adb38ec73dcf32c2834f69b4afedee9a17da92568deb2503ec2a36f",
+    "pilot/evidence/editorial-sections/project-detail-390.png": "3bba856cb2e52fc9c62af1551abd4979241ee20b6d621ba128a1d097fb33d2ef",
+    "pilot/evidence/editorial-sections/split-material-1440.png": "e83f9c8c1ddc8d0fa0a5a32c05b12c934b2b2dab09ad39606399e59e277ce4e6",
+    "pilot/evidence/editorial-sections/split-material-390.png": "e7672c96b5fe3c116b03c81598b667dde040e37b7c0a63d2a3db91aa2e9fb85b",
+    "pilot/evidence/editorial-sections/study-1440.png": "91a47caff7fb885cc16961f6a6392bda62b5b78cd6d3198895731d0eb953226a",
+    "pilot/evidence/editorial-sections/study-390.png": "9ec004ac8f53dc50d9e25970b7adf690eb90b1e38a07b4acc50dca3de1459178",
+    "pilot/evidence/editorial-sections/system-1440.png": "765dda8d739f3ed6ac7398b27d44f46a35f4c14b4e72a1775545853744cbb600",
+    "pilot/public/assets/editorial/landscape.webp": "455372f710e9f501a17383bccca0e16883046a909fc3388c809d747cc3dc73e8",
+    "pilot/public/assets/editorial/linen.webp": "401cf960929887324213d1816130d2a98e5eebe9c8a4eb86f7dab6a6a0821c1a",
+    "pilot/public/assets/editorial/portrait.webp": "c3f8756b5ad561dacf49af2b4b7ae5b36575e3bb83bc7a835e9bf3fc1c1a3f97",
+    "pilot/public/references/editorial/horizontal-hinge.webp": "458dfd24c0d05f5240f02ac13003d2da283b0e33221d1a3c7481e75fb004d093",
+    "pilot/public/references/editorial/image-index.webp": "42b4a5a03ea88aec9b480f884b539cd9b28b43bbd8aa520a59aa51e67d640ca3",
+    "pilot/public/references/editorial/image-rail.webp": "9f5cb6d5bbdf8ce264b4a49628fc2ed17051cfc7509066bbc93432fe8e2b4e8d",
+    "pilot/public/references/editorial/project-pair.webp": "384bdd6a13dbcb6ded4c0029fefc1e9b6e6fb6f2634ab5cdd3d733b5e976a210",
+    "pilot/public/previews/editorial/image-index.png": "62199aab1454984233b151694d4d5138ac53ed0a31e485f817ffeee6178167c6",
+    "pilot/public/previews/editorial/image-rail.png": "108a3e967e1076f0794f53dc6a7d6ac4aa3fb156c3bab50393250eaed95aac4e",
+    "pilot/public/previews/editorial/project-detail.png": "67aecef47adb38ec73dcf32c2834f69b4afedee9a17da92568deb2503ec2a36f",
+    "pilot/public/previews/editorial/split-material.png": "1ecebbe550883868cffac52d1a268875cc44575a53babfe0a1376ca6199982c0"
+  }
+}

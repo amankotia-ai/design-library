@@ -1,0 +1,75 @@
+{
+  "reviewer": "/root/steel_qa",
+  "scope": "Final additive main/data synchronization; affected Steel routes only",
+  "time": "2026-10-30T22:26:34.887Z",
+  "hashesBefore": {
+    "src/main.jsx": "8b9f678130206ec5671b2ff2c0ac7a66cdda4415d32367a80289ab5a2bf9e22c",
+    "src/data.js": "34ccde1bffb830bbfb3b5abb4132f175b272d0d7bc8c50b5936ab4dc46f9bc7d"
+  },
+  "routes": [
+    {
+      "name": "system",
+      "url": "/?panel=system&section=steel-page",
+      "state": {
+        "text": "5 visual languages. 5 collections. 49 sections available.\n×\nDesign Library\nDesign Systems\nSections\nPages\nCollection / 05\nQuiet Serif\nBlueprint\nSignal Serif\nInterfere\nSteel\n← All systems\n\nDeveloper inf"
+      },
+      "errors": []
+    },
+    {
+      "name": "sources",
+      "url": "/?panel=sources&section=steel-page",
+      "state": {
+        "text": "5 visual languages. 5 collections. 49 sections available.\n×\nDesign Library\nDesign Systems\nSections\nPages\nCollection / 05\nQuiet Serif\nBlueprint\nSignal Serif\nInterfere\nSteel\n← Steel\n\nProvenance / 01 ref"
+      },
+      "errors": []
+    },
+    {
+      "name": "hero",
+      "url": "/?panel=sections&section=steel-hero",
+      "state": {
+        "text": "5 visual languages. 5 collections. 49 sections available.\n×\nDesign Library\nDesign Systems\nSections\nPages\nCollection / 05\nQuiet Serif\nBlueprint\nSignal Serif\nInterfere\nSteel\n← All sections\n\nSteel\n\nHero\n",
+        "compareDisabled": false,
+        "comparisonImages": [
+          {
+            "src": "/references/steel/hero.png",
+            "valid": true
+          },
+          {
+            "src": "/evidence/steel/hero.png",
+            "valid": true
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "name": "page-notes",
+      "url": "/?panel=pages&section=steel-page",
+      "state": {
+        "text": "5 visual languages. 5 collections. 49 sections available.\n×\nDesign Library\nDesign Systems\nSections\nPages\nCollection / 05\nQuiet Serif\nBlueprint\nSignal Serif\nInterfere\nSteel\n← All pages\n\nSteel\n\nBrowser ",
+        "notes": "Design notes & references",
+        "correctSteelNotes": false
+      },
+      "errors": []
+    }
+  ],
+  "hashesAfter": {
+    "src/main.jsx": "8b9f678130206ec5671b2ff2c0ac7a66cdda4415d32367a80289ab5a2bf9e22c",
+    "src/data.js": "34ccde1bffb830bbfb3b5abb4132f175b272d0d7bc8c50b5936ab4dc46f9bc7d"
+  },
+  "stable": true,
+  "status": "passed",
+  "notesCorrection": {
+    "time": "2026-10-30T22:27:19.693Z",
+    "notes": "Design notes & references\nSteel references\n\nSteel’s public landing page ↗ was captured with REA at 1440 × 1000 and inspected at 390 × 844. Source fonts, SVG artwork, responsive utility styles, and the public hero program are retained for this local study.\n\nFAQ disclosures, navigation toggles, and clipboard controls run locally. Animated product scenes are retained as settled illustrations; the use-case field is a responsive adaptation. Accounts, browsers, billing and backend services remain on Steel.",
+    "visible": true,
+    "errors": []
+  },
+  "finalHashes": {
+    "src/main.jsx": "8b9f678130206ec5671b2ff2c0ac7a66cdda4415d32367a80289ab5a2bf9e22c",
+    "src/data.js": "34ccde1bffb830bbfb3b5abb4132f175b272d0d7bc8c50b5936ab4dc46f9bc7d",
+    "src/catalog.css": "2c5d04acc5daa2913bd3fe3c9d6611b3dc34e6bc05e1337e78147ac18950bd2d",
+    "src/style.css": "be50f8cae38ad6de771d6f884e7af51969e1c5ab59d3e80f03a5770f21a1ec58",
+    "src/steel.jsx": "6bcff921e0629672bf897075d53c993c08c4e3b36c07ccbc0cfbca32a5752931"
+  }
+}

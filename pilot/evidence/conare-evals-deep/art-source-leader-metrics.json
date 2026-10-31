@@ -1,0 +1,410 @@
+{
+  "conare-embed-1": [
+    {
+      "tag": "SPAN",
+      "cls": "block text-[11px] leading-4 whitespace-nowrap text-neutral-500",
+      "x": 377,
+      "y": 637.890625,
+      "w": 82.203125,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "11px",
+      "line": "16px",
+      "parent": {
+        "tag": "SPAN",
+        "cls": "shrink-0",
+        "x": 377,
+        "y": 637.890625,
+        "w": 82.203125,
+        "h": 56,
+        "html": "<span class=\"shrink-0\"><span class=\"block text-[11px] leading-4 whitespace-nowrap text-neutral-500\">conare-embed-1</span><span class=\"mt-1 block text-[36px] leading-none tracking-[-0.02em] tabular-nums\">67.0</span></span>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "text-off-white min-w-0 flex-1 truncate text-[13px] leading-4 sm:w-56 sm:flex-none",
+      "x": 418,
+      "y": 722.390625,
+      "w": 224,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "viz-in flex h-10 items-center gap-2 border-b border-neutral-300 px-3 last:border-b-0 sm:gap-3",
+        "x": 378,
+        "y": 710.890625,
+        "w": 524,
+        "h": 40,
+        "html": "<li class=\"viz-in flex h-10 items-center gap-2 border-b border-neutral-300 px-3 last:border-b-0 sm:gap-3\" style=\"--d:700;\"><span class=\"w-4 shrink-0 text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">1</span><span class=\"text-off-white min-w-0 flex-1 truncate text-[13px] leading-4 sm:w-56 sm:flex-none\">conare-embed-1</span><span class=\"h-1 w-12 shrink-0 bg-neutral-300 sm:w-auto sm:min-w-0 sm:flex-1\"><span class=\"bg-home-red viz-bar block h-full origin-left\" style=\"--w:0.83775;--d:900;\"></span></span><span class=\"text-off-white w-12 shrink-0 text-right text-[12px] leading-4 tabular-nums\">67.0</span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "truncate text-off-black",
+      "x": 89,
+      "y": 1565.578125,
+      "w": 292.640625,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4",
+        "x": 65,
+        "y": 1565.578125,
+        "w": 350.65625,
+        "h": 26,
+        "html": "<li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tabular-nums\">1</span><span class=\"truncate text-off-black\">conare-embed-1</span><span class=\"tabular-nums text-off-black\">67.0</span><span class=\"col-start-2 col-end-4 h-1 bg-neutral-700\"><span class=\"block h-full bg-home-red\" style=\"width:83.775%;\"></span></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "truncate text-off-black",
+      "x": 488.65625,
+      "y": 1565.578125,
+      "w": 292.65625,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4",
+        "x": 464.65625,
+        "y": 1565.578125,
+        "w": 350.671875,
+        "h": 26,
+        "html": "<li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tabular-nums\">1</span><span class=\"truncate text-off-black\">conare-embed-1</span><span class=\"tabular-nums text-off-black\">65.4</span><span class=\"col-start-2 col-end-4 h-1 bg-neutral-700\"><span class=\"block h-full bg-home-red\" style=\"width:81.725%;\"></span></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "truncate text-off-black",
+      "x": 89,
+      "y": 1968.578125,
+      "w": 292.640625,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4",
+        "x": 65,
+        "y": 1968.578125,
+        "w": 350.65625,
+        "h": 26,
+        "html": "<li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tabular-nums\">1</span><span class=\"truncate text-off-black\">conare-embed-1</span><span class=\"tabular-nums text-off-black\">75.0</span><span class=\"col-start-2 col-end-4 h-1 bg-neutral-700\"><span class=\"block h-full bg-home-red\" style=\"width:93.72500000000001%;\"></span></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "text-off-white min-w-0 flex-1 truncate",
+      "x": 617.890625,
+      "y": 2866.125,
+      "w": 414,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "viz-in flex h-9 items-center gap-3 border-b border-neutral-300 px-3 text-[13px] leading-4 transition-colors duration-200 ease-(--ease-conare) last:border-b-0",
+        "x": 587.890625,
+        "y": 2856.625,
+        "w": 584,
+        "h": 36,
+        "html": "<li class=\"viz-in flex h-9 items-center gap-3 border-b border-neutral-300 px-3 text-[13px] leading-4 transition-colors duration-200 ease-(--ease-conare) last:border-b-0\" style=\"--d:1500;\"><span class=\"bg-home-red viz-dot\"></span><span class=\"text-off-white min-w-0 flex-1 truncate\">conare-embed-1</span><span class=\"w-12 shrink-0 text-right text-neutral-500 tabular-nums max-[419px]:hidden\">67.02</span><span class=\"text-off-white w-14 shrink-0 text-right tabular-nums\">$0.10</span></li>"
+      }
+    }
+  ],
+  "67.0": [
+    {
+      "tag": "P",
+      "cls": "step-strong mt-2 text-[36px] leading-none tracking-[-0.02em] tabular-nums",
+      "x": 65,
+      "y": 419.890625,
+      "w": 250.75,
+      "h": 36,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "36px",
+      "line": "36px",
+      "parent": {
+        "tag": "ARTICLE",
+        "cls": "step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "x": 41,
+        "y": 287.890625,
+        "w": 298.75,
+        "h": 220,
+        "html": "<article data-active=\"true\" style=\"--o:2;\" class=\"step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6\"><span class=\"flex items-center gap-1 font-geist text-[12px] leading-4 tabular-nums\"><span aria-hidden=\"true\" class=\"step-mark size-2.5 shrink-0\"></span><span aria-hidden=\"true\" class=\"min-w-0 flex-1\"><span class=\"flex justify-between\"><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 0;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 1;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 2;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 3;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 4;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 5;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 6;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 7;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 8;\"></span><span class=\"step-tick size-2.5 shrink-0\" "
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "mt-1 block text-[36px] leading-none tracking-[-0.02em] tabular-nums",
+      "x": 377,
+      "y": 657.890625,
+      "w": 82.203125,
+      "h": 36,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "36px",
+      "line": "36px",
+      "parent": {
+        "tag": "SPAN",
+        "cls": "shrink-0",
+        "x": 377,
+        "y": 637.890625,
+        "w": 82.203125,
+        "h": 56,
+        "html": "<span class=\"shrink-0\"><span class=\"block text-[11px] leading-4 whitespace-nowrap text-neutral-500\">conare-embed-1</span><span class=\"mt-1 block text-[36px] leading-none tracking-[-0.02em] tabular-nums\">67.0</span></span>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "text-off-white w-12 shrink-0 text-right text-[12px] leading-4 tabular-nums",
+      "x": 842,
+      "y": 722.390625,
+      "w": 48,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "12px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "viz-in flex h-10 items-center gap-2 border-b border-neutral-300 px-3 last:border-b-0 sm:gap-3",
+        "x": 378,
+        "y": 710.890625,
+        "w": 524,
+        "h": 40,
+        "html": "<li class=\"viz-in flex h-10 items-center gap-2 border-b border-neutral-300 px-3 last:border-b-0 sm:gap-3\" style=\"--d:700;\"><span class=\"w-4 shrink-0 text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">1</span><span class=\"text-off-white min-w-0 flex-1 truncate text-[13px] leading-4 sm:w-56 sm:flex-none\">conare-embed-1</span><span class=\"h-1 w-12 shrink-0 bg-neutral-300 sm:w-auto sm:min-w-0 sm:flex-1\"><span class=\"bg-home-red viz-bar block h-full origin-left\" style=\"--w:0.83775;--d:900;\"></span></span><span class=\"text-off-white w-12 shrink-0 text-right text-[12px] leading-4 tabular-nums\">67.0</span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "text-neutral-500 w-12 shrink-0 text-right text-[12px] leading-4 tabular-nums",
+      "x": 842,
+      "y": 850.390625,
+      "w": 48,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "12px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "viz-in flex h-10 items-center gap-2 border-b border-neutral-300 px-3 last:border-b-0 sm:gap-3",
+        "x": 378,
+        "y": 838.890625,
+        "w": 524,
+        "h": 40,
+        "html": "<li class=\"viz-in flex h-10 items-center gap-2 border-b border-neutral-300 px-3 last:border-b-0 sm:gap-3\" style=\"--d:1030;\"><span class=\"w-4 shrink-0 text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">4</span><span class=\"text-neutral-600 min-w-0 flex-1 truncate text-[13px] leading-4 sm:w-56 sm:flex-none\">zerank-2</span><span class=\"h-1 w-12 shrink-0 bg-neutral-300 sm:w-auto sm:min-w-0 sm:flex-1\"><span class=\"bg-neutral-500 viz-bar block h-full origin-left\" style=\"--w:0.837;--d:1230;\"></span></span><span class=\"text-neutral-500 w-12 shrink-0 text-right text-[12px] leading-4 tabular-nums\">67.0</span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "mt-3 text-[32px] leading-none tracking-[-0.02em] text-off-black tabular-nums",
+      "x": 65,
+      "y": 1481.578125,
+      "w": 350.65625,
+      "h": 32,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "32px",
+      "line": "32px",
+      "parent": {
+        "tag": "A",
+        "cls": "eval-card flex w-full flex-col bg-off-white px-5 py-6 sm:px-6",
+        "x": 41,
+        "y": 1417.578125,
+        "w": 398.65625,
+        "h": 402,
+        "html": "<a href=\"/evals/vidore-embedding\" class=\"eval-card flex w-full flex-col bg-off-white px-5 py-6 sm:px-6\"><span class=\"font-glyphic text-[20px] leading-7 text-off-black\">ViDoRe v3, embedding</span><span class=\"mt-3 text-[32px] leading-none tracking-[-0.02em] text-off-black tabular-nums\">67.0</span><span class=\"mt-2 text-[13px] leading-5 text-neutral-400\">nDCG@10<!----> · #1 of 9</span><ol class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tabular-nums\">1</span><span class=\"truncate text-off-black\">conare-embed-1</span><span class=\"tabular-nums text-off-black\">67.0</span><span class=\"col-start-2 col-end-4 h-1 bg-neutral-700\"><span class=\"block h-full bg-home-red\" style=\"width:83.775%;\"></span></span></li><li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tab"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "tabular-nums text-off-black",
+      "x": 389.640625,
+      "y": 1565.578125,
+      "w": 26.015625,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4",
+        "x": 65,
+        "y": 1565.578125,
+        "w": 350.65625,
+        "h": 26,
+        "html": "<li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tabular-nums\">1</span><span class=\"truncate text-off-black\">conare-embed-1</span><span class=\"tabular-nums text-off-black\">67.0</span><span class=\"col-start-2 col-end-4 h-1 bg-neutral-700\"><span class=\"block h-full bg-home-red\" style=\"width:83.775%;\"></span></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "tabular-nums text-neutral-400",
+      "x": 1188.96875,
+      "y": 1679.578125,
+      "w": 26.015625,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4",
+        "x": 864.328125,
+        "y": 1679.578125,
+        "w": 350.65625,
+        "h": 26,
+        "html": "<li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tabular-nums\">4</span><span class=\"truncate text-neutral-400\">zerank-2</span><span class=\"tabular-nums text-neutral-400\">67.0</span><span class=\"col-start-2 col-end-4 h-1 bg-neutral-700\"><span class=\"block h-full bg-neutral-500\" style=\"width:83.7%;\"></span></span></li>"
+      }
+    }
+  ],
+  "Perplexity pplx-embed-v2-late-9b, page images": [
+    {
+      "tag": "SPAN",
+      "cls": "text-neutral-600 min-w-0 flex-1 truncate text-[13px] leading-4 sm:w-56 sm:flex-none",
+      "x": 418,
+      "y": 762.390625,
+      "w": 224,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "viz-in flex h-10 items-center gap-2 border-b border-neutral-300 px-3 last:border-b-0 sm:gap-3",
+        "x": 378,
+        "y": 750.890625,
+        "w": 524,
+        "h": 40,
+        "html": "<li class=\"viz-in flex h-10 items-center gap-2 border-b border-neutral-300 px-3 last:border-b-0 sm:gap-3\" style=\"--d:810;\" title=\"Our run of the open weights\"><span class=\"w-4 shrink-0 text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">2</span><span class=\"text-neutral-600 min-w-0 flex-1 truncate text-[13px] leading-4 sm:w-56 sm:flex-none\">Perplexity pplx-embed-v2-late-9b, page images</span><span class=\"h-1 w-12 shrink-0 bg-neutral-300 sm:w-auto sm:min-w-0 sm:flex-1\"><span class=\"bg-neutral-500 viz-bar block h-full origin-left\" style=\"--w:0.8310000000000001;--d:1010;\"></span></span><span class=\"text-neutral-500 w-12 shrink-0 text-right text-[12px] leading-4 tabular-nums\">66.5</span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "truncate text-neutral-400",
+      "x": 89,
+      "y": 1603.578125,
+      "w": 292.640625,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4",
+        "x": 65,
+        "y": 1603.578125,
+        "w": 350.65625,
+        "h": 26,
+        "html": "<li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tabular-nums\">2</span><span class=\"truncate text-neutral-400\">Perplexity pplx-embed-v2-late-9b, page images</span><span class=\"tabular-nums text-neutral-400\">66.5</span><span class=\"col-start-2 col-end-4 h-1 bg-neutral-700\"><span class=\"block h-full bg-neutral-500\" style=\"width:83.10000000000001%;\"></span></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "truncate text-neutral-400",
+      "x": 488.65625,
+      "y": 1603.578125,
+      "w": 292.65625,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "LI",
+        "cls": "grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4",
+        "x": 464.65625,
+        "y": 1603.578125,
+        "w": 350.671875,
+        "h": 26,
+        "html": "<li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tabular-nums\">2</span><span class=\"truncate text-neutral-400\">Perplexity pplx-embed-v2-late-9b, page images</span><span class=\"tabular-nums text-neutral-400\">65.2</span><span class=\"col-start-2 col-end-4 h-1 bg-neutral-700\"><span class=\"block h-full bg-neutral-500\" style=\"width:81.47500000000001%;\"></span></span></li>"
+      }
+    }
+  ],
+  "ViDoRe v3, embedding": [
+    {
+      "tag": "H3",
+      "cls": "mt-6 font-glyphic text-[20px] leading-7 sm:mt-auto sm:pt-8",
+      "x": 65,
+      "y": 351.890625,
+      "w": 250.75,
+      "h": 60,
+      "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+      "size": "20px",
+      "line": "28px",
+      "parent": {
+        "tag": "ARTICLE",
+        "cls": "step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "x": 41,
+        "y": 287.890625,
+        "w": 298.75,
+        "h": 220,
+        "html": "<article data-active=\"true\" style=\"--o:2;\" class=\"step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6\"><span class=\"flex items-center gap-1 font-geist text-[12px] leading-4 tabular-nums\"><span aria-hidden=\"true\" class=\"step-mark size-2.5 shrink-0\"></span><span aria-hidden=\"true\" class=\"min-w-0 flex-1\"><span class=\"flex justify-between\"><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 0;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 1;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 2;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 3;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 4;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 5;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 6;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 7;\"></span><span class=\"step-tick size-2.5 shrink-0\" style=\"--k: 8;\"></span><span class=\"step-tick size-2.5 shrink-0\" "
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "truncate text-[13px] leading-4",
+      "x": 398.328125,
+      "y": 567.890625,
+      "w": 134.453125,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "SPAN",
+        "cls": "step-swap flex min-w-0 items-center gap-2 [grid-area:1/1]",
+        "x": 398.328125,
+        "y": 565.890625,
+        "w": 256.140625,
+        "h": 20,
+        "html": "<span class=\"step-swap flex min-w-0 items-center gap-2 [grid-area:1/1]\" data-active=\"true\"><span class=\"truncate text-[13px] leading-4\">ViDoRe v3, embedding</span><span class=\"hidden shrink-0 bg-neutral-200 px-1.5 py-0.5 text-[11px] leading-4 text-neutral-500 sm:inline\">nDCG@10</span></span>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "font-glyphic text-[20px] leading-7 text-off-black",
+      "x": 65,
+      "y": 1441.578125,
+      "w": 350.65625,
+      "h": 28,
+      "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+      "size": "20px",
+      "line": "28px",
+      "parent": {
+        "tag": "A",
+        "cls": "eval-card flex w-full flex-col bg-off-white px-5 py-6 sm:px-6",
+        "x": 41,
+        "y": 1417.578125,
+        "w": 398.65625,
+        "h": 402,
+        "html": "<a href=\"/evals/vidore-embedding\" class=\"eval-card flex w-full flex-col bg-off-white px-5 py-6 sm:px-6\"><span class=\"font-glyphic text-[20px] leading-7 text-off-black\">ViDoRe v3, embedding</span><span class=\"mt-3 text-[32px] leading-none tracking-[-0.02em] text-off-black tabular-nums\">67.0</span><span class=\"mt-2 text-[13px] leading-5 text-neutral-400\">nDCG@10<!----> · #1 of 9</span><ol class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tabular-nums\">1</span><span class=\"truncate text-off-black\">conare-embed-1</span><span class=\"tabular-nums text-off-black\">67.0</span><span class=\"col-start-2 col-end-4 h-1 bg-neutral-700\"><span class=\"block h-full bg-home-red\" style=\"width:83.775%;\"></span></span></li><li class=\"grid grid-cols-[16px_minmax(0,1fr)_auto] items-center gap-x-2 gap-y-1.5 text-[13px] leading-4\"><span class=\"text-[11px] text-neutral-500 tab"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "truncate text-[13px] leading-4",
+      "x": 608.21875,
+      "y": 2459.578125,
+      "w": 134.453125,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "line": "16px",
+      "parent": {
+        "tag": "DIV",
+        "cls": "flex h-11 items-center gap-2 px-4",
+        "x": 570.890625,
+        "y": 2445.578125,
+        "w": 618,
+        "h": 44,
+        "html": "<div class=\"flex h-11 items-center gap-2 px-4\"><img src=\"/brand/mark-white.svg\" alt=\"\" width=\"14\" height=\"12\" class=\"h-3 w-auto\"><span class=\"truncate text-[13px] leading-4\">ViDoRe v3, embedding</span><span class=\"hidden shrink-0 bg-neutral-200 px-1.5 py-0.5 text-[11px] leading-4 text-neutral-500 sm:inline\">Price and accuracy</span><span class=\"ml-auto flex items-center gap-3 text-neutral-500\"><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.2\"><path d=\"M1 7h8\"></path></svg><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.2\"><path d=\"M6 1h3v3M4 9H1V6M9 1 6 4M1 9l3-3\"></path></svg><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.2\"><path d=\"m1.5 1.5 7 7m0-7-7 7\"></path></svg></span></div>"
+      }
+    }
+  ]
+}

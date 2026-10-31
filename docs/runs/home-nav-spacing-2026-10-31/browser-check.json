@@ -1,0 +1,21 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "paddingTop": "32px",
+      "minHeight": "0px",
+      "marginBottom": "96px",
+      "brandTop": 32,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "paddingTop": "24px",
+      "minHeight": "0px",
+      "marginBottom": "64px",
+      "brandTop": 24,
+      "overflow": false
+    }
+  ],
+  "cssSHA256": "755b8a7e990eaeb1c9a9a1d6aa8716201ff3f5f788b10b6c3c9fe1b73634eeb0"
+}

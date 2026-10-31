@@ -1,0 +1,3 @@
+# Interfere preview scrolling fix
+Start2026-10-31 04:26:38IST /2026-10-30 22:56:38UTC. Deadline04:46:38IST /23:16:38UTC. Scope: restore native scrolling within the live system-detail preview shown in supplied screenshot. Preserve existing page design, preview scaling, responsive shell and source sections. Completion: demonstrate native pointer scroll changing preview scroll position while outer system detail remains in place; keyboard access; standalone page/section behavior regression check; independent QA. This is a correctness fix, not visual/system production.
+Freebyrd index/thread/references returned no matching folder context. README/team workflow already read in this chat; preserve concurrent work and use atomic saves for cloud-backed files.

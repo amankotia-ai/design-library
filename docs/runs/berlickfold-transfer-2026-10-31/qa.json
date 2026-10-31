@@ -1,0 +1,3295 @@
+{
+  "reviewer": "/root/independent_qa",
+  "time": "2026-10-30T19:40:55.596Z",
+  "passed": true,
+  "checks": [
+    {
+      "name": "engine 280 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 280 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 288 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 288 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 296 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 296 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 304 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 304 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 312 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 312 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 320 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 320 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 328 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 328 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 336 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 336 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 344 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 344 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 352 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 352 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 360 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 360 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 368 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 368 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 376 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 376 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 384 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 384 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 392 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 392 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 400 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 400 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 408 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 408 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 416 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 416 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 424 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 424 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 432 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 432 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 440 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 440 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 448 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 448 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 456 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 456 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 464 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 464 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 472 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 472 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 480 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 480 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 488 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 488 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 496 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 496 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 504 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 504 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 512 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 512 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 520 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 520 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 528 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 528 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 536 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 536 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 544 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 544 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 552 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 552 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 560 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 560 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 568 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 568 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 576 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 576 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 584 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 584 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 592 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 592 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 600 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 600 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 608 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 608 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 616 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 616 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 624 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 624 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 632 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 632 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 640 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 640 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 648 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 648 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 656 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 656 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 664 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 664 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 672 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 672 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 680 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 680 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 688 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 688 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 696 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 696 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 704 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 704 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 712 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 712 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 720 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 720 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 728 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 728 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 736 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 736 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 744 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 744 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 752 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 752 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 760 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 760 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 768 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 768 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 776 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 776 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 784 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 784 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 792 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 792 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 800 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 800 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 808 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 808 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 816 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 816 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 824 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 824 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 832 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 832 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 840 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 840 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 848 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 848 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 856 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 856 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 864 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 864 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 872 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 872 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 880 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 880 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 888 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 888 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 896 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 896 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 904 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 904 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 912 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 912 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 920 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 920 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 928 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 928 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 936 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 936 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 944 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 944 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 952 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 952 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 960 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 960 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 968 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 968 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 976 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 976 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 984 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 984 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 992 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 992 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1000 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1000 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1008 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1008 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1016 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1016 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1024 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1024 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1032 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1032 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1040 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1040 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1048 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1048 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1056 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1056 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1064 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1064 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1072 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1072 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1080 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1080 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1088 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1088 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1096 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1096 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1104 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1104 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1112 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1112 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1120 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1120 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1128 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1128 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1136 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1136 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1144 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1144 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1152 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1152 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1160 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1160 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1168 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1168 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1176 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1176 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1184 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1184 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1192 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1192 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1200 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1200 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1208 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1208 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1216 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1216 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1224 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1224 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1232 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1232 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1240 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1240 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1248 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1248 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1256 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1256 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1264 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1264 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1272 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1272 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1280 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1280 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1288 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1288 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1296 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1296 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1304 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1304 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1312 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1312 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1320 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1320 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1328 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1328 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1336 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1336 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1344 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1344 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1352 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1352 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1360 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1360 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1368 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1368 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1376 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1376 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1384 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1384 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1392 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1392 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1400 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1400 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1408 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1408 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1416 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1416 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1424 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1424 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1432 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1432 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1440 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1440 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1448 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1448 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1456 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1456 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1464 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1464 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1472 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1472 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1480 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1480 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1488 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1488 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1496 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1496 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1504 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1504 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1512 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1512 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1520 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1520 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1528 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1528 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1536 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1536 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1544 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1544 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1552 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1552 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1560 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1560 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1568 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1568 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1576 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1576 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1584 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1584 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1592 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1592 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1600 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1600 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1608 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1608 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1616 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1616 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1624 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1624 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1632 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1632 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1640 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1640 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1648 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1648 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1656 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1656 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1664 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1664 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1672 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1672 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1680 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1680 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1688 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1688 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1696 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1696 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1704 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1704 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1712 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1712 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1720 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1720 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1728 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1728 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1736 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1736 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1744 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1744 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1752 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1752 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1760 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1760 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1768 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1768 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1776 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1776 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1784 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1784 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1792 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1792 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1800 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1800 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1808 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1808 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1816 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1816 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1824 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1824 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1832 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1832 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1840 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1840 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1848 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1848 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1856 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1856 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1864 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1864 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1872 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1872 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1880 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1880 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1888 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1888 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1896 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1896 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1904 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1904 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1912 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1912 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1920 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1920 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1928 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1928 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1936 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1936 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1944 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1944 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1952 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1952 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1960 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1960 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1968 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1968 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1976 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1976 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1984 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1984 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 1992 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 1992 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2000 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2000 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2008 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2008 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2016 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2016 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2024 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2024 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2032 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2032 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2040 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2040 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2048 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2048 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2056 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2056 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2064 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2064 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2072 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2072 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2080 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2080 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2088 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2088 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2096 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2096 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2104 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2104 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2112 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2112 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2120 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2120 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2128 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2128 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2136 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2136 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2144 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2144 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2152 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2152 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2160 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2160 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2168 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2168 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2176 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2176 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2184 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2184 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2192 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2192 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2200 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2200 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2208 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2208 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2216 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2216 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2224 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2224 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2232 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2232 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2240 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2240 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2248 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2248 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2256 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2256 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2264 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2264 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2272 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2272 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2280 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2280 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2288 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2288 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2296 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2296 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2304 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2304 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2312 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2312 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2320 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2320 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2328 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2328 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2336 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2336 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2344 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2344 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2352 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2352 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2360 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2360 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2368 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2368 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2376 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2376 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2384 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2384 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2392 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2392 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "engine 2400 spatial bounds",
+      "ok": true
+    },
+    {
+      "name": "engine 2400 shared track positions",
+      "ok": true
+    },
+    {
+      "name": "1440 declared coordinates",
+      "ok": true,
+      "data": {
+        "unit": 4,
+        "pitch": 16,
+        "width": 1440,
+        "height": 800,
+        "mobile": false,
+        "columns": 6,
+        "column": 100,
+        "gutter": 16,
+        "margin": 24,
+        "panel": 728,
+        "blocks": {
+          "header": {
+            "x": 24,
+            "y": 16,
+            "width": 680
+          },
+          "title": {
+            "x": 24,
+            "y": 256,
+            "width": 564,
+            "fontSize": 62.5,
+            "lineHeight": 60
+          },
+          "portrait": {
+            "x": 24,
+            "y": 512,
+            "width": 216,
+            "height": 272
+          },
+          "copy": {
+            "x": 256,
+            "y": 512,
+            "width": 216,
+            "fontSize": 13,
+            "lineHeight": 20
+          },
+          "year": {
+            "x": 256,
+            "y": 768
+          },
+          "next": {
+            "x": 488,
+            "y": 768,
+            "width": 216
+          },
+          "image": {
+            "x": 728,
+            "y": 0,
+            "width": 712,
+            "height": 800
+          }
+        }
+      }
+    },
+    {
+      "name": "390 no overflow",
+      "ok": true
+    },
+    {
+      "name": "390 blocks inside",
+      "ok": true
+    },
+    {
+      "name": "390 no clipped title",
+      "ok": true
+    },
+    {
+      "name": "390 copy clears footer",
+      "ok": true
+    },
+    {
+      "name": "390 blocks do not overlap",
+      "ok": true
+    },
+    {
+      "name": "390 images cover",
+      "ok": true
+    },
+    {
+      "name": "390 grid matches engine",
+      "ok": true
+    },
+    {
+      "name": "mobile readable copy",
+      "ok": true
+    },
+    {
+      "name": "768 no overflow",
+      "ok": true
+    },
+    {
+      "name": "768 blocks inside",
+      "ok": true
+    },
+    {
+      "name": "768 no clipped title",
+      "ok": true
+    },
+    {
+      "name": "768 copy clears footer",
+      "ok": true
+    },
+    {
+      "name": "768 blocks do not overlap",
+      "ok": true
+    },
+    {
+      "name": "768 images cover",
+      "ok": true
+    },
+    {
+      "name": "768 grid matches engine",
+      "ok": true
+    },
+    {
+      "name": "900 no overflow",
+      "ok": true
+    },
+    {
+      "name": "900 blocks inside",
+      "ok": true
+    },
+    {
+      "name": "900 no clipped title",
+      "ok": true
+    },
+    {
+      "name": "900 copy clears footer",
+      "ok": true
+    },
+    {
+      "name": "900 blocks do not overlap",
+      "ok": true
+    },
+    {
+      "name": "900 images cover",
+      "ok": true
+    },
+    {
+      "name": "900 grid matches engine",
+      "ok": true
+    },
+    {
+      "name": "1100 no overflow",
+      "ok": true
+    },
+    {
+      "name": "1100 blocks inside",
+      "ok": true
+    },
+    {
+      "name": "1100 no clipped title",
+      "ok": true
+    },
+    {
+      "name": "1100 copy clears footer",
+      "ok": true
+    },
+    {
+      "name": "1100 blocks do not overlap",
+      "ok": true
+    },
+    {
+      "name": "1100 images cover",
+      "ok": true
+    },
+    {
+      "name": "1100 grid matches engine",
+      "ok": true
+    },
+    {
+      "name": "1440 no overflow",
+      "ok": true
+    },
+    {
+      "name": "1440 blocks inside",
+      "ok": true
+    },
+    {
+      "name": "1440 no clipped title",
+      "ok": true
+    },
+    {
+      "name": "1440 copy clears footer",
+      "ok": true
+    },
+    {
+      "name": "1440 blocks do not overlap",
+      "ok": true
+    },
+    {
+      "name": "1440 images cover",
+      "ok": true
+    },
+    {
+      "name": "1440 grid matches engine",
+      "ok": true
+    },
+    {
+      "name": "1440 copy actual type and four lines",
+      "ok": true,
+      "data": {
+        "x": 256,
+        "y": 512,
+        "width": 216,
+        "height": 80,
+        "right": 472,
+        "bottom": 592,
+        "font": "General, Arial, sans-serif",
+        "weight": "300",
+        "size": "13px",
+        "line": "20px"
+      }
+    },
+    {
+      "name": "2030 no overflow",
+      "ok": true
+    },
+    {
+      "name": "2030 blocks inside",
+      "ok": true
+    },
+    {
+      "name": "2030 no clipped title",
+      "ok": true
+    },
+    {
+      "name": "2030 copy clears footer",
+      "ok": true
+    },
+    {
+      "name": "2030 blocks do not overlap",
+      "ok": true
+    },
+    {
+      "name": "2030 images cover",
+      "ok": true
+    },
+    {
+      "name": "2030 grid matches engine",
+      "ok": true
+    },
+    {
+      "name": "source geometry",
+      "ok": true
+    },
+    {
+      "name": "source raster unchanged from prior capture",
+      "ok": true,
+      "data": {
+        "sameSize": true,
+        "changedChannels": 0,
+        "maxChannelDifference": 0
+      }
+    },
+    {
+      "name": "study starts original adaptation",
+      "ok": true
+    },
+    {
+      "name": "adaptation caption has no faithful prefix",
+      "ok": true
+    },
+    {
+      "name": "study mode default",
+      "ok": true
+    },
+    {
+      "name": "keyboard grid toggle",
+      "ok": true
+    },
+    {
+      "name": "grid present in frame",
+      "ok": true
+    },
+    {
+      "name": "source caption accurate",
+      "ok": true
+    },
+    {
+      "name": "source grid disabled",
+      "ok": true
+    },
+    {
+      "name": "source mode faithful URL",
+      "ok": true
+    },
+    {
+      "name": "mobile forces adaptation",
+      "ok": true
+    },
+    {
+      "name": "mobile source option disabled",
+      "ok": true
+    },
+    {
+      "name": "compare saved capture disclosure",
+      "ok": true
+    },
+    {
+      "name": "compare Open uses faithful mode",
+      "ok": true
+    },
+    {
+      "name": "compare static images",
+      "ok": true
+    },
+    {
+      "name": "compare caption labeled",
+      "ok": true
+    },
+    {
+      "name": "homepage preview equals current adaptation",
+      "ok": true
+    },
+    {
+      "name": "homepage preview path",
+      "ok": true
+    },
+    {
+      "name": "homepage preview loaded",
+      "ok": true
+    },
+    {
+      "name": "no browser errors",
+      "ok": true,
+      "data": []
+    },
+    {
+      "name": "runtime editorial-layout.js",
+      "ok": true
+    },
+    {
+      "name": "runtime editorial-adaptation.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime editorial-adaptation.css",
+      "ok": true
+    },
+    {
+      "name": "runtime sections.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime main.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime data.js",
+      "ok": true
+    },
+    {
+      "name": "runtime system-browser.jsx",
+      "ok": true
+    },
+    {
+      "name": "runtime system-browser.css",
+      "ok": true
+    },
+    {
+      "name": "runtime tokens.css",
+      "ok": true
+    },
+    {
+      "name": "runtime sections.css",
+      "ok": true
+    },
+    {
+      "name": "runtime style.css",
+      "ok": true
+    }
+  ],
+  "measurements": [
+    {
+      "width": 390,
+      "root": {
+        "x": 3,
+        "y": 0,
+        "width": 384,
+        "height": 784,
+        "right": 387,
+        "bottom": 784
+      },
+      "overflow": false,
+      "copy": {
+        "x": 111,
+        "y": 592,
+        "width": 260,
+        "height": 88,
+        "right": 371,
+        "bottom": 680,
+        "font": "General, Arial, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "line": "22px"
+      },
+      "blocks": [
+        {
+          "tag": "HEADER",
+          "cls": "adaptation-header",
+          "x": 19,
+          "y": 16,
+          "width": 352,
+          "height": 96,
+          "right": 371,
+          "bottom": 112
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "x": 19,
+          "y": 128,
+          "width": 352,
+          "height": 88,
+          "right": 371,
+          "bottom": 216
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-portrait",
+          "x": 19,
+          "y": 256,
+          "width": 76,
+          "height": 96,
+          "right": 95,
+          "bottom": 352
+        },
+        {
+          "tag": "P",
+          "cls": "adaptation-copy",
+          "x": 111,
+          "y": 592,
+          "width": 260,
+          "height": 88,
+          "right": 371,
+          "bottom": 680
+        },
+        {
+          "tag": "SPAN",
+          "cls": "adaptation-year",
+          "x": 19,
+          "y": 736,
+          "width": 25.625,
+          "height": 24,
+          "right": 44.625,
+          "bottom": 760
+        },
+        {
+          "tag": "A",
+          "cls": "adaptation-next",
+          "x": 111,
+          "y": 736,
+          "width": 260,
+          "height": 24,
+          "right": 371,
+          "bottom": 760
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-image",
+          "x": 111,
+          "y": 256,
+          "width": 260,
+          "height": 304,
+          "right": 371,
+          "bottom": 560
+        }
+      ],
+      "fit": [
+        "cover",
+        "cover"
+      ],
+      "grid": [
+        {
+          "x": 16,
+          "width": 76
+        },
+        {
+          "x": 108,
+          "width": 76
+        },
+        {
+          "x": 200,
+          "width": 76
+        },
+        {
+          "x": 292,
+          "width": 76
+        }
+      ],
+      "titleFits": true,
+      "footerClear": true
+    },
+    {
+      "width": 768,
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 1120,
+        "right": 768,
+        "bottom": 1120
+      },
+      "overflow": false,
+      "copy": {
+        "x": 204,
+        "y": 944,
+        "width": 328,
+        "height": 66,
+        "right": 532,
+        "bottom": 1010,
+        "font": "General, Arial, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "line": "22px"
+      },
+      "blocks": [
+        {
+          "tag": "HEADER",
+          "cls": "adaptation-header",
+          "x": 16,
+          "y": 16,
+          "width": 736,
+          "height": 96,
+          "right": 752,
+          "bottom": 112
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "x": 16,
+          "y": 128,
+          "width": 736,
+          "height": 120,
+          "right": 752,
+          "bottom": 248
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-portrait",
+          "x": 16,
+          "y": 288,
+          "width": 172,
+          "height": 224,
+          "right": 188,
+          "bottom": 512
+        },
+        {
+          "tag": "P",
+          "cls": "adaptation-copy",
+          "x": 204,
+          "y": 944,
+          "width": 328,
+          "height": 66,
+          "right": 532,
+          "bottom": 1010
+        },
+        {
+          "tag": "SPAN",
+          "cls": "adaptation-year",
+          "x": 16,
+          "y": 1072,
+          "width": 25.625,
+          "height": 24,
+          "right": 41.625,
+          "bottom": 1096
+        },
+        {
+          "tag": "A",
+          "cls": "adaptation-next",
+          "x": 204,
+          "y": 1072,
+          "width": 548,
+          "height": 24,
+          "right": 752,
+          "bottom": 1096
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-image",
+          "x": 204,
+          "y": 288,
+          "width": 548,
+          "height": 624,
+          "right": 752,
+          "bottom": 912
+        }
+      ],
+      "fit": [
+        "cover",
+        "cover"
+      ],
+      "grid": [
+        {
+          "x": 16,
+          "width": 172
+        },
+        {
+          "x": 204,
+          "width": 172
+        },
+        {
+          "x": 392,
+          "width": 172
+        },
+        {
+          "x": 580,
+          "width": 172
+        }
+      ],
+      "titleFits": true,
+      "footerClear": true
+    },
+    {
+      "width": 900,
+      "root": {
+        "x": 2,
+        "y": 0,
+        "width": 896,
+        "height": 1232,
+        "right": 898,
+        "bottom": 1232
+      },
+      "overflow": false,
+      "copy": {
+        "x": 238,
+        "y": 1056,
+        "width": 328,
+        "height": 66,
+        "right": 566,
+        "bottom": 1122,
+        "font": "General, Arial, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "line": "22px"
+      },
+      "blocks": [
+        {
+          "tag": "HEADER",
+          "cls": "adaptation-header",
+          "x": 18,
+          "y": 16,
+          "width": 864,
+          "height": 96,
+          "right": 882,
+          "bottom": 112
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "x": 18,
+          "y": 128,
+          "width": 864,
+          "height": 120,
+          "right": 882,
+          "bottom": 248
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-portrait",
+          "x": 18,
+          "y": 288,
+          "width": 204,
+          "height": 256,
+          "right": 222,
+          "bottom": 544
+        },
+        {
+          "tag": "P",
+          "cls": "adaptation-copy",
+          "x": 238,
+          "y": 1056,
+          "width": 328,
+          "height": 66,
+          "right": 566,
+          "bottom": 1122
+        },
+        {
+          "tag": "SPAN",
+          "cls": "adaptation-year",
+          "x": 18,
+          "y": 1184,
+          "width": 25.625,
+          "height": 24,
+          "right": 43.625,
+          "bottom": 1208
+        },
+        {
+          "tag": "A",
+          "cls": "adaptation-next",
+          "x": 238,
+          "y": 1184,
+          "width": 644,
+          "height": 24,
+          "right": 882,
+          "bottom": 1208
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-image",
+          "x": 238,
+          "y": 288,
+          "width": 644,
+          "height": 736,
+          "right": 882,
+          "bottom": 1024
+        }
+      ],
+      "fit": [
+        "cover",
+        "cover"
+      ],
+      "grid": [
+        {
+          "x": 16,
+          "width": 204
+        },
+        {
+          "x": 236,
+          "width": 204
+        },
+        {
+          "x": 456,
+          "width": 204
+        },
+        {
+          "x": 676,
+          "width": 204
+        }
+      ],
+      "titleFits": true,
+      "footerClear": true
+    },
+    {
+      "width": 1100,
+      "root": {
+        "x": 2,
+        "y": 0,
+        "width": 1096,
+        "height": 608,
+        "right": 1098,
+        "bottom": 608
+      },
+      "overflow": false,
+      "copy": {
+        "x": 198,
+        "y": 384,
+        "width": 160,
+        "height": 100,
+        "right": 358,
+        "bottom": 484,
+        "font": "General, Arial, sans-serif",
+        "weight": "300",
+        "size": "12px",
+        "line": "20px"
+      },
+      "blocks": [
+        {
+          "tag": "HEADER",
+          "cls": "adaptation-header",
+          "x": 22,
+          "y": 16,
+          "width": 512,
+          "height": 96,
+          "right": 534,
+          "bottom": 112
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "x": 22,
+          "y": 192,
+          "width": 424,
+          "height": 88,
+          "right": 446,
+          "bottom": 280
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-portrait",
+          "x": 22,
+          "y": 384,
+          "width": 160,
+          "height": 208,
+          "right": 182,
+          "bottom": 592
+        },
+        {
+          "tag": "P",
+          "cls": "adaptation-copy",
+          "x": 198,
+          "y": 384,
+          "width": 160,
+          "height": 100,
+          "right": 358,
+          "bottom": 484
+        },
+        {
+          "tag": "SPAN",
+          "cls": "adaptation-year",
+          "x": 198,
+          "y": 576,
+          "width": 25.625,
+          "height": 24,
+          "right": 223.625,
+          "bottom": 600
+        },
+        {
+          "tag": "A",
+          "cls": "adaptation-next",
+          "x": 374,
+          "y": 576,
+          "width": 160,
+          "height": 24,
+          "right": 534,
+          "bottom": 600
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-image",
+          "x": 554,
+          "y": 0,
+          "width": 544,
+          "height": 608,
+          "right": 1098,
+          "bottom": 608
+        }
+      ],
+      "fit": [
+        "cover",
+        "cover"
+      ],
+      "grid": [
+        {
+          "x": 20,
+          "width": 72
+        },
+        {
+          "x": 108,
+          "width": 72
+        },
+        {
+          "x": 196,
+          "width": 72
+        },
+        {
+          "x": 284,
+          "width": 72
+        },
+        {
+          "x": 372,
+          "width": 72
+        },
+        {
+          "x": 460,
+          "width": 72
+        }
+      ],
+      "titleFits": true,
+      "footerClear": true
+    },
+    {
+      "width": 1440,
+      "root": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 800,
+        "right": 1440,
+        "bottom": 800
+      },
+      "overflow": false,
+      "copy": {
+        "x": 256,
+        "y": 512,
+        "width": 216,
+        "height": 80,
+        "right": 472,
+        "bottom": 592,
+        "font": "General, Arial, sans-serif",
+        "weight": "300",
+        "size": "13px",
+        "line": "20px"
+      },
+      "blocks": [
+        {
+          "tag": "HEADER",
+          "cls": "adaptation-header",
+          "x": 24,
+          "y": 16,
+          "width": 680,
+          "height": 96,
+          "right": 704,
+          "bottom": 112
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "x": 24,
+          "y": 256,
+          "width": 564,
+          "height": 120,
+          "right": 588,
+          "bottom": 376
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-portrait",
+          "x": 24,
+          "y": 512,
+          "width": 216,
+          "height": 272,
+          "right": 240,
+          "bottom": 784
+        },
+        {
+          "tag": "P",
+          "cls": "adaptation-copy",
+          "x": 256,
+          "y": 512,
+          "width": 216,
+          "height": 80,
+          "right": 472,
+          "bottom": 592
+        },
+        {
+          "tag": "SPAN",
+          "cls": "adaptation-year",
+          "x": 256,
+          "y": 768,
+          "width": 30.265625,
+          "height": 24,
+          "right": 286.265625,
+          "bottom": 792
+        },
+        {
+          "tag": "A",
+          "cls": "adaptation-next",
+          "x": 488,
+          "y": 768,
+          "width": 216,
+          "height": 24,
+          "right": 704,
+          "bottom": 792
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-image",
+          "x": 728,
+          "y": 0,
+          "width": 712,
+          "height": 800,
+          "right": 1440,
+          "bottom": 800
+        }
+      ],
+      "fit": [
+        "cover",
+        "cover"
+      ],
+      "grid": [
+        {
+          "x": 24,
+          "width": 100
+        },
+        {
+          "x": 140,
+          "width": 100
+        },
+        {
+          "x": 256,
+          "width": 100
+        },
+        {
+          "x": 372,
+          "width": 100
+        },
+        {
+          "x": 488,
+          "width": 100
+        },
+        {
+          "x": 604,
+          "width": 100
+        }
+      ],
+      "titleFits": true,
+      "footerClear": true
+    },
+    {
+      "width": 2030,
+      "root": {
+        "x": 3,
+        "y": 0,
+        "width": 2024,
+        "height": 1120,
+        "right": 2027,
+        "bottom": 1120
+      },
+      "overflow": false,
+      "copy": {
+        "x": 355,
+        "y": 704,
+        "width": 320,
+        "height": 112,
+        "right": 675,
+        "bottom": 816,
+        "font": "General, Arial, sans-serif",
+        "weight": "300",
+        "size": "18px",
+        "line": "28px"
+      },
+      "blocks": [
+        {
+          "tag": "HEADER",
+          "cls": "adaptation-header",
+          "x": 19,
+          "y": 16,
+          "width": 992,
+          "height": 96,
+          "right": 1011,
+          "bottom": 112
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "x": 19,
+          "y": 352,
+          "width": 824,
+          "height": 168,
+          "right": 843,
+          "bottom": 520
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-portrait",
+          "x": 19,
+          "y": 704,
+          "width": 320,
+          "height": 400,
+          "right": 339,
+          "bottom": 1104
+        },
+        {
+          "tag": "P",
+          "cls": "adaptation-copy",
+          "x": 355,
+          "y": 704,
+          "width": 320,
+          "height": 112,
+          "right": 675,
+          "bottom": 816
+        },
+        {
+          "tag": "SPAN",
+          "cls": "adaptation-year",
+          "x": 355,
+          "y": 1088,
+          "width": 42.671875,
+          "height": 24,
+          "right": 397.671875,
+          "bottom": 1112
+        },
+        {
+          "tag": "A",
+          "cls": "adaptation-next",
+          "x": 691,
+          "y": 1088,
+          "width": 320,
+          "height": 24,
+          "right": 1011,
+          "bottom": 1112
+        },
+        {
+          "tag": "IMG",
+          "cls": "adaptation-image",
+          "x": 1027,
+          "y": 0,
+          "width": 1000,
+          "height": 1120,
+          "right": 2027,
+          "bottom": 1120
+        }
+      ],
+      "fit": [
+        "cover",
+        "cover"
+      ],
+      "grid": [
+        {
+          "x": 16,
+          "width": 152
+        },
+        {
+          "x": 184,
+          "width": 152
+        },
+        {
+          "x": 352,
+          "width": 152
+        },
+        {
+          "x": 520,
+          "width": 152
+        },
+        {
+          "x": 688,
+          "width": 152
+        },
+        {
+          "x": 856,
+          "width": 152
+        }
+      ],
+      "titleFits": true,
+      "footerClear": true
+    },
+    {
+      "sourceInputs": {
+        "baseline": [
+          2030,
+          1128
+        ],
+        "reference": [
+          2030,
+          1128
+        ]
+      }
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "pilot/src/editorial-layout.js": "be8c5b0e698f432238d3e98a811abae31fb6f776594b3ac0b50f5337efe28cda",
+    "pilot/src/editorial-adaptation.jsx": "dae4634995a5f39eefc6d1141c2fbe020615c54e665a0d6d1563720f8cceeda0",
+    "pilot/src/editorial-adaptation.css": "42d6f6edbf525ae427fa00f0e09be7109c2298c668f1f499f3242eb888fc04f8",
+    "pilot/src/sections.jsx": "a44d018df345a9b87ae28a072095fae85a6f0c58cb45638795310c5d5dc761b2",
+    "pilot/src/main.jsx": "af0f0ec59634534d5fb8e5daa7dabaf182da9ed6bb333f097de2b435b6b8d11f",
+    "pilot/src/data.js": "b9770596a6411a08428aa8dce29196302221222bc602af29c8662288198f9568",
+    "pilot/src/system-browser.jsx": "af5f9f44e0e7c232e0b27aa4613b4a99e3a9e30249d7a3f4207fe25ef3d510fb",
+    "pilot/src/system-browser.css": "78f5c726a124e28839234e74c2414c13aab0153a7d3124f81ade549df876bb19",
+    "pilot/src/tokens.css": "bf7494a52ba6c300483a860e5ba58571e571d3190df9594d5817473918183534",
+    "pilot/src/sections.css": "db77c7841748e42e7862b01462a9689b19a929eeafda2c299a85f4c623b92b69",
+    "pilot/src/style.css": "74aad432a16264ab4e05e8b061b8488f181c861a927fc85174701ddbead0e105",
+    "pilot/evidence/berlickfold-transfer/hero-desktop.png": "1620e0bc3cf93bbbe16ed7f30052a3ac5ed452115a15cec8c83e349ac303fa54",
+    "pilot/evidence/berlickfold-transfer/hero-grid.png": "2aae36fdb41b7af7c2d3cbf8f1cf1aadf3c0d8690b0762aa8e1a2e24fa6641ad",
+    "pilot/evidence/berlickfold-transfer/hero-medium.png": "924cefd68a1c04ee96050e1221ce8588443047cb71e0cc313eaae9631619925c",
+    "pilot/evidence/berlickfold-transfer/hero-mobile.png": "d491fe2ca445449456495225b2c143cef6a59e566d3c9323d710841b0f204bc2",
+    "pilot/evidence/berlickfold-transfer/hero-source.png": "2deeecde5eb0b447d1b99042b4802f0833204b1d9524a7a6116a9155a96742f6",
+    "pilot/evidence/berlickfold-transfer/hero-tablet.png": "138f96abac9d3167529868d10cd613c48b2e72d6222b9e114518828381208d45",
+    "pilot/evidence/berlickfold-transfer/page-desktop.png": "4fd1e81abc25fa97e095d60d2bc54939013af56b5a6da3d25a3d01fc6f2a67d5",
+    "pilot/evidence/berlickfold-transfer/page-mobile.png": "a0f7b8a0cc1ab72192d8219c0259df7835bc3606ea2e6674d2bf6d3c6798b28c",
+    "pilot/evidence/berlickfold-transfer/study-desktop.png": "ffe521e16066e6159a9def9aeecb9ed3810b5e6bda4197d670cdfed3ac8e2c67",
+    "pilot/evidence/berlickfold-transfer/study-mobile.png": "adcf7043ed67039e2c3c007cede649eb1361323882c246ef1f2cd9f79df329e0",
+    "pilot/public/previews/quiet-serif.png": "81d1434375cdda0c30f73454d35426e1f5b7185b92531480cc897bd29480949e",
+    "pilot/public/evidence/hero-faithful.png": "2deeecde5eb0b447d1b99042b4802f0833204b1d9524a7a6116a9155a96742f6"
+  }
+}

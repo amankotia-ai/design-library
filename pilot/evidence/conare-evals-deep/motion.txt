@@ -1,0 +1,270 @@
+article summary [
+  '<article data-active="true" style="--o:2;" class="step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6"><span class="flex items-center gap-1 font-geist text-[12px] leading-4 tabular-nums"><span aria-hidden="true" class="step-mark size-2.5 shrink-0"></span><span aria-hidden="true" class="min-w-0 flex-1"><span class="flex justify-between"><span class="step-tick size-2.5 shrink-0" style="--k: 0;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 1;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 2;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 3;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 4;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 5;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 6;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 7;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 8;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 9;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 10;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 11;"></span><span class="step-tick size-2.5 shrink-0" sty',
+  '<article data-active="false" style="--o:4;" class="step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6"><span class="flex items-center gap-1 font-geist text-[12px] leading-4 tabular-nums"><span aria-hidden="true" class="step-mark size-2.5 shrink-0"></span><span aria-hidden="true" class="min-w-0 flex-1"><span class="flex justify-between"><span class="step-tick size-2.5 shrink-0" style="--k: 0;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 1;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 2;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 3;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 4;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 5;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 6;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 7;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 8;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 9;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 10;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 11;"></span><span class="step-tick size-2.5 shrink-0" st',
+  '<article data-active="false" style="--o:6;" class="step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6"><span class="flex items-center gap-1 font-geist text-[12px] leading-4 tabular-nums"><span aria-hidden="true" class="step-mark size-2.5 shrink-0"></span><span aria-hidden="true" class="min-w-0 flex-1"><span class="flex justify-between"><span class="step-tick size-2.5 shrink-0" style="--k: 0;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 1;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 2;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 3;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 4;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 5;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 6;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 7;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 8;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 9;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 10;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 11;"></span><span class="step-tick size-2.5 shrink-0" st',
+  '<article data-active="false" style="--o:8;" class="step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6"><span class="flex items-center gap-1 font-geist text-[12px] leading-4 tabular-nums"><span aria-hidden="true" class="step-mark size-2.5 shrink-0"></span><span aria-hidden="true" class="min-w-0 flex-1"><span class="flex justify-between"><span class="step-tick size-2.5 shrink-0" style="--k: 0;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 1;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 2;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 3;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 4;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 5;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 6;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 7;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 8;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 9;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 10;"></span><span class="step-tick size-2.5 shrink-0" style="--k: 11;"></span><span class="step-tick size-2.5 shrink-0" st'
+]
+1793408025044 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408027053 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408029060 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408031068 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408033074 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408035077 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408037081 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408039085 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408041090 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408043097 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408045101 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]
+1793408047105 [
+  {
+    title: 'ViDoRe v3, embedding',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'ViDoRe v3, reranking',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Legal case search',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  },
+  {
+    title: 'Several conditions at once',
+    attrs: [ [Array], [Array], [Array] ],
+    class: 'step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6'
+  }
+]

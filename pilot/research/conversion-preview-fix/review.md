@@ -1,0 +1,11 @@
+# Conversion preview routing fix
+
+Run started 31 October 2026 at 04:50 Asia/Kolkata; deadline 05:10. Scope: diagnose the systems-detail preview that showed the library instead of Conversion, repair the visible runtime, and verify adjacent views.
+
+The user's Arc window was serving port 5202 from `/tmp/design-library-visible`. Its `conversion.jsx` was an older copy that requested `/conversion/?part=page`. Vite served the library's root document for that directory URL, even though `/conversion/index.html` existed. The source project already used the explicit `index.html` URL, but the temporary runtime had not received it. That runtime also lacked most Conversion media under its separate `public/assets/conversion` directory. Other old temporary runtimes had different missing-asset issues and should not be treated as authoritative.
+
+The system detail's interactive Conversion preview now points directly to `/conversion/index.html?part=page` in `src/system-browser.jsx`; the 5202 runtime was synced with the current `conversion.jsx`, data and main source, and supplied the local Conversion assets and comparisons. Its public folder now has a local copy of the Conversion document, avoiding the iCloud placeholder stalls observed during review. The source remains the project files; the temporary preview is not a deployment.
+
+Independent reviewer `/root/preview_qa` inspected the delivered revision on 5202. The Conversion system preview displays the correct page and scrolls inside its pane; Interfere and Blueprint remain correct; the Conversion page, Platform section and source comparison load. The captured review image is `preview.jpg`. Reviewer-reported hashes match the workspace: `system-browser.jsx` 60cab45dc4429262ec37ba8167da1495fa5138e1d40f9536cc8e70ab17d37086; `conversion.jsx` 7a927c3790c75b2596110771ece11d1863f61720295ed211532ded0d85a13a25; `data.js` 6e820b1807d2e0fd6fd64817586943a4835872e64839d4e215faf86c4bf39089; `main.jsx` 2da9ebf40fb46bc648be51ef9d114c6c5fd6b121e2cbb357c4a780043e04886c. Review status: passed for tested flows.
+
+A Vite production build and the project check passed using the local runtime with the current changed source. Freebyrd returned no folder-specific context.

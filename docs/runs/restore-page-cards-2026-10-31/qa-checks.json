@@ -1,0 +1,16 @@
+{
+  "checks": [
+    "Pages uses two live tall preview cards with palettes,type labels,8/10 section counts and real page destinations",
+    "Pages filter,URL reload,clear,and native select keyboard focus work; OS popup ArrowDown selection not confirmed in headless macOS",
+    "Catalog dropdown computed appearance,height,border radius,padding,background,chevron and type size equal original detail control",
+    "Design Systems retains same card geometry and system destinations",
+    "320/390px: full-width stacked filters,live cards loaded,no document overflow"
+  ],
+  "errors": [],
+  "hashes": {
+    "style.css": "4daf5ad564833c40260cd5dca2016963f0b2caeda95f76bbecce450d0fb5faea",
+    "catalog.css": "2f4eb2f13efb6941e00738b32af8b2f41c1486272d04b342728bcee4494e4968",
+    "catalog.jsx": "76ec551d57403ab00e440ab7a76d9c193a322c9c927ea3ee83192b0474b56d88",
+    "system-browser.jsx": "24f0801e5bfd29ec51a5496da8ae803a11d4c3185e355384d81259efa04f267a"
+  }
+}

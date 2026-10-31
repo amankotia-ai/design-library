@@ -1,0 +1,74 @@
+[
+  {
+    "k": 0,
+    "viewBox": "-1 -1 2 2",
+    "cls": "pointer-events-none absolute inset-0 h-full w-full",
+    "rect": [
+      520.796875,
+      46.578125,
+      718.1875,
+      746.046875
+    ],
+    "label": null
+  },
+  {
+    "k": 1,
+    "viewBox": "0 0 10 10",
+    "cls": null,
+    "rect": [
+      1118.890625,
+      104.578125,
+      10,
+      10
+    ],
+    "label": null
+  },
+  {
+    "k": 2,
+    "viewBox": "0 0 10 10",
+    "cls": null,
+    "rect": [
+      1140.890625,
+      104.578125,
+      10,
+      10
+    ],
+    "label": null
+  },
+  {
+    "k": 3,
+    "viewBox": "0 0 10 10",
+    "cls": null,
+    "rect": [
+      1162.890625,
+      104.578125,
+      10,
+      10
+    ],
+    "label": null
+  },
+  {
+    "k": 4,
+    "viewBox": "0 0 560 284",
+    "cls": "block w-full",
+    "rect": [
+      595.890625,
+      144.578125,
+      568,
+      288.046875
+    ],
+    "label": "ViDoRe v3, embedding nDCG@10 against list price per 1M tokens"
+  },
+  {
+    "k": 5,
+    "viewBox": "0 0 12 12",
+    "cls": "mt-1 shrink-0",
+    "rect": [
+      586.890625,
+      699.625,
+      12,
+      12
+    ],
+    "label": null
+  }
+]

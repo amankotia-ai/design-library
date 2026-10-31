@@ -1,0 +1,43 @@
+{
+  "runId": "berlickfold-transfer-2026-10-31",
+  "mode": "Original system adaptation; faithful source reconstruction preserved",
+  "startUtc": "2026-10-30T19:30:14Z",
+  "deadlineUtc": "2026-10-30T19:50:14Z",
+  "scope": "Transfer measured grid, type, text measure, crop and responsive lessons from Review Berlickfold X posts to Quiet Serif and its library Study controls.",
+  "sourceChatId": "01a18a31-ec9c-7bb3-86f1-f4ffc0978ea4",
+  "sourceChatTitle": "Review Berlickfold X posts",
+  "roles": {
+    "implementation": "/root",
+    "visualAnalysis": "/root/visual_analysis",
+    "productDesign": "/root/product_design",
+    "artDirection": "/root/art_direction",
+    "independentQA": "/root/independent_qa"
+  },
+  "validation": {
+    "build": "passed final revision",
+    "registryMediaChecks": "passed final revision",
+    "independentQA": "passed: 608 assertions, zero failures/browser errors; exact hashes and scope in qa.json/qa.md",
+    "sourcePreservation": "Fresh 2030x1128 source reconstruction equals retained faithful capture pixel for pixel",
+    "previewImage": "Refreshed tile equals fresh actual adaptation render pixel for pixel"
+  },
+  "hashes": {
+    "pilot/src/editorial-layout.js": "be8c5b0e698f432238d3e98a811abae31fb6f776594b3ac0b50f5337efe28cda",
+    "pilot/src/editorial-adaptation.jsx": "dae4634995a5f39eefc6d1141c2fbe020615c54e665a0d6d1563720f8cceeda0",
+    "pilot/src/editorial-adaptation.css": "42d6f6edbf525ae427fa00f0e09be7109c2298c668f1f499f3242eb888fc04f8",
+    "pilot/src/sections.jsx": "a44d018df345a9b87ae28a072095fae85a6f0c58cb45638795310c5d5dc761b2",
+    "pilot/src/main.jsx": "af0f0ec59634534d5fb8e5daa7dabaf182da9ed6bb333f097de2b435b6b8d11f",
+    "pilot/src/data.js": "b9770596a6411a08428aa8dce29196302221222bc602af29c8662288198f9568",
+    "pilot/src/system-browser.jsx": "af5f9f44e0e7c232e0b27aa4613b4a99e3a9e30249d7a3f4207fe25ef3d510fb",
+    "pilot/src/system-browser.css": "78f5c726a124e28839234e74c2414c13aab0153a7d3124f81ade549df876bb19",
+    "pilot/public/previews/quiet-serif.png": "81d1434375cdda0c30f73454d35426e1f5b7185b92531480cc897bd29480949e"
+  },
+  "evidenceDirectory": "pilot/evidence/berlickfold-transfer",
+  "preview": "http://127.0.0.1:5175/?section=hero",
+  "limitations": [
+    "Noto Serif Display is an intentional free substitute, not exact recovered source serif.",
+    "Source21 has no observed mobile layout; mobile is an original adaptation.",
+    "Browser checks cover Chromium and do not establish screen-reader/cross-browser certification."
+  ],
+  "unfinished": [],
+  "completedUtc": "2026-10-30T19:41:40Z"
+}

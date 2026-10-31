@@ -1,0 +1,23 @@
+.system-preview{container-type:inline-size;aspect-ratio:9/10;background:var(--specimen-surface);color:var(--specimen-text);border:1px solid var(--library-preview-rule);overflow:hidden;font-family:var(--specimen-body);line-height:1.3}
+.system-specimen{height:100%;display:grid;grid-template-rows:1fr auto;gap:4cqw;padding:6.5cqw}
+.specimen-letterforms{display:flex;align-items:center;justify-content:space-between;gap:6cqw;margin:0 0 2cqw}
+.specimen-aa{font-family:var(--specimen-heading);font-weight:var(--specimen-weight);font-stretch:var(--specimen-stretch);font-size:25cqw;line-height:1}
+.specimen-alphabet{font-family:var(--specimen-body);font-size:3.6cqw;line-height:1.6}
+.specimen-alphabet>span{font-family:var(--specimen-mono);font-size:3cqw;font-variant-numeric:tabular-nums}
+.specimen-phrase{font-family:var(--specimen-heading);font-weight:var(--specimen-weight);font-stretch:var(--specimen-stretch);font-size:7cqw;line-height:1.05;text-wrap:balance}
+.specimen-phrase>span{display:block}
+.specimen-colors{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:2cqw}
+.specimen-color{display:block;height:8cqw;border:1px solid var(--specimen-border)}
+.specimen-color-name{display:block;font-size:2.6cqw;line-height:1.4;margin-top:1cqw}
+.system-preview-blueprint .specimen-aa{font-size:24cqw}
+.system-preview-blueprint .specimen-phrase{font-size:7cqw;line-height:1.12}
+
+/* Steel specimen */
+@font-face{font-family:SteelSchengen;src:url(/steel-source/assets/_next/static/immutable/media/ABCSchengenA_Variable-s.p.3nb4eiitxra8w.woff2);font-weight:200 1000}.system-preview-steel{font-family:SteelSchengen,Arial,sans-serif;background:#d7f0ff}.system-preview-steel .specimen-phrase,.system-preview-steel .specimen-aa{font-family:SteelSchengen,Arial,sans-serif;font-weight:400}
+
+/* Signal Serif specimen */
+.system-preview-signal .specimen-colors{grid-template-columns:repeat(4,minmax(0,1fr))}
+.system-preview-signal .specimen-phrase{font-size:6.4cqw;line-height:1.1}
+.system-preview-signal .specimen-phrase em{font-weight:400}
+
+.system-preview-mnh,.type-specimen-mnh{font-family:MNH Lausanne,Arial,sans-serif}

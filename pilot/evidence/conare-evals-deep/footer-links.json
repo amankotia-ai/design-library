@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Privacy",
+    "href": "https://conare.ai/privacy"
+  },
+  {
+    "text": "Terms",
+    "href": "https://conare.ai/terms"
+  },
+  {
+    "text": "Search",
+    "href": "https://conare.ai/docs/query"
+  },
+  {
+    "text": "Sync",
+    "href": "https://conare.ai/docs/sources"
+  },
+  {
+    "text": "Parse",
+    "href": "https://conare.ai/docs/files"
+  },
+  {
+    "text": "Embed",
+    "href": "https://conare.ai/docs/embed-rerank"
+  },
+  {
+    "text": "Rerank",
+    "href": "https://conare.ai/reranker"
+  },
+  {
+    "text": "Docs",
+    "href": "https://conare.ai/docs"
+  },
+  {
+    "text": "Quickstart",
+    "href": "https://conare.ai/docs/quickstart"
+  },
+  {
+    "text": "API",
+    "href": "https://conare.ai/docs/api"
+  },
+  {
+    "text": "SDK",
+    "href": "https://conare.ai/docs/sdk"
+  },
+  {
+    "text": "MCP server",
+    "href": "https://conare.ai/docs/mcp-server"
+  },
+  {
+    "text": "Evals",
+    "href": "https://conare.ai/evals"
+  },
+  {
+    "text": "Blog",
+    "href": "https://conare.ai/blog"
+  },
+  {
+    "text": "Pricing",
+    "href": "https://conare.ai/pricing"
+  },
+  {
+    "text": "Security",
+    "href": "https://conare.ai/security/disclosure"
+  },
+  {
+    "text": "Subprocessors",
+    "href": "https://conare.ai/subprocessors"
+  },
+  {
+    "text": "Status",
+    "href": "https://status.conare.ai/"
+  },
+  {
+    "text": "Book a demo",
+    "href": "https://cal.com/team/conare-inc/demo"
+  },
+  {
+    "text": "Contact us",
+    "href": "https://cal.com/team/conare-inc/demo"
+  },
+  {
+    "text": "Sign in",
+    "href": "https://conare.ai/login"
+  }
+]

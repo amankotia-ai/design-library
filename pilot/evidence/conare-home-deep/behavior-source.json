@@ -1,0 +1,546 @@
+{
+  "sections": [
+    {
+      "i": 0,
+      "id": "",
+      "text": "SEARCH ACROSS 100M+ DOCUMENTS\n\nEverything your agent needs to know.\nEverything your agent needs to know.\n\nConare finds the right answer in any data you bring, for your agents and the products you build on them.\n\nBook a call\nSales\nFinance\nEngineering\nSupport\nLegal\nDeal desk\nInternal agent\nFundlark\nInvestor match\nConare\nClaude, over MCP\nQuillbase\nHel",
+      "rect": {
+        "y": 101,
+        "h": 1073.6875
+      },
+      "html": "<section aria-labelledby=\"home-hero-title\" class=\"hero mx-auto max-w-[1440px] px-4 pt-24 pb-24 sm:px-6 lg:px-10 lg:pt-32\" data-paused=\"false\"><div class=\"flex flex-col items-center text-center\"><p class=\"mb-4 flex justify-center settle\"><span class=\"bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">Search across 100M+ documents</span></p><h1 class=\"hl hl-ready is-on hero-title text-[40px] leading-[1.1] tracking-[-0.02em] sm:text-[48px]\" id=\"home-hero-title\"><span class=\"sr-only\">Everything your agent needs to know.</span><span aria-hidden=\"true\"><!--[--><span><span class=\"hl-word\"><!--[--><span class=\"hl-char\" style=\"--d: 0.600s;\">E</span><span class=\"hl-char\" style=\"--d: 0.560s;\">v</span><span class=\"hl-char\" style=\"--d: 0.520s;\">e</span><span class=\"hl-char\" style=\"--d: 0.480s;\">r</span><span class=\"hl-char\" style=\"--d: 0.440s;\">y</span><span class=\"hl-char\" style=\"--d: 0.400s;\">t</span><span class=\"hl-char\" style=\"--d: 0.360s;\">h</span><span class=\"hl-char\" style=\"--d: 0.320s;\">i</span><span class=\"hl-char\" style=\"--d: 0.280s;\">n</span><span class=\"hl-char\" style=\"--d: 0.240s;\">g</span><!--]--><!----></span> </span><span><span class=\"hl-word\"><!--[--><span class=\"hl-char\" style=\"--d: 0.200s;\">y</span><span class=\"hl-char\" style=\"--d: 0.160s;\">o</span><span class=\"hl-char\" style=\"--d: 0.120s;\">u</span><span class=\"hl-char\" style=\"--d: 0.080s;\">r</span><!--]--"
+    },
+    {
+      "i": 1,
+      "id": "",
+      "text": "INTEGRATIONS\n\nConnect the apps your team already uses.\nGmail\nSlack\nNotion\nLinear\nGitHub\nGranola\nGCS\nHubSpot\nSalesforce\nAttio\nAffinity\nDatabases\nand more",
+      "rect": {
+        "y": 1174.6875,
+        "h": 326.484375
+      },
+      "html": "<section aria-labelledby=\"home-integrations-title\" class=\"mx-auto max-w-[1440px] px-4 pb-24 sm:px-6 lg:px-10\" data-paused=\"true\"><div><p class=\"mb-4 flex justify-center\"><span class=\"bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">Integrations</span></p><h2 id=\"home-integrations-title\" class=\"text-center text-[24px] leading-[1.2] tracking-[-0.01em] sm:text-[32px]\"> Connect the apps your team already uses. </h2><ul class=\"mt-8 grid grid-cols-2 gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-4 lg:grid-cols-7\"><!--[--><li class=\"flex h-16 items-center justify-center gap-2.5 bg-off-white text-[14px] text-off-black\"><span aria-hidden=\"true\" class=\"size-5 shrink-0 [&amp;&gt;svg]:size-full\"><svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z\"></path></svg></span> Gmail</li><li class=\"flex h-16 items-center justify-center gap-2.5 bg-off-white text-[14px] text-off-black\"><span aria-hidden=\"true\" class=\"size-5 shrink-0 [&amp;&gt;svg]:size-full\"><svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M5.042 15.165a2.528 2.528 0 0 1-2.52 2.523A2.528 2.528 0 0 1 0 15.165a2.527 2.527 0 0 1"
+    },
+    {
+      "i": 2,
+      "id": "",
+      "text": "HOW IT WORKS\n\nAdd a document. Query it.\n\nConare chunks, embeds and indexes on write, keeps your data updated in real time, and reranks every query.\n\nSee it on your own data.\n\nRead docs\nConare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nAdd our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote",
+      "rect": {
+        "y": 1501.171875,
+        "h": 832.890625
+      },
+      "html": "<section aria-labelledby=\"home-how-title\" class=\"mx-auto max-w-[1440px] px-4 pt-12 pb-32 sm:px-6 lg:px-10 lg:pt-16 lg:pb-40\" data-paused=\"true\"><div class=\"flex flex-col gap-6 md:flex-row md:items-end md:justify-between\"><div><p class=\"mb-4 flex justify-start\"><span class=\"bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">How it works</span></p><h2 id=\"home-how-title\" class=\"max-w-[520px] text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]\"> Add a document. Query it. </h2><p class=\"mt-3 max-w-[600px] text-[15px] leading-6 text-neutral-400\"> Conare chunks, embeds and indexes on write, keeps your data updated in real time, and reranks every query. </p></div><div class=\"flex flex-col items-start gap-4 md:max-w-[320px] md:items-end md:text-right\"><p class=\"text-[15px] leading-6 text-neutral-400\"> See it on your own data. </p><a href=\"/docs\" class=\"inline-flex items-center justify-center gap-2 rounded-none font-medium whitespace-nowrap transition-colors duration-200 ease-(--ease-conare) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-home-red border border-neutral-600 text-off-black h-7 text-[12px] px-2.5 btn-px\" data-variant=\"secondary\"><!----><!----><span class=\"btn-label\"><!--[--> Read docs <!--]--></span><!----></a></div></div><div data-running=\"false\" style=\"--tick-ms: 333.3333333333333ms;\" class=\"step-grid relative mt-10 g"
+    },
+    {
+      "i": 3,
+      "id": "",
+      "text": "PRODUCTS\n\nEverything retrieval needs, behind one key.\nSearch\n\nStore documents and query them.\n\nSync\n\nKeep your apps in a namespace.\n\nParse\n\nRead any file in full, every row and cell.\n\nEmbed\n\nEmbeddings for any vector database.\n\nRerank\n\nPut the best passages first.",
+      "rect": {
+        "y": 2334.0625,
+        "h": 1505.6875
+      },
+      "html": "<section aria-labelledby=\"home-products-title\" class=\"mx-auto max-w-[1440px] px-4 pb-32 sm:px-6 lg:px-10 lg:pb-40\" data-paused=\"true\"><div class=\"flex flex-col items-center text-center\"><p class=\"mb-4 flex justify-center\"><span class=\"bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">Products</span></p><h2 id=\"home-products-title\" class=\"max-w-[520px] text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]\"> Everything retrieval needs, behind one key. </h2></div><div class=\"mt-10 grid grid-cols-[minmax(0,1fr)] gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 md:grid-cols-2 lg:grid-cols-6\"><!--[--><article id=\"search\" class=\"lg:col-span-2 flex scroll-mt-24 flex-col\"><div class=\"relative flex min-h-[460px] flex-1 flex-col overflow-hidden sm:min-h-[600px] bg-neutral-200 text-neutral-300\"><div aria-hidden=\"true\" class=\"pointer-events-none absolute inset-0 will-change-transform\"><div class=\"footer-grain absolute inset-0 opacity-30\"></div><div class=\"absolute inset-0 opacity-70\"><!--[--><svg class=\"pointer-events-none absolute inset-0 h-full w-full\" viewBox=\"-1 -1 2 2\" preserveAspectRatio=\"none\" aria-hidden=\"true\"><g fill=\"none\" stroke=\"var(--color-off-white)\" stroke-width=\"0.5\" vector-effect=\"non-scaling-stroke\"><path d=\"M-0.8 -1V1M-0.6 -1V1M-0.4 -1V1M-0.19999999999999996 -1V1M0 -1V1M0.19999999999999996 -1V1M0.3999999"
+    },
+    {
+      "i": 4,
+      "id": "security",
+      "text": "Enterprise-grade security\nand compliance\nVisit our Trust Center\nGDPR\n\nGDPR\nCERTIFIED\n\nPersonal data handled to the EU's data protection rules, with data-subject rights honored.\n\nSOC 2\nTYPE I\n\nSOC 2 Type I\nCOMPLIANT\n\nAn independent audit of how our security controls are designed.\n\nISO\n27001\n\nISO 27001\nIN PROGRESS\n\nThe international standard for mana",
+      "rect": {
+        "y": 3839.75,
+        "h": 687.59375
+      },
+      "html": "<section id=\"security\" aria-labelledby=\"home-security-title\" class=\"scroll-mt-16 mx-auto max-w-[1440px] px-4 pb-32 sm:px-6 lg:px-10 lg:pb-40\" data-paused=\"true\"><div class=\"relative overflow-hidden border border-neutral-700 bg-neutral-100 outline outline-offset-4 outline-neutral-700 px-5 py-14 text-off-white sm:px-10 sm:py-20 lg:px-16 lg:py-24\"><div aria-hidden=\"true\" class=\"footer-grain pointer-events-none absolute inset-0 opacity-30\"></div><div class=\"relative\"><div class=\"flex flex-wrap items-center justify-between gap-6\"><h2 id=\"home-security-title\" class=\"text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]\"> Enterprise-grade security<br> and compliance </h2><a href=\"https://trust.conare.ai\" class=\"inline-flex items-center justify-center gap-2 rounded-none font-medium whitespace-nowrap transition-colors duration-200 ease-(--ease-conare) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-home-red border border-neutral-300 text-off-white h-7 text-[12px] px-2.5 btn-px\" data-variant=\"ghost\" target=\"_blank\" rel=\"noopener\"><!----><!----><span class=\"btn-label\"><!--[--> Visit our Trust Center <!--]--></span><!----></a></div><ul class=\"mt-12 grid grid-cols-[minmax(0,1fr)] gap-x-12 gap-y-10 sm:grid-cols-3 sm:gap-y-12 lg:mt-16\"><!--[--><li class=\"flex items-center gap-5 sm:block\"><span class=\"inline-flex size-20 shrink-0 items-center justify-center border border-neutral-300 text-off-white sm:size-24\"><svg aria-hidden=\"true\" viewBox=\"0 0 64 64\" wid"
+    },
+    {
+      "i": 5,
+      "id": "reads",
+      "text": "PARSE\n\nReads every file in full.\n\nSpreadsheets, workbooks and PDFs, every row and cell, ready for your agents to search.\n\nRead docs\n\nEXCEL · SPY HOLDINGS, 15 OCT 2026\n\nA 608-row spreadsheet\n\n0\n\nROWS\n\nA\nB\nC\nSHEET HOLDINGS · ROWS 2-608\n1\nFund Name:\nSPDR S&P 500 ETF Trust\n2\nTicker Symbol:\nSPY\n3\nHoldings:\nAs of 15-Oct-2026\n4\n5\nName\nTicker\nWeight\n6\nNVID",
+      "rect": {
+        "y": 4527.34375,
+        "h": 972
+      },
+      "html": "<section id=\"reads\" aria-labelledby=\"home-parse-title\" class=\"mx-auto max-w-[1440px] scroll-mt-16 px-4 pb-32 sm:px-6 lg:px-10 lg:pb-40\" data-paused=\"true\"><div class=\"flex flex-col gap-6 md:flex-row md:items-center md:justify-between\"><div><p class=\"mb-4 flex justify-start\"><span class=\"bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">Parse</span></p><h2 id=\"home-parse-title\" class=\"max-w-[520px] text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]\"> Reads every file in full. </h2></div><div class=\"flex flex-col items-start gap-4 md:max-w-[320px] md:items-end md:text-right\"><p class=\"text-[15px] leading-6 text-neutral-400\"> Spreadsheets, workbooks and PDFs, every row and cell, ready for your agents to search. </p><a href=\"/docs/files\" class=\"inline-flex items-center justify-center gap-2 rounded-none font-medium whitespace-nowrap transition-colors duration-200 ease-(--ease-conare) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-home-red border border-neutral-600 text-off-black h-7 text-[12px] px-2.5 btn-px\" data-variant=\"secondary\"><!----><!----><span class=\"btn-label\"><!--[--> Read docs <!--]--></span><!----></a></div></div><div class=\"relative mt-10 h-[640px] overflow-hidden border border-neutral-700 bg-neutral-100 p-4 text-off-white outline outline-offset-4 outline-neutral-700 sm:h-[600px] sm:p-8 lg:h-[680px] lg:p-12\"><di"
+    },
+    {
+      "i": 6,
+      "id": "benchmarks",
+      "text": "BENCHMARKS\n\nAccuracy you can check.\n\nEvery benchmark, losses included.\n\nSee every benchmark\nViDoRe v3, embedding\n\n67.0\n\nnDCG@10. #1 of 9.\n\nViDoRe v3, reranking\n\n70.2\n\nnDCG@10. #1 of 10.\n\nLegal case search\n\n1.3%\n\n% ranked wrong, lower is better. #1 of 6.\n\nSeveral conditions at once\n\n2.5%\n\n% ranked wrong, lower is better. #2 of 6, level with Claude O",
+      "rect": {
+        "y": 5499.34375,
+        "h": 1095
+      },
+      "html": "<section id=\"benchmarks\" aria-labelledby=\"home-bench-title\" class=\"mx-auto max-w-[1440px] px-4 pb-32 sm:px-6 lg:px-10 lg:pb-40\" data-paused=\"true\"><div class=\"flex flex-col gap-6 md:flex-row md:items-end md:justify-between\"><div><p class=\"mb-4 flex justify-start\"><span class=\"bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">Benchmarks</span></p><h2 id=\"home-bench-title\" class=\"max-w-[520px] text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]\"> Accuracy you can check. </h2></div><div class=\"flex flex-col items-start gap-4 md:max-w-[320px] md:items-end md:text-right\"><p class=\"text-[15px] leading-6 text-neutral-400\"> Every benchmark, losses included. </p><a href=\"/evals\" class=\"inline-flex items-center justify-center gap-2 rounded-none font-medium whitespace-nowrap transition-colors duration-200 ease-(--ease-conare) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-home-red border border-neutral-600 text-off-black h-7 text-[12px] px-2.5 btn-px\" data-variant=\"secondary\"><!----><!----><span class=\"btn-label\"><!--[--> See every benchmark <!--]--></span><!----></a></div></div><div data-running=\"false\" style=\"--tick-ms: 352.94117647058823ms;\" class=\"step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-4\"><!--[--><article data-active=\"t"
+    },
+    {
+      "i": 7,
+      "id": "price",
+      "text": "PRICE VS ACCURACY\n\nMost accurate, and the cheapest.\n\nOn ViDoRe v3, conare-embed-1 scores higher than every embedding API on this chart and costs less per token than each of them.\n\nSee the benchmark",
+      "rect": {
+        "y": 6594.34375,
+        "h": 908.046875
+      },
+      "html": "<section id=\"price\" aria-labelledby=\"home-price-title\" class=\"scroll-mt-16 mx-auto max-w-[1440px] px-4 pb-32 sm:px-6 lg:px-10 lg:pb-40\" data-paused=\"true\"><div class=\"grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 lg:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]\"><div class=\"flex flex-col justify-center bg-off-white px-5 py-10 sm:px-8 lg:px-10\"><p class=\"mb-4 flex justify-start\"><span class=\"bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">Price vs accuracy</span></p><h2 id=\"home-price-title\" class=\"max-w-[420px] text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]\"> Most accurate, and the cheapest. </h2><p class=\"mt-4 max-w-[420px] text-[15px] leading-6 text-neutral-400\"> On ViDoRe v3, conare-embed-1 scores higher than every embedding API on this chart and costs less per token than each of them. </p><div class=\"mt-8\"><a href=\"/evals/vidore-embedding\" class=\"inline-flex items-center justify-center gap-2 rounded-none font-medium whitespace-nowrap transition-colors duration-200 ease-(--ease-conare) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-home-red border border-neutral-600 text-off-black h-7 text-[12px] px-2.5 btn-px\" data-variant=\"secondary\"><!----><!----><span class=\"btn-label\"><!--[--> See the benchmark <!--]--></span><!----></a></div></div><div class=\"relative grid min-h"
+    },
+    {
+      "i": 8,
+      "id": "faq",
+      "text": "FAQ\n\nFrequently asked questions\nHow do I get started?\nWhich part should I use?\nIs my data used to train models?\nWhere is my data processed?\nWhat happens when a record changes?\nHow do I delete a user's data?\nWhat do I have to run?\n\nHow do I get started?\n\nConare is invite-only for now. Book a demo: we set up your organization with you, and your team ",
+      "rect": {
+        "y": 7502.390625,
+        "h": 724.484375
+      },
+      "html": "<section id=\"faq\" aria-labelledby=\"home-faq-title\" class=\"scroll-mt-16 mx-auto max-w-[1440px] px-4 pt-12 pb-32 sm:px-6 lg:px-10 lg:pt-16 lg:pb-40\" data-paused=\"true\"><div class=\"mx-auto max-w-[1200px]\"><p class=\"mb-4 flex justify-center\"><span class=\"bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">FAQ</span></p><h2 id=\"home-faq-title\" class=\"text-center text-[24px] leading-[1.2] tracking-[-0.01em] sm:text-[32px]\"> Frequently asked questions </h2><ul class=\"mt-8 border border-neutral-700 outline outline-offset-4 outline-neutral-700 md:hidden\"><!--[--><li class=\"faq-item border-t border-neutral-700 first:border-t-0\" data-open=\"true\"><h3><button id=\"faq-q-0\" type=\"button\" aria-expanded=\"true\" aria-controls=\"faq-a-0\" class=\"text-off-black faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">How do I get started? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button></h3><div id=\"faq-a-0\" role=\"region\" aria-labelledby=\"faq-q-0\" data-open=\"true\" class=\"faq-acc grid\"><div class=\"min-h-0 overflow-hidden\"><p class=\"px-5 pb-5 text-[16px] leading-[26px] text-neutral-400\">Conare is invite-only for now. Book a "
+    },
+    {
+      "i": 9,
+      "id": "",
+      "text": "See it on your own data.\nBook a demo",
+      "rect": {
+        "y": 8226.875,
+        "h": 558.796875
+      },
+      "html": "<section aria-labelledby=\"home-cta-title\" class=\"mx-auto max-w-[1440px] px-4 pb-32 sm:px-6 lg:px-10 lg:pb-40\" data-paused=\"true\"><div class=\"mx-auto max-w-[1220px] border border-neutral-700 p-[9px]\"><div class=\"relative overflow-hidden border border-neutral-700 bg-home-red outline outline-offset-4 outline-neutral-700\"><div aria-hidden=\"true\" class=\"footer-grain pointer-events-none absolute inset-0 opacity-30\"></div><!--[--><svg class=\"pointer-events-none absolute inset-0 h-full w-full\" viewBox=\"-1 -1 2 2\" preserveAspectRatio=\"none\" aria-hidden=\"true\"><!----><!--[--><!--]--></svg><svg class=\"pointer-events-none absolute inset-0 h-full w-full\" aria-hidden=\"true\"><g fill=\"none\" stroke=\"var(--color-off-white)\" stroke-width=\"1\"><!--[--><line x1=\"10.00%\" y1=\"0%\" x2=\"10.00%\" y2=\"100%\" pathLength=\"1\" class=\"cell-trace\" stroke-opacity=\"0.3\" style=\"--dur:12.96s;--delay:-9.76s;\"></line><line x1=\"20.00%\" y1=\"100%\" x2=\"20.00%\" y2=\"0%\" pathLength=\"1\" class=\"cell-trace\" stroke-opacity=\"0.3\" style=\"--dur:12.45s;--delay:-7.06s;\"></line><line x1=\"30.00%\" y1=\"0%\" x2=\"30.00%\" y2=\"100%\" pathLength=\"1\" class=\"cell-trace\" stroke-opacity=\"0.3\" style=\"--dur:8.64s;--delay:-6.08s;\"></line><line x1=\"40.00%\" y1=\"0%\" x2=\"40.00%\" y2=\"100%\" pathLength=\"1\" class=\"cell-trace\" stroke-opacity=\"0.3\" style=\"--dur:8.18s;--delay:-0.48s;\"></line><line x1=\"50.00%\" y1=\"0%\" x2=\"50.00%\" y2=\"100%\" pathLength=\"1\" class=\"cell-trace\" stroke-opacity=\"0.3\" style=\"--dur:9.38s;--delay:-2.85s;\"></line><line x1=\"60.00%\" y1=\"100%\""
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Product",
+      "aria": null,
+      "expanded": "false",
+      "html": "<button type=\"button\" aria-expanded=\"false\" aria-controls=\"home-product-menu\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center gap-1 py-2 hover:text-off-black\"><!----> Product <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" class=\"transition-transform duration-200\"><path d=\"m6 9 6 6 6-6\"></path></svg></button>"
+    },
+    {
+      "text": "",
+      "aria": "Open menu",
+      "expanded": "false",
+      "html": "<button type=\"button\" class=\"menu-btn flex size-[26px] items-center justify-center border border-neutral-600 text-off-black transition-colors duration-200 ease-(--ease-conare) hover:border-off-black md:hidden\" data-open=\"false\" aria-expanded=\"false\" aria-controls=\"home-mobile-menu\" aria-label=\"Open menu\"><span aria-hidden=\"true\" class=\"menu-grid\"><!--[--><i data-edge=\"false\"></i><i data-edge=\"true\"></i><i data-edge=\"false\"></i><i data-edge=\"true\"></i><i data-edge=\"false\"></i><i data-edge=\"true\"></i><i data-edge=\"false\"></i><i data-edge=\"true\"></i><i data-edge=\"false\"></i><!--]--></span></button>"
+    },
+    {
+      "text": "Sales",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"uc-tab-0\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-0\" aria-selected=\"true\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"true\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M0 0h2v2h-2ZM2 0h2v2h-2ZM8 0h2v2h-2ZM10 0h2v2h-2ZM0 2h2v2h-2ZM2 2h2v2"
+    },
+    {
+      "text": "Finance",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"uc-tab-1\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-1\" aria-selected=\"false\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"false\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M0 1h2v2h-2ZM2 1h2v2h-2ZM4 1h2v2h-2ZM6 1h2v2h-2ZM8 1h2v2h-2ZM10 1h2"
+    },
+    {
+      "text": "Engineering",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"uc-tab-2\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-2\" aria-selected=\"false\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"false\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M0 0h2v2h-2ZM6 0h2v2h-2ZM12 0h2v2h-2ZM4 2h2v2h-2ZM10 2h2v2h-2ZM2 4h"
+    },
+    {
+      "text": "Support",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"uc-tab-3\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-3\" aria-selected=\"false\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"false\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M1 1h2v2h-2ZM5 1h2v2h-2ZM9 1h2v2h-2ZM13 1h2v2h-2ZM1 5h2v2h-2ZM5 5h2"
+    },
+    {
+      "text": "Legal",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"uc-tab-4\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-4\" aria-selected=\"false\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"false\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M1 0h2v2h-2ZM5 0h2v2h-2ZM9 0h2v2h-2ZM13 0h2v2h-2ZM1 2h2v2h-2ZM5 2h2"
+    },
+    {
+      "text": "How do I get started? ",
+      "aria": null,
+      "expanded": "true",
+      "html": "<button id=\"faq-q-0\" type=\"button\" aria-expanded=\"true\" aria-controls=\"faq-a-0\" class=\"text-off-black faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">How do I get started? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+    },
+    {
+      "text": "Which part should I use? ",
+      "aria": null,
+      "expanded": "false",
+      "html": "<button id=\"faq-q-1\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-1\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">Which part should I use? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+    },
+    {
+      "text": "Is my data used to train models? ",
+      "aria": null,
+      "expanded": "false",
+      "html": "<button id=\"faq-q-2\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-2\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">Is my data used to train models? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+    },
+    {
+      "text": "Where is my data processed? ",
+      "aria": null,
+      "expanded": "false",
+      "html": "<button id=\"faq-q-3\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-3\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">Where is my data processed? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+    },
+    {
+      "text": "What happens when a record changes? ",
+      "aria": null,
+      "expanded": "false",
+      "html": "<button id=\"faq-q-4\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-4\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">What happens when a record changes? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+    },
+    {
+      "text": "How do I delete a user's data? ",
+      "aria": null,
+      "expanded": "false",
+      "html": "<button id=\"faq-q-5\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-5\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">How do I delete a user's data? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+    },
+    {
+      "text": "What do I have to run? ",
+      "aria": null,
+      "expanded": "false",
+      "html": "<button id=\"faq-q-6\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-6\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">What do I have to run? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+    },
+    {
+      "text": "How do I get started?",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"faq-tab-0\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-0\" aria-selected=\"true\" tabindex=\"0\" class=\"faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6 text-off-black\">How do I get started?</button>"
+    },
+    {
+      "text": "Which part should I use?",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"faq-tab-1\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-1\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">Which part should I use?</button>"
+    },
+    {
+      "text": "Is my data used to train models?",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"faq-tab-2\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-2\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">Is my data used to train models?</button>"
+    },
+    {
+      "text": "Where is my data processed?",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"faq-tab-3\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-3\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">Where is my data processed?</button>"
+    },
+    {
+      "text": "What happens when a record changes?",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"faq-tab-4\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-4\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">What happens when a record changes?</button>"
+    },
+    {
+      "text": "How do I delete a user's data?",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"faq-tab-5\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-5\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">How do I delete a user's data?</button>"
+    },
+    {
+      "text": "What do I have to run?",
+      "aria": null,
+      "expanded": null,
+      "html": "<button id=\"faq-tab-6\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-6\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">What do I have to run?</button>"
+    },
+    {
+      "text": " Book a Demo ",
+      "aria": null,
+      "expanded": null,
+      "html": "<button type=\"button\" style=\"--i:3;\" class=\"prompt-glass prompt-press prompt-template flex h-9 items-center gap-2 px-3 text-[14px] text-[#f7f6f6]\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92Z\"></path></svg> Book a Demo <span aria-hidden=\"true\" class=\"prompt-go -ml-2 grid\"><span class=\"min-"
+    },
+    {
+      "text": " Which part should I use? ",
+      "aria": null,
+      "expanded": null,
+      "html": "<button type=\"button\" style=\"--i:2;\" class=\"prompt-glass prompt-press prompt-template flex h-9 items-center gap-2 px-3 text-[14px] text-[#f7f6f6]\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" aria-hidden=\"true\"><path d=\"M1 1h2v2h-2ZM5 1h2v2h-2ZM9 1h2v2h-2ZM13 1h2v2h-2ZM1 5h2v2h-2ZM5 5h2v2h-2ZM9 5h2v2h-2ZM13 5h2v2h-2ZM1 9h2v2h-2ZM5 9h2v2h-2ZM9 9h2v2h-2ZM13 9h2v2h-2ZM1 13h2v2h-2ZM5 13h2v2h-2ZM9 13h2v2h-2ZM13 13h2v2h-2Z\" fill=\"currentColor\"></path></svg> Which part should I use? <span aria-hidden=\"true\" class=\"prompt-go -ml-2 grid\"><span class=\"min-w-0 overflow-hidden\"><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\" fill=\"none\" stroke=\"currentColor\" stroke-width="
+    },
+    {
+      "text": " Is my data used to train models? ",
+      "aria": null,
+      "expanded": null,
+      "html": "<button type=\"button\" style=\"--i:1;\" class=\"prompt-glass prompt-press prompt-template flex h-9 items-center gap-2 px-3 text-[14px] text-[#f7f6f6]\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" aria-hidden=\"true\"><path d=\"M0 0h2v2h-2ZM6 0h2v2h-2ZM12 0h2v2h-2ZM4 2h2v2h-2ZM10 2h2v2h-2ZM2 4h2v2h-2ZM8 4h2v2h-2ZM14 4h2v2h-2ZM0 6h2v2h-2ZM6 6h2v2h-2ZM12 6h2v2h-2ZM4 8h2v2h-2ZM10 8h2v2h-2ZM2 10h2v2h-2ZM8 10h2v2h-2ZM14 10h2v2h-2ZM0 12h2v2h-2ZM6 12h2v2h-2ZM12 12h2v2h-2ZM4 14h2v2h-2ZM10 14h2v2h-2Z\" fill=\"currentColor\"></path></svg> Is my data used to train models? <span aria-hidden=\"true\" class=\"prompt-go -ml-2 grid\"><span class=\"min-w-0 overflow-hidden\"><svg width=\"10\" hei"
+    },
+    {
+      "text": " What do I have to run? ",
+      "aria": null,
+      "expanded": null,
+      "html": "<button type=\"button\" style=\"--i:0;\" class=\"prompt-glass prompt-press prompt-template flex h-9 items-center gap-2 px-3 text-[14px] text-[#f7f6f6]\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" aria-hidden=\"true\"><path d=\"M0 0h2v2h-2ZM2 0h2v2h-2ZM8 0h2v2h-2ZM10 0h2v2h-2ZM0 2h2v2h-2ZM2 2h2v2h-2ZM8 2h2v2h-2ZM10 2h2v2h-2ZM4 4h2v2h-2ZM6 4h2v2h-2ZM12 4h2v2h-2ZM14 4h2v2h-2ZM4 6h2v2h-2ZM6 6h2v2h-2ZM12 6h2v2h-2ZM14 6h2v2h-2ZM0 8h2v2h-2ZM2 8h2v2h-2ZM8 8h2v2h-2ZM10 8h2v2h-2ZM0 10h2v2h-2ZM2 10h2v2h-2ZM8 10h2v2h-2ZM10 10h2v2h-2ZM4 12h2v2h-2ZM6 12h2v2h-2ZM12 12h2v2h-2ZM14 12h2v2h-2ZM4 14h2v2h-2ZM6 14h2v2h-2ZM12 14h2v2h-2ZM14 14h2v2h-2Z\" fill=\"currentColor\"></path></svg> What"
+    },
+    {
+      "text": "",
+      "aria": "Close",
+      "expanded": null,
+      "html": "<button type=\"button\" aria-label=\"Close\" class=\"prompt-press ml-auto flex size-6 items-center justify-center text-[#f7f6f6]/60 hover:bg-white/10 hover:text-[#f7f6f6]\"><svg width=\"8\" height=\"8\" viewBox=\"0 0 10 10\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.2\" aria-hidden=\"true\"><path d=\"m1.5 1.5 7 7m0-7-7 7\"></path></svg></button>"
+    },
+    {
+      "text": "",
+      "aria": "Ask by voice",
+      "expanded": null,
+      "html": "<button type=\"button\" aria-label=\"Ask by voice\" aria-pressed=\"false\" class=\"bg-white/10 text-[#f7f6f6]/90 hover:bg-white/16 prompt-press prompt-mic relative flex size-7 shrink-0 items-center justify-center\" data-listening=\"false\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z\"></path><path d=\"M19 10v2a7 7 0 0 1-14 0v-2\"></path><line x1=\"12\" x2=\"12\" y1=\"19\" y2=\"22\"></line></svg></button>"
+    },
+    {
+      "text": "",
+      "aria": "Send message",
+      "expanded": null,
+      "html": "<button type=\"submit\" aria-label=\"Send message\" disabled=\"\" class=\"prompt-press flex size-7 shrink-0 items-center justify-center bg-[#f7f6f6] text-[#1e1b17] hover:bg-white disabled:opacity-40\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 7-7 7 7\"></path><path d=\"M12 19V5\"></path></svg></button>"
+    }
+  ],
+  "links": [
+    {
+      "text": "NEW\nAccuracy you can check: every benchmark, losses included. See the evals",
+      "href": "https://conare.ai/evals",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://conare.ai/",
+      "aria": "Conare home"
+    },
+    {
+      "text": "SearchStore documents and query them.",
+      "href": "https://conare.ai/#search",
+      "aria": null
+    },
+    {
+      "text": "SyncKeep your apps in a namespace.",
+      "href": "https://conare.ai/#sync",
+      "aria": null
+    },
+    {
+      "text": "ParseRead any file in full, every row and cell.",
+      "href": "https://conare.ai/#parse",
+      "aria": null
+    },
+    {
+      "text": "EmbedEmbeddings for any vector database.",
+      "href": "https://conare.ai/#embed",
+      "aria": null
+    },
+    {
+      "text": "RerankPut the best passages first.",
+      "href": "https://conare.ai/reranker",
+      "aria": null
+    },
+    {
+      "text": "BenchmarksAccuracy you can check, losses included.",
+      "href": "https://conare.ai/#benchmarks",
+      "aria": null
+    },
+    {
+      "text": "Price vs accuracyMost accurate, and the cheapest.",
+      "href": "https://conare.ai/#price",
+      "aria": null
+    },
+    {
+      "text": "FAQ",
+      "href": "https://conare.ai/#faq",
+      "aria": null
+    },
+    {
+      "text": "Pricing",
+      "href": "https://conare.ai/pricing",
+      "aria": null
+    },
+    {
+      "text": "Docs",
+      "href": "https://conare.ai/docs",
+      "aria": null
+    },
+    {
+      "text": "Contact us",
+      "href": "https://cal.com/team/conare-inc/demo",
+      "aria": null
+    },
+    {
+      "text": "Dashboard",
+      "href": "https://conare.ai/dashboard",
+      "aria": null
+    },
+    {
+      "text": "SearchStore documents and query them.",
+      "href": "https://conare.ai/#search",
+      "aria": null
+    },
+    {
+      "text": "SyncKeep your apps in a namespace.",
+      "href": "https://conare.ai/#sync",
+      "aria": null
+    },
+    {
+      "text": "ParseRead any file in full, every row and cell.",
+      "href": "https://conare.ai/#parse",
+      "aria": null
+    },
+    {
+      "text": "EmbedEmbeddings for any vector database.",
+      "href": "https://conare.ai/#embed",
+      "aria": null
+    },
+    {
+      "text": "RerankPut the best passages first.",
+      "href": "https://conare.ai/reranker",
+      "aria": null
+    },
+    {
+      "text": "BenchmarksAccuracy you can check, losses included.",
+      "href": "https://conare.ai/#benchmarks",
+      "aria": null
+    },
+    {
+      "text": "Price vs accuracyMost accurate, and the cheapest.",
+      "href": "https://conare.ai/#price",
+      "aria": null
+    },
+    {
+      "text": "FAQ",
+      "href": "https://conare.ai/#faq",
+      "aria": null
+    },
+    {
+      "text": "Pricing",
+      "href": "https://conare.ai/pricing",
+      "aria": null
+    },
+    {
+      "text": "Docs",
+      "href": "https://conare.ai/docs",
+      "aria": null
+    },
+    {
+      "text": " Contact us ",
+      "href": "https://cal.com/team/conare-inc/demo",
+      "aria": null
+    },
+    {
+      "text": " Dashboard ",
+      "href": "https://conare.ai/dashboard",
+      "aria": null
+    },
+    {
+      "text": "Book a call",
+      "href": "https://cal.com/team/conare-inc/demo",
+      "aria": null
+    },
+    {
+      "text": "Read docs",
+      "href": "https://conare.ai/docs",
+      "aria": null
+    },
+    {
+      "text": "Visit our Trust Center",
+      "href": "https://trust.conare.ai/",
+      "aria": null
+    },
+    {
+      "text": "Read docs",
+      "href": "https://conare.ai/docs/files",
+      "aria": null
+    },
+    {
+      "text": "See every benchmark",
+      "href": "https://conare.ai/evals",
+      "aria": null
+    },
+    {
+      "text": "See the benchmark",
+      "href": "https://conare.ai/evals/vidore-embedding",
+      "aria": null
+    },
+    {
+      "text": "Book a demo",
+      "href": "https://cal.com/team/conare-inc/demo",
+      "aria": null
+    },
+    {
+      "text": "Privacy\nPrivacy",
+      "href": "https://conare.ai/privacy",
+      "aria": null
+    },
+    {
+      "text": "Terms\nTerms",
+      "href": "https://conare.ai/terms",
+      "aria": null
+    },
+    {
+      "text": "Search\nSearch",
+      "href": "https://conare.ai/docs/query",
+      "aria": null
+    },
+    {
+      "text": "Sync\nSync",
+      "href": "https://conare.ai/docs/sources",
+      "aria": null
+    },
+    {
+      "text": "Parse\nParse",
+      "href": "https://conare.ai/docs/files",
+      "aria": null
+    },
+    {
+      "text": "Embed\nEmbed",
+      "href": "https://conare.ai/docs/embed-rerank",
+      "aria": null
+    },
+    {
+      "text": "Rerank\nRerank",
+      "href": "https://conare.ai/reranker",
+      "aria": null
+    },
+    {
+      "text": "Docs\nDocs",
+      "href": "https://conare.ai/docs",
+      "aria": null
+    },
+    {
+      "text": "Quickstart\nQuickstart",
+      "href": "https://conare.ai/docs/quickstart",
+      "aria": null
+    },
+    {
+      "text": "API\nAPI",
+      "href": "https://conare.ai/docs/api",
+      "aria": null
+    },
+    {
+      "text": "SDK\nSDK",
+      "href": "https://conare.ai/docs/sdk",
+      "aria": null
+    },
+    {
+      "text": "MCP server\nMCP server",
+      "href": "https://conare.ai/docs/mcp-server",
+      "aria": null
+    },
+    {
+      "text": "Evals\nEvals",
+      "href": "https://conare.ai/evals",
+      "aria": null
+    },
+    {
+      "text": "Blog\nBlog",
+      "href": "https://conare.ai/blog",
+      "aria": null
+    },
+    {
+      "text": "Pricing\nPricing",
+      "href": "https://conare.ai/pricing",
+      "aria": null
+    },
+    {
+      "text": "Security\nSecurity",
+      "href": "https://conare.ai/security/disclosure",
+      "aria": null
+    },
+    {
+      "text": "Subprocessors\nSubprocessors",
+      "href": "https://conare.ai/subprocessors",
+      "aria": null
+    },
+    {
+      "text": "Status\nStatus",
+      "href": "https://status.conare.ai/",
+      "aria": null
+    },
+    {
+      "text": "Book a demo\nBook a demo",
+      "href": "https://cal.com/team/conare-inc/demo",
+      "aria": null
+    },
+    {
+      "text": "Contact us\nContact us",
+      "href": "https://cal.com/team/conare-inc/demo",
+      "aria": null
+    },
+    {
+      "text": "Sign in\nSign in",
+      "href": "https://conare.ai/login",
+      "aria": null
+    }
+  ]
+}

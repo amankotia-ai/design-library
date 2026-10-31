@@ -1,0 +1,112 @@
+{
+  "results": [
+    "Delivered hashes match canonical source/assets and running mirror.",
+    "Page registry IDs/system/ordered section references resolve.",
+    {
+      "width": 1440,
+      "noOverflow": true,
+      "completeUncroppedImages": [
+        {
+          "natural": [
+            1440,
+            6237
+          ],
+          "rendered": [
+            520,
+            2252
+          ],
+          "objectFit": "fill",
+          "overflow": "visible"
+        },
+        {
+          "natural": [
+            1440,
+            8545
+          ],
+          "rendered": [
+            520,
+            3086
+          ],
+          "objectFit": "fill",
+          "overflow": "visible"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "noOverflow": true,
+      "completeUncroppedImages": [
+        {
+          "natural": [
+            1440,
+            6237
+          ],
+          "rendered": [
+            314,
+            1360
+          ],
+          "objectFit": "fill",
+          "overflow": "visible"
+        },
+        {
+          "natural": [
+            1440,
+            8545
+          ],
+          "rendered": [
+            314,
+            1863
+          ],
+          "objectFit": "fill",
+          "overflow": "visible"
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "noOverflow": true,
+      "completeUncroppedImages": [
+        {
+          "natural": [
+            1440,
+            6237
+          ],
+          "rendered": [
+            244,
+            1057
+          ],
+          "objectFit": "fill",
+          "overflow": "visible"
+        },
+        {
+          "natural": [
+            1440,
+            8545
+          ],
+          "rendered": [
+            244,
+            1448
+          ],
+          "objectFit": "fill",
+          "overflow": "visible"
+        }
+      ]
+    },
+    "Filter/reload/clear work.",
+    "Keyboard focus outline and Enter navigation/back work.",
+    "page open new tab has footer; correct detail + 390px responsive shell.",
+    "blueprint-page open new tab has footer; correct detail + 390px responsive shell.",
+    "Design Systems and Sections retain existing structures/actions."
+  ],
+  "errors": [],
+  "hashes": {
+    "catalog.jsx": "f0a7691ac0086bce1e683d6eac173da5a7363699f7e613d0f6dfd30f5bc58b24",
+    "catalog.css": "22329a1ce85c810d253bde931d38748c6b83feb7825bdbdaf7f0bb353dcf5217",
+    "system-browser.jsx": "ed6f0e9cfdbae9c2d30ab4dd3484d44fe8c78cfd65992bf25804e81395525338",
+    "main.jsx": "cf31f6a0248cf5efec381bb4fecb7599bb30b4e0e15aad9e9bc9f5a798da22e0",
+    "page-shells.js": "e5ca17e8b47d3c7107f0e85b2db532f9c14176427fbcddf3fb267bb36a336495",
+    "page-browser.jsx": "3260befdbe98455f1405b2cd0b2faa67df4528d888773164552f60fcc51a7ee5",
+    "page.jpg": "457cc209ca34c49b560c94b54138204582a778cb02272ac581cc9253e11e9160",
+    "blueprint-page.jpg": "e99c143a72221d2ee7aeceb163a61e36dd335e14e2f0d62e6e90c6ad8fa526f5"
+  }
+}

@@ -1,0 +1,14 @@
+/* Layout scales with the specimen, independently of the catalog column count. */
+.system-preview.interfere-specimen{background:var(--interfere-specimen-ground);color:var(--interfere-specimen-ink);font-family:InterfereSpecimen,Arial,sans-serif}
+.interfere-specimen-content{height:100%;display:grid;grid-template-rows:minmax(0,1fr) auto;gap:3.6cqw;padding:6.5cqw}
+.interfere-specimen-letterforms{display:grid;grid-template-columns:1fr 1fr;align-items:end;gap:8cqw;margin:0 0 2.5cqw}
+.interfere-specimen-letterforms>div{display:flex;flex-direction:column;gap:1.3cqw}
+.interfere-specimen-letterforms>div:last-child{padding-left:3cqw}
+.interfere-specimen-sans{display:block;font-size:22cqw;line-height:.95;font-weight:500}
+.interfere-specimen-serif{display:block;font-family:InterfereHeldane,Georgia,serif;font-size:22cqw;line-height:.95;font-weight:400}
+.interfere-specimen-font-name{color:var(--interfere-specimen-muted);font-size:2.3cqw;line-height:1.3}
+.interfere-specimen-phrase{margin:0;font-size:6cqw;line-height:1.12;font-weight:450;text-wrap:balance}
+.interfere-specimen-colors{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:2cqw}
+.interfere-specimen-colors i{display:block;height:5cqw;border:1px solid var(--interfere-specimen-outline);border-radius:1cqw}
+.interfere-specimen-colors span{display:block;font-size:2.3cqw;line-height:1.3;margin-top:.8cqw;color:var(--interfere-specimen-muted)}
+.style-preview-interfere{background:var(--interfere-specimen-ground)}

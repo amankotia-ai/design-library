@@ -1,0 +1,54 @@
+[
+  {
+    "name": "pages",
+    "device": "desktop",
+    "styles": [
+      {
+        "class": "style-preview style-preview-editorial-01",
+        "border": "rgb(237, 237, 233)",
+        "width": "1px"
+      },
+      {
+        "class": "page-viewport",
+        "border": "rgb(237, 237, 233)",
+        "width": "1px"
+      },
+      {
+        "class": "style-preview style-preview-blueprint-source",
+        "border": "rgb(237, 237, 233)",
+        "width": "1px"
+      },
+      {
+        "class": "page-viewport",
+        "border": "rgb(237, 237, 233)",
+        "width": "1px"
+      }
+    ]
+  },
+  {
+    "name": "pages",
+    "device": "mobile",
+    "styles": [
+      {
+        "class": "style-preview style-preview-editorial-01",
+        "border": "rgb(237, 237, 233)",
+        "width": "1px"
+      },
+      {
+        "class": "page-viewport",
+        "border": "rgb(237, 237, 233)",
+        "width": "1px"
+      },
+      {
+        "class": "style-preview style-preview-blueprint-source",
+        "border": "rgb(237, 237, 233)",
+        "width": "1px"
+      },
+      {
+        "class": "page-viewport",
+        "border": "rgb(237, 237, 233)",
+        "width": "1px"
+      }
+    ]
+  }
+]

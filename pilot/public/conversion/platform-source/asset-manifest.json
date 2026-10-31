@@ -1,0 +1,310 @@
+{
+  "source": "https://conversion.ai/",
+  "css": [
+    "/_astro/Layout.D-JKfrZ-.css",
+    "/_astro/index@_@astro.CXgieUIo.css",
+    "/_astro/app-ui.r0UfsBwn.css"
+  ],
+  "assets": [
+    {
+      "source": "https://conversion.ai/_astro/inter-cyrillic-400-normal.HOLc17fK.woff",
+      "local": "/conversion/platform-source/_astro/inter-cyrillic-400-normal.HOLc17fK.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-cyrillic-400-normal.obahsSVq.woff2",
+      "local": "/conversion/platform-source/_astro/inter-cyrillic-400-normal.obahsSVq.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-cyrillic-500-normal.BasfLYem.woff2",
+      "local": "/conversion/platform-source/_astro/inter-cyrillic-500-normal.BasfLYem.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-cyrillic-500-normal.CxZf_p3X.woff",
+      "local": "/conversion/platform-source/_astro/inter-cyrillic-500-normal.CxZf_p3X.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-cyrillic-ext-400-normal.BQZuk6qB.woff2",
+      "local": "/conversion/platform-source/_astro/inter-cyrillic-ext-400-normal.BQZuk6qB.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-cyrillic-ext-400-normal.DQukG94-.woff",
+      "local": "/conversion/platform-source/_astro/inter-cyrillic-ext-400-normal.DQukG94-.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-cyrillic-ext-500-normal.B0yAr1jD.woff2",
+      "local": "/conversion/platform-source/_astro/inter-cyrillic-ext-500-normal.B0yAr1jD.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-cyrillic-ext-500-normal.BmqWE9Dz.woff",
+      "local": "/conversion/platform-source/_astro/inter-cyrillic-ext-500-normal.BmqWE9Dz.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-greek-400-normal.B4URO6DV.woff2",
+      "local": "/conversion/platform-source/_astro/inter-greek-400-normal.B4URO6DV.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-greek-400-normal.q2sYcFCs.woff",
+      "local": "/conversion/platform-source/_astro/inter-greek-400-normal.q2sYcFCs.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-greek-500-normal.BIZE56-Y.woff2",
+      "local": "/conversion/platform-source/_astro/inter-greek-500-normal.BIZE56-Y.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-greek-500-normal.Xzm54t5V.woff",
+      "local": "/conversion/platform-source/_astro/inter-greek-500-normal.Xzm54t5V.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-greek-ext-400-normal.DGGRlc-M.woff2",
+      "local": "/conversion/platform-source/_astro/inter-greek-ext-400-normal.DGGRlc-M.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-greek-ext-400-normal.KugGGMne.woff",
+      "local": "/conversion/platform-source/_astro/inter-greek-ext-400-normal.KugGGMne.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-greek-ext-500-normal.2j5mBUwD.woff",
+      "local": "/conversion/platform-source/_astro/inter-greek-ext-500-normal.2j5mBUwD.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-greek-ext-500-normal.C4iEst2y.woff2",
+      "local": "/conversion/platform-source/_astro/inter-greek-ext-500-normal.C4iEst2y.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-latin-400-normal.C38fXH4l.woff2",
+      "local": "/conversion/platform-source/_astro/inter-latin-400-normal.C38fXH4l.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-latin-400-normal.CyCys3Eg.woff",
+      "local": "/conversion/platform-source/_astro/inter-latin-400-normal.CyCys3Eg.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-latin-500-normal.BL9OpVg8.woff",
+      "local": "/conversion/platform-source/_astro/inter-latin-500-normal.BL9OpVg8.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-latin-500-normal.Cerq10X2.woff2",
+      "local": "/conversion/platform-source/_astro/inter-latin-500-normal.Cerq10X2.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-latin-ext-400-normal.77YHD8bZ.woff",
+      "local": "/conversion/platform-source/_astro/inter-latin-ext-400-normal.77YHD8bZ.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-latin-ext-400-normal.C1nco2VV.woff2",
+      "local": "/conversion/platform-source/_astro/inter-latin-ext-400-normal.C1nco2VV.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-latin-ext-500-normal.BxGbmqWO.woff",
+      "local": "/conversion/platform-source/_astro/inter-latin-ext-500-normal.BxGbmqWO.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-latin-ext-500-normal.CV4jyFjo.woff2",
+      "local": "/conversion/platform-source/_astro/inter-latin-ext-500-normal.CV4jyFjo.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-vietnamese-400-normal.Bbgyi5SW.woff",
+      "local": "/conversion/platform-source/_astro/inter-vietnamese-400-normal.Bbgyi5SW.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-vietnamese-400-normal.DMkecbls.woff2",
+      "local": "/conversion/platform-source/_astro/inter-vietnamese-400-normal.DMkecbls.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-vietnamese-500-normal.DOriooB6.woff2",
+      "local": "/conversion/platform-source/_astro/inter-vietnamese-500-normal.DOriooB6.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/_astro/inter-vietnamese-500-normal.mJboJaSs.woff",
+      "local": "/conversion/platform-source/_astro/inter-vietnamese-500-normal.mJboJaSs.woff",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/fonts/family/family-italic.woff2",
+      "local": "/conversion/platform-source/fonts/family/family-italic.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/fonts/family/family-regular.woff2",
+      "local": "/conversion/platform-source/fonts/family/family-regular.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/fonts/geist/geist-mono-var.woff2",
+      "local": "/conversion/platform-source/fonts/geist/geist-mono-var.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/fonts/twk-lausanne/TWKLausanne-300.woff2",
+      "local": "/conversion/platform-source/fonts/twk-lausanne/TWKLausanne-300.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/fonts/twk-lausanne/TWKLausanne-400.woff2",
+      "local": "/conversion/platform-source/fonts/twk-lausanne/TWKLausanne-400.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/fonts/twk-lausanne/TWKLausanne-500.woff2",
+      "local": "/conversion/platform-source/fonts/twk-lausanne/TWKLausanne-500.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/fonts/twk-lausanne/TWKLausanne-700.woff2",
+      "local": "/conversion/platform-source/fonts/twk-lausanne/TWKLausanne-700.woff2",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/asana.svg",
+      "local": "/conversion/platform-source/images/integration-logos/asana.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/bigquery.svg",
+      "local": "/conversion/platform-source/images/integration-logos/bigquery.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/clay.svg",
+      "local": "/conversion/platform-source/images/integration-logos/clay.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/databricks.svg",
+      "local": "/conversion/platform-source/images/integration-logos/databricks.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/gong.svg",
+      "local": "/conversion/platform-source/images/integration-logos/gong.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/google-ads.svg",
+      "local": "/conversion/platform-source/images/integration-logos/google-ads.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/linkedin-ads.svg",
+      "local": "/conversion/platform-source/images/integration-logos/linkedin-ads.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/meta-ads.svg",
+      "local": "/conversion/platform-source/images/integration-logos/meta-ads.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/outreach.svg",
+      "local": "/conversion/platform-source/images/integration-logos/outreach.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/salesforce.svg",
+      "local": "/conversion/platform-source/images/integration-logos/salesforce.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/segment.svg",
+      "local": "/conversion/platform-source/images/integration-logos/segment.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/slack.svg",
+      "local": "/conversion/platform-source/images/integration-logos/slack.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/snowflake.svg",
+      "local": "/conversion/platform-source/images/integration-logos/snowflake.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/webflow.svg",
+      "local": "/conversion/platform-source/images/integration-logos/webflow.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/zapier.svg",
+      "local": "/conversion/platform-source/images/integration-logos/zapier.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/integration-logos/zoom-webinar.svg",
+      "local": "/conversion/platform-source/images/integration-logos/zoom-webinar.svg",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/textures/10.webp",
+      "local": "/conversion/platform-source/images/textures/10.webp",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/textures/11.webp",
+      "local": "/conversion/platform-source/images/textures/11.webp",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/textures/12.webp",
+      "local": "/conversion/platform-source/images/textures/12.webp",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/textures/2.webp",
+      "local": "/conversion/platform-source/images/textures/2.webp",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/textures/3.webp",
+      "local": "/conversion/platform-source/images/textures/3.webp",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/textures/5.webp",
+      "local": "/conversion/platform-source/images/textures/5.webp",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/textures/7.webp",
+      "local": "/conversion/platform-source/images/textures/7.webp",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/textures/8.webp",
+      "local": "/conversion/platform-source/images/textures/8.webp",
+      "error": null
+    },
+    {
+      "source": "https://conversion.ai/images/textures/grain.avif",
+      "local": "/conversion/platform-source/images/textures/grain.avif",
+      "error": null
+    }
+  ]
+}

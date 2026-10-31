@@ -1,0 +1,213 @@
+{
+  "width": 390,
+  "height": 844,
+  "scrollWidth": 390,
+  "scrollHeight": 9089,
+  "headings": [
+    {
+      "text": "Ship software that never breaks",
+      "rect": {
+        "x": 24,
+        "y": 112,
+        "width": 285.609375,
+        "height": 72,
+        "top": 112,
+        "right": 309.609375,
+        "bottom": 184,
+        "left": 24
+      }
+    },
+    {
+      "text": "Interfere empowers engineers, product managers and designers with real-time understanding of previously unseen bugs and issues.",
+      "rect": {
+        "x": 24,
+        "y": 200,
+        "width": 342,
+        "height": 96,
+        "top": 200,
+        "right": 366,
+        "bottom": 296,
+        "left": 24
+      }
+    },
+    {
+      "text": "Broken password reset link",
+      "rect": {
+        "x": 100,
+        "y": 573.203125,
+        "width": 391,
+        "height": 32,
+        "top": 573.203125,
+        "right": 491,
+        "bottom": 605.203125,
+        "left": 100
+      }
+    },
+    {
+      "text": "Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.",
+      "rect": {
+        "x": 24,
+        "y": 1349,
+        "width": 342,
+        "height": 160,
+        "top": 1349,
+        "right": 366,
+        "bottom": 1509,
+        "left": 24
+      }
+    },
+    {
+      "text": "Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "text": "Learn about issues before your customers do",
+      "rect": {
+        "x": 24,
+        "y": 1765,
+        "width": 342,
+        "height": 24,
+        "top": 1765,
+        "right": 366,
+        "bottom": 1789,
+        "left": 24
+      }
+    },
+    {
+      "text": "Understand what's going wrong",
+      "rect": {
+        "x": 24,
+        "y": 2121,
+        "width": 342,
+        "height": 24,
+        "top": 2121,
+        "right": 366,
+        "bottom": 2145,
+        "left": 24
+      }
+    },
+    {
+      "text": "Fix problems with confidence",
+      "rect": {
+        "x": 24,
+        "y": 2477,
+        "width": 342,
+        "height": 24,
+        "top": 2477,
+        "right": 366,
+        "bottom": 2501,
+        "left": 24
+      }
+    },
+    {
+      "text": "Learn about issues before your customers do",
+      "rect": {
+        "x": 24,
+        "y": 3213,
+        "width": 342,
+        "height": 72,
+        "top": 3213,
+        "right": 366,
+        "bottom": 3285,
+        "left": 24
+      }
+    },
+    {
+      "text": "Understand what's going wrong",
+      "rect": {
+        "x": 24,
+        "y": 4279,
+        "width": 342,
+        "height": 72,
+        "top": 4279,
+        "right": 366,
+        "bottom": 4351,
+        "left": 24
+      }
+    },
+    {
+      "text": "Broken password reset link",
+      "rect": {
+        "x": 102,
+        "y": 4853,
+        "width": 391,
+        "height": 32,
+        "top": 4853,
+        "right": 493,
+        "bottom": 4885,
+        "left": 102
+      }
+    },
+    {
+      "text": "Fix problems with confidence",
+      "rect": {
+        "x": 24,
+        "y": 5309,
+        "width": 342,
+        "height": 72,
+        "top": 5309,
+        "right": 366,
+        "bottom": 5381,
+        "left": 24
+      }
+    },
+    {
+      "text": "Secure by design.Safe by default.",
+      "rect": {
+        "x": 44,
+        "y": 6410,
+        "width": 220.625,
+        "height": 72,
+        "top": 6410,
+        "right": 264.625,
+        "bottom": 6482,
+        "left": 44
+      }
+    },
+    {
+      "text": "The Latest",
+      "rect": {
+        "x": 24,
+        "y": 6964,
+        "width": 342,
+        "height": 36,
+        "top": 6964,
+        "right": 366,
+        "bottom": 7000,
+        "left": 24
+      }
+    },
+    {
+      "text": "Ship software that never breaks",
+      "rect": {
+        "x": 52.875,
+        "y": 7425,
+        "width": 284.234375,
+        "height": 72,
+        "top": 7425,
+        "right": 337.109375,
+        "bottom": 7497,
+        "left": 52.875
+      }
+    }
+  ],
+  "images": [
+    {
+      "src": "http://127.0.0.1:5175/interfere/assets/8d0d8ee7f8b026.png",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:5175/interfere/assets/27feba3fc55b46.png",
+      "loaded": true
+    }
+  ]
+}

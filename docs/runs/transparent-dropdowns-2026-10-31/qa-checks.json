@@ -1,0 +1,8 @@
+{
+  "checks": [
+    "sections:transparent normal/hover,SVG arrow,pill radius,36px height",
+    "pages:transparent normal/hover,SVG arrow,pill radius,36px height",
+    "sections&section=hero:transparent normal/hover,SVG arrow,pill radius,36px height"
+  ],
+  "hash": "92c493ac5dee1cfcc4fe18093ee3915e947193ed9f82e59fd3e417199e167924"
+}

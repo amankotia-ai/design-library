@@ -1,0 +1,37 @@
+{
+  "checks": [
+    "Delivered catalog hash and runtime mirror equality passed",
+    "Both types, correct cards, reload persistence and Clear filters passed",
+    "Stale system params ignored; invalid page/section types fall back to all",
+    {
+      "width": 1440,
+      "selectFocus": {
+        "focusVisible": true,
+        "outline": "none",
+        "boxShadow": "rgb(86, 86, 79) 0px 0px 0px 1px"
+      }
+    },
+    {
+      "width": 390,
+      "selectFocus": {
+        "focusVisible": true,
+        "outline": "none",
+        "boxShadow": "rgb(86, 86, 79) 0px 0px 0px 1px"
+      }
+    },
+    {
+      "width": 320,
+      "selectFocus": {
+        "focusVisible": true,
+        "outline": "none",
+        "boxShadow": "rgb(86, 86, 79) 0px 0px 0px 1px"
+      }
+    },
+    "1440/390/320 compact9:10 cards/no overflow/native select keyboard focus passed",
+    "Sections combined type+system filters/reload/clear retained"
+  ],
+  "errors": [],
+  "hashes": {
+    "catalog.jsx": "7e5c8acf31efcd17de3d7ffa248f96b7d4def5903dff51d3486d41d0659daec8"
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "question": "How do I get started?",
+    "answer": "Conare is invite-only for now. Book a demo: we set up your organization with you, and your team then creates API keys in the console.",
+    "links": []
+  },
+  {
+    "question": "Which part should I use?",
+    "answer": "The platform when you want Conare to hold your data, keep it in sync and return the right context. The models or the vector database alone when you already run the rest of the stack.",
+    "links": []
+  },
+  {
+    "question": "Is my data used to train models?",
+    "answer": "No. We do not train models on your content, unless your organization asks us in writing for a custom model built from it, which then serves your organization alone.",
+    "links": []
+  },
+  {
+    "question": "Where is my data processed?",
+    "answer": "On Microsoft Azure and Google Cloud in the United States. Every vendor that processes customer data is on our subprocessors page.",
+    "links": []
+  },
+  {
+    "question": "What happens when a record changes?",
+    "answer": "A changed record replaces its old version. A deleted one is deleted.",
+    "links": []
+  },
+  {
+    "question": "How do I delete a user's data?",
+    "answer": "One call removes everything Conare holds of them.",
+    "links": []
+  },
+  {
+    "question": "What do I have to run?",
+    "answer": "Nothing. Conare runs the servers, shards and index tuning, the embedding and reranking models, and the sync jobs for every app, and keeps each organization's data separate.",
+    "links": []
+  }
+]

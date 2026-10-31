@@ -1,0 +1,24 @@
+/* Reconstruction layout fixes and authored interaction states, separate from source tokens. */
+html[data-steel-study] body{margin:0;background:var(--bg);color:var(--text);font-family:var(--face-text);font-size:16px;line-height:1.5}
+#root{width:100%}.steel-study{width:100%}.steel-fragment{display:contents}.steel-faq-item summary{list-style:none;cursor:pointer}.steel-faq-item summary::-webkit-details-marker{display:none}.steel-faq-item summary::after{content:'+';font-family:monospace;font-size:22px;font-weight:300}.steel-faq-item[open] summary::after{content:'−'}.steel-faq-answer>[class]{display:block;opacity:1;grid-template-rows:1fr}.steel-action-status{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:60;background:var(--text);color:var(--bg);padding:12px 20px;font:13px var(--font-mono);max-width:calc(100% - 40px);border-radius:4px}
+.steel-standalone [data-steel-section]>div>section{margin-top:0!important;margin-bottom:0!important}.steel-standalone:has([data-steel-section=steel-header]):not(:has([data-steel-section=steel-hero])){min-height:114px;background:var(--band-hero)}
+/* Freeze the source's moving use-case field into a readable responsive index. */
+[data-use-case]{position:static!important;translate:none!important;scale:none!important;opacity:1!important;font-size:clamp(20px,2.3vw,34px)!important;cursor:pointer!important;white-space:normal!important;text-align:left}
+[data-use-case]:hover,[data-use-case]:focus-visible{text-decoration:underline}
+.steel-fragment[data-steel-section=steel-use-cases] section{height:auto!important;min-height:600px;padding-block:90px}
+.steel-fragment[data-steel-section=steel-use-cases] [data-use-case]{margin:8px 12px}
+.steel-fragment[data-steel-section=steel-use-cases] div:has(>[data-use-case]){position:relative!important;display:flex!important;flex-wrap:wrap;justify-content:center;align-content:center;height:auto!important;min-height:320px!important;inset:auto!important}
+@media(max-width:767px){.steel-fragment[data-steel-section=steel-use-cases] section{padding-block:40px;min-height:0}.steel-fragment[data-steel-section=steel-use-cases] div:has(>[data-use-case]){display:none!important}.steel-action-status{font-size:12px}.steel-study{overflow-x:clip}}
+@media(prefers-reduced-motion:reduce){.steel-study *, .steel-study *::before,.steel-study *::after{animation:none!important;transition:none!important}}
+/* Preserve the source's display:contents hierarchy and top-of-page announcement. */
+html[data-steel-study] #root,.steel-study{display:contents}
+html[data-steel-study] .announce{transform:none!important}
+/* Top-level component elements preserve the source's direct-child selectors. */
+[data-steel-open] *{opacity:1!important;visibility:visible!important;transform:none!important;grid-template-rows:1fr!important}
+[data-steel-open] .hidden{display:block!important}
+@media(min-width:768px){html[data-steel-embed] #hero{height:500px!important}}
+.steel-standalone>[data-steel-section]{margin-top:0!important;margin-bottom:0!important}
+
+.steel-use-cases{position:relative;margin-top:100px;padding:96px 0;min-height:700px}.steel-use-index{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:70px}.steel-use-index details{border-top:1px solid color-mix(in srgb,currentColor 20%,transparent);padding-top:16px}.steel-use-index summary{cursor:pointer;font-size:24px;line-height:1.2}.steel-use-index p{font-size:16px;line-height:1.6;margin-top:16px}.steel-use-cases [data-hook=use-cases-title]{margin:auto}.nav-burger{z-index:60!important;position:relative!important}@media(max-width:767px){.steel-use-cases{margin-top:48px;padding:48px 0;min-height:0}.steel-use-index{grid-template-columns:1fr;gap:24px;margin-top:40px}.steel-use-index summary{font-size:20px}}
+
+[data-steel-menu][data-steel-open]{background:#fdfdfc!important;position:fixed!important;inset:110px 0 0!important;width:100%!important;max-height:calc(100dvh - 110px)!important;overflow:auto!important;z-index:40!important;padding:20px!important}

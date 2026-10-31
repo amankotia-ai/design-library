@@ -1,0 +1,622 @@
+[
+  {
+    "route": "?panel=pages",
+    "width": 320,
+    "headerWidth": 320,
+    "headerX": 0,
+    "brandX": 24,
+    "navRight": 296,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Pages",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=pages",
+    "width": 390,
+    "headerWidth": 390,
+    "headerX": 0,
+    "brandX": 24,
+    "navRight": 366,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Pages",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=pages",
+    "width": 701,
+    "headerWidth": 701,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 669,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Pages",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=pages",
+    "width": 768,
+    "headerWidth": 768,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 736,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Pages",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=pages",
+    "width": 1440,
+    "headerWidth": 1440,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 1408,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Pages",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=sections",
+    "width": 320,
+    "headerWidth": 320,
+    "headerX": 0,
+    "brandX": 24,
+    "navRight": 296,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=sections",
+    "width": 390,
+    "headerWidth": 390,
+    "headerX": 0,
+    "brandX": 24,
+    "navRight": 366,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=sections",
+    "width": 701,
+    "headerWidth": 701,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 669,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=sections",
+    "width": 768,
+    "headerWidth": 768,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 736,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=sections",
+    "width": 1440,
+    "headerWidth": 1440,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 1408,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=systems",
+    "width": 320,
+    "headerWidth": 320,
+    "headerX": 0,
+    "brandX": 24,
+    "navRight": 296,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Design Systems",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=systems",
+    "width": 390,
+    "headerWidth": 390,
+    "headerX": 0,
+    "brandX": 24,
+    "navRight": 366,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Design Systems",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=systems",
+    "width": 701,
+    "headerWidth": 701,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 669,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Design Systems",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=systems",
+    "width": 768,
+    "headerWidth": 768,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 736,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Design Systems",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?panel=systems",
+    "width": 1440,
+    "headerWidth": 1440,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 1408,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Design Systems",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?section=hero",
+    "width": 320,
+    "headerWidth": 320,
+    "headerX": 0,
+    "brandX": 24,
+    "navRight": 296,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?section=hero",
+    "width": 390,
+    "headerWidth": 390,
+    "headerX": 0,
+    "brandX": 24,
+    "navRight": 366,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?section=hero",
+    "width": 701,
+    "headerWidth": 701,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 669,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?section=hero",
+    "width": 768,
+    "headerWidth": 768,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 736,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "?section=hero",
+    "width": 1440,
+    "headerWidth": 1440,
+    "headerX": 0,
+    "brandX": 32,
+    "navRight": 1408,
+    "brandNavOverlap": false,
+    "overflow": false,
+    "links": [
+      {
+        "text": "Sections",
+        "href": "/?panel=sections"
+      },
+      {
+        "text": "Pages",
+        "href": "/?panel=pages"
+      },
+      {
+        "text": "Design Systems",
+        "href": "/?panel=systems"
+      }
+    ],
+    "active": "Sections",
+    "stroke": "rgb(246, 15, 48)",
+    "strokeMask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+    "focus": {
+      "text": "Pages",
+      "outline": "solid"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+# Integration correction result
+
+Reference: user-supplied 4096 × 2460 screenshot, normalized to 1440 × 865 for the saved comparison. Desktop reconstruction uses the observed four-line statement at approximately y318, converging line endpoints around (455, 378) and (985, 378), the ten staggered tiles, and the four metrics around y580. Font selection and the authored SVG curves remain approximations. The ten mark images in `public/assets/salesloft/integrations/` are crops from the supplied raster, not independently recovered original assets. Mobile and tablet arrangements are authored adaptations.
+
+Implementation: `src/salesloft.jsx` and `src/salesloft-integrations.css`; comparison images: `public/references/salesloft/integrations-comparison.png` and `public/evidence/salesloft/integrations-comparison.png`. The same comparison is available in the section detail view. Screenshot outputs: `evidence/salesloft/integrations.png` and `evidence/salesloft/integrations-mobile.png`.
+
+REA 6.4.0 controlled-browser scenario capture completed at 1440 × 865 with zero retained page-error events. Evidence ID `ev_c7ab3dff79bdf8d1fba310357ce4cb416f13634c6726cfb32c0f3d064d355e17`; wrapper and scenario are `rea.json` and `rea-scenario.json`. This observes the reconstruction and does not establish source behavior.
+
+The isolated runtime production build passed. `/root/integration_qa` inspected the final revision and passed the bounded comparison, preview and responsive checks; the report and hashes are in `qa.md`. The reviewer found 9.6px labels at 801px in the first rendering; `/root` corrected the breakpoint and the reviewer retested 801, 1024, 1250 and 1251px, in addition to 1440, 768, 390 and 320px. Review does not claim pixel identity, cross-browser compatibility or screen-reader certification.

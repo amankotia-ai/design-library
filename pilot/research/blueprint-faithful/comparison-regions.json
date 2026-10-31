@@ -1,0 +1,90 @@
+{
+  "blueprint-header": {
+    "width": 1440,
+    "height": 60,
+    "source": "/references/blueprint-full/header.png",
+    "implementation": "/evidence/blueprint-full/header.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-hero": {
+    "width": 1440,
+    "height": 595,
+    "source": "/references/blueprint-full/hero.png",
+    "implementation": "/evidence/blueprint-full/hero.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-editor": {
+    "width": 1440,
+    "height": 754,
+    "source": "/references/blueprint-full/editor.png",
+    "implementation": "/evidence/blueprint-full/editor.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-examples": {
+    "width": 1440,
+    "height": 958,
+    "source": "/references/blueprint-full/examples.png",
+    "implementation": "/evidence/blueprint-full/examples.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-compare": {
+    "width": 1440,
+    "height": 975,
+    "source": "/references/blueprint-full/compare.png",
+    "implementation": "/evidence/blueprint-full/compare.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-features": {
+    "width": 1440,
+    "height": 1709,
+    "source": "/references/blueprint-full/features.png",
+    "implementation": "/evidence/blueprint-full/features.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-pricing": {
+    "width": 1440,
+    "height": 1342,
+    "source": "/references/blueprint-full/pricing.png",
+    "implementation": "/evidence/blueprint-full/pricing.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-faq": {
+    "width": 1440,
+    "height": 1241,
+    "source": "/references/blueprint-full/faq.png",
+    "implementation": "/evidence/blueprint-full/faq.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-prompt": {
+    "width": 1440,
+    "height": 619,
+    "source": "/references/blueprint-full/prompt.png",
+    "implementation": "/evidence/blueprint-full/prompt.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-footer": {
+    "width": 1440,
+    "height": 351,
+    "source": "/references/blueprint-full/footer.png",
+    "implementation": "/evidence/blueprint-full/footer.png",
+    "author": "Blueprint",
+    "note": "Assembled-page context; dynamic frames vary"
+  },
+  "blueprint-page": {
+    "width": 1440,
+    "height": 8534,
+    "source": "/references/blueprint-full/source-desktop.jpg",
+    "implementation": "/evidence/blueprint-full/page.jpg",
+    "author": "Blueprint",
+    "note": "Matched1440\u00d7900 viewport; dynamic frames vary"
+  }
+}

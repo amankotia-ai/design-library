@@ -1,0 +1,106 @@
+[
+  {
+    "width": 1440,
+    "panel": "pages",
+    "metrics": {
+      "label": "Pages",
+      "decoration": "none",
+      "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+      "color": "rgb(246, 15, 48)",
+      "animation": "none",
+      "overflow": false
+    }
+  },
+  {
+    "width": 1440,
+    "panel": "systems",
+    "metrics": {
+      "label": "Design Systems",
+      "decoration": "none",
+      "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+      "color": "rgb(246, 15, 48)",
+      "animation": "none",
+      "overflow": false
+    }
+  },
+  {
+    "width": 1440,
+    "panel": "sections",
+    "metrics": {
+      "label": "Sections",
+      "decoration": "none",
+      "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+      "color": "rgb(246, 15, 48)",
+      "animation": "none",
+      "overflow": false
+    }
+  },
+  {
+    "width": 1440,
+    "focus": {
+      "text": "Sections",
+      "visible": true,
+      "outline": "solid",
+      "width": "2px"
+    }
+  },
+  {
+    "width": 1440,
+    "forced": {
+      "decoration": "underline",
+      "pseudo": "none"
+    }
+  },
+  {
+    "width": 320,
+    "panel": "pages",
+    "metrics": {
+      "label": "Pages",
+      "decoration": "none",
+      "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+      "color": "rgb(246, 15, 48)",
+      "animation": "none",
+      "overflow": false
+    }
+  },
+  {
+    "width": 320,
+    "panel": "systems",
+    "metrics": {
+      "label": "Design Systems",
+      "decoration": "none",
+      "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+      "color": "rgb(246, 15, 48)",
+      "animation": "none",
+      "overflow": false
+    }
+  },
+  {
+    "width": 320,
+    "panel": "sections",
+    "metrics": {
+      "label": "Sections",
+      "decoration": "none",
+      "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+      "color": "rgb(246, 15, 48)",
+      "animation": "none",
+      "overflow": false
+    }
+  },
+  {
+    "width": 320,
+    "focus": {
+      "text": "Sections",
+      "visible": true,
+      "outline": "solid",
+      "width": "2px"
+    }
+  },
+  {
+    "width": 320,
+    "forced": {
+      "decoration": "underline",
+      "pseudo": "none"
+    }
+  }
+]

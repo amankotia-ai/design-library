@@ -1,0 +1,128 @@
+{
+  "time": "2026-10-30T22:15:19.465Z",
+  "pages": [
+    {
+      "name": "page-desktop",
+      "url": "/?view=steel-page",
+      "state": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "height": 13501,
+        "text": "ANNOUNCING A NEW FACE FOR OUR BRAND\nBROWSER INFRA\nPRICING\nRESOURCES\nDOCS\n(OPENS IN A NEW TAB)\nSTEEL BROWSER ON GITHUB,\n7.9K\nSTARS (OPENS IN A NEW TAB)\nCONTACT SALES\nC\nSIGN IN\nS\nBrowser\nInfrastructure\nfor AI Agents\nSteel is an API that lets you control fleets of browsers.\nSpin up thousands of sessions on the web.\nSTART FOR FREE\nS\nCOPY\nCOPIED\n AGENT PROMPT\nRESEARCHER\nSCRAPER\n\nSearch the web for this week's biggest AI agent launches and summarize each one.\n\nStarting browser session ready\n\nsteelnews.com/latest 200\n\nsteelagents.com/launches 200\n\nExtracted 14 launches\n\nWrote summary.md 4.2 KB\n\nmy-ag",
+        "images": [],
+        "sections": 14
+      },
+      "errors": [],
+      "failed": [],
+      "interactions": {
+        "faqCount": 7,
+        "faqOpen": "",
+        "faqAnswerVisible": true,
+        "clipboard": "Use Steel browser infrastructure to search the web and summarize the results. See https://docs.steel.dev/ for setup.",
+        "resourceExpanded": "true",
+        "resourcePanel": {
+          "display": "block",
+          "visible": true,
+          "text": ""
+        }
+      }
+    },
+    {
+      "name": "page-mobile",
+      "url": "/?view=steel-page",
+      "state": {
+        "width": 390,
+        "scrollWidth": 390,
+        "height": 18807,
+        "text": "ANNOUNCING A NEW FACE FOR OUR BRAND\nBrowser\nInfrastructure\nfor AI Agents\nSteel is an API that lets you control fleets of browsers. Spin up thousands of sessions on the web.\nSTART FOR FREE\nCOPY\nCOPIED\n AGENT PROMPT\n\nLoved by 30,000+ engineers at\n\nReadwise\nZo Computer\nAvoca\nProfound\nOctogen\nClamo\nAtoms\nMelrose\nFluencify\nRho\nProvizual\nZingage\nCognizant\nNimbus\nNavattic\nMagical\nSteel runs millions of browser sessions every week.\nEvery one a real browser, started in under a second and released when the work is done, at whatever scale you run.\nRESEARCHER\nQA TESTER\nSHOPPER\nBOOKER\nSCRAPER\nBrowser Hours",
+        "images": [],
+        "sections": 14
+      },
+      "errors": [],
+      "failed": [],
+      "interactions": {
+        "menuExpanded": "true",
+        "menuPanel": {
+          "display": "block",
+          "visible": true,
+          "text": ""
+        }
+      }
+    },
+    {
+      "name": "systems",
+      "url": "/?panel=systems",
+      "state": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "height": 825,
+        "text": "Design Library\nDesign Systems\nSections\nPages\nDesign Systems\nTypography\n01\nAa\nAa Bb Cc Dd\nEe Ff Gg Hh\n0123456789\nStrong form.\nQuiet direction.\nPalette\n02\nPaper\nInk\nRule\nElements\n03\nLight, form,\npresence.\nView project\n↗\nEditorial / Portfolio\nQuiet Serif\nNoto Serif Display + General Sans\nTypography\n01\nAa\nAa Bb Cc Dd\nEe Ff Gg Hh\n0123456789\nDesign tools\nyou describe.\nPalette\n02\nBlueprint\nPaper\nInk\nElements\n03\nCreate a tool\n↗\n4:5\nSpacing\n24\nCreative tools\nBlueprint\nGeist + Geist Mono\nTypography\n01\nAa\nAa Bb Cc Dd\nEe Ff Gg Hh\n0123456789\nBrowser\nInfrastructure\nPalette\n02\nPaper\nInk\nCyan\nBlue\nLilac\nEleme",
+        "images": [],
+        "sections": 0
+      },
+      "errors": [],
+      "failed": [],
+      "interactions": {}
+    },
+    {
+      "name": "pages",
+      "url": "/?panel=pages",
+      "state": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "height": 906,
+        "text": "Design Library\nDesign Systems\nSections\nPages\nPages\nPage type\nPage type\nLanding page\nPortfolio\nPortfolio\nPortfolio homepage\n\nQuiet Serif · 8 sections\n\nAn image-led portfolio, from selected work and project stories to a studio note and contact footer.\n\nLanding page\nCreative tool landing page\n\nBlueprint · 10 sections\n\nA complete product story with a working demo, examples, features, pricing, FAQs, and a closing call to action.\n\nLanding page\nBrowser infrastructure landing page\n\nSteel · 14 sections\n\nA technical product story with wireframe architecture, browser demonstrations, use cases, integratio",
+        "images": [],
+        "sections": 0
+      },
+      "errors": [],
+      "failed": [],
+      "interactions": {}
+    },
+    {
+      "name": "sections",
+      "url": "/?panel=sections&system=steel-source",
+      "state": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "height": 2229,
+        "text": "Design Library\nDesign Systems\nSections\nPages\nSections\nSection type\nSection type\nApplications\nCalls to action\nComparisons\nEditorial\nFAQs\nFeatures\nFooters\nGalleries\nHeroes\nIntegrations\nMetrics\nNavigation\nPricing\nProduct demos\nProjects\nSocial proof\nTestimonials\nDesign system\nDesign system\nQuiet Serif\nBlueprint\nSteel\nClear filters\nSteel\nNavigation\n\nBrand + technical links + actions\n\nSteel\nHero\n\nPerspective wireframe + oversized headline\n\nSteel\nBrowser demo\n\nIntro + terminal illustration\n\nSteel\nCustomer logos\n\nLogotype field\n\nSteel\nScale metrics\n\nBrowser field + three figures\n\nSteel\nUse cases\n\nPast",
+        "images": [],
+        "sections": 0
+      },
+      "errors": [],
+      "failed": [],
+      "interactions": {}
+    },
+    {
+      "name": "system-detail",
+      "url": "/?panel=system&section=steel-page",
+      "state": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "height": 3989,
+        "text": "3 visual languages. 3 collections. 32 sections available.\n×\nDesign Library\nDesign Systems\nSections\nPages\nCollection / 03\nQuiet Serif\nBlueprint\nSteel\n← All systems\n\nDeveloper infrastructure\n\nSteel\n\nArchitectural wireframes. Flat color fields. Technical detail.\n\nA technical design system with architectural blue wireframes, broad Schengen typography, compact monospace controls, and expansive pastel bands. Built for browser infrastructure and developer products.\n\nRendered Steel landing page\n\nThe system in one idea\n\nMake invisible infrastructure visible.\n\nPerspective drawings give browser infrastru",
+        "images": [],
+        "sections": 0
+      },
+      "errors": [],
+      "failed": [],
+      "interactions": {}
+    },
+    {
+      "name": "page-detail",
+      "url": "/?panel=pages&section=steel-page",
+      "state": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "height": 1474,
+        "text": "3 visual languages. 3 collections. 32 sections available.\n×\nDesign Library\nDesign Systems\nSections\nPages\nCollection / 03\nQuiet Serif\nBlueprint\nSteel\n← All pages\n\nSteel\n\nBrowser infrastructure landing page\n\nA technical product story with wireframe architecture, browser demonstrations, use cases, integrations, enterprise features, FAQs and open-source links.\n\nView design system ↗\n\nPage shell\nBrowser infrastructure landing page\nDesktop\nMobile\nCompare\n1440px · Desktop adaptation\nOpen page ↗\n\nSource copy, fonts and media are attributed to Steel. Dynamic scenes are settled illustrations; service act",
+        "images": [],
+        "sections": 0
+      },
+      "errors": [],
+      "failed": [],
+      "interactions": {}
+    }
+  ]
+}

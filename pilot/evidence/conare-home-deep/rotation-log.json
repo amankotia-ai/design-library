@@ -1,0 +1,470 @@
+[
+  {
+    "t": 2083.0999999940395,
+    "hero": [
+      [
+        "Sales",
+        "true"
+      ],
+      [
+        "Finance",
+        "false"
+      ],
+      [
+        "Engineering",
+        "false"
+      ],
+      [
+        "Support",
+        "false"
+      ],
+      [
+        "Legal",
+        "false"
+      ]
+    ],
+    "steps": "false",
+    "activeSteps": [
+      {
+        "class": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch"
+      },
+      {
+        "class": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nWrite"
+      },
+      {
+        "class": "step-body [grid-area:1/1]",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "t": 4087.2999999970198,
+    "hero": [
+      [
+        "Sales",
+        "true"
+      ],
+      [
+        "Finance",
+        "false"
+      ],
+      [
+        "Engineering",
+        "false"
+      ],
+      [
+        "Support",
+        "false"
+      ],
+      [
+        "Legal",
+        "false"
+      ]
+    ],
+    "steps": "false",
+    "activeSteps": [
+      {
+        "class": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch"
+      },
+      {
+        "class": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nWrite"
+      },
+      {
+        "class": "step-body [grid-area:1/1]",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "t": 6095.5,
+    "hero": [
+      [
+        "Sales",
+        "true"
+      ],
+      [
+        "Finance",
+        "false"
+      ],
+      [
+        "Engineering",
+        "false"
+      ],
+      [
+        "Support",
+        "false"
+      ],
+      [
+        "Legal",
+        "false"
+      ]
+    ],
+    "steps": "false",
+    "activeSteps": [
+      {
+        "class": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch"
+      },
+      {
+        "class": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nWrite"
+      },
+      {
+        "class": "step-body [grid-area:1/1]",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "t": 8099.399999991059,
+    "hero": [
+      [
+        "Sales",
+        "false"
+      ],
+      [
+        "Finance",
+        "true"
+      ],
+      [
+        "Engineering",
+        "false"
+      ],
+      [
+        "Support",
+        "false"
+      ],
+      [
+        "Legal",
+        "false"
+      ]
+    ],
+    "steps": "false",
+    "activeSteps": [
+      {
+        "class": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch"
+      },
+      {
+        "class": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nWrite"
+      },
+      {
+        "class": "step-body [grid-area:1/1]",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "t": 10101.699999988079,
+    "hero": [
+      [
+        "Sales",
+        "false"
+      ],
+      [
+        "Finance",
+        "true"
+      ],
+      [
+        "Engineering",
+        "false"
+      ],
+      [
+        "Support",
+        "false"
+      ],
+      [
+        "Legal",
+        "false"
+      ]
+    ],
+    "steps": "false",
+    "activeSteps": [
+      {
+        "class": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch"
+      },
+      {
+        "class": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nWrite"
+      },
+      {
+        "class": "step-body [grid-area:1/1]",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "t": 12105.39999999106,
+    "hero": [
+      [
+        "Sales",
+        "false"
+      ],
+      [
+        "Finance",
+        "true"
+      ],
+      [
+        "Engineering",
+        "false"
+      ],
+      [
+        "Support",
+        "false"
+      ],
+      [
+        "Legal",
+        "false"
+      ]
+    ],
+    "steps": "false",
+    "activeSteps": [
+      {
+        "class": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch"
+      },
+      {
+        "class": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nWrite"
+      },
+      {
+        "class": "step-body [grid-area:1/1]",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "t": 14107.79999999702,
+    "hero": [
+      [
+        "Sales",
+        "false"
+      ],
+      [
+        "Finance",
+        "false"
+      ],
+      [
+        "Engineering",
+        "true"
+      ],
+      [
+        "Support",
+        "false"
+      ],
+      [
+        "Legal",
+        "false"
+      ]
+    ],
+    "steps": "false",
+    "activeSteps": [
+      {
+        "class": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch"
+      },
+      {
+        "class": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nWrite"
+      },
+      {
+        "class": "step-body [grid-area:1/1]",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "t": 16111,
+    "hero": [
+      [
+        "Sales",
+        "false"
+      ],
+      [
+        "Finance",
+        "false"
+      ],
+      [
+        "Engineering",
+        "true"
+      ],
+      [
+        "Support",
+        "false"
+      ],
+      [
+        "Legal",
+        "false"
+      ]
+    ],
+    "steps": "false",
+    "activeSteps": [
+      {
+        "class": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch"
+      },
+      {
+        "class": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nWrite"
+      },
+      {
+        "class": "step-body [grid-area:1/1]",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "t": 18114.5,
+    "hero": [
+      [
+        "Sales",
+        "false"
+      ],
+      [
+        "Finance",
+        "false"
+      ],
+      [
+        "Engineering",
+        "true"
+      ],
+      [
+        "Support",
+        "false"
+      ],
+      [
+        "Legal",
+        "false"
+      ]
+    ],
+    "steps": "false",
+    "activeSteps": [
+      {
+        "class": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch"
+      },
+      {
+        "class": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nWrite"
+      },
+      {
+        "class": "step-body [grid-area:1/1]",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "Add our refund and shipping policies to "
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "class": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      }
+    ]
+  }
+]

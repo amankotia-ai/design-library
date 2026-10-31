@@ -1,0 +1,79 @@
+{
+  "time": "2026-10-30T20:11:28.064Z",
+  "checks": [
+    {
+      "width": 1440,
+      "cards": 3,
+      "heading": [
+        "Design systems"
+      ],
+      "overflow": false,
+      "removedCount": 0,
+      "imagesLoaded": true
+    },
+    {
+      "width": 768,
+      "cards": 3,
+      "heading": [
+        "Design systems"
+      ],
+      "overflow": false,
+      "removedCount": 0,
+      "imagesLoaded": true
+    },
+    {
+      "width": 390,
+      "cards": 3,
+      "heading": [
+        "Design systems"
+      ],
+      "overflow": false,
+      "removedCount": 0,
+      "imagesLoaded": true
+    },
+    {
+      "keyboardFirstFocus": "library-brand",
+      "outline": "solid"
+    },
+    {
+      "route": "page",
+      "title": "Quiet Serif",
+      "expected": "Quiet Serif",
+      "evidence": 1
+    },
+    {
+      "route": "signal-page",
+      "title": "Cobalt Grid",
+      "expected": "Cobalt Grid",
+      "evidence": 1
+    },
+    {
+      "route": "blueprint-page",
+      "title": "Blueprint",
+      "expected": "Blueprint",
+      "evidence": 1
+    },
+    {
+      "sources": 1,
+      "sourceFooter": 1
+    },
+    {
+      "file": "pilot/src/main.jsx",
+      "runtimeMatches": true
+    },
+    {
+      "file": "pilot/src/system-browser.jsx",
+      "runtimeMatches": true
+    },
+    {
+      "file": "pilot/src/system-browser.css",
+      "runtimeMatches": true
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "pilot/src/main.jsx": "a2151451347d3968eaca989af1e1c43228a25687ee20afb7d29e08bf2d4d6c73",
+    "pilot/src/system-browser.jsx": "cba1878c4cc19ec3c6178c9b76f62730bf3bb01efeacb7bae1c48f0cd64b98e2",
+    "pilot/src/system-browser.css": "a8a1f38ae5a7522ee1dfc9a222f803c909a9263d8346a948accb8ce5f1d2c491"
+  }
+}

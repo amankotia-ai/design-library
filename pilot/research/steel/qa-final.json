@@ -1,0 +1,470 @@
+{
+  "reviewer": "/root/steel_qa",
+  "time": "2026-10-30T22:22:51.372Z",
+  "hashesBefore": {
+    "src/main.jsx": "abb6e2f59fe651a2e884d710494b3d34d24044e02b0302ae61e95a59fd9c3a0e",
+    "src/data.js": "29dad6928cfec3f42c4e4ae5584275cb558023e644c1ce51a72392123ea53763",
+    "src/catalog.jsx": "0414f6b5ab9fef3d181664188d7d03bd9a6106046b8ec67187e25fa9db0bfcfc",
+    "src/page-shells.js": "909b3ffbed2e38b2800a4873852a33b4bf7376e5a10ba160609aba0a0539fe6e",
+    "src/system-preview.jsx": "73357a0937ec66c775807486fde45dd35dda0695f25ed53676e77c7a00af766a",
+    "src/system-preview.css": "56ec7d80748640478e417526bb1d4533bf2360ff7331eb3abc3c917ab41824e7",
+    "src/steel.jsx": "3c77e5fe1dd1fc19be48aec16d64d0dd9fa224b4a7d02deafb0b5f5256dc5878",
+    "src/steel-source-parts.json": "bbfa73173866ef4317235e846cb1d1e50c1aa009416250fa73b6e1c927e3a4d6",
+    "src/steel-mobile-parts.json": "f6d74caf95b2b1ceb07c8f8b3de8418829ae4145d10d5d512fa2d377596b96bd",
+    "src/steel-data.js": "0c94702b02970845b0a134e68a1d3dcc4c88dbbd5e223c5042aeec7595669325",
+    "src/steel-tokens.css": "04165274ba7c23c2851980ac80ed7e0302383acfc0a379ad55d844f9c96ec98c",
+    "public/steel-source/source.css": "20810c39493f6b58c540b706543d0624df655cf082ac083c8cf93d6d63fe29df",
+    "public/steel-source/layout.css": "587cf46723de2465c7daca935fec8d31d6b56319809a84c2d2523fe58f0c1231"
+  },
+  "pages": [
+    {
+      "name": "desktop",
+      "url": "/?view=steel-page",
+      "state": {
+        "w": 1440,
+        "scrollW": 1440,
+        "h": 13600,
+        "text": "ANNOUNCING A NEW FACE FOR OUR BRAND\nBROWSER INFRA\nPRICING\nRESOURCES\nDOCS\n(OPENS IN A NEW TAB)\nSTEEL BROWSER ON GITHUB,\n7.9K\nSTARS (OPENS IN A NEW TAB)",
+        "sectionCount": 14,
+        "badImages": [],
+        "hero": {
+          "y": 0,
+          "h": 500,
+          "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "60px",
+          "text": "Browser\nInfrastructure\nfor AI Agents"
+        },
+        "announce": {
+          "y": 0,
+          "h": 36
+        }
+      },
+      "interactions": {
+        "faqCount": 7,
+        "faqKeyboardOpen": true,
+        "answerVisible": true,
+        "copy": "Use Steel browser infrastructure to search the web and summarize the results. See https://docs.steel.dev/ for setup.",
+        "resources": {
+          "text": "FAQs\nBlog\nChangelog\nBrand assets\nPartner with us\nLeaderboard\n(opens in a new tab)\nGitHub\n(opens in a new tab)\nCookbook\n(opens in a new tab)\nStatus\n(opens in a new tab)\nCareers\n(opens in a new tab)",
+          "visible": true
+        }
+      },
+      "errors": [],
+      "failed": []
+    },
+    {
+      "name": "tablet",
+      "url": "/?view=steel-page",
+      "state": {
+        "w": 768,
+        "scrollW": 768,
+        "h": 14241,
+        "text": "ANNOUNCING A NEW FACE FOR OUR BRAND\nBROWSER INFRA\nPRICING\nRESOURCES\nDOCS\n(OPENS IN A NEW TAB)\nCONTACT SALES\nC\nSIGN IN\nS\nBrowser\nInfrastructure\nfor AI ",
+        "sectionCount": 14,
+        "badImages": [],
+        "hero": {
+          "y": 0,
+          "h": 512,
+          "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "60px",
+          "text": "Browser\nInfrastructure\nfor AI Agents"
+        },
+        "announce": {
+          "y": 0,
+          "h": 36
+        }
+      },
+      "interactions": {},
+      "errors": [],
+      "failed": []
+    },
+    {
+      "name": "mobile",
+      "url": "/?view=steel-page",
+      "state": {
+        "w": 390,
+        "scrollW": 390,
+        "h": 19000,
+        "text": "ANNOUNCING A NEW FACE FOR OUR BRAND\nBrowser\nInfrastructure\nfor AI Agents\nSteel is an API that lets you control fleets of browsers. Spin up thousands o",
+        "sectionCount": 14,
+        "badImages": [],
+        "hero": {
+          "y": 0,
+          "h": 301.171875,
+          "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "40px",
+          "text": "Browser\nInfrastructure\nfor AI Agents"
+        },
+        "announce": {
+          "y": 0,
+          "h": 36
+        }
+      },
+      "interactions": {
+        "menu": {
+          "text": "Browser infra\nPricing\nResources\nFAQs\nBlog\nChangelog\nBrand assets\nPartner with us\nLeaderboard\n(opens in a new tab)\nGitHub\n(opens in a new tab)\nCookbook\n(opens in a new tab)\nStatus\n(opens in a new tab)\nCareers\n(opens in a new tab)\nDocs\n(opens in a new tab)\nCONTACT SALES\nSIGN IN",
+          "visible": true
+        },
+        "menuClose": {
+          "hidden": true,
+          "display": "none",
+          "visible": false
+        }
+      },
+      "errors": [],
+      "failed": []
+    },
+    {
+      "name": "systems",
+      "url": "/?panel=systems",
+      "state": {
+        "w": 1440,
+        "scrollW": 1440,
+        "h": 1452,
+        "text": "Design Library\nDesign Systems\nSections\nPages\nDesign Systems\nTypography\n01\nAa\nAa Bb Cc Dd\nEe Ff Gg Hh\n0123456789\nStrong form.\nQuiet direction.\nPalette\n",
+        "sectionCount": 0,
+        "badImages": [],
+        "hero": null,
+        "announce": null
+      },
+      "interactions": {},
+      "errors": [],
+      "failed": []
+    },
+    {
+      "name": "pages",
+      "url": "/?panel=pages",
+      "state": {
+        "w": 1440,
+        "scrollW": 1440,
+        "h": 1573,
+        "text": "Design Library\nDesign Systems\nSections\nPages\nPages\nPage type\nPage type\nLanding page\nPortfolio\nPortfolio\nPortfolio homepage\n\nQuiet Serif · 8 sections\n\n",
+        "sectionCount": 0,
+        "badImages": [],
+        "hero": null,
+        "announce": null
+      },
+      "interactions": {},
+      "errors": [],
+      "failed": []
+    },
+    {
+      "name": "sections",
+      "url": "/?panel=sections&system=steel-source",
+      "state": {
+        "w": 1440,
+        "scrollW": 1440,
+        "h": 2229,
+        "text": "Design Library\nDesign Systems\nSections\nPages\nSections\nSection type\nSection type\nApplications\nCalls to action\nChangelog\nComparisons\nEditorial\nFAQs\nFeat",
+        "sectionCount": 0,
+        "badImages": [],
+        "hero": null,
+        "announce": null
+      },
+      "interactions": {},
+      "errors": [],
+      "failed": []
+    },
+    {
+      "name": "system",
+      "url": "/?panel=system&section=steel-page",
+      "state": {
+        "w": 1440,
+        "scrollW": 1440,
+        "h": 3989,
+        "text": "5 visual languages. 5 collections. 49 sections available.\n×\nDesign Library\nDesign Systems\nSections\nPages\nCollection / 05\nQuiet Serif\nBlueprint\nSignal ",
+        "sectionCount": 0,
+        "badImages": [],
+        "hero": null,
+        "announce": null
+      },
+      "interactions": {},
+      "errors": [],
+      "failed": []
+    },
+    {
+      "name": "detail",
+      "url": "/?panel=pages&section=steel-page",
+      "state": {
+        "w": 1440,
+        "scrollW": 1440,
+        "h": 1474,
+        "text": "5 visual languages. 5 collections. 49 sections available.\n×\nDesign Library\nDesign Systems\nSections\nPages\nCollection / 05\nQuiet Serif\nBlueprint\nSignal ",
+        "sectionCount": 0,
+        "badImages": [],
+        "hero": null,
+        "announce": null
+      },
+      "interactions": {
+        "preview": [
+          {
+            "height": 13643,
+            "documentHeight": 13643,
+            "heroHeight": 500
+          }
+        ]
+      },
+      "errors": [],
+      "failed": []
+    },
+    {
+      "name": "sources",
+      "url": "/?panel=sources&section=steel-page",
+      "state": {
+        "w": 1440,
+        "scrollW": 1440,
+        "h": 1634,
+        "text": "5 visual languages. 5 collections. 49 sections available.\n×\nDesign Library\nDesign Systems\nSections\nPages\nCollection / 05\nQuiet Serif\nBlueprint\nSignal ",
+        "sectionCount": 0,
+        "badImages": [],
+        "hero": null,
+        "announce": null
+      },
+      "interactions": {},
+      "errors": [],
+      "failed": []
+    }
+  ],
+  "sectionChecks": [
+    {
+      "id": "header",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 176,
+      "h": 1000
+    },
+    {
+      "id": "hero",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 2,
+      "textLength": 213,
+      "h": 1000
+    },
+    {
+      "id": "demo",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 614,
+      "h": 1000
+    },
+    {
+      "id": "customers",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 160,
+      "h": 1000
+    },
+    {
+      "id": "stats",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 297,
+      "h": 1000
+    },
+    {
+      "id": "use-cases",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 345,
+      "h": 1000
+    },
+    {
+      "id": "features",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 2717,
+      "h": 3059
+    },
+    {
+      "id": "integrations",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 319,
+      "h": 1000
+    },
+    {
+      "id": "enterprise",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 493,
+      "h": 1000
+    },
+    {
+      "id": "stealth",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 1234,
+      "h": 1879
+    },
+    {
+      "id": "faq",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 321,
+      "h": 1000
+    },
+    {
+      "id": "blog",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 1318,
+      "h": 1000
+    },
+    {
+      "id": "cta",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 211,
+      "h": 1000
+    },
+    {
+      "id": "footer",
+      "w": 1440,
+      "scrollW": 1440,
+      "sectionCount": 1,
+      "textLength": 267,
+      "h": 1000
+    },
+    {
+      "id": "header",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 35,
+      "h": 844
+    },
+    {
+      "id": "hero",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 2,
+      "textLength": 72,
+      "h": 844
+    },
+    {
+      "id": "demo",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 612,
+      "h": 1124
+    },
+    {
+      "id": "customers",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 160,
+      "h": 844
+    },
+    {
+      "id": "stats",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 297,
+      "h": 980
+    },
+    {
+      "id": "use-cases",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 345,
+      "h": 1010
+    },
+    {
+      "id": "features",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 2717,
+      "h": 4877
+    },
+    {
+      "id": "integrations",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 319,
+      "h": 1061
+    },
+    {
+      "id": "enterprise",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 489,
+      "h": 1276
+    },
+    {
+      "id": "stealth",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 1332,
+      "h": 3380
+    },
+    {
+      "id": "faq",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 321,
+      "h": 844
+    },
+    {
+      "id": "blog",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 1318,
+      "h": 1581
+    },
+    {
+      "id": "cta",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 207,
+      "h": 844
+    },
+    {
+      "id": "footer",
+      "w": 390,
+      "scrollW": 390,
+      "sectionCount": 1,
+      "textLength": 267,
+      "h": 849
+    }
+  ],
+  "hashesAfter": {
+    "src/main.jsx": "abb6e2f59fe651a2e884d710494b3d34d24044e02b0302ae61e95a59fd9c3a0e",
+    "src/data.js": "29dad6928cfec3f42c4e4ae5584275cb558023e644c1ce51a72392123ea53763",
+    "src/catalog.jsx": "0414f6b5ab9fef3d181664188d7d03bd9a6106046b8ec67187e25fa9db0bfcfc",
+    "src/page-shells.js": "909b3ffbed2e38b2800a4873852a33b4bf7376e5a10ba160609aba0a0539fe6e",
+    "src/system-preview.jsx": "73357a0937ec66c775807486fde45dd35dda0695f25ed53676e77c7a00af766a",
+    "src/system-preview.css": "56ec7d80748640478e417526bb1d4533bf2360ff7331eb3abc3c917ab41824e7",
+    "src/steel.jsx": "3c77e5fe1dd1fc19be48aec16d64d0dd9fa224b4a7d02deafb0b5f5256dc5878",
+    "src/steel-source-parts.json": "bbfa73173866ef4317235e846cb1d1e50c1aa009416250fa73b6e1c927e3a4d6",
+    "src/steel-mobile-parts.json": "f6d74caf95b2b1ceb07c8f8b3de8418829ae4145d10d5d512fa2d377596b96bd",
+    "src/steel-data.js": "0c94702b02970845b0a134e68a1d3dcc4c88dbbd5e223c5042aeec7595669325",
+    "src/steel-tokens.css": "04165274ba7c23c2851980ac80ed7e0302383acfc0a379ad55d844f9c96ec98c",
+    "public/steel-source/source.css": "20810c39493f6b58c540b706543d0624df655cf082ac083c8cf93d6d63fe29df",
+    "public/steel-source/layout.css": "587cf46723de2465c7daca935fec8d31d6b56319809a84c2d2523fe58f0c1231"
+  },
+  "revisionStable": true
+}

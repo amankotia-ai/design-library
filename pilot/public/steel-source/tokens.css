@@ -1,0 +1,19 @@
+/* Measured shared Steel inputs. Full retained source tokens live in public/steel-source/source.css. */
+:root[data-steel-study]{
+  --bg:#fdfdfc;
+  --text:#000;
+  --steel-blue-100:#d7f0ff;
+  --steel-blue-500:#05a5ff;
+  --band-hero:#d7f0ff;
+  --hero-ink:#000;
+  --band-uses:#c799d4;
+  --band-uses-ink:#4c1a5d;
+  --band-secure:#141414;
+  --band-secure-ink:#fdfdfc;
+  --radius-button:4px;
+  --announce-h:36px;
+  --face-title:"schengenA", "schengenA Fallback", ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif;
+  --face-text:"schengenA", "schengenA Fallback", ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif;
+  --font-schengen-a:"schengenA", "schengenA Fallback", ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif;
+  --font-schengen-a-mono:"schengenAMono", ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace;
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "i": 0,
+    "name": "Gmail",
+    "hasSvg": true
+  },
+  {
+    "i": 1,
+    "name": "Slack",
+    "hasSvg": true
+  },
+  {
+    "i": 2,
+    "name": "Notion",
+    "hasSvg": true
+  },
+  {
+    "i": 3,
+    "name": "Linear",
+    "hasSvg": true
+  },
+  {
+    "i": 4,
+    "name": "GitHub",
+    "hasSvg": true
+  },
+  {
+    "i": 5,
+    "name": "Granola",
+    "hasSvg": true
+  },
+  {
+    "i": 6,
+    "name": "GCS",
+    "hasSvg": true
+  },
+  {
+    "i": 7,
+    "name": "HubSpot",
+    "hasSvg": true
+  },
+  {
+    "i": 8,
+    "name": "Salesforce",
+    "hasSvg": true
+  },
+  {
+    "i": 9,
+    "name": "Attio",
+    "hasSvg": true
+  },
+  {
+    "i": 10,
+    "name": "Affinity",
+    "hasSvg": true
+  },
+  {
+    "i": 11,
+    "name": "Databases",
+    "hasSvg": true
+  },
+  {
+    "i": 12,
+    "name": "and more",
+    "hasSvg": false
+  }
+]

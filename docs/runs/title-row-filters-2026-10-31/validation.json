@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "geometries": {
+    "sections": {
+      "title": {
+        "y": 161.796875,
+        "height": 36
+      },
+      "controls": [
+        {
+          "y": 161.796875,
+          "height": 36,
+          "right": 1052
+        },
+        {
+          "y": 161.796875,
+          "height": 36,
+          "right": 1288
+        }
+      ],
+      "gridRight": 1288
+    },
+    "pages": {
+      "title": {
+        "y": 161.796875,
+        "height": 36
+      },
+      "controls": [
+        {
+          "y": 161.796875,
+          "height": 36,
+          "right": 1288
+        }
+      ],
+      "gridRight": 1288
+    }
+  },
+  "browserErrors": [],
+  "checks": [
+    "title/control centres align on desktop",
+    "control group meets grid right edge",
+    "header count removed",
+    "filters/empty/clear preserved",
+    "no overflow at320/390/701/768",
+    "live page cards retained"
+  ],
+  "date": "2026-10-30T21:04:19.517Z"
+}

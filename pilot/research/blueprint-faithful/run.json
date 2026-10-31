@@ -1,0 +1,174 @@
+{
+  "run_id": "blueprint-complete-faithful-2026-10-30",
+  "date": "2026-10-30",
+  "mode": "Faithful source reconstruction; original Signal Workshop stays separate",
+  "user_feedback": {
+    "quote": "also all page sections should be rebuilt 1:1",
+    "scope": "Blueprint public landing page supplied in this chat; reproduce all10sections before expanding."
+  },
+  "source": {
+    "url": "https://blueprint.page/",
+    "desktop_viewport": [
+      1440,
+      900
+    ],
+    "desktop_document": [
+      1440,
+      8534
+    ],
+    "mobile_viewport": [
+      390,
+      844
+    ],
+    "mobile_document": [
+      390,
+      11958
+    ],
+    "font": "Exact source Geist and Geist Mono files",
+    "asset_manifest": "assets.json",
+    "sections": [
+      "Navigation",
+      "Hero",
+      "Editor demo",
+      "Examples",
+      "Comparison",
+      "Seven feature cards",
+      "Pricing",
+      "Sixteen FAQs",
+      "Closing prompt",
+      "Footer"
+    ],
+    "mobile_document_capture": [
+      390,
+      11958
+    ]
+  },
+  "rea": {
+    "repository": "https://github.com/morluto/rea",
+    "checkout": "/Users/abhishekmankotia/Documents/ChatGPT/Panorama/rea-reference",
+    "revision": "fb28ec1537e2d02aaca96325483c849c5c8ade6f",
+    "version": "6.4.0",
+    "inspection_evidence": "ev_9ed3200afc25784ac0a77abdaecb46f764151e98cba58e4aa015af451ea33278",
+    "script_observation_evidence": "ev_4c42d1ec0c290d5fbff28053400183c123d405ec4ba904cb69cd395e286f4e7a",
+    "limits": "REA passive origin-scoped observation is separate from the CUA computed geometry and complete section snapshots. Public SSR Flight definitions and exact static files were acquired separately."
+  },
+  "agents": [
+    {
+      "id": "/root/full_visual",
+      "roles": [
+        "visual analysis",
+        "editor implementation and creator runtime review"
+      ],
+      "artifacts": [
+        "visual-analysis.md",
+        "editor-notes.md"
+      ]
+    },
+    {
+      "id": "/root/full_product",
+      "roles": [
+        "product constraints",
+        "commerce/texture implementation",
+        "product review"
+      ],
+      "artifacts": [
+        "product-design.md",
+        "product-review.md"
+      ]
+    },
+    {
+      "id": "/root/full_art",
+      "roles": [
+        "art direction",
+        "static/gallery implementation",
+        "art review"
+      ],
+      "artifacts": [
+        "art-direction.md",
+        "art-review.md"
+      ]
+    },
+    {
+      "id": "/root",
+      "roles": [
+        "integration",
+        "asset intake",
+        "registry",
+        "comparison capture",
+        "coordination"
+      ]
+    },
+    {
+      "id": "/root/full_qa",
+      "roles": [
+        "independent QA"
+      ],
+      "artifacts": [
+        "qa.md",
+        "qa.json"
+      ]
+    }
+  ],
+  "source_sha256": {
+    "src/blueprint-faithful.jsx": "6006ec8af7dcc7106aecd864441264afb19b0af1fec03d8757f7aa506913e8c4",
+    "src/blueprint-faithful-static.jsx": "e88a166d2645cb7196d1dac413eb93f25f89f79553ab273c807d2a9d7f284375",
+    "src/blueprint-faithful-commerce.jsx": "7f2cc595dfbe1d04a90520a5c75ac9829b80a23be9b357750747f01111eb8b68",
+    "src/blueprint-faithful-editor.jsx": "a99ef8418bcd66a4c2e85f2fad271f06971381876e1cbf58f0a84937a4955762",
+    "src/blueprint-faithful-texture.jsx": "877442669e8cc3a15b9d5ed5db4eef4fe27af1eea07882724219d809d82f539e",
+    "src/blueprint-faithful-gallery.jsx": "f50be1dee56877653bf0a44636be94af40b4813dc43c92ae42e266718213f802",
+    "src/blueprint-source-parts.json": "1e4a4d4c234816265305b5fa842772c9b5dd11134d9b50e00d37dfe0d041ab2b",
+    "src/blueprint-source-styles.json": "9cf90ddeaddf7e714757d2ea8ac7bf5c78f6d70cd29e00bf6ea817257994540a",
+    "src/main.jsx": "17499f5236e91e05a416d9adc13cc8bf1fda7dbde9fc7a813b3c860e34219b78",
+    "src/data.js": "c3f408fd1383c0d4e53beb41d099cfc9b022c0f1bcc798b17a3c4a20a3bac6f6",
+    "src/style.css": "40aefe8284485fa3b5a4a029afacc605fea8919e6bee92407015068182e120e1",
+    "public/blueprint-source/study-reset.css": "dc2d7ca6aa0b76042cdc7b268a47e3dcc28db3175f12136718f55ec62e00c444",
+    "src/blueprint-faithful-motion.jsx": "ba906e15873bef1e9aab3bc2a677d04badf5b02bff1e615e27468e59ea95f2e5"
+  },
+  "media_sha256": {
+    "public/references/blueprint-full/source-desktop.jpg": "54a0df645e8c7a4f9a710231455ddc0620e4fd5e5f79c6ef08b93953550be610",
+    "public/references/blueprint-full/source-mobile.jpg": "d5cd4d07f69bb790b0582fe0f29302284ab719dfe1bf7b166464f20dccdf4a4b",
+    "evidence/blueprint-faithful/page-desktop.jpg": "bfdb0cd55e85a4b95012f85d73d054f1cae482a76a8368c862a41e03ebf55902",
+    "evidence/blueprint-faithful/page-mobile.jpg": "5153a7e0a06b7c0bd4f5ff840d42cf4ad64f9929ccec47aac5fee35a8f2c2dc7"
+  },
+  "comparison_regions": "comparison-regions.json",
+  "source_programs": {
+    "editor": "public/blueprint-source/op-art-program.json",
+    "gallery": "public/blueprint-source/gallery-programs.json",
+    "gallery_count": 11,
+    "bridge": "public/blueprint-source/op-art.html",
+    "note": "Actual public Op Art WebGL program,11gallery programs/specs, source shaders and five closing textures. No Next app/account code or analytics installed.",
+    "presentation": "Isolated public feature and FAQ presentation modules; provenance in motion-provenance.md"
+  },
+  "checks": {
+    "input_check": "passed",
+    "production_build": "passed final revision",
+    "art_review": "passed within recorded scope",
+    "product_review": "passed within recorded scope",
+    "independent_qa": "44/44 checks passed; current source/runtime hashes match"
+  },
+  "limits": [
+    "Video,WebGL,feature animations and prompt typing have time-dependent frames. Static geometry and stable regions are compared separately.",
+    "Original service actions open Blueprint(new,login,checkout,remix); local study does not implement service accounts or AI generation.",
+    "Source footer Feedback did not reveal an observable dialog in intake; local action opens source Support.",
+    "InitialglobalDOMsnapshotwas200011-charactertruncated; complete per-section snapshots and fullpublicSSR are retained. Initialunrevealedfullpagecaptureswere rejected.",
+    "Allreferenceworkremainslocal; no public hosting or cross-project source edits."
+  ],
+  "status": "complete within documented scope",
+  "implementation": {
+    "desktop_document_capture": [
+      1440,
+      8534
+    ],
+    "mobile_document_capture": [
+      390,
+      11934
+    ],
+    "mobile_static_geometry": "Exactsourcepositions/heights throughFAQ; footerheight451px. Closingprompt513px vsreference537px because nativefield-sizing:content has3vs4visibletypedlines. Animatedrequesttextchangesnaturalpageheight.",
+    "embedded_editor": "Desktop auto-height library preview fixed at measured700px editor window and754px section. Standalone/mobile remain within existing measured behavior."
+  },
+  "delivered_captures": [
+    "evidence/blueprint-faithful/page-desktop-delivered.jpg",
+    "evidence/blueprint-faithful/page-mobile-delivered.jpg",
+    "evidence/blueprint-faithful/preview.png"
+  ]
+}

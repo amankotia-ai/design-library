@@ -1,0 +1,842 @@
+[
+  {
+    "t": 961.4000000059605,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d:200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d:600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d:900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d:2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><!--[--><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d:1600;\"><span class=\"viz-matrix\"><!--[--><i style=\"--k:1;\"></i><i style=\"--k:2;\"></i><i style=\"--k:3;\"></i><i style=\"--k:4;\"></i><i style=\"--k:5;\"></i><i style=\"--k:6;\"></i><i style=\"--k:7;\"></i><i style=\"--k:8;\"></i><i style=\"--k:9;\"></i><!--]--></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d:2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to:2;--d:1600;\"></span></div><!--]--></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 2055.7000000029802,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d:200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d:600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d:900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d:2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><!--[--><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d:1600;\"><span class=\"viz-matrix\"><!--[--><i style=\"--k:1;\"></i><i style=\"--k:2;\"></i><i style=\"--k:3;\"></i><i style=\"--k:4;\"></i><i style=\"--k:5;\"></i><i style=\"--k:6;\"></i><i style=\"--k:7;\"></i><i style=\"--k:8;\"></i><i style=\"--k:9;\"></i><!--]--></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d:2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to:2;--d:1600;\"></span></div><!--]--></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 3069.5,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d:200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d:600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d:900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d:2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><!--[--><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d:1600;\"><span class=\"viz-matrix\"><!--[--><i style=\"--k:1;\"></i><i style=\"--k:2;\"></i><i style=\"--k:3;\"></i><i style=\"--k:4;\"></i><i style=\"--k:5;\"></i><i style=\"--k:6;\"></i><i style=\"--k:7;\"></i><i style=\"--k:8;\"></i><i style=\"--k:9;\"></i><!--]--></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d:2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to:2;--d:1600;\"></span></div><!--]--></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 4096,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d:200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d:600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d:900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d:2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><!--[--><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d:1600;\"><span class=\"viz-matrix\"><!--[--><i style=\"--k:1;\"></i><i style=\"--k:2;\"></i><i style=\"--k:3;\"></i><i style=\"--k:4;\"></i><i style=\"--k:5;\"></i><i style=\"--k:6;\"></i><i style=\"--k:7;\"></i><i style=\"--k:8;\"></i><i style=\"--k:9;\"></i><!--]--></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d:2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to:2;--d:1600;\"></span></div><!--]--></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 5113.5,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d:200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d:600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d:900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d:2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><!--[--><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d:1600;\"><span class=\"viz-matrix\"><!--[--><i style=\"--k:1;\"></i><i style=\"--k:2;\"></i><i style=\"--k:3;\"></i><i style=\"--k:4;\"></i><i style=\"--k:5;\"></i><i style=\"--k:6;\"></i><i style=\"--k:7;\"></i><i style=\"--k:8;\"></i><i style=\"--k:9;\"></i><!--]--></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d:2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to:2;--d:1600;\"></span></div><!--]--></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 6125.5999999940395,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d:200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d:600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d:900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d:2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><!--[--><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d:1600;\"><span class=\"viz-matrix\"><!--[--><i style=\"--k:1;\"></i><i style=\"--k:2;\"></i><i style=\"--k:3;\"></i><i style=\"--k:4;\"></i><i style=\"--k:5;\"></i><i style=\"--k:6;\"></i><i style=\"--k:7;\"></i><i style=\"--k:8;\"></i><i style=\"--k:9;\"></i><!--]--></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d:2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to:2;--d:1600;\"></span></div><!--]--></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 7135.29999999702,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "true"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Keep HubSpot in sync with CRM\n\nHubSpot\nadded to context\n\nSyncing…\nSynced 3 records ▶\n\nUpdated \nDeal 4821, created \nDeal 4830 and deleted \nContact 913\n.\n\nSyncing HubSpot…\nNext sync in 15 min",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Keep HubSpot in sync with CRM</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">HubSpot</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Syncing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Synced 3 records <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Updated <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4821</span>, created <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4830</span> and deleted <span class=\"viz-chip\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"line-through\">Contact 913</span></span>. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Syncing HubSpot…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Next sync in 15 min</span></span><span class=\"viz-timer\" style=\"--to: 4; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 8240.09999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "true"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Keep HubSpot in sync with CRM\n\nHubSpot\nadded to context\n\nSyncing…\nSynced 3 records ▶\n\nUpdated \nDeal 4821, created \nDeal 4830 and deleted \nContact 913\n.\n\nSyncing HubSpot…\nNext sync in 15 min",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Keep HubSpot in sync with CRM</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">HubSpot</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Syncing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Synced 3 records <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Updated <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4821</span>, created <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4830</span> and deleted <span class=\"viz-chip\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"line-through\">Contact 913</span></span>. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Syncing HubSpot…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Next sync in 15 min</span></span><span class=\"viz-timer\" style=\"--to: 4; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 9250.20000000298,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "true"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Keep HubSpot in sync with CRM\n\nHubSpot\nadded to context\n\nSyncing…\nSynced 3 records ▶\n\nUpdated \nDeal 4821, created \nDeal 4830 and deleted \nContact 913\n.\n\nSyncing HubSpot…\nNext sync in 15 min",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Keep HubSpot in sync with CRM</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">HubSpot</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Syncing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Synced 3 records <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Updated <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4821</span>, created <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4830</span> and deleted <span class=\"viz-chip\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"line-through\">Contact 913</span></span>. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Syncing HubSpot…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Next sync in 15 min</span></span><span class=\"viz-timer\" style=\"--to: 4; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 10262.09999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "true"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Keep HubSpot in sync with CRM\n\nHubSpot\nadded to context\n\nSyncing…\nSynced 3 records ▶\n\nUpdated \nDeal 4821, created \nDeal 4830 and deleted \nContact 913\n.\n\nSyncing HubSpot…\nNext sync in 15 min",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Keep HubSpot in sync with CRM</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">HubSpot</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Syncing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Synced 3 records <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Updated <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4821</span>, created <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4830</span> and deleted <span class=\"viz-chip\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"line-through\">Contact 913</span></span>. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Syncing HubSpot…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Next sync in 15 min</span></span><span class=\"viz-timer\" style=\"--to: 4; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 11270.09999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "true"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Keep HubSpot in sync with CRM\n\nHubSpot\nadded to context\n\nSyncing…\nSynced 3 records ▶\n\nUpdated \nDeal 4821, created \nDeal 4830 and deleted \nContact 913\n.\n\nSyncing HubSpot…\nNext sync in 15 min",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Keep HubSpot in sync with CRM</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">HubSpot</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Syncing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Synced 3 records <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Updated <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4821</span>, created <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4830</span> and deleted <span class=\"viz-chip\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"line-through\">Contact 913</span></span>. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Syncing HubSpot…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Next sync in 15 min</span></span><span class=\"viz-timer\" style=\"--to: 4; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 12281.09999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "true"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Keep HubSpot in sync with CRM\n\nHubSpot\nadded to context\n\nSyncing…\nSynced 3 records ▶\n\nUpdated \nDeal 4821, created \nDeal 4830 and deleted \nContact 913\n.\n\nSyncing HubSpot…\nNext sync in 15 min",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Keep HubSpot in sync with CRM</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">HubSpot</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Syncing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Synced 3 records <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Updated <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4821</span>, created <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4830</span> and deleted <span class=\"viz-chip\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"line-through\">Contact 913</span></span>. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Syncing HubSpot…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Next sync in 15 min</span></span><span class=\"viz-timer\" style=\"--to: 4; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 13288.59999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "true"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShipping\nOrders ship within two days.\n0.12",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Docs</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Searching…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Reranked in 62 ms <span class=\"text-[9px]\">▶</span></span></p><div class=\"relative h-[146px] border border-neutral-300\"><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 2; --to: 0; --d: 1520;\"><span class=\"viz-dot bg-home-red\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Refunds</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Refunds are available for 30 days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.91</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.91; --d: 2900;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 0; --to: 1; --d: 1200;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Returns</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Return an item from your orders page.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.47</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.47; --d: 3020;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 1; --to: 2; --d: 1360;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Shipping</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Orders ship within two days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.12</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.12; --d: 3140;\"></span></span></span></div></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 14370.59999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "true"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShipping\nOrders ship within two days.\n0.12",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Docs</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Searching…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Reranked in 62 ms <span class=\"text-[9px]\">▶</span></span></p><div class=\"relative h-[146px] border border-neutral-300\"><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 2; --to: 0; --d: 1520;\"><span class=\"viz-dot bg-home-red\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Refunds</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Refunds are available for 30 days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.91</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.91; --d: 2900;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 0; --to: 1; --d: 1200;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Returns</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Return an item from your orders page.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.47</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.47; --d: 3020;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 1; --to: 2; --d: 1360;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Shipping</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Orders ship within two days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.12</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.12; --d: 3140;\"></span></span></span></div></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 15380.20000000298,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "true"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShipping\nOrders ship within two days.\n0.12",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Docs</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Searching…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Reranked in 62 ms <span class=\"text-[9px]\">▶</span></span></p><div class=\"relative h-[146px] border border-neutral-300\"><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 2; --to: 0; --d: 1520;\"><span class=\"viz-dot bg-home-red\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Refunds</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Refunds are available for 30 days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.91</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.91; --d: 2900;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 0; --to: 1; --d: 1200;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Returns</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Return an item from your orders page.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.47</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.47; --d: 3020;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 1; --to: 2; --d: 1360;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Shipping</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Orders ship within two days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.12</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.12; --d: 3140;\"></span></span></span></div></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 16389.20000000298,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "true"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShipping\nOrders ship within two days.\n0.12",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Docs</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Searching…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Reranked in 62 ms <span class=\"text-[9px]\">▶</span></span></p><div class=\"relative h-[146px] border border-neutral-300\"><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 2; --to: 0; --d: 1520;\"><span class=\"viz-dot bg-home-red\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Refunds</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Refunds are available for 30 days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.91</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.91; --d: 2900;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 0; --to: 1; --d: 1200;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Returns</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Return an item from your orders page.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.47</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.47; --d: 3020;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 1; --to: 2; --d: 1360;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Shipping</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Orders ship within two days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.12</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.12; --d: 3140;\"></span></span></span></div></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 17397.20000000298,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "true"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShipping\nOrders ship within two days.\n0.12",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Docs</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Searching…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Reranked in 62 ms <span class=\"text-[9px]\">▶</span></span></p><div class=\"relative h-[146px] border border-neutral-300\"><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 2; --to: 0; --d: 1520;\"><span class=\"viz-dot bg-home-red\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Refunds</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Refunds are available for 30 days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.91</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.91; --d: 2900;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 0; --to: 1; --d: 1200;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Returns</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Return an item from your orders page.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.47</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.47; --d: 3020;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 1; --to: 2; --d: 1360;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Shipping</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Orders ship within two days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.12</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.12; --d: 3140;\"></span></span></span></div></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 18406.20000000298,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "true"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShipping\nOrders ship within two days.\n0.12",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Docs</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Searching…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Reranked in 62 ms <span class=\"text-[9px]\">▶</span></span></p><div class=\"relative h-[146px] border border-neutral-300\"><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 2; --to: 0; --d: 1520;\"><span class=\"viz-dot bg-home-red\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Refunds</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Refunds are available for 30 days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.91</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.91; --d: 2900;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 0; --to: 1; --d: 1200;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Returns</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Return an item from your orders page.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.47</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.47; --d: 3020;\"></span></span></span></div><div class=\"viz-row absolute inset-x-0 top-0 flex h-12 items-center gap-3 border-b border-neutral-300 bg-neutral-100 px-3\" style=\"--from: 1; --to: 2; --d: 1360;\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"min-w-0 flex-1\"><span class=\"block text-[13px] leading-4\">Shipping</span><span class=\"block truncate text-[12px] leading-4 text-neutral-500\">Orders ship within two days.</span></span><span class=\"w-16 shrink-0\"><span class=\"block text-right text-[11px] leading-4 text-neutral-500 tabular-nums\">0.12</span><span class=\"mt-1 block h-0.5 bg-neutral-300\"><span class=\"viz-bar block h-full origin-left bg-off-white\" style=\"--w: 0.12; --d: 3140;\"></span></span></span></div></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 19414.59999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "true"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nConare\nadded to context\n\nThinking…\nWorked for 1s ▶\n\nCalled Search in docs. Refunds are available for 30 days.\n\nSource\nRefunds",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Conare</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Thinking…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 1s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Called <span class=\"viz-chip\">Search</span> in docs. Refunds are available for 30 days. </p><p class=\"viz-in flex items-center gap-2 text-[12px] leading-4 text-neutral-500\" style=\"--d:2600;\"> Source <span class=\"viz-chip text-off-white\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span></p></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 20478.59999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "true"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nConare\nadded to context\n\nThinking…\nWorked for 1s ▶\n\nCalled Search in docs. Refunds are available for 30 days.\n\nSource\nRefunds",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Conare</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Thinking…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 1s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Called <span class=\"viz-chip\">Search</span> in docs. Refunds are available for 30 days. </p><p class=\"viz-in flex items-center gap-2 text-[12px] leading-4 text-neutral-500\" style=\"--d:2600;\"> Source <span class=\"viz-chip text-off-white\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span></p></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 21485.70000000298,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "true"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nConare\nadded to context\n\nThinking…\nWorked for 1s ▶\n\nCalled Search in docs. Refunds are available for 30 days.\n\nSource\nRefunds",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Conare</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Thinking…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 1s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Called <span class=\"viz-chip\">Search</span> in docs. Refunds are available for 30 days. </p><p class=\"viz-in flex items-center gap-2 text-[12px] leading-4 text-neutral-500\" style=\"--d:2600;\"> Source <span class=\"viz-chip text-off-white\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span></p></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 22493,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "true"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nConare\nadded to context\n\nThinking…\nWorked for 1s ▶\n\nCalled Search in docs. Refunds are available for 30 days.\n\nSource\nRefunds",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Conare</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Thinking…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 1s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Called <span class=\"viz-chip\">Search</span> in docs. Refunds are available for 30 days. </p><p class=\"viz-in flex items-center gap-2 text-[12px] leading-4 text-neutral-500\" style=\"--d:2600;\"> Source <span class=\"viz-chip text-off-white\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span></p></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 23500.59999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "true"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nConare\nadded to context\n\nThinking…\nWorked for 1s ▶\n\nCalled Search in docs. Refunds are available for 30 days.\n\nSource\nRefunds",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Conare</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Thinking…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 1s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Called <span class=\"viz-chip\">Search</span> in docs. Refunds are available for 30 days. </p><p class=\"viz-in flex items-center gap-2 text-[12px] leading-4 text-neutral-500\" style=\"--d:2600;\"> Source <span class=\"viz-chip text-off-white\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span></p></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 24509,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "false"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "true"
+      }
+    ],
+    "viz": [
+      {
+        "text": "How do refunds work?\n\nConare\nadded to context\n\nThinking…\nWorked for 1s ▶\n\nCalled Search in docs. Refunds are available for 30 days.\n\nSource\nRefunds",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Conare</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Thinking…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 1s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Called <span class=\"viz-chip\">Search</span> in docs. Refunds are available for 30 days. </p><p class=\"viz-in flex items-center gap-2 text-[12px] leading-4 text-neutral-500\" style=\"--d:2600;\"> Source <span class=\"viz-chip text-off-white\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span></p></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 25516.40000000596,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to: 2; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 26530.79999999702,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to: 2; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 27541.20000000298,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to: 2; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 28551.09999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to: 2; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 29561.20000000298,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to: 2; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  },
+  {
+    "t": 30569.09999999404,
+    "cards": [
+      {
+        "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+        "active": "true"
+      },
+      {
+        "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+        "active": "false"
+      },
+      {
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+        "active": "false"
+      },
+      {
+        "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+        "active": "false"
+      }
+    ],
+    "viz": [
+      {
+        "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+        "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to: 2; --d: 1600;\"></span></div></div></div>"
+      }
+    ],
+    "run": "true"
+  }
+]

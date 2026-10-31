@@ -1,0 +1,20 @@
+{
+  ".article-header": {
+    "x": 152,
+    "y": 0,
+    "width": 1136,
+    "height": 70
+  },
+  ".reading-column": {
+    "x": 128,
+    "y": 0,
+    "width": 1184,
+    "height": 939.03125
+  },
+  ".asset-catalog": {
+    "x": 152,
+    "y": 134,
+    "width": 1136,
+    "height": 805.03125
+  }
+}

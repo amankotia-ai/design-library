@@ -1,0 +1,2 @@
+8dea5844e05cd6153be99f2fe733133acc8cc974203afbf5850242bf9720931c  pilot/src/brand-wordmark.jsx
+631dc436678ccbdb345027b277fa071f81a3635ad048616f4bf4008be2b91cf7  pilot/src/library-tokens.css

@@ -1,0 +1,137 @@
+{
+  "checks": [
+    {
+      "panel": "sections",
+      "width": 1440,
+      "metrics": [
+        {
+          "label": "Section type",
+          "width": 134,
+          "height": 36,
+          "required": 133.0879364013672,
+          "radius": "9999px"
+        },
+        {
+          "label": "Design system",
+          "width": 131,
+          "height": 36,
+          "required": 130.7359161376953,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "pages",
+      "width": 1440,
+      "metrics": [
+        {
+          "label": "Page type",
+          "width": 125,
+          "height": 36,
+          "required": 124.67596435546875,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "sections",
+      "width": 768,
+      "metrics": [
+        {
+          "label": "Section type",
+          "width": 134,
+          "height": 36,
+          "required": 133.0879364013672,
+          "radius": "9999px"
+        },
+        {
+          "label": "Design system",
+          "width": 131,
+          "height": 36,
+          "required": 130.7359161376953,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "pages",
+      "width": 768,
+      "metrics": [
+        {
+          "label": "Page type",
+          "width": 125,
+          "height": 36,
+          "required": 124.67596435546875,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "sections",
+      "width": 390,
+      "metrics": [
+        {
+          "label": "Section type",
+          "width": 134,
+          "height": 36,
+          "required": 133.0879364013672,
+          "radius": "9999px"
+        },
+        {
+          "label": "Design system",
+          "width": 131,
+          "height": 36,
+          "required": 130.7359161376953,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "pages",
+      "width": 390,
+      "metrics": [
+        {
+          "label": "Page type",
+          "width": 125,
+          "height": 36,
+          "required": 124.67596435546875,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "sections",
+      "width": 320,
+      "metrics": [
+        {
+          "label": "Section type",
+          "width": 134,
+          "height": 36,
+          "required": 133.0879364013672,
+          "radius": "9999px"
+        },
+        {
+          "label": "Design system",
+          "width": 131,
+          "height": 36,
+          "required": 130.7359161376953,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "pages",
+      "width": 320,
+      "metrics": [
+        {
+          "label": "Page type",
+          "width": 125,
+          "height": 36,
+          "required": 124.67596435546875,
+          "radius": "9999px"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

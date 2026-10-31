@@ -1,0 +1,46 @@
+{
+  "runId": "home-cleanup-2026-10-31",
+  "mode": "original library interface maintenance",
+  "start": "2026-10-31T01:39:59+05:30",
+  "deadline": "2026-10-31T01:59:59+05:30",
+  "reference": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/TemporaryItems/NSIRD_screencaptureui_t4W4HG/Screenshot 2026-10-31 at 1.39.36\u202fAM.png",
+  "roles": {
+    "visualAnalysis": "/root/cleanup_analysis",
+    "productDesign": "/root/cleanup_analysis",
+    "artDirection": "/root/cleanup_art_direction",
+    "implementation": "/root",
+    "independentQA": "/root/cleanup_qa"
+  },
+  "changedFiles": [
+    "pilot/src/main.jsx",
+    "pilot/src/system-browser.jsx",
+    "pilot/src/system-browser.css"
+  ],
+  "sourceHashes": {
+    "pilot/src/main.jsx": "a2151451347d3968eaca989af1e1c43228a25687ee20afb7d29e08bf2d4d6c73",
+    "pilot/src/system-browser.jsx": "cba1878c4cc19ec3c6178c9b76f62730bf3bb01efeacb7bae1c48f0cd64b98e2",
+    "pilot/src/system-browser.css": "a8a1f38ae5a7522ee1dfc9a222f803c909a9263d8346a948accb8ce5f1d2c491"
+  },
+  "viewports": [
+    1440,
+    768,
+    390
+  ],
+  "screenshots": {
+    "before-desktop.png": "f7748c3c91c9062f2cf2b81a77b393e5a943a8cdba8ebdfebee21cd4ff178dc2",
+    "after-1440.png": "9b8253da59ce1383927aaf0645bd53b6df3a7f3d50763a3533a351aa64ffc517",
+    "after-768.png": "8cd8d9dd43cb27cba857033706e9a79468198636f576ab8d7662debc86f6dc70",
+    "after-390.png": "46f5503b35838626e452e13c7c89fd75651cee76da6618058603430bedfd0773"
+  },
+  "checks": {
+    "npmRunCheck": "passed",
+    "npmRunBuild": "passed",
+    "browserSmoke": "passed; browser-check.json",
+    "independentQA": "passed; /root/cleanup_qa; qa.md"
+  },
+  "preview": "http://127.0.0.1:5175/",
+  "scopeLimits": "Homepage only. Study, Sources, System guidance and original preview image content preserved.",
+  "unavailableContext": "Freebyrd index, thread and references returned no folder-specific context.",
+  "completedAt": "2026-10-30T20:12:03.089154+00:00",
+  "unfinishedItems": []
+}

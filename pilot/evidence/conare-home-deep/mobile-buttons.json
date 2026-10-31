@@ -1,0 +1,142 @@
+[
+  {
+    "t": " Product ",
+    "aria": null,
+    "html": "<button type=\"button\" aria-expanded=\"false\" aria-controls=\"home-product-menu\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center gap-1 py-2 hover:text-off-black\"><!----> Product <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" class=\"transition-transform duration-200\"><path d=\"m6 9 6 6 6-6\"></path></svg></button>"
+  },
+  {
+    "t": "",
+    "aria": "Open menu",
+    "html": "<button type=\"button\" class=\"menu-btn flex size-[26px] items-center justify-center border border-neutral-600 text-off-black transition-colors duration-200 ease-(--ease-conare) hover:border-off-black md:hidden\" data-open=\"false\" aria-expanded=\"false\" aria-controls=\"home-mobile-menu\" aria-label=\"Open menu\"><span aria-hidden=\"true\" class=\"menu-grid\"><!--[--><i data-edge=\"false\"></i><i data-edge=\"true\"></i><i data-edge=\"false\"></i><i data-edge=\"true\"></i><i data-edge=\"false\"></i><i data-edge=\"true\"></i><i data-edge=\"false\"></i><i data-edge=\"true\"></i><i data-edge=\"false\"></i><!--]--></span></button>"
+  },
+  {
+    "t": "Sales",
+    "aria": null,
+    "html": "<button id=\"uc-tab-0\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-0\" aria-selected=\"true\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"true\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M0 0h2v2h-2ZM2 0h2v2h-2ZM8 0h2v2h-2ZM10 0h2v2h-2ZM0 2h2v2h-2ZM2 2h2v2h-2ZM8 2h2v2h-2ZM10 2h2v2h-2ZM4 4h2v2h-2ZM6 4h2v2h-2ZM12 4h2v2h-2ZM14 4h2v2h-2ZM4 6h2v2h-2ZM6 6h2v2h"
+  },
+  {
+    "t": "Finance",
+    "aria": null,
+    "html": "<button id=\"uc-tab-1\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-1\" aria-selected=\"false\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"false\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M0 1h2v2h-2ZM2 1h2v2h-2ZM4 1h2v2h-2ZM6 1h2v2h-2ZM8 1h2v2h-2ZM10 1h2v2h-2ZM12 1h2v2h-2ZM14 1h2v2h-2ZM0 5h2v2h-2ZM2 5h2v2h-2ZM4 5h2v2h-2ZM6 5h2v2h-2ZM8 5h2v2h-2ZM10 5h2v"
+  },
+  {
+    "t": "Engineering",
+    "aria": null,
+    "html": "<button id=\"uc-tab-2\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-2\" aria-selected=\"false\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"false\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M0 0h2v2h-2ZM6 0h2v2h-2ZM12 0h2v2h-2ZM4 2h2v2h-2ZM10 2h2v2h-2ZM2 4h2v2h-2ZM8 4h2v2h-2ZM14 4h2v2h-2ZM0 6h2v2h-2ZM6 6h2v2h-2ZM12 6h2v2h-2ZM4 8h2v2h-2ZM10 8h2v2h-2ZM2 10h"
+  },
+  {
+    "t": "Support",
+    "aria": null,
+    "html": "<button id=\"uc-tab-3\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-3\" aria-selected=\"false\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"false\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M1 1h2v2h-2ZM5 1h2v2h-2ZM9 1h2v2h-2ZM13 1h2v2h-2ZM1 5h2v2h-2ZM5 5h2v2h-2ZM9 5h2v2h-2ZM13 5h2v2h-2ZM1 9h2v2h-2ZM5 9h2v2h-2ZM9 9h2v2h-2ZM13 9h2v2h-2ZM1 13h2v2h-2ZM5 13h2"
+  },
+  {
+    "t": "Legal",
+    "aria": null,
+    "html": "<button id=\"uc-tab-4\" role=\"tab\" type=\"button\" aria-controls=\"uc-panel-4\" aria-selected=\"false\" class=\"uc-px-tab relative flex h-8 min-w-0 flex-1 basis-0 items-center justify-center gap-2 overflow-hidden px-0.5 text-[11px] leading-4 whitespace-nowrap sm:h-9 sm:px-2 sm:text-[13px] md:w-36 md:flex-none md:px-4\" data-on=\"false\"><span aria-hidden=\"true\" class=\"uc-px-edge absolute inset-0\"></span><span aria-hidden=\"true\" class=\"uc-px-ground absolute inset-px\"></span><svg aria-hidden=\"true\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" class=\"uc-team-mark relative size-3.5 shrink-0 max-sm:hidden\"><path d=\"M1 0h2v2h-2ZM5 0h2v2h-2ZM9 0h2v2h-2ZM13 0h2v2h-2ZM1 2h2v2h-2ZM5 2h2v2h-2ZM9 2h2v2h-2ZM13 2h2v2h-2ZM1 4h2v2h-2ZM5 4h2v2h-2ZM9 4h2v2h-2ZM13 4h2v2h-2ZM1 6h2v2h-2ZM5 6h2v2"
+  },
+  {
+    "t": "How do I get started?",
+    "aria": null,
+    "html": "<button id=\"faq-q-0\" type=\"button\" aria-expanded=\"true\" aria-controls=\"faq-a-0\" class=\"text-off-black faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">How do I get started? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+  },
+  {
+    "t": "Which part should I use?",
+    "aria": null,
+    "html": "<button id=\"faq-q-1\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-1\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">Which part should I use? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+  },
+  {
+    "t": "Is my data used to train models?",
+    "aria": null,
+    "html": "<button id=\"faq-q-2\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-2\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">Is my data used to train models? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+  },
+  {
+    "t": "Where is my data processed?",
+    "aria": null,
+    "html": "<button id=\"faq-q-3\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-3\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">Where is my data processed? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+  },
+  {
+    "t": "What happens when a record changes?",
+    "aria": null,
+    "html": "<button id=\"faq-q-4\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-4\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">What happens when a record changes? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+  },
+  {
+    "t": "How do I delete a user's data?",
+    "aria": null,
+    "html": "<button id=\"faq-q-5\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-5\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">How do I delete a user's data? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+  },
+  {
+    "t": "What do I have to run?",
+    "aria": null,
+    "html": "<button id=\"faq-q-6\" type=\"button\" aria-expanded=\"false\" aria-controls=\"faq-a-6\" class=\"text-neutral-400 faq-row relative flex w-full items-center justify-between gap-4 py-4 pr-5 pl-5 text-left text-[15px] leading-6\">What do I have to run? <span aria-hidden=\"true\" class=\"faq-sign relative size-3 shrink-0\"><span class=\"absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 bg-home-red\"></span><span class=\"faq-sign-v absolute inset-y-0 left-1/2 w-0.5 -translate-x-1/2 bg-home-red\"></span></span></button>"
+  },
+  {
+    "t": "How do I get started?",
+    "aria": null,
+    "html": "<button id=\"faq-tab-0\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-0\" aria-selected=\"true\" tabindex=\"0\" class=\"faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6 text-off-black\">How do I get started?</button>"
+  },
+  {
+    "t": "Which part should I use?",
+    "aria": null,
+    "html": "<button id=\"faq-tab-1\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-1\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">Which part should I use?</button>"
+  },
+  {
+    "t": "Is my data used to train models?",
+    "aria": null,
+    "html": "<button id=\"faq-tab-2\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-2\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">Is my data used to train models?</button>"
+  },
+  {
+    "t": "Where is my data processed?",
+    "aria": null,
+    "html": "<button id=\"faq-tab-3\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-3\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">Where is my data processed?</button>"
+  },
+  {
+    "t": "What happens when a record changes?",
+    "aria": null,
+    "html": "<button id=\"faq-tab-4\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-4\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">What happens when a record changes?</button>"
+  },
+  {
+    "t": "How do I delete a user's data?",
+    "aria": null,
+    "html": "<button id=\"faq-tab-5\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-5\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">How do I delete a user's data?</button>"
+  },
+  {
+    "t": "What do I have to run?",
+    "aria": null,
+    "html": "<button id=\"faq-tab-6\" role=\"tab\" type=\"button\" aria-controls=\"faq-panel-6\" aria-selected=\"false\" tabindex=\"-1\" class=\"text-neutral-400 faq-row relative border-t border-neutral-700 py-4 pr-12 pl-5 text-left text-[15px] leading-6 first:border-t-0 sm:pl-6\">What do I have to run?</button>"
+  },
+  {
+    "t": " Book a Demo ",
+    "aria": null,
+    "html": "<button type=\"button\" style=\"--i:3;\" class=\"prompt-glass prompt-press prompt-template flex h-9 items-center gap-2 px-3 text-[14px] text-[#f7f6f6]\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92Z\"></path></svg> Book a Demo <span aria-hidden=\"true\" class=\"prompt-go -ml-2 grid\"><span class=\"min-w-0 overflow-hidden\"><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\" fill=\"none\" stroke=\"currentColo"
+  },
+  {
+    "t": " Which part should I use? ",
+    "aria": null,
+    "html": "<button type=\"button\" style=\"--i:2;\" class=\"prompt-glass prompt-press prompt-template flex h-9 items-center gap-2 px-3 text-[14px] text-[#f7f6f6]\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" aria-hidden=\"true\"><path d=\"M1 1h2v2h-2ZM5 1h2v2h-2ZM9 1h2v2h-2ZM13 1h2v2h-2ZM1 5h2v2h-2ZM5 5h2v2h-2ZM9 5h2v2h-2ZM13 5h2v2h-2ZM1 9h2v2h-2ZM5 9h2v2h-2ZM9 9h2v2h-2ZM13 9h2v2h-2ZM1 13h2v2h-2ZM5 13h2v2h-2ZM9 13h2v2h-2ZM13 13h2v2h-2Z\" fill=\"currentColor\"></path></svg> Which part should I use? <span aria-hidden=\"true\" class=\"prompt-go -ml-2 grid\"><span class=\"min-w-0 overflow-hidden\"><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.2\" class=\"ml-2 rtl:-scale-x-100\"><path d=\"M1.5 5h7M5.5 2l3 3-3 3\"></path></svg></span></span></bu"
+  },
+  {
+    "t": " Is my data used to train models? ",
+    "aria": null,
+    "html": "<button type=\"button\" style=\"--i:1;\" class=\"prompt-glass prompt-press prompt-template flex h-9 items-center gap-2 px-3 text-[14px] text-[#f7f6f6]\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" aria-hidden=\"true\"><path d=\"M0 0h2v2h-2ZM6 0h2v2h-2ZM12 0h2v2h-2ZM4 2h2v2h-2ZM10 2h2v2h-2ZM2 4h2v2h-2ZM8 4h2v2h-2ZM14 4h2v2h-2ZM0 6h2v2h-2ZM6 6h2v2h-2ZM12 6h2v2h-2ZM4 8h2v2h-2ZM10 8h2v2h-2ZM2 10h2v2h-2ZM8 10h2v2h-2ZM14 10h2v2h-2ZM0 12h2v2h-2ZM6 12h2v2h-2ZM12 12h2v2h-2ZM4 14h2v2h-2ZM10 14h2v2h-2Z\" fill=\"currentColor\"></path></svg> Is my data used to train models? <span aria-hidden=\"true\" class=\"prompt-go -ml-2 grid\"><span class=\"min-w-0 overflow-hidden\"><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.2\" class=\"ml-2 rtl:-s"
+  },
+  {
+    "t": " What do I have to run? ",
+    "aria": null,
+    "html": "<button type=\"button\" style=\"--i:0;\" class=\"prompt-glass prompt-press prompt-template flex h-9 items-center gap-2 px-3 text-[14px] text-[#f7f6f6]\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" shape-rendering=\"crispEdges\" aria-hidden=\"true\"><path d=\"M0 0h2v2h-2ZM2 0h2v2h-2ZM8 0h2v2h-2ZM10 0h2v2h-2ZM0 2h2v2h-2ZM2 2h2v2h-2ZM8 2h2v2h-2ZM10 2h2v2h-2ZM4 4h2v2h-2ZM6 4h2v2h-2ZM12 4h2v2h-2ZM14 4h2v2h-2ZM4 6h2v2h-2ZM6 6h2v2h-2ZM12 6h2v2h-2ZM14 6h2v2h-2ZM0 8h2v2h-2ZM2 8h2v2h-2ZM8 8h2v2h-2ZM10 8h2v2h-2ZM0 10h2v2h-2ZM2 10h2v2h-2ZM8 10h2v2h-2ZM10 10h2v2h-2ZM4 12h2v2h-2ZM6 12h2v2h-2ZM12 12h2v2h-2ZM14 12h2v2h-2ZM4 14h2v2h-2ZM6 14h2v2h-2ZM12 14h2v2h-2ZM14 14h2v2h-2Z\" fill=\"currentColor\"></path></svg> What do I have to run? <span aria-hidden=\"true\" class=\"prompt-go -ml-2 grid\"><span class=\"min-w-0 overfl"
+  },
+  {
+    "t": "",
+    "aria": "Close",
+    "html": "<button type=\"button\" aria-label=\"Close\" class=\"prompt-press ml-auto flex size-6 items-center justify-center text-[#f7f6f6]/60 hover:bg-white/10 hover:text-[#f7f6f6]\"><svg width=\"8\" height=\"8\" viewBox=\"0 0 10 10\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.2\" aria-hidden=\"true\"><path d=\"m1.5 1.5 7 7m0-7-7 7\"></path></svg></button>"
+  },
+  {
+    "t": "",
+    "aria": "Ask by voice",
+    "html": "<button type=\"button\" aria-label=\"Ask by voice\" aria-pressed=\"false\" class=\"bg-white/10 text-[#f7f6f6]/90 hover:bg-white/16 prompt-press prompt-mic relative flex size-7 shrink-0 items-center justify-center\" data-listening=\"false\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z\"></path><path d=\"M19 10v2a7 7 0 0 1-14 0v-2\"></path><line x1=\"12\" x2=\"12\" y1=\"19\" y2=\"22\"></line></svg></button>"
+  },
+  {
+    "t": "",
+    "aria": "Send message",
+    "html": "<button type=\"submit\" aria-label=\"Send message\" disabled=\"\" class=\"prompt-press flex size-7 shrink-0 items-center justify-center bg-[#f7f6f6] text-[#1e1b17] hover:bg-white disabled:opacity-40\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 7-7 7 7\"></path><path d=\"M12 19V5\"></path></svg></button>"
+  }
+]

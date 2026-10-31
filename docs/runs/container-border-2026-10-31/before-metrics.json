@@ -1,0 +1,92 @@
+[
+  {
+    "name": "desktop",
+    "styles": [
+      {
+        "class": "style-preview style-preview-editorial-01",
+        "border": "rgb(231, 231, 227)",
+        "borderWidth": "1px",
+        "background": "rgb(243, 243, 239)",
+        "x": 24,
+        "y": 174,
+        "width": 462,
+        "height": 513.328125
+      },
+      {
+        "class": "page-viewport",
+        "border": "rgb(231, 231, 227)",
+        "borderWidth": "1px 1px 0px",
+        "background": "rgb(253, 253, 252)",
+        "x": 41,
+        "y": 191,
+        "width": 428,
+        "height": 495.328125
+      },
+      {
+        "class": "style-preview style-preview-blueprint-source",
+        "border": "rgb(231, 231, 227)",
+        "borderWidth": "1px",
+        "background": "rgb(243, 243, 239)",
+        "x": 510,
+        "y": 174,
+        "width": 462,
+        "height": 513.328125
+      },
+      {
+        "class": "page-viewport",
+        "border": "rgb(231, 231, 227)",
+        "borderWidth": "1px 1px 0px",
+        "background": "rgb(253, 253, 252)",
+        "x": 527,
+        "y": 191,
+        "width": 428,
+        "height": 495.328125
+      }
+    ]
+  },
+  {
+    "name": "mobile",
+    "styles": [
+      {
+        "class": "style-preview style-preview-editorial-01",
+        "border": "rgb(231, 231, 227)",
+        "borderWidth": "1px",
+        "background": "rgb(243, 243, 239)",
+        "x": 16,
+        "y": 198,
+        "width": 358,
+        "height": 397.765625
+      },
+      {
+        "class": "page-viewport",
+        "border": "rgb(231, 231, 227)",
+        "borderWidth": "1px 1px 0px",
+        "background": "rgb(253, 253, 252)",
+        "x": 33,
+        "y": 215,
+        "width": 324,
+        "height": 379.765625
+      },
+      {
+        "class": "style-preview style-preview-blueprint-source",
+        "border": "rgb(231, 231, 227)",
+        "borderWidth": "1px",
+        "background": "rgb(243, 243, 239)",
+        "x": 16,
+        "y": 718.40625,
+        "width": 358,
+        "height": 397.765625
+      },
+      {
+        "class": "page-viewport",
+        "border": "rgb(231, 231, 227)",
+        "borderWidth": "1px 1px 0px",
+        "background": "rgb(253, 253, 252)",
+        "x": 33,
+        "y": 735.40625,
+        "width": 324,
+        "height": 379.765625
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "view": "project-detail",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "missingImages": []
+  },
+  {
+    "view": "project-detail",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "missingImages": []
+  },
+  {
+    "view": "image-index",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "missingImages": []
+  },
+  {
+    "view": "image-index",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "missingImages": []
+  },
+  {
+    "view": "split-material",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "missingImages": []
+  },
+  {
+    "view": "split-material",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "missingImages": []
+  },
+  {
+    "view": "image-rail",
+    "width": 1440,
+    "errors": [],
+    "overflow": false,
+    "missingImages": []
+  },
+  {
+    "view": "image-rail",
+    "width": 390,
+    "errors": [],
+    "overflow": false,
+    "missingImages": []
+  }
+]

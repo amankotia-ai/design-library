@@ -1,0 +1,43 @@
+{
+  "run_id": "pilot-001-emil-revision",
+  "date": "2026-10-30",
+  "scope": "Library browser redesign; contained editorial source study preserved.",
+  "source_files": {
+    "src/data.js": "0d8784bd974ac63c648bcce223b237ef963f905423018b6639a6e3e28bb2fdfb",
+    "src/main.jsx": "be7b769e898ab53a0b5886faeb77bac5319ffc6d2b6cd738a93b17824cd6f231",
+    "src/sections.css": "0af72e3f735737ada72d1ab394c6867d847ea3adedb21c846ec8ba2d4c368717",
+    "src/sections.jsx": "fb851d1168d41c803077905ce5f13f6e7120443ca8c2245ad930240ec338b8bf",
+    "src/style.css": "87c39bae358fc0306ae694a7759fc75ae7e8858497b8fcde3f2297c853a1d3af",
+    "src/tokens.css": "9149ffa1cce8a8f12dfdaaa00dfe0bf95531e0107cc695b9253734267513fd77"
+  },
+  "agents": [
+    {
+      "id": "/root/emil_visual_analysis",
+      "role": "Visual analysis",
+      "artifact": "research/emil/visual-analysis.md"
+    },
+    {
+      "id": "/root/emil_design_review",
+      "role": "Product/design direction",
+      "artifact": "research/emil/design-review.md"
+    },
+    {
+      "id": "/root/emil_art_final",
+      "role": "Art direction / rendered review",
+      "artifact": "research/emil/art-final.md"
+    },
+    {
+      "id": "/root/emil_qa_final",
+      "role": "Independent QA",
+      "artifact": "research/emil/qa-final.json"
+    }
+  ],
+  "qa_status": "passed",
+  "qa_checks": 36,
+  "prior_reviews": "Earlier pilot reviews remain as historical records; current shell review is research/emil/qa-final.json.",
+  "limitations": [
+    "Source serif/sans and Emil Sans are substitute fonts.",
+    "Original mobile behavior is unseen.",
+    "Source photography is private reference-study material."
+  ]
+}

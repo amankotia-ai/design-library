@@ -1,0 +1,26 @@
+[
+  {
+    "width": 1440,
+    "gap": 4,
+    "transform": "matrix(1, 0, 0, 1, 0, 2)",
+    "brandRight": 483.203125,
+    "overflow": false,
+    "imageLoaded": true
+  },
+  {
+    "width": 390,
+    "gap": 4,
+    "transform": "matrix(1, 0, 0, 1, 0, 1)",
+    "brandRight": 316.171875,
+    "overflow": false,
+    "imageLoaded": true
+  },
+  {
+    "width": 320,
+    "gap": 4,
+    "transform": "matrix(1, 0, 0, 1, 0, 1)",
+    "brandRight": 289.65625,
+    "overflow": false,
+    "imageLoaded": true
+  }
+]

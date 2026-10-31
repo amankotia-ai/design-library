@@ -1,0 +1,370 @@
+{
+  "reviewer": "/root/emil_qa_final",
+  "role": "independent QA",
+  "status": "passed",
+  "scope": "Emil-inspired library shell; preserved editorial previews; separate source font substitution disclosed",
+  "hashes": {
+    "src/main.jsx": "be7b769e898ab53a0b5886faeb77bac5319ffc6d2b6cd738a93b17824cd6f231",
+    "src/style.css": "87c39bae358fc0306ae694a7759fc75ae7e8858497b8fcde3f2297c853a1d3af",
+    "src/sections.jsx": "fb851d1168d41c803077905ce5f13f6e7120443ca8c2245ad930240ec338b8bf",
+    "src/sections.css": "0af72e3f735737ada72d1ab394c6867d847ea3adedb21c846ec8ba2d4c368717",
+    "src/tokens.css": "9149ffa1cce8a8f12dfdaaa00dfe0bf95531e0107cc695b9253734267513fd77",
+    "src/data.js": "0d8784bd974ac63c648bcce223b237ef963f905423018b6639a6e3e28bb2fdfb",
+    "evidence/library-emil-desktop.png": "1124bb4d3e7f1651cb1fc68db26cfa8dea4c04d18730f93333b613315ccbaf66",
+    "evidence/library-emil-mobile.png": "e57d0074e50640c1f77e0cebab919bc4bd1503d0003eb69e3da77ea160bb08d2",
+    "research/emil/reference-crop.png": "6d6a8c574d2bea8fff09608e989305620b28364d12335b6e9415e98b8000525c"
+  },
+  "checks": [
+    {
+      "name": "Study overflow 320",
+      "passed": true,
+      "details": {
+        "w": 320,
+        "scrollWidth": 320,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Study one h1 320",
+      "passed": true,
+      "details": {
+        "w": 320,
+        "scrollWidth": 320,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Sources overflow 320",
+      "passed": true,
+      "details": {
+        "w": 320,
+        "scrollWidth": 320,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Sources one h1 320",
+      "passed": true,
+      "details": {
+        "w": 320,
+        "scrollWidth": 320,
+        "h1": 1
+      }
+    },
+    {
+      "name": "System overflow 320",
+      "passed": true,
+      "details": {
+        "w": 320,
+        "scrollWidth": 320,
+        "h1": 1
+      }
+    },
+    {
+      "name": "System one h1 320",
+      "passed": true,
+      "details": {
+        "w": 320,
+        "scrollWidth": 320,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Study overflow 390",
+      "passed": true,
+      "details": {
+        "w": 390,
+        "scrollWidth": 390,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Study one h1 390",
+      "passed": true,
+      "details": {
+        "w": 390,
+        "scrollWidth": 390,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Sources overflow 390",
+      "passed": true,
+      "details": {
+        "w": 390,
+        "scrollWidth": 390,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Sources one h1 390",
+      "passed": true,
+      "details": {
+        "w": 390,
+        "scrollWidth": 390,
+        "h1": 1
+      }
+    },
+    {
+      "name": "System overflow 390",
+      "passed": true,
+      "details": {
+        "w": 390,
+        "scrollWidth": 390,
+        "h1": 1
+      }
+    },
+    {
+      "name": "System one h1 390",
+      "passed": true,
+      "details": {
+        "w": 390,
+        "scrollWidth": 390,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Study overflow 768",
+      "passed": true,
+      "details": {
+        "w": 768,
+        "scrollWidth": 768,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Study one h1 768",
+      "passed": true,
+      "details": {
+        "w": 768,
+        "scrollWidth": 768,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Sources overflow 768",
+      "passed": true,
+      "details": {
+        "w": 768,
+        "scrollWidth": 768,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Sources one h1 768",
+      "passed": true,
+      "details": {
+        "w": 768,
+        "scrollWidth": 768,
+        "h1": 1
+      }
+    },
+    {
+      "name": "System overflow 768",
+      "passed": true,
+      "details": {
+        "w": 768,
+        "scrollWidth": 768,
+        "h1": 1
+      }
+    },
+    {
+      "name": "System one h1 768",
+      "passed": true,
+      "details": {
+        "w": 768,
+        "scrollWidth": 768,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Study overflow 1440",
+      "passed": true,
+      "details": {
+        "w": 1440,
+        "scrollWidth": 1440,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Study one h1 1440",
+      "passed": true,
+      "details": {
+        "w": 1440,
+        "scrollWidth": 1440,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Sources overflow 1440",
+      "passed": true,
+      "details": {
+        "w": 1440,
+        "scrollWidth": 1440,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Sources one h1 1440",
+      "passed": true,
+      "details": {
+        "w": 1440,
+        "scrollWidth": 1440,
+        "h1": 1
+      }
+    },
+    {
+      "name": "System overflow 1440",
+      "passed": true,
+      "details": {
+        "w": 1440,
+        "scrollWidth": 1440,
+        "h1": 1
+      }
+    },
+    {
+      "name": "System one h1 1440",
+      "passed": true,
+      "details": {
+        "w": 1440,
+        "scrollWidth": 1440,
+        "h1": 1
+      }
+    },
+    {
+      "name": "Footer iframe shrinks after page",
+      "passed": true,
+      "details": {
+        "pageHeight": "2331px",
+        "height": 567,
+        "body": 567
+      }
+    },
+    {
+      "name": "Hero desktop source-sized route",
+      "passed": true,
+      "details": "/?view=hero&embed=1&mode=faithful"
+    },
+    {
+      "name": "Mobile preview width390",
+      "passed": true,
+      "details": "/?view=hero&embed=1"
+    },
+    {
+      "name": "Side by side images loaded",
+      "passed": true,
+      "details": [
+        2030,
+        2030
+      ]
+    },
+    {
+      "name": "Overlay75 source",
+      "passed": true,
+      "details": "opacity: 0.25;"
+    },
+    {
+      "name": "Dismiss notice",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Attribution image originals available",
+      "passed": true,
+      "details": [
+        2350,
+        3044
+      ]
+    },
+    {
+      "name": "Source resource http://127.0.0.1:5175/references/21-final.jpg",
+      "passed": true,
+      "details": 200
+    },
+    {
+      "name": "Source resource http://127.0.0.1:5175/references/21-grid.jpg",
+      "passed": true,
+      "details": 200
+    },
+    {
+      "name": "Source resource http://127.0.0.1:5175/references/17-testimonial.jpg",
+      "passed": true,
+      "details": 200
+    },
+    {
+      "name": "Keyboard visible focus",
+      "passed": true,
+      "details": [
+        {
+          "tag": "BUTTON",
+          "name": "System",
+          "outline": "solid"
+        },
+        {
+          "tag": "SELECT",
+          "name": "Section",
+          "outline": "solid"
+        },
+        {
+          "tag": "BUTTON",
+          "name": "Desktop",
+          "outline": "solid"
+        },
+        {
+          "tag": "BUTTON",
+          "name": "Mobile",
+          "outline": "solid"
+        },
+        {
+          "tag": "BUTTON",
+          "name": "Compare",
+          "outline": "solid"
+        },
+        {
+          "tag": "SELECT",
+          "name": "Side by sideOverlay",
+          "outline": "solid"
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid"
+        },
+        {
+          "tag": "A",
+          "name": "Open section ↗",
+          "outline": "solid"
+        },
+        {
+          "tag": "A",
+          "name": "Bernardo Lickfold",
+          "outline": "solid"
+        },
+        {
+          "tag": "A",
+          "name": "The structure",
+          "outline": "solid"
+        },
+        {
+          "tag": "A",
+          "name": "The final result",
+          "outline": "solid"
+        }
+      ]
+    },
+    {
+      "name": "No browser errors",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "visual_inspection": [
+    "reference-crop.png",
+    "library-emil-desktop.png",
+    "library-emil-mobile.png"
+  ],
+  "limitations": [
+    "The source custom Sans font is unavailable; Inter is a disclosed local substitute.",
+    "This review does not establish exact recovery of the source site or its unseen mobile design."
+  ]
+}

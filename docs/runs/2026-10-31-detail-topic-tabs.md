@@ -1,0 +1,9 @@
+# System detail topic navigation
+
+- Start: 2026-10-31 06:21:09 IST; deadline: 06:41:09 IST (20-minute active-work budget).
+- Scope: implement the user's selected topic-tab mockup A from `output/layout-exploration/a-tabs.png` as working navigation. Preserve all seven sections, links, content, the preview, and the 40/60 desktop split. Completion: working keyboard and pointer controls, desktop and mobile previews, successful build, and independent QA of the delivered revision.
+- Mode: original library interface implementation. Reference structure and mockup evidence are recorded in `docs/runs/2026-10-31-detail-structure-exploration.md`; no source media or fonts are being reconstructed.
+- Freebyrd index, thread and references returned no folder context. `/root/visual_analysis`, `/root/product_design`, and `/root/art_direction` provided implementation guidance. `/root` implemented the layout and `/root/independent_qa` reviewed the delivered revision.
+- Implementation: `pilot/src/system-browser.jsx` SHA-256 `d3f34381a60d8ddf010fdf5885b9253292f12bc58996a729f25c0aece501e82f` and `pilot/src/system-browser.css` SHA-256 `e81075f915b8de58089db890f4b3a29de6acd3283ce0e8d3b837e6a293ff0ef4`. Native radio controls provide keyboard topic selection; sections are grouped into Overview, Design, Collection, and Sources.
+- Validation: `npm run build` passed. Browser and independent QA checked the topic content, active panel, pointer and keyboard selection, focus, links and disclosure, desktop and mobile layout, stable header, and 40/60 split. The narrow desktop topic strip initially clipped Sources; wrapping corrected it and independent QA rechecked the final revision. Captures: `output/detail-tabs-qa/` and `output/detail-tabs-1512.png`. `npm run check` produced no results and was stopped after it stalled; its checks are not claimed as passed.
+- Review: passed by `/root/independent_qa` on the source hashes above; no blocking findings.

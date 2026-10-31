@@ -1,0 +1,754 @@
+[
+  {
+    "route": "page",
+    "label": "desktop",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 7286,
+    "headings": [
+      {
+        "text": "Ship software that never breaks",
+        "rect": {
+          "x": 120,
+          "y": 208,
+          "width": 444.28125,
+          "height": 112,
+          "top": 208,
+          "right": 564.28125,
+          "bottom": 320,
+          "left": 120
+        }
+      },
+      {
+        "text": "Interfere empowers engineers, product managers and designers with real-time understanding of previously unseen bugs and issues.",
+        "rect": {
+          "x": 808,
+          "y": 208,
+          "width": 512,
+          "height": 48,
+          "top": 208,
+          "right": 1320,
+          "bottom": 256,
+          "left": 808
+        }
+      },
+      {
+        "text": "Broken password reset link",
+        "rect": {
+          "x": 196,
+          "y": 517.734375,
+          "width": 391,
+          "height": 32,
+          "top": 517.734375,
+          "right": 587,
+          "bottom": 549.734375,
+          "left": 196
+        }
+      },
+      {
+        "text": "Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "text": "Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.",
+        "rect": {
+          "x": 120,
+          "y": 1533,
+          "width": 576,
+          "height": 108,
+          "top": 1533,
+          "right": 696,
+          "bottom": 1641,
+          "left": 120
+        }
+      },
+      {
+        "text": "Learn about issues before your customers do",
+        "rect": {
+          "x": 120,
+          "y": 1921,
+          "width": 373.328125,
+          "height": 24,
+          "top": 1921,
+          "right": 493.328125,
+          "bottom": 1945,
+          "left": 120
+        }
+      },
+      {
+        "text": "Understand what's going wrong",
+        "rect": {
+          "x": 533.328125,
+          "y": 1921,
+          "width": 373.328125,
+          "height": 24,
+          "top": 1921,
+          "right": 906.65625,
+          "bottom": 1945,
+          "left": 533.328125
+        }
+      },
+      {
+        "text": "Fix problems with confidence",
+        "rect": {
+          "x": 946.65625,
+          "y": 1921,
+          "width": 373.34375,
+          "height": 24,
+          "top": 1921,
+          "right": 1320,
+          "bottom": 1945,
+          "left": 946.65625
+        }
+      },
+      {
+        "text": "Learn about issues before your customers do",
+        "rect": {
+          "x": 120,
+          "y": 2801,
+          "width": 480,
+          "height": 72,
+          "top": 2801,
+          "right": 600,
+          "bottom": 2873,
+          "left": 120
+        }
+      },
+      {
+        "text": "Understand what's going wrong",
+        "rect": {
+          "x": 120,
+          "y": 3634,
+          "width": 480,
+          "height": 36,
+          "top": 3634,
+          "right": 600,
+          "bottom": 3670,
+          "left": 120
+        }
+      },
+      {
+        "text": "Broken password reset link",
+        "rect": {
+          "x": 818,
+          "y": 3739,
+          "width": 391,
+          "height": 32,
+          "top": 3739,
+          "right": 1209,
+          "bottom": 3771,
+          "left": 818
+        }
+      },
+      {
+        "text": "Fix problems with confidence",
+        "rect": {
+          "x": 120,
+          "y": 4467,
+          "width": 480,
+          "height": 36,
+          "top": 4467,
+          "right": 600,
+          "bottom": 4503,
+          "left": 120
+        }
+      },
+      {
+        "text": "Secure by design.Safe by default.",
+        "rect": {
+          "x": 184,
+          "y": 5219,
+          "width": 220.625,
+          "height": 72,
+          "top": 5219,
+          "right": 404.625,
+          "bottom": 5291,
+          "left": 184
+        }
+      },
+      {
+        "text": "The Latest",
+        "rect": {
+          "x": 120,
+          "y": 5571,
+          "width": 1200,
+          "height": 36,
+          "top": 5571,
+          "right": 1320,
+          "bottom": 5607,
+          "left": 120
+        }
+      },
+      {
+        "text": "Ship software that never breaks",
+        "rect": {
+          "x": 498.9375,
+          "y": 6144,
+          "width": 442.125,
+          "height": 112,
+          "top": 6144,
+          "right": 941.0625,
+          "bottom": 6256,
+          "left": 498.9375
+        }
+      }
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:5175/interfere/assets/8d0d8ee7f8b026.png",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:5175/interfere/assets/27feba3fc55b46.png",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "page",
+    "label": "mobile",
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390,
+    "scrollHeight": 9089,
+    "headings": [
+      {
+        "text": "Ship software that never breaks",
+        "rect": {
+          "x": 24,
+          "y": 112,
+          "width": 285.609375,
+          "height": 72,
+          "top": 112,
+          "right": 309.609375,
+          "bottom": 184,
+          "left": 24
+        }
+      },
+      {
+        "text": "Interfere empowers engineers, product managers and designers with real-time understanding of previously unseen bugs and issues.",
+        "rect": {
+          "x": 24,
+          "y": 200,
+          "width": 342,
+          "height": 96,
+          "top": 200,
+          "right": 366,
+          "bottom": 296,
+          "left": 24
+        }
+      },
+      {
+        "text": "Broken password reset link",
+        "rect": {
+          "x": 100,
+          "y": 573.203125,
+          "width": 391,
+          "height": 32,
+          "top": 573.203125,
+          "right": 491,
+          "bottom": 605.203125,
+          "left": 100
+        }
+      },
+      {
+        "text": "Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.",
+        "rect": {
+          "x": 24,
+          "y": 1349,
+          "width": 342,
+          "height": 160,
+          "top": 1349,
+          "right": 366,
+          "bottom": 1509,
+          "left": 24
+        }
+      },
+      {
+        "text": "Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "text": "Learn about issues before your customers do",
+        "rect": {
+          "x": 24,
+          "y": 1765,
+          "width": 342,
+          "height": 24,
+          "top": 1765,
+          "right": 366,
+          "bottom": 1789,
+          "left": 24
+        }
+      },
+      {
+        "text": "Understand what's going wrong",
+        "rect": {
+          "x": 24,
+          "y": 2121,
+          "width": 342,
+          "height": 24,
+          "top": 2121,
+          "right": 366,
+          "bottom": 2145,
+          "left": 24
+        }
+      },
+      {
+        "text": "Fix problems with confidence",
+        "rect": {
+          "x": 24,
+          "y": 2477,
+          "width": 342,
+          "height": 24,
+          "top": 2477,
+          "right": 366,
+          "bottom": 2501,
+          "left": 24
+        }
+      },
+      {
+        "text": "Learn about issues before your customers do",
+        "rect": {
+          "x": 24,
+          "y": 3213,
+          "width": 342,
+          "height": 72,
+          "top": 3213,
+          "right": 366,
+          "bottom": 3285,
+          "left": 24
+        }
+      },
+      {
+        "text": "Understand what's going wrong",
+        "rect": {
+          "x": 24,
+          "y": 4279,
+          "width": 342,
+          "height": 72,
+          "top": 4279,
+          "right": 366,
+          "bottom": 4351,
+          "left": 24
+        }
+      },
+      {
+        "text": "Broken password reset link",
+        "rect": {
+          "x": 102,
+          "y": 4853,
+          "width": 391,
+          "height": 32,
+          "top": 4853,
+          "right": 493,
+          "bottom": 4885,
+          "left": 102
+        }
+      },
+      {
+        "text": "Fix problems with confidence",
+        "rect": {
+          "x": 24,
+          "y": 5309,
+          "width": 342,
+          "height": 72,
+          "top": 5309,
+          "right": 366,
+          "bottom": 5381,
+          "left": 24
+        }
+      },
+      {
+        "text": "Secure by design.Safe by default.",
+        "rect": {
+          "x": 44,
+          "y": 6410,
+          "width": 220.625,
+          "height": 72,
+          "top": 6410,
+          "right": 264.625,
+          "bottom": 6482,
+          "left": 44
+        }
+      },
+      {
+        "text": "The Latest",
+        "rect": {
+          "x": 24,
+          "y": 6964,
+          "width": 342,
+          "height": 36,
+          "top": 6964,
+          "right": 366,
+          "bottom": 7000,
+          "left": 24
+        }
+      },
+      {
+        "text": "Ship software that never breaks",
+        "rect": {
+          "x": 52.875,
+          "y": 7425,
+          "width": 284.234375,
+          "height": 72,
+          "top": 7425,
+          "right": 337.109375,
+          "bottom": 7497,
+          "left": 52.875
+        }
+      }
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:5175/interfere/assets/8d0d8ee7f8b026.png",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:5175/interfere/assets/27feba3fc55b46.png",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "header",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 900,
+    "headings": [],
+    "images": []
+  },
+  {
+    "route": "hero",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 1168,
+    "headings": [
+      {
+        "text": "Ship software that never breaks",
+        "rect": {
+          "x": 120,
+          "y": 144,
+          "width": 444.28125,
+          "height": 112,
+          "top": 144,
+          "right": 564.28125,
+          "bottom": 256,
+          "left": 120
+        }
+      },
+      {
+        "text": "Interfere empowers engineers, product managers and designers with real-time understanding of previously unseen bugs and issues.",
+        "rect": {
+          "x": 808,
+          "y": 144,
+          "width": 512,
+          "height": 48,
+          "top": 144,
+          "right": 1320,
+          "bottom": 192,
+          "left": 808
+        }
+      },
+      {
+        "text": "Broken password reset link",
+        "rect": {
+          "x": 196,
+          "y": 453.734375,
+          "width": 391,
+          "height": 32,
+          "top": 453.734375,
+          "right": 587,
+          "bottom": 485.734375,
+          "left": 196
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "route": "trust",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 900,
+    "headings": [],
+    "images": []
+  },
+  {
+    "route": "overview",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 900,
+    "headings": [
+      {
+        "text": "Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "text": "Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.",
+        "rect": {
+          "x": 120,
+          "y": 144,
+          "width": 576,
+          "height": 108,
+          "top": 144,
+          "right": 696,
+          "bottom": 252,
+          "left": 120
+        }
+      },
+      {
+        "text": "Learn about issues before your customers do",
+        "rect": {
+          "x": 120,
+          "y": 532,
+          "width": 373.328125,
+          "height": 24,
+          "top": 532,
+          "right": 493.328125,
+          "bottom": 556,
+          "left": 120
+        }
+      },
+      {
+        "text": "Understand what's going wrong",
+        "rect": {
+          "x": 533.328125,
+          "y": 532,
+          "width": 373.328125,
+          "height": 24,
+          "top": 532,
+          "right": 906.65625,
+          "bottom": 556,
+          "left": 533.328125
+        }
+      },
+      {
+        "text": "Fix problems with confidence",
+        "rect": {
+          "x": 946.65625,
+          "y": 532,
+          "width": 373.34375,
+          "height": 24,
+          "top": 532,
+          "right": 1320,
+          "bottom": 556,
+          "left": 946.65625
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "route": "testimonial",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 900,
+    "headings": [],
+    "images": [
+      {
+        "src": "http://127.0.0.1:5175/interfere/assets/8d0d8ee7f8b026.png",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:5175/interfere/assets/27feba3fc55b46.png",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "monitoring",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 900,
+    "headings": [
+      {
+        "text": "Learn about issues before your customers do",
+        "rect": {
+          "x": 120,
+          "y": 144,
+          "width": 480,
+          "height": 72,
+          "top": 144,
+          "right": 600,
+          "bottom": 216,
+          "left": 120
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "route": "triage",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 900,
+    "headings": [
+      {
+        "text": "Understand what's going wrong",
+        "rect": {
+          "x": 120,
+          "y": 144,
+          "width": 480,
+          "height": 36,
+          "top": 144,
+          "right": 600,
+          "bottom": 180,
+          "left": 120
+        }
+      },
+      {
+        "text": "Broken password reset link",
+        "rect": {
+          "x": 818,
+          "y": 249,
+          "width": 391,
+          "height": 32,
+          "top": 249,
+          "right": 1209,
+          "bottom": 281,
+          "left": 818
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "route": "resolution",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 900,
+    "headings": [
+      {
+        "text": "Fix problems with confidence",
+        "rect": {
+          "x": 120,
+          "y": 144,
+          "width": 480,
+          "height": 36,
+          "top": 144,
+          "right": 600,
+          "bottom": 180,
+          "left": 120
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "route": "security",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 900,
+    "headings": [
+      {
+        "text": "Secure by design.Safe by default.",
+        "rect": {
+          "x": 184,
+          "y": 64,
+          "width": 220.625,
+          "height": 72,
+          "top": 64,
+          "right": 404.625,
+          "bottom": 136,
+          "left": 184
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "route": "releases",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 900,
+    "headings": [
+      {
+        "text": "The Latest",
+        "rect": {
+          "x": 120,
+          "y": 120,
+          "width": 1200,
+          "height": 36,
+          "top": 120,
+          "right": 1320,
+          "bottom": 156,
+          "left": 120
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "route": "footer",
+    "label": "thumbnail",
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "scrollHeight": 1302,
+    "headings": [
+      {
+        "text": "Ship software that never breaks",
+        "rect": {
+          "x": 498.9375,
+          "y": 160,
+          "width": 442.125,
+          "height": 112,
+          "top": 160,
+          "right": 941.0625,
+          "bottom": 272,
+          "left": 498.9375
+        }
+      }
+    ],
+    "images": []
+  }
+]

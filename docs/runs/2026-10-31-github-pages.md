@@ -1,0 +1,51 @@
+# GitHub Pages deployment
+
+- Start: 2026-10-31 07:18 IST. Deadline: 07:38 IST (20-minute active-work budget).
+- Scope: publish the existing Design Library project to the `amankotia-ai` GitHub account and deploy the existing Vite pilot to GitHub Pages, with automatic deployment on future pushes to main.
+- Completion criteria: project source is in GitHub, the Pages workflow builds successfully, and the public site and representative navigation and assets are verified.
+- Destination: account root Pages repository `amankotia-ai.github.io`; this preserves the pilot's existing root-relative links and assets.
+- Publication considerations: the repository and built site include attributed third-party reference captures, source artwork and fonts. Existing project evidence records that redistribution rights for some materials are unverified.
+
+- Cloud-only files unavailable locally at initial publication: the following files could not be read and were omitted from the initial Git commit. They remain in the local workspace and should be added after iCloud restores them.
+  - `pilot/evidence/editorial-sections/assembled-390.png`
+  - `pilot/evidence/editorial-sections/example-browser.png`
+  - `pilot/evidence/editorial-sections/image-index-390.png`
+  - `pilot/evidence/editorial-sections/study-1440.png`
+  - `pilot/evidence/editorial-sections/system-1440.png`
+  - `pilot/evidence/page-tablet.png`
+  - `pilot/evidence/quote-page-desktop.png`
+  - `pilot/research/art-direction.md`
+  - `pilot/research/blueprint/capture-page-mobile.json`
+  - `pilot/research/blueprint/run.json`
+  - `pilot/research/blueprint/source-0.css`
+  - `pilot/research/blueprint/source-1.css`
+  - `pilot/research/blueprint/source-2.css`
+  - `pilot/research/blueprint/source-3.css`
+  - `pilot/research/plasticity/rea-targets.json`
+  - `pilot/research/provenance.json`
+  - `pilot/research/qa-revision-initial.json`
+  - `pilot/research/qa.md`
+  - `pilot/research/salesloft/brief.md`
+  - `pilot/research/salesloft/rea-final.json`
+  - `pilot/research/salesloft/rea.md`
+  - `pilot/research/salesloft/specimen-correction/brief.md`
+  - `pilot/research/salesloft/specimen-correction/desktop.png`
+  - `pilot/research/salesloft/specimen-correction/mobile.png`
+  - `pilot/research/salesloft/specimen-correction/qa.md`
+  - `pilot/research/salesloft/specimen-correction/reference.png`
+  - `pilot/research/salesloft/specimen-correction/result.md`
+  - `pilot/research/salesloft/specimen-correction/systems-wide.png`
+  - `pilot/research/salesloft/verification.md`
+  - `pilot/research/steel/art-review-steel-features-mobile.png`
+  - `pilot/research/steel/computed-styles.json`
+  - `pilot/research/steel/download-manifest.json`
+  - `pilot/research/steel/provenance.json`
+  - `pilot/research/steel/qa-first-pass.md`
+  - `pilot/research/steel/rea-reference.png`
+  - `pilot/research/steel/source-3.css`
+  - `pilot/research/steel/source-mobile-hero.png`
+  - `pilot/research/steel/workspace-sync.json`
+  - `pilot/scripts/capture-page-shells.mjs`
+  - `pilot/scripts/capture-quote.mjs`
+  - `pilot/scripts/check-steel.mjs`
+  - `pilot/scripts/inspect-emil.mjs`

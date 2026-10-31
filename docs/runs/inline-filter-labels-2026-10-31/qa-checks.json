@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "hash": "c2a8a36ca1aa7b5b784c65acf1c34eaa204a8849423e964e6b9f587d896db91c",
+  "checks": [
+    "defaults inside selects",
+    "sr-only labels and aria names",
+    "actual selected values",
+    "clear resets both",
+    "Pages single select",
+    "heading and grid alignment"
+  ]
+}

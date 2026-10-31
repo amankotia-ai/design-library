@@ -1,0 +1,6 @@
+{
+  "runtime": "/tmp/design-library-visible/src/system-browser.jsx",
+  "full_sha256": "f1694a71bbe43c2ac752fb12b4c58aa541af003811397db04787e6facb58b378",
+  "page_preview_sha256": "1f093410f6ce2ed1303a74b5d4915d132ca5969f1dacdea3300f71f4912bbb0b",
+  "review_scope": "Only direct source URL for interactive Interfere PagePreview. Concurrent SystemPanel changes excluded."
+}

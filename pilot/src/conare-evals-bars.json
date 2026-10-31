@@ -1,0 +1,308 @@
+{
+  "directory": [
+    {
+      "href": "/evals/vidore-embedding",
+      "title": "ViDoRe v3, embedding",
+      "rows": [
+        {
+          "text": "1\nconare-embed-1\n67.0",
+          "percent": "83.775%"
+        },
+        {
+          "text": "2\nPerplexity pplx-embed-v2-late-9b, page images\n66.5",
+          "percent": "83.1%"
+        },
+        {
+          "text": "3\nPerplexity pplx-embed-v2-late-9b, page text\n66.1",
+          "percent": "82.625%"
+        },
+        {
+          "text": "4\nMixedbread search, page images\n64.2",
+          "percent": "80.3%"
+        },
+        {
+          "text": "5\nMixedbread search, page text\n62.3",
+          "percent": "77.8125%"
+        }
+      ]
+    },
+    {
+      "href": "/evals/vidore-six-languages",
+      "title": "ViDoRe v3, six languages",
+      "rows": [
+        {
+          "text": "1\nconare-embed-1\n65.4",
+          "percent": "81.725%"
+        },
+        {
+          "text": "2\nPerplexity pplx-embed-v2-late-9b, page images\n65.2",
+          "percent": "81.475%"
+        },
+        {
+          "text": "3\nPerplexity pplx-embed-v2-late-9b, page text\n64.7",
+          "percent": "80.9125%"
+        },
+        {
+          "text": "4\nMixedbread search, page images\n62.5",
+          "percent": "78.1%"
+        },
+        {
+          "text": "5\nMixedbread search, page text\n60.1",
+          "percent": "75.175%"
+        }
+      ]
+    },
+    {
+      "href": "/evals/vidore-reranking",
+      "title": "ViDoRe v3, reranking",
+      "rows": [
+        {
+          "text": "1\nconare-rerank-1\n70.2",
+          "percent": "87.7%"
+        },
+        {
+          "text": "2\nVoyage rerank-2.5\n68.5",
+          "percent": "85.6375%"
+        },
+        {
+          "text": "3\nVoyage rerank-2.5-lite\n67.4",
+          "percent": "84.2625%"
+        },
+        {
+          "text": "4\nzerank-2\n67.0",
+          "percent": "83.7%"
+        },
+        {
+          "text": "5\nzerank-1\n66.7",
+          "percent": "83.425%"
+        }
+      ]
+    },
+    {
+      "href": "/evals/lmeb",
+      "title": "LMEB, memory retrieval",
+      "rows": [
+        {
+          "text": "1\nconare-embed-1\n75.0",
+          "percent": "93.725%"
+        },
+        {
+          "text": "2\nnvidia/Nemotron-3-Embed-8B\n72.5",
+          "percent": "90.6125%"
+        },
+        {
+          "text": "3\nBAAI/bge-multilingual-gemma2\n68.7",
+          "percent": "85.925%"
+        },
+        {
+          "text": "4\nnvidia/Nemotron-3-Embed-1B\n68.7",
+          "percent": "85.925%"
+        },
+        {
+          "text": "5\ntencent/KaLM-Embedding-Gemma3-12B\n68.4",
+          "percent": "85.5125%"
+        }
+      ]
+    },
+    {
+      "href": "/evals/legal-cases",
+      "title": "Legal case search",
+      "rows": [
+        {
+          "text": "1\nconare-rerank-1\n1.3%",
+          "percent": "1.85714%"
+        },
+        {
+          "text": "2\nClaude Opus 5.5\n2.5%",
+          "percent": "3.57143%"
+        },
+        {
+          "text": "3\nGPT-6 Sol\n7.6%",
+          "percent": "10.8571%"
+        },
+        {
+          "text": "4\nMixedbread mxbai-rerank-v3.1\n11.4%",
+          "percent": "16.2857%"
+        },
+        {
+          "text": "5\nContextual rerank-v2\n53.2%",
+          "percent": "76%"
+        }
+      ]
+    },
+    {
+      "href": "/evals/several-conditions",
+      "title": "Several conditions at once",
+      "rows": [
+        {
+          "text": "1\nClaude Opus 5.5\n1.1%",
+          "percent": "1.57143%"
+        },
+        {
+          "text": "2\nconare-rerank-1\n2.5%",
+          "percent": "3.57143%"
+        },
+        {
+          "text": "3\nGPT-6 Sol\n3.8%",
+          "percent": "5.42857%"
+        },
+        {
+          "text": "4\nMixedbread mxbai-rerank-v3.1\n16.7%",
+          "percent": "23.8571%"
+        },
+        {
+          "text": "5\nContextual rerank-v2\n50.0%",
+          "percent": "71.4286%"
+        }
+      ]
+    }
+  ],
+  "heroes": [
+    {
+      "index": 0,
+      "parent": "Search over 19,252 business document pages with 2,419 questions in English and French.\n\nconare-embed-1\n67.0\n#1 of 9\n1\nconare-embed-1\n67.0\n2\nPerplexity pplx-embed-v2-late-9b, page images\n66.5\n3\nPerplex",
+      "rows": [
+        {
+          "text": "1\nconare-embed-1\n67.0",
+          "percent": []
+        },
+        {
+          "text": "2\nPerplexity pplx-embed-v2-late-9b, page images\n66.5",
+          "percent": []
+        },
+        {
+          "text": "3\nPerplexity pplx-embed-v2-late-9b, page text\n66.1",
+          "percent": []
+        },
+        {
+          "text": "4\nMixedbread search, page images\n64.2",
+          "percent": []
+        },
+        {
+          "text": "5\nMixedbread search, page text\n62.3",
+          "percent": []
+        },
+        {
+          "text": "6\nvoyage-4-large\n60.6",
+          "percent": []
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "parent": "",
+      "rows": [
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "parent": "",
+      "rows": [
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "parent": "",
+      "rows": [
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "parent": "",
+      "rows": [
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        },
+        {
+          "text": "",
+          "percent": []
+        }
+      ]
+    }
+  ]
+}

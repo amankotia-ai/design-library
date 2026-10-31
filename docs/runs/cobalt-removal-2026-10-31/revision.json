@@ -1,0 +1,14 @@
+{
+  "scope": "Cobalt Grid removal; preserve Blueprint",
+  "errors": [],
+  "sha256": {
+    "pilot/src/data.js": "a59422d91b96fd58347fa14f9b347fc981f357ce8aa45b02ea8685ed7fcc28e0",
+    "pilot/src/main.jsx": "c824454ec8f2d325f5921a01e4d8e992694f0e1ad6e72c7ce06070b4ddf1e5a1",
+    "pilot/src/blueprint-faithful.jsx": "ebc26b5cbc30c99a961778dc0c0f04ac147fdcbe57e769d9c9542c26aaa2b377",
+    "pilot/src/system-browser.jsx": "73126eed095ba4c697891b0c176729298de44f477f97433a1722ce427cbae18f",
+    "pilot/src/system-browser.css": "755b8a7e990eaeb1c9a9a1d6aa8716201ff3f5f788b10b6c3c9fe1b73634eeb0",
+    "docs/runs/cobalt-removal-2026-10-31/after-1440.png": "af99801800ae491f6f447420f42ab5ace7f6f24e3efe94badf3eb1fbf14ab943",
+    "docs/runs/cobalt-removal-2026-10-31/after-390.png": "bba7241d5f497f8a02728ca172bf26acbf2e7039626a99d35b5f99d1094b31f8"
+  },
+  "revision_note": "Final QA recaptured current desktop/mobile render after concurrent preview viewport corner-radius and homepage header spacing changes. Current app source and runtime mirror hashes match. These external changes were preserved."
+}

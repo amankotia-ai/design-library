@@ -1,0 +1,794 @@
+[
+  {
+    "t": 12191.5,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 13263.90000000596,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 14277,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 15288.20000000298,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 16353.29999999702,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 17364.40000000596,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 18372.09999999404,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 19430.09999999404,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 20439.79999999702,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 21448,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 22507.90000000596,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 23517.09999999404,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 24527.20000000298,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 25582.20000000298,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 26597,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 27606.79999999702,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 28672.90000000596,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  },
+  {
+    "t": 29682.5,
+    "visible": [
+      {
+        "cls": "viz w-full max-w-[400px]",
+        "text": "Conare\nWrite\nConare\nSource\nConare\nSearch\nYour agent\nMCP\n\nHow do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.9"
+      },
+      {
+        "cls": "step-swap flex items-center gap-2 whitespace-nowrap [grid-area:1/1]",
+        "text": "Conare\nSearch"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "step-body [grid-area:1/1]",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": "How do refunds work?\n\nDocs\nadded to context\n\nSearching…\nReranked in 62 ms ▶\n\nRefunds\nRefunds are available for 30 days.\n0.91\nReturns\nReturn an item from your orders page.\n0.47\nShip"
+      },
+      {
+        "cls": "viz flex flex-col gap-3 px-4 pt-1 pb-4",
+        "text": ""
+      },
+      {
+        "cls": "lg:col-start-3 lg:row-start-1 step-card relative flex flex-col px-5 py-6 max-sm:order-(--o) sm:min-h-[220px] sm:px-6",
+        "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first."
+      }
+    ],
+    "running": [
+      {
+        "cls": "step-grid relative mt-10 grid gap-px border border-neutral-700 bg-neutral-700 outline outline-offset-4 outline-neutral-700 sm:grid-cols-2 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)_minmax(0,1fr)]",
+        "running": "true",
+        "style": "--tick-ms: 333.3333333333333ms;"
+      }
+    ]
+  }
+]

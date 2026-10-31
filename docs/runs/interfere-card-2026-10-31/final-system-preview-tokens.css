@@ -1,0 +1,10 @@
+/* Reuse retained system fonts; specimen layout lives in system-preview.css. */
+@font-face{font-family:SpecimenGeist;src:url('/blueprint-source/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:SpecimenMono;src:url('/blueprint-source/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2') format('woff2');font-weight:100 900;font-display:swap}
+.system-preview-editorial{--specimen-heading:var(--serif);--specimen-body:var(--sans);--specimen-mono:var(--sans);--specimen-weight:200;--specimen-stretch:62.5%;--specimen-surface:var(--specimen-paper);--specimen-text:var(--specimen-ink);--specimen-border:var(--specimen-rule)}
+.system-preview-blueprint{--specimen-heading:SpecimenGeist,Arial,sans-serif;--specimen-body:SpecimenGeist,Arial,sans-serif;--specimen-mono:SpecimenMono,monospace;--specimen-weight:400;--specimen-stretch:normal;--specimen-surface:var(--specimen-accent);--specimen-text:var(--specimen-paper);--specimen-border:var(--specimen-paper)}
+
+/* Retained Interfere font files and neutral surface roles. */
+@font-face{font-family:InterfereSpecimen;src:url('/interfere/assets/8d5fd9f89e9e12.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:InterfereHeldane;src:url('/interfere/assets/405969baf295e1.woff2') format('woff2');font-weight:400;font-display:swap}
+.interfere-specimen{--interfere-specimen-ground:#0b0b0b;--interfere-specimen-surface:#111;--interfere-specimen-ink:#eee;--interfere-specimen-muted:#a0a0a0;--interfere-specimen-rule:#262626;--interfere-specimen-outline:#333}

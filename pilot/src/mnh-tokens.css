@@ -1,0 +1,4 @@
+@font-face{font-family:MNH Lausanne;src:url('/assets/mnh/17.otf') format('opentype');font-weight:400;font-display:swap}
+@font-face{font-family:MNH Lausanne;src:url('/assets/mnh/18.otf') format('opentype');font-weight:300;font-display:swap}
+.mnh{--mnh-ink:#050505;--mnh-paper:#fff;--mnh-rule:#777;--mnh-muted:#999;--mnh-edge:40px;--mnh-radius:8px;font-family:MNH Lausanne,Arial,sans-serif;color:var(--mnh-ink);background:var(--mnh-paper);font-weight:400}
+@media(max-width:1100px){.mnh{--mnh-edge:20px}}

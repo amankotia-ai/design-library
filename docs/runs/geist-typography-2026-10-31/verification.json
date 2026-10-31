@@ -1,0 +1,2261 @@
+{
+  "base": "http://127.0.0.1:5175",
+  "results": [
+    {
+      "panel": "home",
+      "width": 1440,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Design systems",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Blueprint",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "Design LibraryHomeStudySourcesSystemDesign systemsEditorial ",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "home",
+      "width": 768,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Design systems",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Blueprint",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "Design LibraryHomeStudySourcesSystemDesign systemsEditorial ",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "home",
+      "width": 390,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Design systems",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Blueprint",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "Design LibraryHomeStudySourcesSystemDesign systemsEditorial ",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "home",
+      "width": 320,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Design systems",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Blueprint",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "Design LibraryHomeStudySourcesSystemDesign systemsEditorial ",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "study",
+      "width": 1440,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif: Slender serif. Open space. Photography first.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "More ways to compose the page.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Project detail ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Selected image index ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Split material feature ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Image + numbered index ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Start with the original",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Keep the shared parts shared",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A quote, in two contexts",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A small beginning",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Assembled pageHeroSelected image indexProject detailSplit ma",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "500"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 58
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "study",
+      "width": 768,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif: Slender serif. Open space. Photography first.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "More ways to compose the page.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Project detail ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Selected image index ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Split material feature ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Image + numbered index ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Start with the original",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Keep the shared parts shared",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A quote, in two contexts",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A small beginning",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Assembled pageHeroSelected image indexProject detailSplit ma",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "500"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 58
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "study",
+      "width": 390,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif: Slender serif. Open space. Photography first.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "More ways to compose the page.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Project detail ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Selected image index ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Split material feature ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Image + numbered index ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Start with the original",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Keep the shared parts shared",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A quote, in two contexts",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A small beginning",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Assembled pageHeroSelected image indexProject detailSplit ma",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "500"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 57
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "study",
+      "width": 320,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif: Slender serif. Open space. Photography first.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "More ways to compose the page.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Project detail ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Selected image index ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Split material feature ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Image + numbered index ↗",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Start with the original",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Keep the shared parts shared",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A quote, in two contexts",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A small beginning",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Assembled pageHeroSelected image indexProject detailSplit ma",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "500"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 57
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "sources",
+      "width": 1440,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Start with the originals.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "The split, before and after",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A portrait and a pull quote",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A bold opening, a quiet workshop",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Catalogue and project panel",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "An information rail and paired photographs",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A shared horizontal hinge",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Images beside an index",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What is recovered, and what is inferred",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 25
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "sources",
+      "width": 768,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Start with the originals.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "The split, before and after",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A portrait and a pull quote",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A bold opening, a quiet workshop",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Catalogue and project panel",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "An information rail and paired photographs",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A shared horizontal hinge",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Images beside an index",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What is recovered, and what is inferred",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 25
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "sources",
+      "width": 390,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Start with the originals.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "The split, before and after",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A portrait and a pull quote",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A bold opening, a quiet workshop",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Catalogue and project panel",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "An information rail and paired photographs",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A shared horizontal hinge",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Images beside an index",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What is recovered, and what is inferred",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 25
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "sources",
+      "width": 320,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Start with the originals.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "The split, before and after",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A portrait and a pull quote",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A bold opening, a quiet workshop",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Catalogue and project panel",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "An information rail and paired photographs",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A shared horizontal hinge",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Images beside an index",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What is recovered, and what is inferred",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          }
+        ],
+        "specimen": null
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 25
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "system",
+      "width": 1440,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Let the image carry the color. Let the type set the pace.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "When to choose it",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What makes it work",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Give the copy its own measure.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Let the grid place the content.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Recompose instead of shrinking.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Build within the language",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Palette & typography",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What’s in this collection",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A direction, with documented decisions.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": {
+          "text": "Strong form.Quiet direction.",
+          "family": "Editorial, Georgia, serif",
+          "weight": "200"
+        }
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 11
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "system",
+      "width": 768,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Let the image carry the color. Let the type set the pace.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "When to choose it",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What makes it work",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Give the copy its own measure.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Let the grid place the content.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Recompose instead of shrinking.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Build within the language",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Palette & typography",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What’s in this collection",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A direction, with documented decisions.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": {
+          "text": "Strong form.Quiet direction.",
+          "family": "Editorial, Georgia, serif",
+          "weight": "200"
+        }
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 11
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "system",
+      "width": 390,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Let the image carry the color. Let the type set the pace.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "When to choose it",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What makes it work",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Give the copy its own measure.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Let the grid place the content.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Recompose instead of shrinking.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Build within the language",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Palette & typography",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What’s in this collection",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A direction, with documented decisions.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": {
+          "text": "Strong form.Quiet direction.",
+          "family": "Editorial, Georgia, serif",
+          "weight": "200"
+        }
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 11
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "panel": "system",
+      "width": 320,
+      "metrics": {
+        "headings": [
+          {
+            "text": "Design Library",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet Serif",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Let the image carry the color. Let the type set the pace.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "When to choose it",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What makes it work",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Give the copy its own measure.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Let the grid place the content.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Recompose instead of shrinking.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Build within the language",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "Palette & typography",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "What’s in this collection",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          },
+          {
+            "text": "A direction, with documented decisions.",
+            "family": "\"Geist Serif\", Georgia, serif",
+            "weight": "400"
+          }
+        ],
+        "controls": [
+          {
+            "text": "Home",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Study",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Sources",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "System",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          },
+          {
+            "text": "Quiet SerifBlueprint",
+            "family": "\"Geist Sans\", Arial, sans-serif",
+            "weight": "400"
+          }
+        ],
+        "body": {
+          "text": "2 visual languages. 2 collections. 18 sections to study.×Des",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "400"
+        },
+        "bold": {
+          "text": "Bold emphasis",
+          "family": "\"Geist Sans\", Arial, sans-serif",
+          "weight": "700"
+        },
+        "overflow": false,
+        "fontRequests": [
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-sans-variable.woff2",
+            "bytes": 69576
+          },
+          {
+            "url": "http://127.0.0.1:5175/assets/fonts/geist-serif-regular.woff2",
+            "bytes": 40056
+          }
+        ],
+        "specimen": {
+          "text": "Strong form.Quiet direction.",
+          "family": "Editorial, Georgia, serif",
+          "weight": "200"
+        }
+      },
+      "actual": {
+        ".brand-name": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 14
+          }
+        ],
+        "h1": [
+          {
+            "familyName": "Geist Serif",
+            "postScriptName": "GeistSerif-Regular",
+            "isCustomFont": true,
+            "glyphCount": 11
+          }
+        ],
+        ".article-header nav a": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Regular",
+            "isCustomFont": true,
+            "glyphCount": 4
+          }
+        ],
+        "#bold-font-probe": [
+          {
+            "familyName": "Geist",
+            "postScriptName": "Geist-Bold",
+            "isCustomFont": true,
+            "glyphCount": 13
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "study": "/?view=page",
+      "headingFont": "Editorial, Georgia, serif"
+    },
+    {
+      "study": "/?view=blueprint-page",
+      "headingFont": "Geist, \"Geist Fallback\", system-ui, sans-serif"
+    }
+  ]
+}

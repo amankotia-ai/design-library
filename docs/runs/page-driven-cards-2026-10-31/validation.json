@@ -1,0 +1,64 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "geometry": [
+        {
+          "w": 361,
+          "h": 400
+        },
+        {
+          "w": 361,
+          "h": 400
+        }
+      ],
+      "noOverflow": true
+    },
+    {
+      "width": 768,
+      "geometry": [
+        {
+          "w": 227,
+          "h": 252
+        },
+        {
+          "w": 227,
+          "h": 252
+        }
+      ],
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "geometry": [
+        {
+          "w": 340,
+          "h": 377
+        },
+        {
+          "w": 340,
+          "h": 377
+        }
+      ],
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "geometry": [
+        {
+          "w": 270,
+          "h": 299
+        },
+        {
+          "w": 270,
+          "h": 299
+        }
+      ],
+      "noOverflow": true
+    },
+    "Page filter, URL reload and clear work",
+    "Page-specific details and full-size shells work",
+    "Systems and Sections preserved; no JS errors"
+  ],
+  "errors": []
+}

@@ -1,0 +1,28 @@
+{
+  "ViDoRe v3, embedding": [
+    {
+      "text": "1\nconare-embed-1\n67.0",
+      "width": "0.83775"
+    },
+    {
+      "text": "2\nPerplexity pplx-embed-v2-late-9b, page images\n66.5",
+      "width": "0.8310000000000001"
+    },
+    {
+      "text": "3\nPerplexity pplx-embed-v2-late-9b, page text\n66.1",
+      "width": "0.8262499999999999"
+    },
+    {
+      "text": "4\nMixedbread search, page images\n64.2",
+      "width": "0.8029999999999999"
+    },
+    {
+      "text": "5\nMixedbread search, page text\n62.3",
+      "width": "0.778125"
+    },
+    {
+      "text": "6\nvoyage-4-large\n60.6",
+      "width": "0.758"
+    }
+  ]
+}

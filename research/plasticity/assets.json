@@ -1,0 +1,1605 @@
+{
+  "img": [
+    {
+      "alt": "cta",
+      "loading": "lazy",
+      "decoding": "async",
+      "data-nimg": "fill",
+      "class": [
+        "object-cover",
+        "object-left"
+      ],
+      "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+      "src": "/_next/static/media/cta-graphic-1.dbf675ba.svg"
+    },
+    {
+      "alt": "cta",
+      "loading": "lazy",
+      "decoding": "async",
+      "data-nimg": "fill",
+      "class": [
+        "object-cover",
+        "object-left"
+      ],
+      "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+      "src": "/_next/static/media/cta-graphic-2.71398456.svg"
+    },
+    {
+      "alt": "cta",
+      "loading": "lazy",
+      "decoding": "async",
+      "data-nimg": "fill",
+      "class": [
+        "object-cover",
+        "object-center"
+      ],
+      "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+      "src": "/_next/static/media/cta-graphic-3.eb9a39c6.svg"
+    },
+    {
+      "alt": "Creative Features Graphic",
+      "loading": "lazy",
+      "decoding": "async",
+      "data-nimg": "fill",
+      "class": [
+        "object-cover"
+      ],
+      "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+      "src": "/_next/static/media/angle-dimensions.61056ae9.svg"
+    },
+    {
+      "alt": "Creative Features Graphic",
+      "loading": "lazy",
+      "decoding": "async",
+      "data-nimg": "fill",
+      "class": [
+        "object-cover"
+      ],
+      "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+      "src": "/_next/static/media/bridge-curves.77e402c1.svg"
+    },
+    {
+      "alt": "Creative Features Graphic",
+      "loading": "lazy",
+      "decoding": "async",
+      "data-nimg": "fill",
+      "class": [
+        "object-cover"
+      ],
+      "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+      "src": "/_next/static/media/construction-planes.9ab65923.svg"
+    },
+    {
+      "alt": "React",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Freactrrr.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Freactrrr.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Freactrrr.jpg&w=256&q=75"
+    },
+    {
+      "alt": "Theophilus Abdiel",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Ftheokids.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Ftheokids.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Ftheokids.jpg&w=256&q=75"
+    },
+    {
+      "alt": "Mattia Merenda",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Fmattiamerenda2.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Fmattiamerenda2.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Fmattiamerenda2.jpg&w=256&q=75"
+    },
+    {
+      "alt": "Art3mit",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Fawaghadeamit.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Fawaghadeamit.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Fawaghadeamit.jpg&w=256&q=75"
+    },
+    {
+      "alt": "ignissantander",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Fignissantander.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Fignissantander.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Fignissantander.jpg&w=256&q=75"
+    },
+    {
+      "alt": "8STRD",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2F8strd.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2F8strd.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2F8strd.jpg&w=256&q=75"
+    },
+    {
+      "alt": "Michal Kalisz",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Fveezen3d.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Fveezen3d.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Fveezen3d.jpg&w=256&q=75"
+    },
+    {
+      "alt": "Sierra Division",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Fsierra_division.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Fsierra_division.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Fsierra_division.jpg&w=256&q=75"
+    },
+    {
+      "alt": "neoCortex",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Fvisioncortez.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Fvisioncortez.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Fvisioncortez.jpg&w=256&q=75"
+    },
+    {
+      "alt": "Scott Gadille",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Fscottgadille.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Fscottgadille.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Fscottgadille.jpg&w=256&q=75"
+    },
+    {
+      "alt": "Karim Joseph",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Fkarijoart.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Fkarijoart.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Fkarijoart.jpg&w=256&q=75"
+    },
+    {
+      "alt": "NOLFUT",
+      "loading": "lazy",
+      "width": "80",
+      "height": "80",
+      "decoding": "async",
+      "data-nimg": "1",
+      "class": [
+        "size-10",
+        "bg-(--base)"
+      ],
+      "style": "color:transparent",
+      "srcset": "/_next/image?url=%2Ftestimonials%2Fnolfut.jpg&w=96&q=75 1x, /_next/image?url=%2Ftestimonials%2Fnolfut.jpg&w=256&q=75 2x",
+      "src": "/_next/image?url=%2Ftestimonials%2Fnolfut.jpg&w=256&q=75"
+    }
+  ],
+  "video": [
+    {
+      "src": "https://r2.www.plasticity.xyz/hero.mp4",
+      "autoplay": "",
+      "loop": "",
+      "muted": "",
+      "playsinline": "",
+      "preload": "auto",
+      "class": [
+        "h-full",
+        "w-full",
+        "object-cover"
+      ]
+    },
+    {
+      "src": "https://r2.www.plasticity.xyz/boolean-precision.mov",
+      "class": [
+        "h-full",
+        "w-full"
+      ],
+      "autoplay": "",
+      "loop": "",
+      "muted": "",
+      "playsinline": "",
+      "preload": "auto"
+    },
+    {
+      "src": "https://r2.www.plasticity.xyz/xnurbs-surface-blending.mp4",
+      "class": [
+        "h-full",
+        "w-full",
+        "scale-150"
+      ],
+      "autoplay": "",
+      "loop": "",
+      "muted": "",
+      "playsinline": "",
+      "preload": "auto"
+    },
+    {
+      "src": "https://r2.www.plasticity.xyz/fillet-edge-control.mp4",
+      "class": [
+        "h-full",
+        "w-full"
+      ],
+      "autoplay": "",
+      "loop": "",
+      "muted": "",
+      "playsinline": "",
+      "preload": "auto"
+    },
+    {
+      "src": "https://r2.www.plasticity.xyz/dimension-precision.mp4",
+      "class": [
+        "h-full",
+        "w-full"
+      ],
+      "autoplay": "",
+      "loop": "",
+      "muted": "",
+      "playsinline": "",
+      "preload": "auto"
+    },
+    {
+      "src": "https://r2.www.plasticity.xyz/direct-editing.mp4",
+      "class": [
+        "h-full",
+        "w-full"
+      ],
+      "autoplay": "",
+      "loop": "",
+      "muted": "",
+      "playsinline": "",
+      "preload": "auto"
+    }
+  ],
+  "source": [],
+  "link": [
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_next/static/media/377f7c9f68703899-s.p.woff2",
+      "as": "font",
+      "crossorigin": "",
+      "type": "font/woff2"
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_next/static/media/4a5d5d8a36383f38-s.p.woff2",
+      "as": "font",
+      "crossorigin": "",
+      "type": "font/woff2"
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_next/static/media/d0e830052aa0660a-s.p.woff2",
+      "as": "font",
+      "crossorigin": "",
+      "type": "font/woff2"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_next/static/css/853b422f8766de7c.css",
+      "data-precedence": "next"
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "as": "script",
+      "fetchpriority": "low",
+      "href": "/_next/static/chunks/webpack-fde0ef16769e43be.js"
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "https://cdn.paddle.com/paddle/paddle.js",
+      "as": "script"
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "https://cdn.tolt.io/tolt.js",
+      "as": "script"
+    },
+    {
+      "rel": [
+        "shortcut",
+        "icon"
+      ],
+      "href": "/shortcut.png"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "href": "/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "42x40"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "href": "/favicon.ico"
+    },
+    {
+      "rel": [
+        "apple-touch-icon"
+      ],
+      "href": "/apple-touch-icon.png"
+    }
+  ],
+  "a": [
+    {
+      "href": "/"
+    },
+    {
+      "class": [
+        "[&_svg:not([class*='text-'])]:text-muted-foreground",
+        "flex",
+        "flex-col",
+        "gap-1",
+        "rounded-sm",
+        "p-2",
+        "text-sm",
+        "transition-all",
+        "outline-none",
+        "focus-visible:outline-1",
+        "[&_svg:not([class*='size-'])]:size-4",
+        "font-mono-aux",
+        "flex",
+        "flex-row",
+        "items-center",
+        "gap-2",
+        "!rounded-none",
+        "border",
+        "border-neutral-800",
+        "bg-black",
+        "p-2.5",
+        "text-xs",
+        "text-nowrap",
+        "uppercase",
+        "transition-none",
+        "hover:border-(--base)",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus:border-(--base)",
+        "focus:bg-(--base)/2",
+        "focus:ring-0",
+        "focus:outline-none",
+        "base-color-green"
+      ],
+      "data-slot": "navigation-menu-link",
+      "data-radix-collection-item": "",
+      "href": "/product"
+    },
+    {
+      "class": [
+        "[&_svg:not([class*='text-'])]:text-muted-foreground",
+        "flex",
+        "flex-col",
+        "gap-1",
+        "rounded-sm",
+        "p-2",
+        "text-sm",
+        "transition-all",
+        "outline-none",
+        "focus-visible:outline-1",
+        "[&_svg:not([class*='size-'])]:size-4",
+        "font-mono-aux",
+        "flex",
+        "flex-row",
+        "items-center",
+        "gap-2",
+        "!rounded-none",
+        "border",
+        "border-neutral-800",
+        "bg-black",
+        "p-2.5",
+        "text-xs",
+        "text-nowrap",
+        "uppercase",
+        "transition-none",
+        "hover:border-(--base)",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus:border-(--base)",
+        "focus:bg-(--base)/2",
+        "focus:ring-0",
+        "focus:outline-none",
+        "base-color-pink"
+      ],
+      "data-slot": "navigation-menu-link",
+      "data-radix-collection-item": "",
+      "href": "/buy"
+    },
+    {
+      "class": [
+        "[&_svg:not([class*='text-'])]:text-muted-foreground",
+        "flex",
+        "flex-col",
+        "gap-1",
+        "rounded-sm",
+        "p-2",
+        "text-sm",
+        "transition-all",
+        "outline-none",
+        "focus-visible:outline-1",
+        "[&_svg:not([class*='size-'])]:size-4",
+        "font-mono-aux",
+        "flex",
+        "flex-row",
+        "items-center",
+        "gap-2",
+        "!rounded-none",
+        "border",
+        "border-neutral-800",
+        "bg-black",
+        "p-2.5",
+        "text-xs",
+        "text-nowrap",
+        "uppercase",
+        "transition-none",
+        "hover:border-(--base)",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus:border-(--base)",
+        "focus:bg-(--base)/2",
+        "focus:ring-0",
+        "focus:outline-none",
+        "base-color-orange"
+      ],
+      "data-slot": "navigation-menu-link",
+      "data-radix-collection-item": "",
+      "href": "/renew"
+    },
+    {
+      "class": [
+        "[&_svg:not([class*='text-'])]:text-muted-foreground",
+        "flex",
+        "flex-col",
+        "gap-1",
+        "rounded-sm",
+        "p-2",
+        "text-sm",
+        "transition-all",
+        "outline-none",
+        "focus-visible:outline-1",
+        "[&_svg:not([class*='size-'])]:size-4",
+        "font-mono-aux",
+        "flex",
+        "flex-row",
+        "items-center",
+        "gap-2",
+        "!rounded-none",
+        "border",
+        "border-neutral-800",
+        "bg-black",
+        "p-2.5",
+        "text-xs",
+        "text-nowrap",
+        "uppercase",
+        "transition-none",
+        "hover:border-(--base)",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus:border-(--base)",
+        "focus:bg-(--base)/2",
+        "focus:ring-0",
+        "focus:outline-none",
+        "base-color-yellow"
+      ],
+      "data-slot": "navigation-menu-link",
+      "data-radix-collection-item": "",
+      "href": "/upgrade"
+    },
+    {
+      "class": [
+        "[&_svg:not([class*='text-'])]:text-muted-foreground",
+        "flex",
+        "flex-col",
+        "gap-1",
+        "rounded-sm",
+        "p-2",
+        "text-sm",
+        "transition-all",
+        "outline-none",
+        "focus-visible:outline-1",
+        "[&_svg:not([class*='size-'])]:size-4",
+        "font-mono-aux",
+        "flex",
+        "flex-row",
+        "items-center",
+        "gap-2",
+        "!rounded-none",
+        "border",
+        "border-neutral-800",
+        "bg-black",
+        "p-2.5",
+        "text-xs",
+        "text-nowrap",
+        "uppercase",
+        "transition-none",
+        "hover:border-(--base)",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus:border-(--base)",
+        "focus:bg-(--base)/2",
+        "focus:ring-0",
+        "focus:outline-none",
+        "base-color-teal"
+      ],
+      "data-slot": "navigation-menu-link",
+      "data-radix-collection-item": "",
+      "href": "/old-versions"
+    },
+    {
+      "class": [
+        "[&_svg:not([class*='text-'])]:text-muted-foreground",
+        "flex",
+        "flex-col",
+        "gap-1",
+        "rounded-sm",
+        "p-2",
+        "text-sm",
+        "transition-all",
+        "outline-none",
+        "focus-visible:outline-1",
+        "[&_svg:not([class*='size-'])]:size-4",
+        "font-mono-aux",
+        "flex",
+        "flex-row",
+        "items-center",
+        "gap-2",
+        "!rounded-none",
+        "border",
+        "border-neutral-800",
+        "bg-black",
+        "p-2.5",
+        "text-xs",
+        "text-nowrap",
+        "uppercase",
+        "transition-none",
+        "hover:border-(--base)",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus:border-(--base)",
+        "focus:bg-(--base)/2",
+        "focus:ring-0",
+        "focus:outline-none",
+        "base-color-white"
+      ],
+      "data-slot": "navigation-menu-link",
+      "data-radix-collection-item": "",
+      "href": "/resources"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "gap-1",
+        "max-h-8",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "bg-(--base)",
+        "text-black",
+        "rounded-sm",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "hidden",
+        "md:flex"
+      ],
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank",
+      "href": "/buy"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "gap-1",
+        "max-h-8",
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "bg-(--base)",
+        "text-black",
+        "rounded-sm",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "md:hidden"
+      ],
+      "href": "/buy"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "gap-1",
+        "max-h-8",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "text-xs",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "bg-(--base)",
+        "text-black",
+        "rounded-sm",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "overflow-hidden",
+        "transition-all",
+        "max-w-0",
+        "px-0",
+        "hidden",
+        "md:inline-flex"
+      ],
+      "href": "#platform-specific-download",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "gap-1",
+        "max-h-8",
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "bg-(--base)",
+        "text-black",
+        "rounded-sm",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "base-color-white"
+      ],
+      "href": "/buy"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "max-h-8",
+        "flex",
+        "items-center",
+        "h-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "rounded-sm",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "bg-(--base)/10",
+        "text-(--base)",
+        "hover:bg-(--base)",
+        "hover:text-black",
+        "base-color-white",
+        "underline",
+        "gap-2",
+        "justify-start",
+        "w-full",
+        "md:w-full"
+      ],
+      "href": "https://github.com/nkallen/plasticity/releases/download/v26.2.3/Plasticity.msi",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "max-h-8",
+        "flex",
+        "items-center",
+        "h-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "rounded-sm",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "bg-(--base)/10",
+        "text-(--base)",
+        "hover:bg-(--base)",
+        "hover:text-black",
+        "base-color-white",
+        "underline",
+        "gap-2",
+        "justify-start",
+        "w-full",
+        "md:w-full"
+      ],
+      "href": "https://github.com/nkallen/plasticity/releases/download/v26.2.3/Plasticity-darwin-arm64-26.2.3.zip",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "max-h-8",
+        "flex",
+        "items-center",
+        "h-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "rounded-sm",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "bg-(--base)/10",
+        "text-(--base)",
+        "hover:bg-(--base)",
+        "hover:text-black",
+        "base-color-white",
+        "underline",
+        "gap-2",
+        "justify-start",
+        "w-full",
+        "md:w-full"
+      ],
+      "href": "https://github.com/nkallen/plasticity/releases/download/v26.2.3/plasticity_26.2.3_amd64.deb",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "max-h-8",
+        "flex",
+        "items-center",
+        "h-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "rounded-sm",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "bg-(--base)/10",
+        "text-(--base)",
+        "hover:bg-(--base)",
+        "hover:text-black",
+        "base-color-white",
+        "underline",
+        "gap-2",
+        "justify-start",
+        "w-full",
+        "md:w-full"
+      ],
+      "href": "https://github.com/nkallen/plasticity/releases/download/v26.2.3/Plasticity-darwin-x64-26.2.3.zip",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank"
+    },
+    {
+      "data-slot": "badge",
+      "class": [
+        "w-max",
+        "font-mono-aux",
+        "p-2",
+        "bg-black",
+        "border",
+        "border-(--base)",
+        "justify-center",
+        "text-(--base)",
+        "text-xs",
+        "whitespace-nowrap",
+        "shrink-0",
+        "[&>svg]:size-3",
+        "[&>svg]:pointer-events-none",
+        "focus-visible:border-ring",
+        "focus-visible:ring-ring/50",
+        "focus-visible:ring-[3px]",
+        "aria-invalid:ring-destructive/20",
+        "dark:aria-invalid:ring-destructive/40",
+        "aria-invalid:border-destructive",
+        "transition-[color,box-shadow]",
+        "overflow-hidden",
+        "absolute",
+        "top-3",
+        "right-3",
+        "@md:top-3",
+        "@md:right-3",
+        "inline-flex",
+        "items-center",
+        "gap-1",
+        "pr-1.5"
+      ],
+      "href": "/studio"
+    },
+    {
+      "class": [
+        "group",
+        "h-full",
+        "w-full",
+        "focus:outline-none"
+      ],
+      "href": "/enterprise"
+    },
+    {
+      "class": [
+        "group",
+        "h-full",
+        "w-full",
+        "focus:outline-none"
+      ],
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank",
+      "href": "https://discord.gg/czhXcsmWfu"
+    },
+    {
+      "class": [
+        "group",
+        "h-full",
+        "w-full",
+        "focus:outline-none"
+      ],
+      "href": "/buy"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "gap-1",
+        "max-h-8",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "bg-(--base)",
+        "text-black",
+        "rounded-sm",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "hidden",
+        "md:flex"
+      ],
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank",
+      "href": "/buy"
+    },
+    {
+      "data-slot": "link-button",
+      "class": [
+        "gap-1",
+        "max-h-8",
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "bg-(--base)",
+        "text-black",
+        "rounded-sm",
+        "hover:bg-(--base)/20",
+        "hover:text-(--base)",
+        "focus-visible:bg-(--base)/20",
+        "focus-visible:text-(--base)",
+        "md:hidden"
+      ],
+      "href": "/buy"
+    },
+    {
+      "class": [
+        "text-neutral-400",
+        "hover:text-neutral-300"
+      ],
+      "href": "/contact"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "hover:bg-(--base)/20",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20"
+      ],
+      "href": "/faq"
+    },
+    {
+      "class": [
+        "underline",
+        "hover:text-white"
+      ],
+      "href": "/cdn-cgi/l/email-protection#f2919d9c86939186b2829e9381869b919b868bdc8a8b88",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "text-nowrap",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "hover:bg-(--base)/20",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20"
+      ],
+      "href": "/faq"
+    },
+    {
+      "class": [
+        "underline",
+        "hover:text-white"
+      ],
+      "href": "/cdn-cgi/l/email-protection#8ae9e5e4feebe9fecafae6ebf9fee3e9e3fef3a4f2f3f0",
+      "rel": [
+        "noopener",
+        "noreferrer"
+      ],
+      "target": "_blank"
+    },
+    {
+      "class": [
+        "group",
+        "h-full",
+        "w-full",
+        "focus:outline-none"
+      ],
+      "href": "/buy"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "/product"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "/buy"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "/privacy"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "/refund"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "/terms"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "/eula"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "https://twitter.com/getplasticity"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "https://discord.gg/czhXcsmWfu"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "/cdn-cgi/l/email-protection#573438392336342317273b3624233e343e232e792f2e2d"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "https://github.com/nkallen/plasticity/releases/download/v26.2.3/Plasticity.msi"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "https://github.com/nkallen/plasticity/releases/download/v26.2.3/plasticity_26.2.3_amd64.deb"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "https://github.com/nkallen/plasticity/releases/download/v26.2.3/Plasticity-darwin-arm64-26.2.3.zip"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "https://github.com/nkallen/plasticity/releases/download/v26.2.3/Plasticity-darwin-x64-26.2.3.zip"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "h-max",
+        "w-max",
+        "pl-2",
+        "text-xs",
+        "pr-2.5",
+        "cursor-pointer",
+        "py-2.5",
+        "font-mono-aux",
+        "tracking-aux",
+        "uppercase",
+        "focus:outline-none",
+        "border",
+        "border-(--base)",
+        "text-(--base)",
+        "bg-(--base)/5",
+        "group-hover:bg-(--base)/20",
+        "focus-visible:bg-(--base)/20",
+        "!block",
+        "!py-1.5",
+        "text-nowrap",
+        "hover:bg-(--base)",
+        "hover:text-black"
+      ],
+      "href": "/old-versions"
+    },
+    {
+      "class": [
+        "text-sm",
+        "text-black",
+        "opacity-5"
+      ],
+      "href": "/plasticity-crack"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "Accuracy you can check.": [
+    {
+      "tag": "H1",
+      "cls": "max-w-[520px] text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]",
+      "x": 40,
+      "y": 210.09375,
+      "w": 363.328125,
+      "h": 36.796875,
+      "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+      "size": "32px",
+      "weight": "400",
+      "line": "36.8px",
+      "letter": "-0.32px",
+      "color": "rgb(2, 2, 2)"
+    }
+  ],
+  "Every benchmark, losses included.": [
+    {
+      "tag": "P",
+      "cls": "text-[15px] leading-6 text-neutral-400",
+      "x": 1005.25,
+      "y": 222.890625,
+      "w": 234.75,
+      "h": 24,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "15px",
+      "weight": "400",
+      "line": "24px",
+      "letter": "normal",
+      "color": "rgb(108, 106, 104)"
+    }
+  ],
+  "ViDoRe v3, embedding": [
+    {
+      "tag": "H3",
+      "cls": "mt-6 font-glyphic text-[20px] leading-7 sm:mt-auto sm:pt-8",
+      "x": 65,
+      "y": 351.890625,
+      "w": 250.75,
+      "h": 60,
+      "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+      "size": "20px",
+      "weight": "400",
+      "line": "28px",
+      "letter": "normal",
+      "color": "rgb(2, 2, 2)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "truncate text-[13px] leading-4",
+      "x": 398.328125,
+      "y": 567.890625,
+      "w": 134.453125,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "weight": "400",
+      "line": "16px",
+      "letter": "normal",
+      "color": "rgb(254, 254, 254)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "font-glyphic text-[20px] leading-7 text-off-black",
+      "x": 65,
+      "y": 1441.578125,
+      "w": 350.65625,
+      "h": 28,
+      "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+      "size": "20px",
+      "weight": "400",
+      "line": "28px",
+      "letter": "normal",
+      "color": "rgb(2, 2, 2)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "truncate text-[13px] leading-4",
+      "x": 608.21875,
+      "y": 2459.578125,
+      "w": 134.453125,
+      "h": 16,
+      "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+      "size": "13px",
+      "weight": "400",
+      "line": "16px",
+      "letter": "normal",
+      "color": "rgb(254, 254, 254)"
+    }
+  ],
+  "Ranked against the other models on each.": [
+    {
+      "tag": "H2",
+      "cls": "max-w-[520px] text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]",
+      "x": 40,
+      "y": 1302.984375,
+      "w": 520,
+      "h": 73.59375,
+      "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+      "size": "32px",
+      "weight": "400",
+      "line": "36.8px",
+      "letter": "-0.32px",
+      "color": "rgb(2, 2, 2)"
+    }
+  ],
+  "Methodology.": [
+    {
+      "tag": "H2",
+      "cls": "text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]",
+      "x": 73,
+      "y": 3790.609375,
+      "w": 202.5625,
+      "h": 36.796875,
+      "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+      "size": "32px",
+      "weight": "400",
+      "line": "36.8px",
+      "letter": "-0.32px",
+      "color": "rgb(2, 2, 2)"
+    }
+  ],
+  "Where we're not first.": [
+    {
+      "tag": "H2",
+      "cls": "max-w-[520px] text-[24px] leading-[1.15] tracking-[-0.01em] sm:text-[32px]",
+      "x": 40,
+      "y": 3340.71875,
+      "w": 520,
+      "h": 36.796875,
+      "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+      "size": "32px",
+      "weight": "400",
+      "line": "36.8px",
+      "letter": "-0.32px",
+      "color": "rgb(2, 2, 2)"
+    }
+  ],
+  "Our scores": [],
+  "See it on your own data.": [
+    {
+      "tag": "H2",
+      "cls": "text-[32px] leading-[1.1] tracking-[-0.02em] text-off-white sm:text-[48px]",
+      "x": 382.015625,
+      "y": 4657.40625,
+      "w": 515.953125,
+      "h": 52.796875,
+      "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+      "size": "48px",
+      "weight": "400",
+      "line": "52.8px",
+      "letter": "-0.96px",
+      "color": "rgb(254, 254, 254)"
+    }
+  ],
+  "chartClasses": [
+    "viz-in",
+    "price-grid",
+    "price-axis-floor price-axis",
+    "price-axis",
+    "price-draw",
+    "price-scope",
+    "price-scope-move",
+    "viz-in price-point",
+    "ours price-label",
+    "cursor-crosshair",
+    "price-label",
+    "price-scope-bracket",
+    "price-readout",
+    "price-axis price-readout-text"
+  ]
+}

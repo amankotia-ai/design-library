@@ -1,0 +1,46 @@
+{
+  "source_page": "https://conare.ai/",
+  "capture_date": "2026-10-31",
+  "assets": [
+    {
+      "index": 0,
+      "source_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=96&h=96&fit=crop&crop=faces&auto=format&q=75",
+      "path": "/assets/conare-home/portraits/0.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "b6129a054dd20211c283365e83680b9787540c8974f151092df949286cb9b3fb",
+      "attribution": "Source page https://conare.ai/ embeds this Unsplash image; photographer and redistribution rights unverified."
+    },
+    {
+      "index": 1,
+      "source_url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=96&h=96&fit=crop&crop=faces&auto=format&q=75",
+      "path": "/assets/conare-home/portraits/1.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "12205f5444e378e0a9db72718aa5fe6801f7ece4193cf53d055ea06218d8d7d4",
+      "attribution": "Source page https://conare.ai/ embeds this Unsplash image; photographer and redistribution rights unverified."
+    },
+    {
+      "index": 2,
+      "source_url": "https://images.unsplash.com/photo-1573496358961-3c82861ab8f4?w=96&h=96&fit=crop&crop=faces&auto=format&q=75",
+      "path": "/assets/conare-home/portraits/2.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "ee2b45cead2de91c8f62e3b9f0dbfd38e0904af6858b21040a8b4d258b7eb972",
+      "attribution": "Source page https://conare.ai/ embeds this Unsplash image; photographer and redistribution rights unverified."
+    },
+    {
+      "index": 3,
+      "source_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=96&h=96&fit=crop&crop=faces&auto=format&q=75",
+      "path": "/assets/conare-home/portraits/3.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "93be0abcecb00b9fccdf555a600c36e572fd562def353f866a47695dac05e429",
+      "attribution": "Source page https://conare.ai/ embeds this Unsplash image; photographer and redistribution rights unverified."
+    },
+    {
+      "index": 4,
+      "source_url": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=96&h=96&fit=crop&crop=faces&auto=format&q=75",
+      "path": "/assets/conare-home/portraits/4.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "fbf5ea359166fb419882e750c0ba14096faf1b6de928b09c14188f3baa125d47",
+      "attribution": "Source page https://conare.ai/ embeds this Unsplash image; photographer and redistribution rights unverified."
+    }
+  ]
+}

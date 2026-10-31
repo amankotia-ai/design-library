@@ -1,0 +1,117 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "outerOverflow": false,
+      "geometry": [
+        {
+          "stageHeight": 450.8125,
+          "viewportHeight": 433.8125,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1907
+        },
+        {
+          "stageHeight": 450.828125,
+          "viewportHeight": 433.828125,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1907
+        },
+        {
+          "stageHeight": 450.8125,
+          "viewportHeight": 433.8125,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1907
+        }
+      ]
+    },
+    {
+      "innerWheel": 0,
+      "scrollY": 500,
+      "outerY": 0
+    },
+    {
+      "innerWheel": 1,
+      "scrollY": 500,
+      "outerY": 0
+    },
+    {
+      "innerWheel": 2,
+      "scrollY": 500,
+      "outerY": 0
+    },
+    {
+      "width": 768,
+      "outerOverflow": false,
+      "geometry": [
+        {
+          "stageHeight": 284.15625,
+          "viewportHeight": 267.15625,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1985
+        },
+        {
+          "stageHeight": 284.15625,
+          "viewportHeight": 267.15625,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1985
+        },
+        {
+          "stageHeight": 284.15625,
+          "viewportHeight": 267.15625,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1985
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "outerOverflow": false,
+      "geometry": [
+        {
+          "stageHeight": 425,
+          "viewportHeight": 408,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1916
+        },
+        {
+          "stageHeight": 425,
+          "viewportHeight": 408,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1916
+        },
+        {
+          "stageHeight": 425,
+          "viewportHeight": 408,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1916
+        }
+      ]
+    },
+    {
+      "mobileOuterY": 500
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "system-browser.jsx": "a02daea463987f8bc787b80bb872929c3597bccbdc27df842e7ddb364c4c5816",
+    "system-browser.css": "a50e5f98411cbd4426ef4b7ff47b2ce0d7291d6d02bded5c45a4b22d21fabe08"
+  }
+}

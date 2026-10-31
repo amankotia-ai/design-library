@@ -1,0 +1,2934 @@
+[
+  {
+    "key": "p:op-art-vibrations",
+    "name": "Op Art Vibrations",
+    "caption": "Animated 60s optical stripes, with a new variation in one click.",
+    "href": "/p/op-art-vibrations",
+    "spec": {
+      "code": "const FRAG = `#version 300 es\nprecision highp float;\nin vec2 uv;\nout vec4 outColor;\nuniform vec2 uRes;\nuniform float uPx, uTime, uSpacing, uRow, uThick, uTaper, uSpeed, uAniso;\nuniform vec2 uOff;\nuniform int uShape;\nuniform vec3 uA, uB;\n\nvoid main() {\n  vec2 f = gl_FragCoord.xy / uPx;\n  vec2 size = uRes / uPx;\n  vec2 c = size * (vec2(0.5) + uOff);\n  float x = f.x;\n  float y = size.y - f.y;\n  float dx = x - c.x;\n  float dy = (floor((y - c.y) / uRow) + 0.5) * uRow * uAniso;\n  float ax = abs(dx), ay = abs(dy);\n  float d;\n  if (uShape == 0) d = ax + ay;\n  else if (uShape == 1) d = length(vec2(dx, dy));\n  else if (uShape == 2) d = max(ax, ay);\n  else { float s = sqrt(ax) + sqrt(ay); d = s * s * 0.5; }\n  float phase = d / uSpacing - uTime * uSpeed;\n  float fr = fract(phase);\n  float u = clamp(f.x / size.x, 0.0, 1.0);\n  float duty = uThick * (1.0 - uTaper * 0.92 * u);\n  float aa = max(fwidth(phase), 0.001) * 0.75;\n  // stripe centered in the period\n  float t = abs(fr - 0.5);\n  float m = 1.0 - smoothstep(duty * 0.5 - aa, duty * 0.5 + aa, t);\n  // soften when stripes get sub-pixel to avoid moire noise\n  m = mix(m, duty, smoothstep(0.35, 1.0, aa * 2.0));\n  outColor = vec4(mix(uA, uB, m), 1.0);\n}`;\n\ndefineTool({\n  animated: true,\n  setup(ctx) {\n    ctx.state.prog = kit.gl.program(ctx.gl, FRAG);\n  },\n  render(ctx, p) {\n    const c = (hex) => kit.color.parse(hex).map((v) => v / 255);\n    const r = kit.rand(p.seed * 7 + 1);\n    const offx = (r() - 0.5) * 0.3, offy = (r() - 0.5) * 0.3;\n    const aniso = 0.8 + r() * 0.5;\n    const shapes = { diamond: 0, circle: 1, square: 2, star: 3 };\n    ctx.state.prog.draw({\n      uRes: [ctx.width, ctx.height],\n      uPx: ctx.px,\n      uTime: ctx.time,\n      uSpacing: p.spacing,\n      uRow: p.rowHeight,\n      uThick: p.thickness,\n      uTaper: p.taper,\n      uSpeed: p.speed,\n      uAniso: aniso,\n      uOff: [offx, offy],\n      uShape: shapes[p.shape] || 0,\n      uA: c(p.colorA),\n      uB: c(p.colorB),\n    });\n  },\n});",
+      "name": "Op Art Vibrations",
+      "presets": [
+        {
+          "name": "Classic yellow",
+          "values": {
+            "shape": "diamond",
+            "colorA": "#f4c80f",
+            "colorB": "#111111"
+          }
+        },
+        {
+          "name": "Red circles",
+          "values": {
+            "shape": "circle",
+            "colorA": "#f1e8d8",
+            "colorB": "#d62828",
+            "spacing": "22",
+            "rowHeight": "10"
+          }
+        },
+        {
+          "name": "Cobalt square",
+          "values": {
+            "shape": "square",
+            "taper": "0.6",
+            "colorA": "#f5f0e6",
+            "colorB": "#1d3fa8",
+            "spacing": "36"
+          }
+        },
+        {
+          "name": "Acid star",
+          "values": {
+            "shape": "star",
+            "colorA": "#1a1a1a",
+            "colorB": "#c6f432",
+            "spacing": "18",
+            "rowHeight": "8",
+            "thickness": "0.5"
+          }
+        }
+      ],
+      "animated": true,
+      "renderer": "webgl2",
+      "sections": [
+        {
+          "label": "Shape",
+          "controls": [
+            {
+              "key": "shape",
+              "type": "select",
+              "label": "Shape",
+              "default": "diamond",
+              "options": [
+                {
+                  "label": "Diamond",
+                  "value": "diamond"
+                },
+                {
+                  "label": "Circle",
+                  "value": "circle"
+                },
+                {
+                  "label": "Square",
+                  "value": "square"
+                },
+                {
+                  "label": "Star",
+                  "value": "star"
+                }
+              ]
+            },
+            {
+              "key": "spacing",
+              "max": 80,
+              "min": 8,
+              "step": 1,
+              "type": "slider",
+              "label": "Stripe spacing",
+              "default": 28
+            },
+            {
+              "key": "rowHeight",
+              "max": 60,
+              "min": 4,
+              "step": 1,
+              "type": "slider",
+              "label": "Band height",
+              "default": 16
+            }
+          ]
+        },
+        {
+          "label": "Stripes",
+          "controls": [
+            {
+              "key": "thickness",
+              "max": 0.9,
+              "min": 0.15,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Thickness",
+              "default": 0.6
+            },
+            {
+              "key": "taper",
+              "max": 1,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Left-to-right taper",
+              "default": 0.8
+            },
+            {
+              "key": "speed",
+              "max": 1.5,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Drift speed",
+              "default": 0.25
+            }
+          ]
+        },
+        {
+          "label": "Colors",
+          "controls": [
+            {
+              "key": "colorA",
+              "type": "color",
+              "label": "Ground",
+              "default": "#f4c80f"
+            },
+            {
+              "key": "colorB",
+              "type": "color",
+              "label": "Stripe",
+              "default": "#111111"
+            }
+          ]
+        },
+        {
+          "label": "Variation",
+          "controls": [
+            {
+              "key": "seed",
+              "type": "seed",
+              "label": "Seed",
+              "default": 5
+            },
+            {
+              "key": "generate",
+              "type": "button",
+              "label": "Generate",
+              "action": "reseed"
+            }
+          ]
+        }
+      ],
+      "description": "Banded vertical stripes shifted row by row into concentric diamonds or circles, tapering left to right for a 60s optical vibration."
+    },
+    "start": {
+      "shape": "diamond",
+      "colorA": "#f4c80f",
+      "colorB": "#111111"
+    },
+    "animated": true,
+    "interactive": false,
+    "slug": "op-art-vibrations",
+    "prompt": "Animated 60s op art: vertical stripes shifted into concentric diamonds, thinning from left to right",
+    "reply": "Op Art Vibrations is ready: banded stripes shifted into diamonds or circles, with stripe spacing, band height, thickness, taper and speed, plus presets for Classic yellow, Red circles, Cobalt square and Acid star.",
+    "slide": {
+      "key": "thickness",
+      "by": -0.02
+    },
+    "late": true
+  },
+  {
+    "key": "p:circuit-blueprint",
+    "name": "Circuit Blueprint",
+    "caption": "PCB layouts and schematics: chips and parts wired by routed traces, on blueprint blue.",
+    "href": "/p/circuit-blueprint",
+    "spec": {
+      "code": "const TAU = Math.PI * 2;\nconst KINDS = {\n  pcb: [['qfp', 'conn', 'qfp', 'conn'], ['soic', 'header', 'button', 'cap', 'soic', 'xtal', 'vias'], ['smd', 'smd', 'smd', 'xtal', 'vias']],\n  schematic: [['ic', 'ic'], ['opamp', 'tr', 'seg', 'ic', 'tr', 'tr'], ['res', 'res', 'cap2', 'diode', 'res', 'cap2']],\n};\nKINDS.mixed = KINDS.pcb.map((a, i) => a.concat(KINDS.schematic[i]));\nconst PREFIX = { qfp: 'U', ic: 'U', soic: 'U', opamp: 'U', conn: 'J', header: 'J', button: 'SW', cap: 'C', cap2: 'C', xtal: 'Y', smd: 'R', res: 'R', diode: 'D', tr: 'Q', seg: 'DS', vias: '' };\n\nconst VALUES = {\n  res: ['10k', '4.7k', '220R', '1M', '47k', '330R', '100R', '2.2k'], smd: ['10k', '4.7k', '100R', '0R', '1k', '22R'],\n  cap: ['100uF', '470uF', '220uF', '1000uF'], cap2: ['100nF', '10uF', '22pF', '1uF', '4.7nF', '33pF'],\n  xtal: ['16MHz', '32.768k', '8MHz', '12MHz', '25MHz'], diode: ['1N4148', '1N4007', 'BAT54', 'LED'],\n  tr: ['2SC1815', '2SA1015', 'BC547', '2N3904', 'BC557'], opamp: ['LM358', 'TL072', 'NE5532', 'LM324'],\n  ic: ['74HC595', 'NE555', 'ATMEGA328', 'CD4017', '74LS04', 'MAX232', 'LM317'], soic: ['74HC14', 'AMS1117', 'CH340G', '24LC256', 'LM393'],\n  qfp: ['STM32F407', 'ATSAMD21', 'RP2040', 'ESP32-S3', 'XC6SLX9'], conn: ['GPIO', 'EXP BUS', 'PCIE', 'DDR SLOT'],\n  header: ['JTAG', 'PWR', 'I2C', 'UART', 'SPI'], button: ['RESET', 'BOOT', 'USER'], seg: ['DISP', 'LED7'],\n};\n\nfunction rng(n, st = 1) { const a = []; for (let i = 0; i < n; i += st) a.push(i); return a; }\n\nfunction spec(kind, r, s) {\n  const S = (a, b) => Math.max(1, Math.round(r.int(a, b) * s));\n  switch (kind) {\n    case 'qfp': { const n = Math.max(6, S(8, 16)), st = r.pick([1, 1, 2]); return { w: n, h: n, L: rng(n, st), R: rng(n, st), T: rng(n, st), B: rng(n, st) }; }\n    case 'conn': { const n = Math.max(8, S(14, 30)); return { w: n, h: 2, T: rng(n), B: r.chance(0.5) ? rng(n, 2) : [], rot: true }; }\n    case 'soic': { const n = Math.max(3, S(4, 9)); return { w: 3, h: n, L: rng(n), R: rng(n), rot: true }; }\n    case 'header': { const n = Math.max(2, S(3, 7)); return { w: 2, h: n, L: rng(n), rot: true }; }\n    case 'button': { const n = Math.max(3, S(3, 4)); return { w: n, h: n, L: [n >> 1], R: [n >> 1] }; }\n    case 'cap': { const n = Math.max(2, S(2, 4)); return { w: n, h: n, L: [n >> 1], R: [n >> 1], rot: true }; }\n    case 'xtal': return { w: Math.max(3, S(3, 4)), h: 1, L: [0], R: [0], rot: true };\n    case 'smd': return { w: 2, h: 1, L: [0], R: [0], rot: true };\n    case 'vias': return { w: 2, h: 2 };\n    case 'ic': { const w = Math.max(3, S(4, 7)), h = Math.max(4, S(6, 14)), st = r.pick([1, 2]); return { w, h, L: rng(h, st), R: rng(h, st), T: r.chance(0.3) ? rng(w, 2) : [], rot: true }; }\n    case 'opamp': return { w: 3, h: 3, L: [0, 2], R: [1] };\n    case 'tr': return { w: 3, h: 3, L: [1], T: [2], B: [2] };\n    case 'seg': { const w = Math.max(3, S(3, 6)); return { w, h: 4, B: rng(w) }; }\n    case 'res': case 'diode': return { w: 3, h: 1, L: [0], R: [0], rot: true };\n    default: return { w: 2, h: 1, L: [0], R: [0], rot: true }; // cap2\n  }\n}\n\nfunction simplify(pts) {\n  const o = [];\n  for (const q of pts) { const l = o[o.length - 1]; if (!l || l[0] !== q[0] || l[1] !== q[1]) o.push(q); }\n  if (o.length < 3) return o;\n  const out = [o[0]];\n  for (let k = 1; k < o.length - 1; k++) {\n    const a = out[out.length - 1], b = o[k], c = o[k + 1];\n    if ((a[0] === b[0] && b[0] === c[0]) || (a[1] === b[1] && b[1] === c[1])) continue;\n    out.push(b);\n  }\n  out.push(o[o.length - 1]);\n  return out;\n}\n\nfunction build(p, cols, rows, reserve) {\n  const r = kit.rand(p.seed);\n  const grid = new Uint8Array(cols * rows);\n  const at = (x, y) => (x < 0 || y < 0 || x >= cols || y >= rows ? 255 : grid[y * cols + x]);\n  const set = (x, y, v) => { if (x >= 0 && y >= 0 && x < cols && y < rows) grid[y * cols + x] = v; };\n  const free = (x, y) => at(x, y) === 0;\n  // Density map: 1 = full density, lower = emptier areas.\n  const nz = kit.noise(p.seed * 31 + 7), asp = Math.max(cols, rows);\n  const maskAt = (x, y) => {\n    if (p.maskType === 'none' || p.maskStrength <= 0) return 1;\n    const mu = (x / asp) * p.maskScale, mv = (y / asp) * p.maskScale;\n    let m;\n    switch (p.maskType) {\n      case 'ridges': m = nz.ridged2(mu, mv, 5) * 1.1; break;\n      case 'cells': m = kit.math.clamp(nz.worley2(mu * 1.2, mv * 1.2) * 1.4, 0, 1); break;\n      case 'islands': m = kit.math.smoothstep(-0.15, 0.25, nz.simplex2(mu * 0.7, mv * 0.7)); break;\n      case 'radial': { const dx = x / cols - 0.5, dy = y / rows - 0.5; m = 1.15 - Math.hypot(dx, dy) * 2.2 + nz.fbm2(mu, mv, 4) * 0.3; break; }\n      default: m = nz.fbm2(mu, mv, 5) * 0.9 + 0.5;\n    }\n    if (p.maskInvert) m = 1 - m;\n    return 1 - p.maskStrength * (1 - kit.math.smoothstep(0.38, 0.62, m));\n  };\n  const comps = [], traces = [], ends = [], vias = [], holes = [], dots = [];\n  const sch = p.style !== 'pcb';\n  if (p.frame) for (const [hx, hy] of [[0, 0], [cols - 3, 0], [0, rows - 3], [cols - 3, rows - 3]]) {\n    holes.push([hx + 1, hy + 1]);\n    for (let j = 0; j < 3; j++) for (let i = 0; i < 3; i++) set(hx + i, hy + j, 1);\n  }\n  if (reserve) for (let j = reserve.y - 1; j < reserve.y + reserve.h + 1; j++) for (let i = reserve.x - 1; i < reserve.x + reserve.w + 1; i++) set(i, j, 1);\n  const kinds = KINDS[p.style] || KINDS.pcb;\n  const area = cols * rows, counters = {};\n  const target = 1 + Math.round((area / 7000) * p.density);\n  const tries = [60, Math.round((area / 130) * p.density), Math.round((area / 80) * p.density)];\n  for (let cls = 0; cls < 3; cls++) {\n    let placed = 0;\n    for (let t = 0; t < tries[cls]; t++) {\n      if (cls === 0 && placed >= target) break;\n      const kind = r.pick(kinds[cls]);\n      let s = spec(kind, r, p.compScale);\n      if (s.rot && r.chance(0.5)) s = { w: s.h, h: s.w, L: s.T, T: s.L, R: s.B, B: s.R };\n      const pad = cls === 2 ? 1 : 2;\n      if (s.w + 2 * pad >= cols || s.h + 2 * pad >= rows) continue;\n      const x = r.int(pad, cols - s.w - pad), y = r.int(pad, rows - s.h - pad);\n      const kp = maskAt(x + s.w / 2, y + s.h / 2);\n      if (kp < 1 && r() > (cls === 0 ? 0.35 + 0.65 * kp : kp)) continue;\n      let ok = true;\n      for (let j = y - pad; j < y + s.h + pad && ok; j++) for (let i = x - pad; i < x + s.w + pad; i++) if (at(i, j) !== 0) { ok = false; break; }\n      if (!ok) continue;\n      for (let j = y; j < y + s.h; j++) for (let i = x; i < x + s.w; i++) set(i, j, 1);\n      const pre = PREFIX[kind];\n      counters[pre] = (counters[pre] || 0) + 1;\n      const c = { kind, x, y, w: s.w, h: s.h, pins: [], label: pre ? pre + counters[pre] : '' };\n      const add = (arr, f) => { for (const k of arr || []) { const q = f(k); q.used = false; c.pins.push(q); set(q.x, q.y, 3); } };\n      add(s.L, (j) => ({ x: x - 1, y: y + j, dx: -1, dy: 0, side: 'L' }));\n      add(s.R, (j) => ({ x: x + s.w, y: y + j, dx: 1, dy: 0, side: 'R' }));\n      add(s.T, (i) => ({ x: x + i, y: y - 1, dx: 0, dy: -1, side: 'T' }));\n      add(s.B, (i) => ({ x: x + i, y: y + s.h, dx: 0, dy: 1, side: 'B' }));\n      comps.push(c);\n      placed++;\n    }\n  }\n\n  const r2 = kit.rand(p.seed * 13 + 5);\n  for (const c of comps) { const vs = VALUES[c.kind]; c.value = vs ? r2.pick(vs) : ''; c.lr = c.w * c.h >= 30 ? 0 : r2(); }\n  const segFree = (a, b) => {\n    const dx = Math.sign(b[0] - a[0]), dy = Math.sign(b[1] - a[1]);\n    let x = a[0], y = a[1];\n    for (;;) { if (!free(x, y)) return false; if (x === b[0] && y === b[1]) return true; x += dx; y += dy; }\n  };\n  const mark = (pts) => {\n    for (let k = 0; k < pts.length - 1; k++) {\n      const a = pts[k], b = pts[k + 1], dx = Math.sign(b[0] - a[0]), dy = Math.sign(b[1] - a[1]);\n      let x = a[0], y = a[1];\n      for (;;) { if (at(x, y) === 0) set(x, y, 2); if (x === b[0] && y === b[1]) break; x += dx; y += dy; }\n    }\n  };\n  const chamfer = () => p.style === 'pcb' || (p.style === 'mixed' && r.chance(0.5));\n  const route = (pa, pb, bm) => {\n    const s = [pa.x + pa.dx, pa.y + pa.dy], e = [pb.x + pb.dx, pb.y + pb.dy];\n    if (!free(s[0], s[1]) || !free(e[0], e[1])) return false;\n    const cands = [];\n    if (bm) {\n      if (pa.dx !== 0) cands.push([s, [bm.x, s[1]], [bm.x, e[1]], e], [s, [s[0], bm.y], [e[0], bm.y], e]);\n      else cands.push([s, [s[0], bm.y], [e[0], bm.y], e], [s, [bm.x, s[1]], [bm.x, e[1]], e]);\n    }\n    if (r.chance(0.5)) cands.push([s, [e[0], s[1]], e], [s, [s[0], e[1]], e]); else cands.push([s, [s[0], e[1]], e], [s, [e[0], s[1]], e]);\n    for (let k = 0; k < 8; k++) {\n      const mx = r.int(Math.min(s[0], e[0]), Math.max(s[0], e[0]));\n      const my = r.int(Math.min(s[1], e[1]), Math.max(s[1], e[1]));\n      cands.push([s, [mx, s[1]], [mx, e[1]], e], [s, [s[0], my], [e[0], my], e]);\n    }\n    for (const c of cands) {\n      let ok = true;\n      for (let k = 0; k < c.length - 1 && ok; k++) ok = segFree(c[k], c[k + 1]);\n      if (!ok) continue;\n      mark(c);\n      traces.push({ pts: simplify([[pa.x, pa.y], ...c, [pb.x, pb.y]]), cham: chamfer() });\n      pa.used = pb.used = true;\n      if (sch && r.chance(0.3)) dots.push([pa.x, pa.y]);\n      return true;\n    }\n    return false;\n  };\n  const facing = (A, B) => {\n    const dx = B.x + B.w / 2 - (A.x + A.w / 2), dy = B.y + B.h / 2 - (A.y + A.h / 2);\n    const h = dx > 0 ? 'R' : 'L', v = dy > 0 ? 'B' : 'T';\n    for (const sd of Math.abs(dx) > Math.abs(dy) ? [h, v] : [v, h]) if (A.pins.some((q) => !q.used && q.side === sd)) return sd;\n    return null;\n  };\n  const wired = comps.filter((c) => c.pins.length);\n  const nConn = Math.round(wired.length * p.connections);\n  for (let t = 0; t < nConn && wired.length > 1; t++) {\n    const big = wired.filter((c) => c.pins.length >= 6);\n    const A = big.length && r.chance(0.65) ? r.pick(big) : r.pick(wired);\n    const near = wired.filter((c) => c !== A).map((c) => [c, Math.abs(c.x + c.w / 2 - A.x - A.w / 2) + Math.abs(c.y + c.h / 2 - A.y - A.h / 2)]).sort((a, b) => a[1] - b[1]);\n    const nearBig = near.filter(([c]) => c.pins.length >= 6);\n    const pool = nearBig.length && r.chance(0.7) ? nearBig : near;\n    const B = pool[r.int(0, Math.min(3, pool.length - 1))][0];\n    const sa = facing(A, B), sb = facing(B, A);\n    if (!sa || !sb) continue;\n    const pa = A.pins.filter((q) => !q.used && q.side === sa), pb = B.pins.filter((q) => !q.used && q.side === sb);\n    const k = Math.max(1, Math.min(pa.length, pb.length, Math.round(p.bus * r.range(0.7, 1))));\n    const i0 = r.int(0, pa.length - k), j0 = r.int(0, pb.length - k), rev = r.chance(0.5);\n    const a0 = pa[i0], b0 = pb[j0];\n    const bx = Math.round((a0.x + b0.x) / 2 + r.range(-0.25, 0.25) * Math.abs(a0.x - b0.x));\n    const by = Math.round((a0.y + b0.y) / 2 + r.range(-0.25, 0.25) * Math.abs(a0.y - b0.y));\n    const sg = rev ? -1 : 1;\n    for (let i = 0; i < k; i++) route(pa[i0 + i], pb[rev ? j0 + k - 1 - i : j0 + i], { x: bx + i * sg, y: by + i * sg });\n  }\n  for (const c of comps) for (const q of c.pins) {\n    if (q.used || !r.chance(p.stubs * maskAt(q.x, q.y))) continue;\n    let x = q.x, y = q.y, dx = q.dx, dy = q.dy, steps = 0;\n    const pts = [[x, y]], long = sch && r.chance(0.12);\n    let len = long ? 9999 : r.int(1, 6);\n    for (let leg = 0; leg < 2; leg++) {\n      let n = 0;\n      while (n < len && free(x + dx, y + dy)) { x += dx; y += dy; set(x, y, 2); n++; }\n      steps += n;\n      if (n) pts.push([x, y]);\n      if (leg === 0) {\n        if (r.chance(0.5)) break;\n        const sg = r.chance(0.5) ? 1 : -1;\n        [dx, dy] = [dy * sg, dx * sg];\n        len = long ? 9999 : r.int(1, 5);\n      }\n    }\n    if (steps < 1) continue;\n    q.used = true;\n    traces.push({ pts: simplify(pts), cham: chamfer() });\n    ends.push({ x, y, dx, dy, t: r.int(0, 3), pcb: p.style === 'pcb' || (p.style === 'mixed' && r.chance(0.5)) });\n  }\n  if (p.style !== 'schematic') {\n    const nv = Math.round((area / 90) * p.density);\n    for (let t = 0; t < nv; t++) {\n      const x = r.int(1, cols - 2), y = r.int(1, rows - 2);\n      if (free(x, y) && free(x + 1, y) && free(x - 1, y) && free(x, y + 1) && free(x, y - 1) && r() < maskAt(x, y)) { set(x, y, 2); vias.push([x, y]); }\n    }\n  }\n  return { comps, traces, ends, vias, holes, dots };\n}\n\ndefineTool({\n  render(ctx, p) {\n    const { g, width: W, height: H, px, state } = ctx;\n    const Wd = W / px, Hd = H / px, md = (Math.min(Wd, Hd) * p.margin) / 100;\n    const cols = Math.max(12, Math.floor((Wd - 2 * md) / p.cellSize)), rows = Math.max(12, Math.floor((Hd - 2 * md) / p.cellSize));\n    const u = p.cellSize * px, ox = (W - cols * u) / 2, oy = (H - rows * u) / 2;\n    // Title block, reserved in the grid so nothing is placed under it.\n    const tt = p.titleType, lt = p.labelType;\n    const title = (p.titleText || '').trim();\n    const sub = 'DWG-' + String(p.seed).padStart(4, '0') + '  /  SHEET 1 OF 1';\n    let tb = null;\n    if (title) {\n      const ms = (s, t) => { let m = null; try { m = kit.type.measure(s, t); } catch (e) {} const sz = t.size || 12 * px; return { width: m && m.width > 0 ? m.width : s.length * sz * 0.62, height: m && m.height > 0 ? m.height : sz * 1.2 }; };\n      const m1 = ms(title, tt), m2 = ms(sub, lt);\n      const pad = u * 1.2;\n      const bw = Math.ceil((Math.max(m1.width, m2.width) + pad * 2) / u), bh = Math.ceil((m1.height + m2.height + pad * 2.8) / u);\n      const off = p.frame ? 4 : 1;\n      if (bw + off + 2 < cols && bh + 2 < rows) tb = { x: cols - bw - off, y: rows - bh - 1, w: bw, h: bh, pad, h1: m1.height };\n    }\n    const key = [p.style, p.seed, p.density, p.compScale, p.connections, p.bus, p.stubs, p.frame, cols, rows, p.maskType, p.maskScale, p.maskStrength, p.maskInvert, tb ? [tb.x, tb.y, tb.w, tb.h].join(',') : ''].join('|');\n    if (state.key !== key) { state.key = key; state.L = build(p, cols, rows, tb); }\n    const L = state.L;\n    const X = (i) => ox + (i + 0.5) * u, Y = (j) => oy + (j + 0.5) * u;\n\n    g.fillStyle = p.background;\n    g.fillRect(0, 0, W, H);\n    g.lineCap = 'round';\n    g.lineJoin = 'round';\n\n    if (p.grid > 0) {\n      g.strokeStyle = p.ink;\n      g.lineWidth = 0.5 * px;\n      for (const major of [false, true]) {\n        g.globalAlpha = Math.min(1, p.grid * (major ? 1.8 : 0.6));\n        const step = major ? u * 5 : u;\n        g.beginPath();\n        for (let x = ox % step; x <= W; x += step) { g.moveTo(x, 0); g.lineTo(x, H); }\n        for (let y = oy % step; y <= H; y += step) { g.moveTo(0, y); g.lineTo(W, y); }\n        g.stroke();\n      }\n      g.globalAlpha = 1;\n    }\n\n    const lw = p.lineWeight * px;\n    const R = (a, b, w, h) => g.rect(a, b, w, h);\n    const C = (x, y, rad) => { g.moveTo(x + rad, y); g.arc(x, y, rad, 0, TAU); };\n    const Ln = (a, b, c, d) => { g.moveTo(a, b); g.lineTo(c, d); };\n    const acc = [], dots = L.dots.map(([i, j]) => [X(i), Y(j)]);\n\n    const drawComp = (c) => {\n      const d = u * 0.14;\n      const cx0 = ox + c.x * u, cy0 = oy + c.y * u, cx1 = ox + (c.x + c.w) * u, cy1 = oy + (c.y + c.h) * u;\n      const x0 = cx0 + d, y0 = cy0 + d, x1 = cx1 - d, y1 = cy1 - d;\n      const mx = (x0 + x1) / 2, my = (y0 + y1) / 2, w = x1 - x0, h = y1 - y0, m = Math.min(w, h), hz = w >= h;\n      for (const q of c.pins) {\n        const qx = X(q.x), qy = Y(q.y);\n        Ln(qx, qy, q.dx ? (q.dx < 0 ? x0 : x1) : qx, q.dy ? (q.dy < 0 ? y0 : y1) : qy);\n      }\n      const A = (t, o) => (hz ? [x0 + w * t, my + o] : [mx + o, y0 + h * t]);\n      const LA = (t1, o1, t2, o2) => { const a = A(t1, o1), b = A(t2, o2); Ln(a[0], a[1], b[0], b[1]); };\n      const s = u * 0.35;\n      switch (c.kind) {\n        case 'qfp': {\n          R(x0, y0, w, h);\n          const i1 = m * 0.1, i2 = m * 0.24, t = u * 0.35;\n          R(x0 + i1, y0 + i1, w - 2 * i1, h - 2 * i1);\n          acc.push(() => R(x0 + i2, y0 + i2, w - 2 * i2, h - 2 * i2));\n          for (let q = cx0 + u * 0.5; q < cx1 - 1; q += u * 0.5) { Ln(q, y0, q, y0 - t); Ln(q, y1, q, y1 + t); }\n          for (let q = cy0 + u * 0.5; q < cy1 - 1; q += u * 0.5) { Ln(x0, q, x0 - t, q); Ln(x1, q, x1 + t, q); }\n          break;\n        }\n        case 'conn': {\n          R(x0, y0, w, h);\n          const i = u * 0.3, t = u * 0.25;\n          R(x0 + i, y0 + i, w - 2 * i, h - 2 * i);\n          if (hz) for (let q = cx0 + u * 0.5; q < cx1 - 1; q += u * 0.5) { Ln(q, y0, q, y0 + t); Ln(q, y1, q, y1 - t); }\n          else for (let q = cy0 + u * 0.5; q < cy1 - 1; q += u * 0.5) { Ln(x0, q, x0 + t, q); Ln(x1, q, x1 - t, q); }\n          break;\n        }\n        case 'soic':\n        case 'ic': {\n          R(x0, y0, w, h);\n          const nr = Math.min(m * 0.2, u * 0.5);\n          if (!hz) { g.moveTo(mx + nr, y0); g.arc(mx, y0, nr, 0, Math.PI); }\n          else { g.moveTo(x0, my - nr); g.arc(x0, my, nr, -Math.PI / 2, Math.PI / 2); }\n          if (c.kind === 'soic') acc.push(() => C(x0 + u * 0.4, y0 + u * 0.4, u * 0.12));\n          break;\n        }\n        case 'header': {\n          R(x0, y0, w, h);\n          for (let j = 0; j < c.h; j++) for (let i = 0; i < c.w; i++) {\n            if (i === 0 && j === 0) R(X(c.x) - u * 0.25, Y(c.y) - u * 0.25, u * 0.5, u * 0.5);\n            else C(X(c.x + i), Y(c.y + j), u * 0.24);\n          }\n          break;\n        }\n        case 'button': R(x0, y0, w, h); C(mx, my, m * 0.36); C(mx, my, m * 0.2); break;\n        case 'cap': C(mx, my, m * 0.48); C(mx, my, m * 0.32); acc.push(() => { Ln(mx - m * 0.1, my, mx + m * 0.1, my); Ln(mx, my - m * 0.1, mx, my + m * 0.1); }); break;\n        case 'xtal': {\n          if (hz) { const rd = h / 2; g.moveTo(x0 + rd, y0); g.lineTo(x1 - rd, y0); g.arc(x1 - rd, my, rd, -Math.PI / 2, Math.PI / 2); g.lineTo(x0 + rd, y1); g.arc(x0 + rd, my, rd, Math.PI / 2, Math.PI * 1.5); }\n          else { const rd = w / 2; g.moveTo(x1, y0 + rd); g.lineTo(x1, y1 - rd); g.arc(mx, y1 - rd, rd, 0, Math.PI); g.lineTo(x0, y0 + rd); g.arc(mx, y0 + rd, rd, Math.PI, TAU); }\n          break;\n        }\n        case 'smd':\n          R(x0, y0, w, h);\n          if (hz) { R(x0, y0, w * 0.3, h); R(x1 - w * 0.3, y0, w * 0.3, h); } else { R(x0, y0, w, h * 0.3); R(x0, y1 - h * 0.3, w, h * 0.3); }\n          break;\n        case 'vias':\n          for (let j = 0; j < 2; j++) for (let i = 0; i < 2; i++) C(X(c.x + i), Y(c.y + j), u * 0.24);\n          break;\n        case 'opamp':\n          g.moveTo(x0, y0); g.lineTo(x1, my); g.lineTo(x0, y1); g.closePath();\n          acc.push(() => { const a = x0 + w * 0.18, b = u * 0.15; Ln(a - b, Y(c.y), a + b, Y(c.y)); Ln(a, Y(c.y) - b, a, Y(c.y) + b); Ln(a - b, Y(c.y + 2), a + b, Y(c.y + 2)); });\n          break;\n        case 'tr': {\n          C(mx, my, m * 0.47);\n          const bx = mx - m * 0.15, pxx = X(c.x + 2);\n          Ln(bx, my - m * 0.25, bx, my + m * 0.25);\n          Ln(x0, my, bx, my);\n          Ln(bx, my - m * 0.1, pxx, y0 + m * 0.18); Ln(pxx, y0 + m * 0.18, pxx, y0);\n          Ln(bx, my + m * 0.1, pxx, y1 - m * 0.18); Ln(pxx, y1 - m * 0.18, pxx, y1);\n          acc.push(() => C(pxx - m * 0.12, y1 - m * 0.24, u * 0.08));\n          break;\n        }\n        case 'seg': {\n          R(x0, y0, w, h);\n          const n = Math.max(1, Math.floor(w / (h * 0.62))), dw = w / n;\n          acc.push(() => { for (let k = 0; k < n; k++) { const a = x0 + k * dw + dw * 0.24; R(a, y0 + h * 0.15, dw * 0.52, h * 0.35); R(a, y0 + h * 0.5, dw * 0.52, h * 0.35); } });\n          break;\n        }\n        case 'res': {\n          LA(0, 0, 0.2, 0); LA(0.8, 0, 1, 0);\n          let a = A(0.2, 0); g.moveTo(a[0], a[1]);\n          for (let k = 0; k < 6; k++) { a = A(0.2 + (0.6 * (k + 0.5)) / 6, k % 2 ? s : -s); g.lineTo(a[0], a[1]); }\n          a = A(0.8, 0); g.lineTo(a[0], a[1]);\n          break;\n        }\n        case 'diode': {\n          LA(0, 0, 0.3, 0); LA(0.7, 0, 1, 0); LA(0.7, -s, 0.7, s);\n          const a = A(0.3, -s), b = A(0.3, s), e = A(0.7, 0);\n          g.moveTo(a[0], a[1]); g.lineTo(b[0], b[1]); g.lineTo(e[0], e[1]); g.closePath();\n          break;\n        }\n        default: // cap2\n          LA(0, 0, 0.4, 0); LA(0.6, 0, 1, 0); LA(0.4, -s * 1.3, 0.4, s * 1.3); LA(0.6, -s * 1.3, 0.6, s * 1.3);\n      }\n    };\n\n    const tracePath = (pts, cham) => {\n      g.moveTo(X(pts[0][0]), Y(pts[0][1]));\n      for (let k = 1; k < pts.length; k++) {\n        const bx = X(pts[k][0]), by = Y(pts[k][1]);\n        if (cham > 0 && k < pts.length - 1) {\n          const ax = X(pts[k - 1][0]), ay = Y(pts[k - 1][1]), cx = X(pts[k + 1][0]), cy = Y(pts[k + 1][1]);\n          const l1 = Math.hypot(bx - ax, by - ay), l2 = Math.hypot(cx - bx, cy - by);\n          const dd = Math.min(cham, l1 / 2, l2 / 2);\n          g.lineTo(bx - ((bx - ax) / l1) * dd, by - ((by - ay) / l1) * dd);\n          g.lineTo(bx + ((cx - bx) / l2) * dd, by + ((cy - by) / l2) * dd);\n        } else g.lineTo(bx, by);\n      }\n    };\n\n    g.strokeStyle = p.ink;\n    g.lineWidth = lw;\n    g.beginPath();\n    if (p.frame) {\n      R(ox - u * 0.5, oy - u * 0.5, cols * u + u, rows * u + u);\n      for (const [hx, hy] of L.holes) { C(X(hx), Y(hy), u * 1.2); C(X(hx), Y(hy), u * 0.6); }\n    }\n    for (const c of L.comps) drawComp(c);\n    for (const t of L.traces) if (t.pts.length > 1) tracePath(t.pts, t.cham ? u * 0.9 : 0);\n    for (const v of L.vias) C(X(v[0]), Y(v[1]), u * 0.28);\n    for (const e of L.ends) {\n      const x = X(e.x), y = Y(e.y), nx = -e.dy, ny = e.dx;\n      if (e.pcb) C(x, y, u * 0.32);\n      else if (e.t === 0) dots.push([x, y]);\n      else if (e.t === 1) {\n        [0.45, 0.3, 0.15].forEach((hl, k) => { const ax = x + e.dx * u * 0.2 * k, ay = y + e.dy * u * 0.2 * k; Ln(ax - nx * u * hl, ay - ny * u * hl, ax + nx * u * hl, ay + ny * u * hl); });\n      } else if (e.t === 2) {\n        const tx = x + e.dx * u * 0.45, ty = y + e.dy * u * 0.45;\n        g.moveTo(x - nx * u * 0.22, y - ny * u * 0.22); g.lineTo(tx, ty); g.lineTo(x + nx * u * 0.22, y + ny * u * 0.22); g.closePath();\n      } else C(x, y, u * 0.22);\n    }\n    g.stroke();\n\n    g.strokeStyle = p.accent;\n    g.beginPath();\n    for (const f of acc) f();\n    g.stroke();\n\n    if (dots.length) {\n      g.fillStyle = p.accent;\n      g.beginPath();\n      const dr = lw * 1.2 + u * 0.08;\n      for (const [x, y] of dots) C(x, y, dr);\n      g.fill();\n    }\n\n    if (p.pinNumbers) {\n      g.fillStyle = p.labelColor;\n      const fs = Math.max(4 * px, Math.min((lt.size || 7 * px) * 0.75, u * 0.62));\n      const base = typeof lt.font === 'string' && /[\\d.]+px/.test(lt.font) ? lt.font : '10px ui-monospace, Menlo, monospace';\n      g.font = base.replace(/[\\d.]+px/, fs.toFixed(1) + 'px');\n      g.textBaseline = 'middle';\n      for (const c of L.comps) {\n        if (c.pins.length < 6) continue;\n        const x0 = ox + c.x * u, y0 = oy + c.y * u, x1 = x0 + c.w * u, y1 = y0 + c.h * u, ins = u * 0.35;\n        c.pins.forEach((q, i) => {\n          const n = String(i + 1);\n          if (q.side === 'L' || q.side === 'R') {\n            g.textAlign = q.side === 'L' ? 'left' : 'right';\n            g.fillText(n, q.side === 'L' ? x0 + ins : x1 - ins, Y(q.y));\n          } else {\n            g.save(); g.translate(X(q.x), q.side === 'T' ? y0 + ins : y1 - ins); g.rotate(-Math.PI / 2);\n            g.textAlign = q.side === 'T' ? 'right' : 'left';\n            g.fillText(n, 0, 0); g.restore();\n          }\n        });\n      }\n      g.textAlign = 'left';\n    }\n\n    if (tb) {\n      const bx = ox + tb.x * u, by = oy + tb.y * u, bw = tb.w * u, bh = tb.h * u;\n      g.fillStyle = p.background; g.fillRect(bx, by, bw, bh);\n      g.strokeStyle = p.ink; g.lineWidth = lw;\n      const sy = by + tb.pad + tb.h1 + tb.pad * 0.4;\n      g.beginPath(); R(bx, by, bw, bh); Ln(bx, sy, bx + bw, sy); g.stroke();\n      g.fillStyle = p.ink;\n      kit.type.draw(g, title, tt, bx + tb.pad, by + tb.pad, { width: bw - tb.pad * 2 });\n      g.fillStyle = p.labelColor;\n      kit.type.draw(g, sub, lt, bx + tb.pad, sy + tb.pad * 0.4, { width: bw - tb.pad * 2 });\n    }\n\n    if (p.labels) {\n      g.fillStyle = p.labelColor;\n      const gap = u * 0.25;\n      const al = lt.align === 'center' || lt.align === 'right' ? lt.align : 'left';\n      const ax = al === 'left' ? 0 : al === 'center' ? 0.5 : 1;\n      const place = (txt, x, y, rot, align, valign) => {\n        g.save(); g.translate(x, y); if (rot) g.rotate(-Math.PI / 2);\n        kit.type.draw(g, txt, lt, 0, 0, { align, valign });\n        g.restore();\n      };\n      for (const c of L.comps) {\n        if (c.lr > p.labelAmount) continue;\n        const txt = p.labelContent === 'value' ? c.value : p.labelContent === 'both' ? [c.label, c.value].filter(Boolean).join('\\n') : c.label;\n        if (!txt) continue;\n        const sides = new Set(c.pins.map((q) => q.side));\n        const x0 = ox + c.x * u, y0 = oy + c.y * u, w = c.w * u, h = c.h * u;\n        const vert = p.labelRotate && c.h > c.w * 1.4;\n        const big = c.w >= 4 && c.h >= 4;\n        if (big && (c.kind === 'qfp' || c.kind === 'ic')) place(txt, x0 + w / 2, y0 + h / 2, vert, 'center', 'middle');\n        else if (vert && !sides.has('L')) place(txt, x0 - gap, y0 + h * (1 - ax), true, al, 'bottom');\n        else if (vert && !sides.has('R')) place(txt, x0 + w + gap, y0 + h * (1 - ax), true, al, 'top');\n        else if (!sides.has('T')) place(txt, x0 + w * ax, y0 - gap, false, al, 'bottom');\n        else if (!sides.has('B')) place(txt, x0 + w * ax, y0 + h + gap, false, al, 'top');\n        else if (c.w >= 3 && c.h >= 3) place(txt, x0 + w / 2, y0 + h / 2, vert, 'center', 'middle');\n      }\n    }\n  },\n});\n",
+      "name": "Circuit Blueprint",
+      "presets": [
+        {
+          "name": "Dark PCB",
+          "values": {
+            "ink": "#d6d6d2",
+            "style": "pcb",
+            "accent": "#a9a9a4",
+            "background": "#232323"
+          }
+        },
+        {
+          "name": "Dense Schematic",
+          "values": {
+            "ink": "#e4e4e0",
+            "frame": false,
+            "stubs": 0.6,
+            "style": "schematic",
+            "accent": "#ffffff",
+            "labels": true,
+            "density": 1.5,
+            "cellSize": 6,
+            "background": "#151515",
+            "lineWeight": 0.8,
+            "connections": 2.2
+          }
+        },
+        {
+          "name": "Blueprint",
+          "values": {
+            "bus": 12,
+            "ink": "#dfe7ff",
+            "grid": 0.07,
+            "frame": false,
+            "style": "mixed",
+            "accent": "#ffffff",
+            "density": 0.6,
+            "cellSize": 8,
+            "compScale": 1.7,
+            "background": "#263f8a",
+            "connections": 2.5
+          }
+        },
+        {
+          "name": "Green Board",
+          "values": {
+            "ink": "#7fe0a6",
+            "style": "pcb",
+            "accent": "#e8c36a",
+            "labels": true,
+            "density": 1.3,
+            "cellSize": 7,
+            "background": "#0d3a2b"
+          }
+        },
+        {
+          "name": "Patent Paper",
+          "values": {
+            "ink": "#1d2222",
+            "style": "mixed",
+            "accent": "#0f8f4e",
+            "labels": true,
+            "density": 0.8,
+            "cellSize": 11,
+            "background": "#aab3b2",
+            "lineWeight": 1.3
+          }
+        }
+      ],
+      "animated": false,
+      "renderer": "canvas2d",
+      "sections": [
+        {
+          "label": "Layout",
+          "controls": [
+            {
+              "key": "style",
+              "type": "select",
+              "label": "Style",
+              "default": "pcb",
+              "options": [
+                {
+                  "label": "PCB board",
+                  "value": "pcb"
+                },
+                {
+                  "label": "Schematic",
+                  "value": "schematic"
+                },
+                {
+                  "label": "Mixed",
+                  "value": "mixed"
+                }
+              ]
+            },
+            {
+              "key": "seed",
+              "type": "seed",
+              "label": "Seed",
+              "default": 7
+            },
+            {
+              "key": "generate",
+              "type": "button",
+              "label": "Generate",
+              "action": "reseed"
+            },
+            {
+              "key": "cellSize",
+              "max": 20,
+              "min": 4,
+              "step": 0.5,
+              "type": "slider",
+              "label": "Grid unit",
+              "default": 7
+            },
+            {
+              "key": "density",
+              "max": 2,
+              "min": 0.2,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Density",
+              "default": 1.2
+            },
+            {
+              "key": "compScale",
+              "max": 2.2,
+              "min": 0.5,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Part size",
+              "default": 1.3
+            },
+            {
+              "key": "margin",
+              "max": 25,
+              "min": 0,
+              "step": 0.5,
+              "type": "slider",
+              "label": "Edge margin %",
+              "default": 6
+            }
+          ]
+        },
+        {
+          "label": "Density map",
+          "controls": [
+            {
+              "key": "maskType",
+              "type": "select",
+              "label": "Noise",
+              "default": "clouds",
+              "options": [
+                {
+                  "label": "None",
+                  "value": "none"
+                },
+                {
+                  "label": "Fractal clouds",
+                  "value": "clouds"
+                },
+                {
+                  "label": "Ridges",
+                  "value": "ridges"
+                },
+                {
+                  "label": "Cells",
+                  "value": "cells"
+                },
+                {
+                  "label": "Islands",
+                  "value": "islands"
+                },
+                {
+                  "label": "Radial",
+                  "value": "radial"
+                }
+              ]
+            },
+            {
+              "key": "maskScale",
+              "max": 10,
+              "min": 0.5,
+              "step": 0.1,
+              "type": "slider",
+              "label": "Noise scale",
+              "default": 2.5
+            },
+            {
+              "key": "maskStrength",
+              "max": 1,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Emptiness",
+              "default": 0.8
+            },
+            {
+              "key": "maskInvert",
+              "type": "toggle",
+              "label": "Invert map",
+              "default": false
+            }
+          ]
+        },
+        {
+          "label": "Wiring",
+          "controls": [
+            {
+              "key": "connections",
+              "max": 5,
+              "min": 0,
+              "step": 0.05,
+              "type": "slider",
+              "label": "Connections",
+              "default": 3.2
+            },
+            {
+              "key": "bus",
+              "max": 16,
+              "min": 1,
+              "step": 1,
+              "type": "slider",
+              "label": "Bus width",
+              "default": 10
+            },
+            {
+              "key": "stubs",
+              "max": 1,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Loose ends",
+              "default": 0.45
+            },
+            {
+              "key": "lineWeight",
+              "max": 3,
+              "min": 0.4,
+              "step": 0.05,
+              "type": "slider",
+              "label": "Line weight",
+              "default": 1
+            }
+          ]
+        },
+        {
+          "label": "Text",
+          "controls": [
+            {
+              "key": "labels",
+              "type": "toggle",
+              "label": "Part labels",
+              "default": false
+            },
+            {
+              "key": "labelContent",
+              "type": "select",
+              "label": "Label content",
+              "default": "ref",
+              "options": [
+                {
+                  "label": "Designators (U1, R4)",
+                  "value": "ref"
+                },
+                {
+                  "label": "Values (10k, LM358)",
+                  "value": "value"
+                },
+                {
+                  "label": "Both",
+                  "value": "both"
+                }
+              ]
+            },
+            {
+              "key": "labelAmount",
+              "max": 1,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Labeled parts",
+              "default": 0.7
+            },
+            {
+              "key": "labelType",
+              "type": "type",
+              "label": "Label type",
+              "fields": [
+                "font",
+                "style",
+                "size",
+                "leading",
+                "tracking",
+                "align",
+                "case"
+              ],
+              "default": "{\"font\":\"g:jetbrains-mono\",\"weight\":500,\"italic\":false,\"size\":7,\"leading\":1.1,\"tracking\":2,\"wordSpacing\":0,\"align\":\"left\",\"case\":\"upper\",\"decoration\":\"none\",\"paragraph\":0,\"indent\":0,\"axes\":{},\"features\":{}}"
+            },
+            {
+              "key": "labelRotate",
+              "type": "toggle",
+              "label": "Vertical labels",
+              "default": true
+            },
+            {
+              "key": "pinNumbers",
+              "type": "toggle",
+              "label": "Pin numbers",
+              "default": false
+            },
+            {
+              "key": "titleText",
+              "type": "text",
+              "label": "Title block (empty = none)",
+              "default": ""
+            },
+            {
+              "key": "titleType",
+              "type": "type",
+              "label": "Title type",
+              "fields": [
+                "font",
+                "style",
+                "size",
+                "tracking",
+                "align",
+                "case"
+              ],
+              "default": "{\"font\":\"g:space-grotesk\",\"weight\":600,\"italic\":false,\"size\":16,\"leading\":1,\"tracking\":4,\"wordSpacing\":0,\"align\":\"left\",\"case\":\"upper\",\"decoration\":\"none\",\"paragraph\":0,\"indent\":0,\"axes\":{},\"features\":{}}"
+            }
+          ]
+        },
+        {
+          "label": "Details",
+          "controls": [
+            {
+              "key": "frame",
+              "type": "toggle",
+              "label": "Board frame",
+              "default": true
+            },
+            {
+              "key": "grid",
+              "max": 0.3,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Paper grid",
+              "default": 0
+            },
+            {
+              "key": "background",
+              "type": "color",
+              "label": "Background",
+              "default": "#232323"
+            },
+            {
+              "key": "ink",
+              "type": "color",
+              "label": "Lines",
+              "default": "#d6d6d2"
+            },
+            {
+              "key": "accent",
+              "type": "color",
+              "label": "Accent",
+              "default": "#a9a9a4"
+            },
+            {
+              "key": "labelColor",
+              "type": "color",
+              "label": "Text",
+              "default": "#c9c9c2"
+            }
+          ]
+        }
+      ],
+      "description": "Generates detailed PCB layouts and electronic schematics: chips, connectors, passive parts and symbols wired by routed traces, in blueprint, dark or paper palettes."
+    },
+    "start": {
+      "style": "pcb",
+      "seed": 4214,
+      "background": "#104BFF",
+      "ink": "#ffffff",
+      "accent": "#a9a9a4",
+      "labelColor": "#c9c9c2",
+      "density": 1.35,
+      "cellSize": 6.5,
+      "compScale": 1.24,
+      "margin": 4,
+      "connections": 1.3,
+      "bus": 4,
+      "stubs": 0.68,
+      "lineWeight": 1,
+      "maskType": "radial",
+      "maskScale": 2.2,
+      "maskStrength": 0.82,
+      "maskInvert": false,
+      "labels": false,
+      "pinNumbers": false,
+      "frame": false,
+      "grid": 0
+    },
+    "animated": false,
+    "interactive": false,
+    "slug": "circuit-blueprint",
+    "prompt": "A circuit blueprint tool",
+    "reply": "Circuit Blueprint is ready. Drag a slider or pick a preset.",
+    "slide": null,
+    "late": false
+  },
+  {
+    "key": "p:isometric-wireframe-scene",
+    "name": "Isometric Wireframe Scene",
+    "caption": "Isometric wireframe scenes: a central object on platforms, ringed by blocks and wide orbits.",
+    "href": "/p/isometric-wireframe-scene",
+    "spec": {
+      "code": "function makeSvg(W, H) {\n  const out = [];\n  let d = '';\n  const f = (v) => (+v.toFixed(2)).toString();\n  const o = {\n    fillStyle: '#000', strokeStyle: '#000', lineWidth: 1, lineJoin: 'round', lineCap: 'round', globalAlpha: 1, dash: [],\n    setLineDash(a) { o.dash = a; },\n    beginPath() { d = ''; },\n    moveTo(x, y) { d += 'M' + f(x) + ' ' + f(y); },\n    lineTo(x, y) { d += (d ? 'L' : 'M') + f(x) + ' ' + f(y); },\n    closePath() { d += 'Z'; },\n    rect(x, y, w, h) { d += 'M' + f(x) + ' ' + f(y) + 'H' + f(x + w) + 'V' + f(y + h) + 'H' + f(x) + 'Z'; },\n    ellipse(x, y, rx, ry, rot, a0, a1) {\n      const n = Math.max(8, Math.ceil((Math.abs(a1 - a0) / (Math.PI * 2)) * 140));\n      for (let i = 0; i <= n; i++) {\n        const a = a0 + ((a1 - a0) * i) / n;\n        o.lineTo(x + rx * Math.cos(a), y + ry * Math.sin(a));\n      }\n    },\n    arc(x, y, r, a0, a1) { o.ellipse(x, y, r, r, 0, a0, a1); },\n    fill() { out.push('<path d=\"' + d + '\" fill=\"' + o.fillStyle + '\" stroke=\"none\"' + (o.globalAlpha < 1 ? ' opacity=\"' + o.globalAlpha + '\"' : '') + '/>'); },\n    stroke() {\n      out.push('<path d=\"' + d + '\" fill=\"none\" stroke=\"' + o.strokeStyle + '\" stroke-width=\"' + f(o.lineWidth) + '\" stroke-linecap=\"' + o.lineCap + '\" stroke-linejoin=\"' + o.lineJoin + '\"' +\n        (o.dash.length ? ' stroke-dasharray=\"' + o.dash.map(f).join(' ') + '\"' : '') + (o.globalAlpha < 1 ? ' opacity=\"' + f(o.globalAlpha) + '\"' : '') + '/>');\n    },\n    fillRect(x, y, w, h) { out.push('<rect x=\"' + f(x) + '\" y=\"' + f(y) + '\" width=\"' + f(w) + '\" height=\"' + f(h) + '\" fill=\"' + o.fillStyle + '\"/>'); },\n    toString() { return '<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"' + W + '\" height=\"' + H + '\" viewBox=\"0 0 ' + W + ' ' + H + '\">' + out.join('') + '</svg>'; },\n  };\n  return o;\n}\n\nfunction drawScene(g, W, H, px, time, p) {\n  {\n    const S = (Math.min(W, H) / 1000) * 1.15;\n    const r = kit.rand(p.seed);\n    const t = (p.tilt * Math.PI) / 180, ct = Math.cos(t), st = Math.sin(t);\n    const yaw = (p.rotate ? time * 0.12 : 0) + 0.0;\n    const ca = Math.cos(yaw), sa = Math.sin(yaw);\n\n    const PH = p.platformHeight, cr = 66 * p.centerSize;\n    const cH = (p.center === 'cube' ? cr * 1.5 : p.center === 'sphere' ? cr * 2.2 : 150) * (p.center === 'cube' || p.center === 'sphere' ? 1 : p.centerHeight);\n    const rTop = cr * 1.5 + 24;\n    const n = p.platforms;\n    const outerR = n > 0 ? rTop + (n - 1) * p.spacing : rTop;\n    const ringR = outerR + 40 + p.blockSize * 0.8;\n    const ringStep = p.blockSize * 1.7 + 24;\n    const total = n * PH + cH;\n    const ox = W / 2, oy = H / 2 + total * ct * 0.5 * S + 20 * S;\n\n    const camv = (x, y, z) => {\n      const xr = x * ca + z * sa, zr = -x * sa + z * ca;\n      return [xr, y * ct - zr * st, zr * ct + y * st];\n    };\n    const scr = (x, y, z) => { const c = camv(x, y, z); return [ox + c[0] * S, oy - c[1] * S, c[2]]; };\n\n    g.fillStyle = p.bg;\n    g.fillRect(0, 0, W, H);\n    g.strokeStyle = p.line;\n    g.fillStyle = p.bg;\n    g.lineWidth = p.weight * px;\n    g.lineJoin = 'round';\n    g.lineCap = 'round';\n\n    // Orbits on the ground plane.\n    const gap = p.orbitGap;\n    for (let k = 0; k < p.orbits; k++) {\n      const rad = (ringR + k * gap) * S;\n      const dashed = k > 0 && r() < 0.35;\n      g.setLineDash(dashed ? [rad * 0.05, rad * 0.03] : []);\n      g.globalAlpha = k === 0 ? 1 : Math.max(0.35, 0.85 - k * 0.08);\n      g.beginPath();\n      g.ellipse(ox, oy, rad, rad * st, 0, 0, Math.PI * 2);\n      g.stroke();\n    }\n    g.setLineDash([]);\n    g.globalAlpha = 1;\n\n    const cyl = (y0, rad, h, wx = 0, wz = 0) => {\n      const R = rad * S, ry = R * st, hh = h * ct * S;\n      const sc = scr(wx, y0, wz), ox = sc[0];\n      const yb = sc[1], yt = yb - hh;\n      g.beginPath();\n      g.rect(ox - R, yt, 2 * R, hh);\n      g.moveTo(ox + R, yt); g.ellipse(ox, yt, R, ry, 0, 0, Math.PI * 2);\n      g.moveTo(ox + R, yb); g.ellipse(ox, yb, R, ry, 0, 0, Math.PI * 2);\n      g.fill();\n      g.beginPath();\n      g.ellipse(ox, yt, R, ry, 0, 0, Math.PI * 2);\n      g.moveTo(ox + R, yb); g.ellipse(ox, yb, R, ry, 0, 0, Math.PI);\n      g.moveTo(ox - R, yt); g.lineTo(ox - R, yb);\n      g.moveTo(ox + R, yt); g.lineTo(ox + R, yb);\n      g.stroke();\n    };\n\n    const box = (cx, cz, ang, dr, dt, h, y0) => {\n      const u = [Math.cos(ang), Math.sin(ang)], v = [-u[1], u[0]];\n      const ring = [[-1, -1], [1, -1], [1, 1], [-1, 1]];\n      const pt = (s, yy) => scr(cx + u[0] * s[0] * dr / 2 + v[0] * s[1] * dt / 2, yy, cz + u[1] * s[0] * dr / 2 + v[1] * s[1] * dt / 2);\n      const bot = ring.map((s) => pt(s, y0)), top = ring.map((s) => pt(s, y0 + h));\n      const cD = scr(cx, y0 + h / 2, cz)[2];\n      const faces = [top];\n      for (let k = 0; k < 4; k++) faces.push([bot[k], bot[(k + 1) % 4], top[(k + 1) % 4], top[k]]);\n      for (const f of faces) {\n        let d = 0;\n        for (const q of f) d += q[2];\n        if (d / f.length <= cD + 1e-6 && f !== faces[0]) continue;\n        if (f === faces[0] && st < 0.02) continue;\n        g.beginPath();\n        f.forEach((q, i) => (i ? g.lineTo(q[0], q[1]) : g.moveTo(q[0], q[1])));\n        g.closePath();\n        g.fill();\n        g.stroke();\n      }\n    };\n\n    const sphere = (y0, rad) => {\n      const cyy = y0 + rad, c = scr(0, cyy, 0), R = rad * S;\n      g.beginPath(); g.arc(c[0], c[1], R, 0, Math.PI * 2); g.fill(); g.stroke();\n      const line = (fn) => {\n        let pen = false;\n        g.beginPath();\n        for (let i = 0; i <= 90; i++) {\n          const q = fn(i / 90), cv = camv(q[0], q[1], q[2]);\n          if (cv[2] > 0) {\n            const X = ox + cv[0] * S, Y = oy - (cyy * ct + 0) * S + 0 - (cv[1] - cyy * ct) * S;\n            pen ? g.lineTo(X, Y) : g.moveTo(X, Y); pen = true;\n          } else pen = false;\n        }\n        g.stroke();\n      };\n      for (let k = -2; k <= 2; k++) {\n        const ph = (k * Math.PI) / 6;\n        line((u) => [rad * Math.cos(ph) * Math.cos(u * 6.2832), cyy + rad * Math.sin(ph), rad * Math.cos(ph) * Math.sin(u * 6.2832)]);\n      }\n      for (let k = 0; k < 6; k++) {\n        const th = (k * Math.PI) / 6;\n        line((u) => {\n          const ph = u * 6.2832;\n          return [rad * Math.cos(ph) * Math.cos(th), cyy + rad * Math.sin(ph), rad * Math.cos(ph) * Math.sin(th)];\n        });\n      }\n    };\n\n    // Blocks.\n    const phase = r() * Math.PI * 2;\n    const list = [];\n    for (let j = 0; j < p.rings; j++) {\n      const R = ringR + j * ringStep;\n      const cnt = Math.round(p.blocks * R / ringR);\n      const ph = phase + j * Math.PI / cnt;\n      for (let i = 0; i < cnt; i++) {\n        const a = ph + (i / cnt) * Math.PI * 2;\n        const h = p.blockHeight * (1 - p.variation * 0.8 * r()) * (1 + j * 0.0);\n        const x = R * Math.cos(a), z = R * Math.sin(a);\n        list.push({ a, h, x, z, d: scr(x, 0, z)[2] });\n      }\n    }\n    list.sort((A, B) => A.d - B.d);\n    const drawBlock = (b) => p.blockShape === 'cylinder' ? cyl(0, p.blockSize * 0.45, b.h, b.x, b.z) : box(b.x, b.z, b.a, p.blockSize, p.blockShape === 'slab' ? p.blockSize * 1.8 : p.blockSize * 0.8, b.h, 0);\n    list.filter((b) => b.d < 0).forEach(drawBlock);\n\n    // Platforms, bottom to top.\n    for (let i = 0; i < n; i++) cyl(i * PH, outerR - i * p.spacing, PH);\n    const y0 = n * PH;\n    if (p.center === 'cylinder') cyl(y0, cr, cH);\n    else if (p.center === 'cube') box(0, 0, 0.5, cr * 1.5, cr * 1.5, cH, y0);\n    else if (p.center === 'sphere') sphere(y0, cr * 1.1);\n    else {\n      const dh = cH / 9;\n      for (let i = 0; i < 5; i++) cyl(y0 + i * dh * 2, cr * (1 - i * 0.1), dh);\n    }\n\n    list.filter((b) => b.d >= 0).forEach(drawBlock);\n  }\n}\n\ndefineTool({\n  animated: true,\n  render(ctx, p) {\n    drawScene(ctx.g, ctx.width, ctx.height, ctx.px, ctx.time, p);\n  },\n  actions: {\n    exportSvg(ctx, p) {\n      const rec = makeSvg(ctx.width, ctx.height);\n      drawScene(rec, ctx.width, ctx.height, ctx.px, ctx.time, p);\n      ctx.download(rec.toString(), 'isometric-scene.svg');\n    },\n  },\n});",
+      "name": "Isometric Wireframe Scene",
+      "presets": [
+        {
+          "name": "Blueprint",
+          "values": {
+            "bg": "#08090b",
+            "line": "#e9ecef"
+          }
+        },
+        {
+          "name": "Amber cube",
+          "values": {
+            "bg": "#0d0905",
+            "line": "#ffb347",
+            "blocks": 16,
+            "center": "cube",
+            "platforms": 4,
+            "blockShape": "slab",
+            "blockHeight": 90
+          }
+        },
+        {
+          "name": "Cyan sphere",
+          "values": {
+            "bg": "#050b10",
+            "line": "#6fe3ff",
+            "tilt": 48,
+            "rings": 3,
+            "blocks": 20,
+            "center": "sphere",
+            "orbits": 6,
+            "blockSize": 22
+          }
+        },
+        {
+          "name": "Disc tower",
+          "values": {
+            "bg": "#0a0d08",
+            "line": "#c9f7a5",
+            "center": "discs",
+            "spacing": 22,
+            "platforms": 5,
+            "variation": 0.6,
+            "blockShape": "cylinder",
+            "blockHeight": 110,
+            "centerHeight": 1.5
+          }
+        },
+        {
+          "name": "Monolith",
+          "values": {
+            "tilt": 28,
+            "rings": 2,
+            "blocks": 14,
+            "center": "cylinder",
+            "spacing": 16,
+            "platforms": 6,
+            "centerSize": 0.6,
+            "centerHeight": 2.2,
+            "platformHeight": 8
+          }
+        }
+      ],
+      "animated": true,
+      "renderer": "canvas2d",
+      "sections": [
+        {
+          "label": "Center",
+          "controls": [
+            {
+              "key": "center",
+              "type": "select",
+              "label": "Center object",
+              "default": "cylinder",
+              "options": [
+                {
+                  "label": "Cylinder",
+                  "value": "cylinder"
+                },
+                {
+                  "label": "Cube",
+                  "value": "cube"
+                },
+                {
+                  "label": "Sphere",
+                  "value": "sphere"
+                },
+                {
+                  "label": "Stacked discs",
+                  "value": "discs"
+                }
+              ]
+            },
+            {
+              "key": "centerSize",
+              "max": 1.8,
+              "min": 0.5,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Center size",
+              "default": 1
+            },
+            {
+              "key": "centerHeight",
+              "max": 2.2,
+              "min": 0.3,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Center height",
+              "default": 1
+            },
+            {
+              "key": "platforms",
+              "max": 6,
+              "min": 0,
+              "step": 1,
+              "type": "slider",
+              "label": "Platforms",
+              "default": 3
+            },
+            {
+              "key": "spacing",
+              "max": 70,
+              "min": 10,
+              "step": 1,
+              "type": "slider",
+              "label": "Platform spacing",
+              "default": 30
+            },
+            {
+              "key": "platformHeight",
+              "max": 40,
+              "min": 4,
+              "step": 1,
+              "type": "slider",
+              "label": "Platform height",
+              "default": 14
+            }
+          ]
+        },
+        {
+          "label": "Blocks & orbits",
+          "controls": [
+            {
+              "key": "blockShape",
+              "type": "select",
+              "label": "Block shape",
+              "default": "box",
+              "options": [
+                {
+                  "label": "Blocks",
+                  "value": "box"
+                },
+                {
+                  "label": "Wide slabs",
+                  "value": "slab"
+                },
+                {
+                  "label": "Pillars",
+                  "value": "cylinder"
+                }
+              ]
+            },
+            {
+              "key": "blocks",
+              "max": 48,
+              "min": 4,
+              "step": 1,
+              "type": "slider",
+              "label": "Blocks",
+              "default": 24
+            },
+            {
+              "key": "rings",
+              "max": 3,
+              "min": 1,
+              "step": 1,
+              "type": "slider",
+              "label": "Block rings",
+              "default": 1
+            },
+            {
+              "key": "blockSize",
+              "max": 80,
+              "min": 14,
+              "step": 1,
+              "type": "slider",
+              "label": "Block size",
+              "default": 34
+            },
+            {
+              "key": "blockHeight",
+              "max": 200,
+              "min": 10,
+              "step": 1,
+              "type": "slider",
+              "label": "Block height",
+              "default": 46
+            },
+            {
+              "key": "variation",
+              "max": 1,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Height variation",
+              "default": 0
+            },
+            {
+              "key": "orbits",
+              "max": 8,
+              "min": 1,
+              "step": 1,
+              "type": "slider",
+              "label": "Orbits",
+              "default": 4
+            },
+            {
+              "key": "orbitGap",
+              "max": 260,
+              "min": 40,
+              "step": 1,
+              "type": "slider",
+              "label": "Orbit spacing",
+              "default": 130
+            },
+            {
+              "key": "seed",
+              "type": "seed",
+              "label": "Seed",
+              "default": 5
+            }
+          ]
+        },
+        {
+          "label": "View",
+          "controls": [
+            {
+              "key": "tilt",
+              "max": 80,
+              "min": 15,
+              "step": 1,
+              "type": "slider",
+              "label": "Camera tilt",
+              "default": 35
+            },
+            {
+              "key": "rotate",
+              "type": "toggle",
+              "label": "Slow rotation",
+              "default": false
+            },
+            {
+              "key": "weight",
+              "max": 4,
+              "min": 0.5,
+              "step": 0.1,
+              "type": "slider",
+              "label": "Line weight",
+              "default": 1.2
+            },
+            {
+              "key": "line",
+              "type": "color",
+              "label": "Line color",
+              "default": "#e9ecef"
+            },
+            {
+              "key": "bg",
+              "type": "color",
+              "label": "Background",
+              "default": "#08090b"
+            },
+            {
+              "key": "exportSvg",
+              "type": "button",
+              "label": "Export SVG",
+              "action": "code"
+            }
+          ]
+        }
+      ],
+      "description": "Isometric line-art scene: a central object on stacked platforms, a ring of blocks facing it and wide concentric orbits, drawn as hidden-line wireframes."
+    },
+    "start": {
+      "seed": 8770,
+      "bg": "#08090b",
+      "line": "#e9ecef",
+      "center": "cylinder",
+      "centerSize": 1,
+      "centerHeight": 1,
+      "platforms": 3,
+      "platformHeight": 14,
+      "blocks": 24,
+      "blockShape": "box",
+      "blockSize": 34,
+      "blockHeight": 46,
+      "rings": 1,
+      "orbits": 4,
+      "orbitGap": 130,
+      "spacing": 66,
+      "tilt": 35,
+      "weight": 1.2,
+      "variation": 0,
+      "rotate": false
+    },
+    "animated": true,
+    "interactive": false,
+    "slug": "isometric-wireframe-scene",
+    "prompt": "A isometric wireframe scene tool",
+    "reply": "Isometric Wireframe Scene is ready. Drag a slider or pick a preset.",
+    "slide": null,
+    "late": false
+  },
+  {
+    "key": "p:math-plot-grid",
+    "name": "Math Plot Grid",
+    "caption": "A math function sampled on a coarse grid: aliased moiré staircases, animated.",
+    "href": "/p/math-plot-grid",
+    "spec": {
+      "code": "defineTool({\n  animated: true,\n  render(ctx, p) {\n    const { g, width: W, height: H, px } = ctx;\n    const cw = Math.max(1, Math.round(p.cellW * px)), ch = Math.max(1, Math.round(p.cellH * px));\n    const cols = Math.ceil(W / cw), rows = Math.ceil(H / ch);\n    const t = ctx.time * p.speed;\n    const A = p.freqA, B = p.freqB;\n    const ci = p.centered ? cols / 2 : 0, cj = p.centered ? rows / 2 : 0;\n    g.fillStyle = p.invert ? p.ink : p.paper;\n    g.fillRect(0, 0, W, H);\n    g.fillStyle = p.invert ? p.paper : p.ink;\n    const th = p.threshold;\n    for (let j = 0; j < rows; j++) {\n      const y = j - cj + p.offY;\n      let start = -1;\n      for (let i = 0; i <= cols; i++) {\n        let on = false;\n        if (i < cols) {\n          const x = i - ci + p.offX;\n          let f;\n          switch (p.formula) {\n            case 'hyper':\n              f = Math.sin(A * 40 / (Math.abs(y) + 1.5) + x * 0.04 * B + t * 2);\n              break;\n            case 'rings':\n              f = Math.sin((x * x + y * y) * A * 0.004 + t * 2);\n              break;\n            case 'xor': {\n              const a = Math.floor(x * A + t * 8), b = Math.floor(y * B);\n              f = ((a ^ b) & 15) / 7.5 - 1;\n              break;\n            }\n            case 'interf':\n              f = (Math.sin(x * A * 0.08 + t) + Math.sin(y * B * 0.11 - t * 0.7) + Math.sin((x + y) * 0.05 * A + t * 1.3)) / 3 * 1.4;\n              break;\n            default:\n              f = Math.sin(x * y * A * 0.028 + t);\n          }\n          on = f > th;\n        }\n        if (on) { if (start < 0) start = i; }\n        else if (start >= 0) {\n          g.fillRect(start * cw, j * ch, (i - start) * cw, ch);\n          start = -1;\n        }\n      }\n    }\n  },\n});",
+      "name": "Math Plot Grid",
+      "presets": [
+        {
+          "name": "Plotter moiré",
+          "values": {
+            "cellH": 18,
+            "cellW": 18,
+            "formula": "product"
+          }
+        },
+        {
+          "name": "Horizon bands",
+          "values": {
+            "cellH": 14,
+            "cellW": 10,
+            "freqA": 2.2,
+            "formula": "hyper",
+            "threshold": 0.2
+          }
+        },
+        {
+          "name": "Fine rings",
+          "values": {
+            "cellH": 6,
+            "cellW": 6,
+            "freqA": 2.5,
+            "formula": "rings",
+            "centered": true,
+            "threshold": 0
+          }
+        },
+        {
+          "name": "XOR blueprint",
+          "values": {
+            "ink": "#f2f0e6",
+            "cellH": 8,
+            "cellW": 8,
+            "paper": "#1d3fbf",
+            "formula": "xor",
+            "threshold": 0.1
+          }
+        },
+        {
+          "name": "Interference",
+          "values": {
+            "cellH": 8,
+            "cellW": 12,
+            "freqA": 3,
+            "freqB": 2,
+            "formula": "interf",
+            "threshold": 0.1
+          }
+        }
+      ],
+      "animated": true,
+      "renderer": "canvas2d",
+      "sections": [
+        {
+          "label": "Function",
+          "controls": [
+            {
+              "key": "formula",
+              "type": "select",
+              "label": "Formula",
+              "default": "product",
+              "options": [
+                {
+                  "label": "Product x·y",
+                  "value": "product"
+                },
+                {
+                  "label": "Hyperbola 1/y",
+                  "value": "hyper"
+                },
+                {
+                  "label": "Rings x²+y²",
+                  "value": "rings"
+                },
+                {
+                  "label": "Bitwise XOR",
+                  "value": "xor"
+                },
+                {
+                  "label": "Interference",
+                  "value": "interf"
+                }
+              ]
+            },
+            {
+              "key": "freqA",
+              "max": 6,
+              "min": 0.1,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Frequency A",
+              "default": 1.6
+            },
+            {
+              "key": "freqB",
+              "max": 6,
+              "min": 0.1,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Frequency B",
+              "default": 1
+            },
+            {
+              "key": "threshold",
+              "max": 0.9,
+              "min": -0.9,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Threshold",
+              "default": 0.45
+            },
+            {
+              "key": "offX",
+              "max": 100,
+              "min": -100,
+              "step": 1,
+              "type": "slider",
+              "label": "Offset X",
+              "default": 0
+            },
+            {
+              "key": "offY",
+              "max": 100,
+              "min": -100,
+              "step": 1,
+              "type": "slider",
+              "label": "Offset Y",
+              "default": 0
+            }
+          ]
+        },
+        {
+          "label": "Grid",
+          "controls": [
+            {
+              "key": "cellW",
+              "max": 40,
+              "min": 3,
+              "step": 1,
+              "type": "slider",
+              "label": "Cell width",
+              "default": 18
+            },
+            {
+              "key": "cellH",
+              "max": 40,
+              "min": 3,
+              "step": 1,
+              "type": "slider",
+              "label": "Cell height",
+              "default": 18
+            },
+            {
+              "key": "centered",
+              "type": "toggle",
+              "label": "Origin at center",
+              "default": false
+            }
+          ]
+        },
+        {
+          "label": "Motion",
+          "controls": [
+            {
+              "key": "speed",
+              "max": 3,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Speed",
+              "default": 0.5
+            }
+          ]
+        },
+        {
+          "label": "Ink",
+          "controls": [
+            {
+              "key": "ink",
+              "type": "color",
+              "label": "Ink",
+              "default": "#0d0d0d"
+            },
+            {
+              "key": "paper",
+              "type": "color",
+              "label": "Paper",
+              "default": "#dcdcd8"
+            },
+            {
+              "key": "invert",
+              "type": "toggle",
+              "label": "Invert",
+              "default": false
+            }
+          ]
+        }
+      ],
+      "description": "A mathematical function sampled on a coarse rectangular grid and thresholded to black and white, producing aliased moiré staircases, animatable."
+    },
+    "start": {},
+    "animated": true,
+    "interactive": false,
+    "slug": "math-plot-grid",
+    "prompt": "A math plot grid tool",
+    "reply": "Math Plot Grid is ready. Drag a slider or pick a preset.",
+    "slide": null,
+    "late": false
+  },
+  {
+    "key": "p:cross-stitch-clusters-eval-styles",
+    "name": "Cross Stitch Clusters",
+    "caption": "An animated cross-stitch field. Your cursor sews colored stitches that slowly unravel.",
+    "href": "/p/cross-stitch-clusters-eval-styles",
+    "spec": {
+      "code": "// code\ndefineTool({\n  animated: true,\n  render(ctx, p) {\n    const g = ctx.g, W = ctx.width, H = ctx.height, px = ctx.px;\n    const clamp = kit.math.clamp, sm = kit.math.smoothstep;\n    g.fillStyle = p.paper;\n    g.fillRect(0, 0, W, H);\n    const cell = p.cellSize * px;\n    const cols = Math.ceil(W / cell) + 1;\n    const rows = Math.ceil(H / cell) + 1;\n    const T = ctx.time * p.speed, pt = ctx.pointer;\n    const R = p.radius * px;\n    const ox0 = (W - cols * cell) / 2, oy0 = (H - rows * cell) / 2;\n    const st = ctx.state;\n    if (!st.heat || st.cols !== cols || st.rows !== rows) { st.heat = new Float32Array(cols * rows); st.cols = cols; st.rows = rows; st.lx = null; st.lt = ctx.time; }\n    const heat = st.heat;\n    let dt = ctx.time - st.lt; if (dt < 0) { heat.fill(0); dt = 0; st.lx = null; }\n    st.lt = ctx.time;\n    const decay = dt / Math.max(0.2, p.trailLife);\n    for (let k = 0; k < heat.length; k++) heat[k] = Math.max(0, heat[k] - decay);\n    if (pt && pt.inside && p.trailLife > 0) {\n      const px0 = st.lx == null ? pt.x : st.lx, py0 = st.ly == null ? pt.y : st.ly;\n      const steps = Math.max(1, Math.ceil(Math.hypot(pt.x - px0, pt.y - py0) / (cell * 0.5)));\n      for (let s = 1; s <= steps; s++) {\n        const sx = px0 + (pt.x - px0) * s / steps, sy = py0 + (pt.y - py0) * s / steps;\n        const i0 = Math.max(0, Math.floor((sx - R - ox0) / cell)), i1 = Math.min(cols - 1, Math.ceil((sx + R - ox0) / cell));\n        const j0 = Math.max(0, Math.floor((sy - R - oy0) / cell)), j1 = Math.min(rows - 1, Math.ceil((sy + R - oy0) / cell));\n        for (let j = j0; j <= j1; j++) for (let i = i0; i <= i1; i++) {\n          const d = Math.hypot(ox0 + (i + 0.5) * cell - sx, oy0 + (j + 0.5) * cell - sy);\n          const hv = 1 - sm(0, R, d);\n          if (hv > heat[j * cols + i]) heat[j * cols + i] = hv;\n        }\n      }\n      st.lx = pt.x; st.ly = pt.y;\n    } else { st.lx = null; st.ly = null; }\n    const trailCol = kit.color.parse(p.trail);\n    const ox = (W - cols * cell) / 2, oy = (H - rows * cell) / 2;\n    const n = kit.noise(p.seed), n2 = kit.noise(p.seed + 101);\n    const r = kit.rand(p.seed);\n    const half0 = cell * p.markSize / 2;\n    g.lineCap = 'round';\n    g.lineWidth = Math.max(px, cell * p.weight);\n    const pale = kit.color.mix(p.paper, p.ink, 0.28);\n    for (let j = 0; j < rows; j++) {\n      for (let i = 0; i < cols; i++) {\n        const a = r(), b = r(), c = r();\n        let x = ox + (i + 0.5) * cell, y = oy + (j + 0.5) * cell;\n        let w = 0, ang = 0, grow = 1;\n        const h = heat[j * cols + i];\n        const f = clamp(n.fbm3(i * p.scale * 1.6, j * p.scale * 1.6, T * 0.12, 4) * 1.3 + 0.5, 0, 1);\n        const v = f - (1 - p.density) + (a - 0.5) * 0.08 + w * 0.5;\n        const half = half0 * grow;\n        let on = v > 0 || h > 0.03, strong = false, t = c;\n        if (!on && b < p.scatter) { on = true; strong = c < 0.5; }\n        if (!on) continue;\n        if (!strong) {\n          const m = clamp(n2.fbm3(i * p.scale * 2.2 + 40, j * p.scale * 2.2, T * 0.1, 3) * 1.3 + 0.5 + w * 0.5, 0, 1);\n          strong = m > 1 - p.accent * 0.9 - 0.02 && c > 0.12;\n        }\n        let col;\n        if (strong) col = kit.color.mix(p.ink, p.paper, t * 0.12);\n        else col = kit.color.mix(pale, p.paper, clamp(0.3 - v + t * 0.3, 0, 0.7));\n        if (h > 0.03) col = kit.color.mix(kit.color.mix(trailCol, p.paper, 0.55 * (1 - h)), col, h > 0.5 ? 0 : 0.5 - h);\n        g.strokeStyle = kit.color.css(col);\n        const ca = Math.cos(ang) * half, sa = Math.sin(ang) * half;\n        g.beginPath();\n        g.moveTo(x - ca + sa, y - sa - ca); g.lineTo(x + ca - sa, y + sa + ca);\n        g.moveTo(x + ca + sa, y + sa - ca); g.lineTo(x - ca - sa, y - sa + ca);\n        g.stroke();\n      }\n    }\n  },\n});",
+      "name": "Cross Stitch Clusters",
+      "presets": [
+        {
+          "name": "Cobalt",
+          "values": {
+            "ink": "#0a58ff",
+            "paper": "#fbfbfe",
+            "trail": "#ff4a2b"
+          }
+        },
+        {
+          "name": "Red thread",
+          "values": {
+            "ink": "#e0301e",
+            "paper": "#f6efe4",
+            "trail": "#1b2a6b",
+            "density": 0.6,
+            "cellSize": 14
+          }
+        },
+        {
+          "name": "Dense field",
+          "values": {
+            "ink": "#1b2a6b",
+            "paper": "#eef0f6",
+            "scale": 0.06,
+            "trail": "#ff7a1a",
+            "density": 0.8,
+            "cellSize": 11
+          }
+        },
+        {
+          "name": "Moss",
+          "values": {
+            "ink": "#1f8a4c",
+            "paper": "#f4f1e6",
+            "trail": "#d6336c",
+            "accent": 0.4,
+            "cellSize": 24,
+            "markSize": 0.7
+          }
+        }
+      ],
+      "animated": true,
+      "renderer": "canvas2d",
+      "sections": [
+        {
+          "label": "Grid",
+          "controls": [
+            {
+              "key": "cellSize",
+              "max": 48,
+              "min": 8,
+              "step": 1,
+              "type": "slider",
+              "label": "Cell size",
+              "default": 17
+            },
+            {
+              "key": "markSize",
+              "max": 1,
+              "min": 0.3,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Mark size",
+              "default": 0.58
+            },
+            {
+              "key": "weight",
+              "max": 0.4,
+              "min": 0.08,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Stroke weight",
+              "default": 0.2
+            }
+          ]
+        },
+        {
+          "label": "Clusters",
+          "controls": [
+            {
+              "key": "density",
+              "max": 0.9,
+              "min": 0.05,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Density",
+              "default": 0.5
+            },
+            {
+              "key": "scale",
+              "max": 0.4,
+              "min": 0.03,
+              "step": 0.005,
+              "type": "slider",
+              "label": "Cluster scale",
+              "default": 0.12
+            },
+            {
+              "key": "accent",
+              "max": 0.8,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Strong share",
+              "default": 0.25
+            },
+            {
+              "key": "scatter",
+              "max": 0.06,
+              "min": 0,
+              "step": 0.001,
+              "type": "slider",
+              "label": "Scatter",
+              "default": 0.012
+            },
+            {
+              "key": "seed",
+              "type": "seed",
+              "label": "Seed",
+              "default": 21
+            }
+          ]
+        },
+        {
+          "label": "Motion",
+          "controls": [
+            {
+              "key": "speed",
+              "max": 3,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Drift speed",
+              "default": 1
+            },
+            {
+              "key": "trailLife",
+              "max": 6,
+              "min": 0.5,
+              "step": 0.1,
+              "type": "slider",
+              "label": "Stitch lifetime (s)",
+              "default": 2.5
+            },
+            {
+              "key": "radius",
+              "max": 300,
+              "min": 30,
+              "step": 5,
+              "type": "slider",
+              "label": "Brush radius",
+              "default": 90
+            }
+          ]
+        },
+        {
+          "label": "Colors",
+          "controls": [
+            {
+              "key": "paper",
+              "type": "color",
+              "label": "Paper",
+              "default": "#fbfbfe"
+            },
+            {
+              "key": "ink",
+              "type": "color",
+              "label": "Ink",
+              "default": "#0a58ff"
+            },
+            {
+              "key": "trail",
+              "type": "color",
+              "label": "Thread",
+              "default": "#ff4a2b"
+            }
+          ]
+        }
+      ],
+      "description": "Full-bleed animated cross-stitch field; the pointer sews colored stitches that slowly unravel."
+    },
+    "start": {},
+    "animated": true,
+    "interactive": true,
+    "slug": "cross-stitch-clusters-eval-styles",
+    "prompt": "A cross stitch clusters tool",
+    "reply": "Cross Stitch Clusters is ready. Drag a slider or pick a preset.",
+    "slide": null,
+    "late": false
+  },
+  {
+    "key": "p:ascii-logo-extrude",
+    "name": "ASCII Logo Extrude",
+    "caption": "Your logo extruded in 3D and drawn in ASCII characters, spinning or following the mouse.",
+    "href": "/p/ascii-logo-extrude",
+    "spec": {
+      "code": "const SZ = 192;\nconst SETS = { classic: ' .:-=+*#%@', blocks: ' ░▒▓█', binary: ' 01', code: ' .,;/<{[#&@' };\n\nfunction drawDemo(g, kind) {\n  g.fillStyle = '#000';\n  g.strokeStyle = '#000';\n  g.clearRect(0, 0, SZ, SZ);\n  if (kind === 'mark') {\n    g.beginPath();\n    g.arc(128, 128, 100, 0, Math.PI * 2);\n    g.arc(128, 128, 56, 0, Math.PI * 2, true);\n    g.fill();\n    g.beginPath();\n    g.moveTo(128, 70); g.lineTo(190, 180); g.lineTo(66, 180); g.closePath();\n    g.fill();\n  } else if (kind === 'asterisk') {\n    g.lineWidth = 42; g.lineCap = 'round';\n    for (let i = 0; i < 3; i++) {\n      const a = (i * Math.PI) / 3 + Math.PI / 6;\n      g.beginPath();\n      g.moveTo(128 - Math.cos(a) * 92, 128 - Math.sin(a) * 92);\n      g.lineTo(128 + Math.cos(a) * 92, 128 + Math.sin(a) * 92);\n      g.stroke();\n    }\n  } else {\n    g.font = '900 150px Helvetica Neue, Arial, sans-serif';\n    g.textAlign = 'center'; g.textBaseline = 'middle';\n    g.fillText('Bp', 128, 138);\n  }\n}\n\nfunction buildShape(p) {\n  const g = kit.buffer(SZ, SZ).g;\n  const shape = kit.buffer(SZ, SZ);\n  if (p.source === 'image') {\n    const im = p.image;\n    const s = Math.min(SZ / im.width, SZ / im.height);\n    g.drawImage(im.source, (SZ - im.width * s) / 2, (SZ - im.height * s) / 2, im.width * s, im.height * s);\n    const d = g.getImageData(0, 0, SZ, SZ);\n    const a = d.data;\n    let minA = 255;\n    for (let i = 3; i < a.length; i += 4) if (a[i] < minA) minA = a[i];\n    const out = shape.g.createImageData(SZ, SZ);\n    const o = out.data;\n    if (minA < 250) {\n      for (let i = 0; i < SZ * SZ; i++) {\n        let v = a[i * 4 + 3];\n        if (p.invert) v = 255 - v;\n        o[i * 4 + 3] = v;\n      }\n    } else {\n      const c = [0, SZ - 1, (SZ - 1) * SZ, SZ * SZ - 1].map((k) => k * 4);\n      let br = 0, bg = 0, bb = 0;\n      c.forEach((k) => { br += a[k] / 4; bg += a[k + 1] / 4; bb += a[k + 2] / 4; });\n      for (let i = 0; i < SZ * SZ; i++) {\n        const dist = Math.hypot(a[i * 4] - br, a[i * 4 + 1] - bg, a[i * 4 + 2] - bb);\n        let v = Math.min(255, dist * 2.2);\n        if (p.invert) v = 255 - v;\n        o[i * 4 + 3] = v;\n      }\n    }\n    shape.g.putImageData(out, 0, 0);\n  } else {\n    drawDemo(shape.g, p.source);\n  }\n  const tint = (col) => {\n    const b = kit.buffer(SZ, SZ);\n    b.g.drawImage(shape.canvas, 0, 0);\n    b.g.globalCompositeOperation = 'source-in';\n    b.g.fillStyle = col;\n    b.g.fillRect(0, 0, SZ, SZ);\n    return b.canvas;\n  };\n  return { face: tint('#ffffff'), side: tint('#6e6e6e') };\n}\n\ndefineTool({\n  animated: true,\n  render(ctx, p) {\n    const { g, width: W, height: H, px, state } = ctx;\n    const key = p.source + ':' + p.invert;\n    if (state.key !== key || (p.source === 'image' && state.img !== p.image)) {\n      state.key = key; state.img = p.image;\n      state.shape = buildShape(p);\n    }\n\n    const fs = p.cell * px;\n    const cw = fs * 0.6, ch = fs * 1.1;\n    const cols = Math.max(8, Math.floor(W / cw)), rows = Math.max(8, Math.floor(H / ch));\n    if (!state.buf || state.buf.width !== cols || state.buf.height !== rows) state.buf = kit.buffer(cols, rows);\n    const b = state.buf, bg = b.g;\n\n    // Angles\n    const t = ctx.time * p.speed;\n    const autoYaw = p.motion === 'spin' ? t * 1.2 : p.motion === 'sway' ? Math.sin(t * 1.3) * 0.9 + 0.3 : 0.5;\n\n    // Mouse interaction: smoothed pointer position, blended with the idle motion.\n    const ptr = ctx.pointer || {};\n    const dt = state.lt === undefined ? 0 : Math.min(0.1, Math.max(0, ctx.time - state.lt));\n    state.lt = ctx.time;\n    if (state.fol === undefined) { state.fol = 0; state.mx = 0; state.my = 0; state.yaw = autoYaw; state.tl = p.tilt; state.was = false; }\n    const on = !!(p.follow && ptr.inside);\n    if (on) {\n      const tx = Math.max(-1, Math.min(1, (ptr.x / W - 0.5) * 2));\n      const ty = Math.max(-1, Math.min(1, (ptr.y / H - 0.5) * 2));\n      const k = 1 - Math.exp(-dt * 9);\n      state.mx += (tx - state.mx) * k;\n      state.my += (ty - state.my) * k;\n    }\n    state.fol += ((on ? 1 : 0) - state.fol) * (1 - Math.exp(-dt * 5));\n    const fol = state.fol;\n    const TAU2 = Math.PI * 2;\n    if (on && !state.was) {\n      // Entering: wrap the angle and start the mouse smoothing from the current pose.\n      state.yaw -= TAU2 * Math.round(state.yaw / TAU2);\n      state.mx = Math.max(-1, Math.min(1, state.yaw / 1.3));\n      state.my = Math.max(-1, Math.min(1, state.tl / 45));\n    }\n    state.was = on;\n    if (on) {\n      const k2 = 1 - Math.exp(-dt * 7);\n      state.yaw += (state.mx * 1.3 - state.yaw) * k2;\n      state.tl += (state.my * 45 - state.tl) * k2;\n    } else {\n      if (p.motion === 'spin') state.yaw += dt * p.speed * 1.2;\n      else state.yaw += (autoYaw - state.yaw) * (1 - Math.exp(-dt * 3));\n      state.tl += (p.tilt - state.tl) * (1 - Math.exp(-dt * 3));\n    }\n    const yaw = state.yaw;\n    const tiltDeg = state.tl;\n    const cs = Math.cos(yaw), sn = Math.sin(yaw);\n    const ph = (tiltDeg * Math.PI) / 180;\n    const cp = Math.cos(ph), sp = Math.sin(ph);\n\n    // Logo size in cell-width units\n    const logoU = Math.min(W, H) * p.size / cw;\n    const depthU = logoU * p.depth;\n    const N = Math.min(40, Math.ceil(depthU * 0.8) + 2);\n\n    bg.setTransform(1, 0, 0, 1, 0, 0);\n    bg.fillStyle = '#000';\n    bg.fillRect(0, 0, cols, rows);\n    bg.imageSmoothingEnabled = true;\n\n    const asc = cs >= 0;\n    for (let i = 0; i < N; i++) {\n      const k = asc ? i : N - 1 - i;\n      const z = (k / (N - 1) - 0.5) * depthU;\n      const isFace = i === N - 1;\n      bg.setTransform(1, 0, 0, cw / ch, cols / 2, rows / 2);\n      bg.transform(cs, sn * sp, 0, cp, z * sn, -z * cs * sp);\n      bg.scale(logoU / SZ, logoU / SZ);\n      bg.drawImage(isFace ? state.shape.face : state.shape.side, -SZ / 2, -SZ / 2);\n    }\n    bg.setTransform(1, 0, 0, 1, 0, 0);\n    const data = bg.getImageData(0, 0, cols, rows).data;\n\n    g.fillStyle = p.bg;\n    g.fillRect(0, 0, W, H);\n    g.font = fs + 'px ui-monospace, Menlo, Consolas, monospace';\n    g.textAlign = 'center';\n    g.textBaseline = 'middle';\n    const chars = Array.from(SETS[p.charset]);\n    const ox = (W - cols * cw) / 2 + cw / 2, oy = (H - rows * ch) / 2 + ch / 2;\n    const c1 = kit.color.parse(p.ink2), c2 = kit.color.parse(p.ink);\n    // Group by character to limit style changes: bucket by (char, shade)\n    const shades = 6;\n    const buckets = new Map();\n    for (let j = 0; j < rows; j++) {\n      for (let i = 0; i < cols; i++) {\n        const v = data[(j * cols + i) * 4] / 255;\n        if (v < 0.04) continue;\n        const l = Math.pow(v, p.gamma);\n        const ci = Math.min(chars.length - 1, Math.floor(l * chars.length));\n        if (ci === 0) continue;\n        const sh = Math.min(shades - 1, Math.floor(v * shades));\n        const kk = sh * 100 + ci;\n        let arr = buckets.get(kk);\n        if (!arr) { arr = []; buckets.set(kk, arr); }\n        arr.push(ox + i * cw, oy + j * ch);\n      }\n    }\n    buckets.forEach((arr, kk) => {\n      const sh = Math.floor(kk / 100), ci = kk % 100;\n      g.fillStyle = kit.color.css(kit.color.mix(c1, c2, sh / (shades - 1)));\n      const chr = chars[ci];\n      for (let n = 0; n < arr.length; n += 2) g.fillText(chr, arr[n], arr[n + 1]);\n    });\n  },\n});",
+      "name": "ASCII Logo Extrude",
+      "presets": [
+        {
+          "name": "Terminal",
+          "values": {
+            "bg": "#06120a",
+            "ink": "#7dffa0",
+            "cell": 10,
+            "ink2": "#1a7a3a",
+            "charset": "binary"
+          }
+        },
+        {
+          "name": "Paper print",
+          "values": {
+            "bg": "#efe9dc",
+            "ink": "#15171c",
+            "ink2": "#d8402a",
+            "gamma": 1.3,
+            "source": "asterisk",
+            "charset": "classic"
+          }
+        },
+        {
+          "name": "Blocks",
+          "values": {
+            "bg": "#10092b",
+            "ink": "#ffd9a0",
+            "cell": 14,
+            "ink2": "#6c4bff",
+            "motion": "sway",
+            "charset": "blocks"
+          }
+        },
+        {
+          "name": "Deep extrude",
+          "values": {
+            "cell": 8,
+            "tilt": 35,
+            "depth": 1,
+            "source": "type",
+            "charset": "code"
+          }
+        }
+      ],
+      "animated": true,
+      "renderer": "canvas2d",
+      "sections": [
+        {
+          "label": "Logo",
+          "controls": [
+            {
+              "key": "source",
+              "type": "select",
+              "label": "Logo",
+              "default": "mark",
+              "options": [
+                {
+                  "label": "Demo: Mark",
+                  "value": "mark"
+                },
+                {
+                  "label": "Demo: Asterisk",
+                  "value": "asterisk"
+                },
+                {
+                  "label": "Demo: Type",
+                  "value": "type"
+                },
+                {
+                  "label": "Imported SVG / image",
+                  "value": "image"
+                }
+              ]
+            },
+            {
+              "key": "image",
+              "type": "image",
+              "label": "Import SVG"
+            },
+            {
+              "key": "invert",
+              "type": "toggle",
+              "label": "Invert shape (imports without transparency)",
+              "default": false
+            }
+          ]
+        },
+        {
+          "label": "3D",
+          "controls": [
+            {
+              "key": "follow",
+              "type": "toggle",
+              "label": "Follow mouse on hover",
+              "default": true
+            },
+            {
+              "key": "depth",
+              "max": 1.2,
+              "min": 0.05,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Extrusion depth",
+              "default": 0.4
+            },
+            {
+              "key": "size",
+              "max": 1,
+              "min": 0.3,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Logo size",
+              "default": 0.62
+            },
+            {
+              "key": "tilt",
+              "max": 60,
+              "min": -60,
+              "step": 1,
+              "type": "slider",
+              "label": "Tilt",
+              "default": 22
+            },
+            {
+              "key": "motion",
+              "type": "select",
+              "label": "Idle motion",
+              "default": "spin",
+              "options": [
+                {
+                  "label": "Full spin",
+                  "value": "spin"
+                },
+                {
+                  "label": "Sway",
+                  "value": "sway"
+                },
+                {
+                  "label": "Still",
+                  "value": "still"
+                }
+              ]
+            },
+            {
+              "key": "speed",
+              "max": 3,
+              "min": 0.1,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Speed",
+              "default": 0.8
+            }
+          ]
+        },
+        {
+          "label": "ASCII",
+          "controls": [
+            {
+              "key": "charset",
+              "type": "select",
+              "label": "Characters",
+              "default": "classic",
+              "options": [
+                {
+                  "label": "Classic",
+                  "value": "classic"
+                },
+                {
+                  "label": "Blocks",
+                  "value": "blocks"
+                },
+                {
+                  "label": "Binary",
+                  "value": "binary"
+                },
+                {
+                  "label": "Code",
+                  "value": "code"
+                }
+              ]
+            },
+            {
+              "key": "cell",
+              "max": 28,
+              "min": 6,
+              "step": 0.5,
+              "type": "slider",
+              "label": "Character size",
+              "default": 11
+            },
+            {
+              "key": "gamma",
+              "max": 2,
+              "min": 0.4,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Density",
+              "default": 0.9
+            }
+          ]
+        },
+        {
+          "label": "Colors",
+          "controls": [
+            {
+              "key": "bg",
+              "type": "color",
+              "label": "Background",
+              "default": "#0d0f14"
+            },
+            {
+              "key": "ink",
+              "type": "color",
+              "label": "Light ink",
+              "default": "#f4f1e6"
+            },
+            {
+              "key": "ink2",
+              "type": "color",
+              "label": "Shadow ink",
+              "default": "#ff5a36"
+            }
+          ]
+        }
+      ],
+      "description": "Imports a logo (SVG/PNG), extrudes it in 3D, spins it or lets it follow the mouse, and renders it as ASCII characters."
+    },
+    "start": {
+      "source": "image",
+      "image": "/landing/tools/ascii-logo.png",
+      "invert": false,
+      "follow": true,
+      "depth": 0.59,
+      "size": 0.55,
+      "tilt": -47,
+      "motion": "spin",
+      "speed": 0.57,
+      "charset": "binary",
+      "cell": 13,
+      "gamma": 0.9,
+      "bg": "#1a35e8",
+      "ink": "#f4f1e6",
+      "ink2": "#ffffff"
+    },
+    "animated": true,
+    "interactive": true,
+    "slug": "ascii-logo-extrude",
+    "prompt": "A ascii logo extrude tool",
+    "reply": "ASCII Logo Extrude is ready. Drag a slider or pick a preset.",
+    "slide": null,
+    "late": false
+  },
+  {
+    "key": "p:letter-dash-lines",
+    "name": "Letter Dash Lines",
+    "caption": "A letter drawn with vertical dashes that swell into the glyph and react to the mouse.",
+    "href": "/p/letter-dash-lines",
+    "spec": {
+      "code": "function blurBox(src, w, h, r) {\n  const tmp = new Float32Array(w * h), out = new Float32Array(w * h);\n  r = Math.max(1, Math.round(r));\n  for (let pass = 0; pass < 2; pass++) {\n    const a = pass === 0 ? src : out, b = tmp;\n    for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) {\n      let s = 0, n = 0;\n      for (let k = -r; k <= r; k++) { const xx = x + k; if (xx >= 0 && xx < w) { s += a[y * w + xx]; n++; } }\n      b[y * w + x] = s / n;\n    }\n    for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) {\n      let s = 0, n = 0;\n      for (let k = -r; k <= r; k++) { const yy = y + k; if (yy >= 0 && yy < h) { s += b[yy * w + x]; n++; } }\n      out[y * w + x] = s / n;\n    }\n    if (pass === 0) src = out.slice();\n  }\n  return out;\n}\n\ndefineTool({\n  animated: true,\n  render(ctx, p) {\n    const { g, width: W, height: H, px, state: st } = ctx;\n    const { clamp, smoothstep } = kit.math;\n\n    // Letter field at low resolution, cached.\n    const bw = Math.round(p.cols * 3), bh = Math.max(8, Math.round(bw * H / W));\n    const key = [p.letter, p.size, p.blur, p.weight, bw, bh].join('|');\n    if (st.key !== key) {\n      st.key = key;\n      const buf = kit.buffer(bw, bh);\n      const b = buf.g;\n      b.fillStyle = '#000'; b.fillRect(0, 0, bw, bh);\n      b.fillStyle = '#fff';\n      b.textAlign = 'center'; b.textBaseline = 'alphabetic';\n      const fs = bh * p.size * 1.35;\n      b.font = p.weight + ' ' + fs + 'px \"Helvetica Neue\", Arial, sans-serif';\n      const txt = (p.letter || 'H').slice(0, 2);\n      const m = b.measureText('H');\n      const asc = m.actualBoundingBoxAscent || fs * 0.72;\n      b.fillText(txt, bw / 2, bh / 2 + asc / 2);\n      const d = b.getImageData(0, 0, bw, bh).data;\n      const f = new Float32Array(bw * bh);\n      for (let i = 0; i < f.length; i++) f[i] = d[i * 4] / 255;\n      st.field = blurBox(f, bw, bh, p.blur * 3.2);\n      st.bw = bw; st.bh = bh;\n    }\n    const field = st.field;\n    const sample = (u, v) => {\n      const x = clamp(Math.floor(u * st.bw), 0, st.bw - 1), y = clamp(Math.floor(v * st.bh), 0, st.bh - 1);\n      return field[y * st.bw + x];\n    };\n\n    // Smoothed pointer.\n    const t = ctx.time;\n    const dt = st.t === undefined ? 0 : clamp(t - st.t, 0, 0.1);\n    st.t = t;\n    const inside = ctx.pointer && ctx.pointer.inside;\n    if (st.mx === undefined) { st.mx = W / 2; st.my = H / 2; st.s = 0; }\n    if (inside) {\n      const k = 1 - Math.exp(-dt * 14);\n      st.mx += (ctx.pointer.x - st.mx) * k;\n      st.my += (ctx.pointer.y - st.my) * k;\n    }\n    st.s += ((inside ? 1 : 0) - st.s) * (1 - Math.exp(-dt * 6));\n    const mu = st.mx / W, mv = st.my / H;\n    const rad = p.radius; // fraction of width\n    const asp = H / W;\n\n    g.fillStyle = p.bg; g.fillRect(0, 0, W, H);\n    g.fillStyle = p.ink;\n\n    const cw = W / p.cols;\n    const rh = cw * 2.1;\n    const rows = Math.ceil(H / rh) + 2;\n    const thin = cw * p.thin, thick = cw * p.thick;\n    const dashH = rh * clamp(0.45 + p.dash * 0.25, 0.5, 0.97);\n    const oy = (H - rows * rh) / 2;\n    const cols = p.cols + 1;\n    const ox = (W - p.cols * cw) / 2 + cw / 2 - cw / 2;\n\n    for (let i = 0; i < cols; i++) {\n      const cx = ox + i * cw + cw / 2 - cw / 2 + cw / 2;\n      for (let j = 0; j < rows; j++) {\n        const cy = oy + j * rh + rh / 2 + (i % 2 ? rh * 0.5 : 0) - rh * 0.25;\n        let u = cx / W, v = cy / H;\n        const dx = u - mu, dy = (v - mv) * asp;\n        const gs = Math.exp(-(dx * dx + dy * dy) / (rad * rad)) * st.s * p.strength;\n        let su = u, sv = v;\n        if (p.mode === 'push') { su += dx * gs * 1.1; sv += (v - mv) * gs * 1.1; }\n        let f = sample(su, sv);\n        f = smoothstep(0.12, 0.7, f);\n        if (p.mode === 'swell') f = clamp(f + gs * 1.6 * (0.45 + f), 0, 1);\n        else if (p.mode === 'carve') f = clamp(f * (1 - clamp(gs, 0, 1)) + gs * 0.0, 0, 1);\n        const w = (thin + (thick - thin) * f) ;\n        const wc = Math.max(w, 0.8 * px);\n        const h = Math.max(dashH * (1 - 0.3 * f), wc);\n        const r = wc / 2, x0 = cx - r, y0 = cy - h / 2;\n        g.beginPath();\n        g.moveTo(x0, y0 + r);\n        g.arc(cx, y0 + r, r, Math.PI, 0);\n        g.lineTo(cx + r, y0 + h - r);\n        g.arc(cx, y0 + h - r, r, 0, Math.PI);\n        g.closePath();\n        g.fill();\n      }\n    }\n  },\n});",
+      "name": "Letter Dash Lines",
+      "presets": [
+        {
+          "name": "Yellow classic",
+          "values": {
+            "bg": "#ffc400",
+            "ink": "#050505"
+          }
+        },
+        {
+          "name": "Blueprint",
+          "values": {
+            "bg": "#1740d8",
+            "ink": "#f4efe2",
+            "cols": 56,
+            "mode": "push",
+            "letter": "A"
+          }
+        },
+        {
+          "name": "Fine Rose",
+          "values": {
+            "bg": "#f3d9d2",
+            "ink": "#8c1c2e",
+            "blur": 2,
+            "cols": 70,
+            "dash": 2.4,
+            "letter": "S"
+          }
+        },
+        {
+          "name": "Chunky",
+          "values": {
+            "bg": "#0e0e0e",
+            "ink": "#ff6a2b",
+            "blur": 4.5,
+            "cols": 24,
+            "mode": "carve",
+            "letter": "M"
+          }
+        }
+      ],
+      "animated": true,
+      "renderer": "canvas2d",
+      "sections": [
+        {
+          "label": "Letter",
+          "controls": [
+            {
+              "key": "letter",
+              "type": "text",
+              "label": "Letter",
+              "default": "H"
+            },
+            {
+              "key": "size",
+              "max": 1.2,
+              "min": 0.3,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Size",
+              "default": 0.68
+            },
+            {
+              "key": "blur",
+              "max": 8,
+              "min": 0.5,
+              "step": 0.1,
+              "type": "slider",
+              "label": "Softness",
+              "default": 4
+            },
+            {
+              "key": "weight",
+              "type": "select",
+              "label": "Weight",
+              "default": "900",
+              "options": [
+                {
+                  "label": "Regular",
+                  "value": "400"
+                },
+                {
+                  "label": "Bold",
+                  "value": "700"
+                },
+                {
+                  "label": "Black",
+                  "value": "900"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Lines",
+          "controls": [
+            {
+              "key": "cols",
+              "max": 90,
+              "min": 16,
+              "step": 1,
+              "type": "slider",
+              "label": "Lines",
+              "default": 40
+            },
+            {
+              "key": "thin",
+              "max": 0.4,
+              "min": 0.02,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Thin weight",
+              "default": 0.08
+            },
+            {
+              "key": "thick",
+              "max": 2,
+              "min": 0.5,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Max swell",
+              "default": 1.15
+            },
+            {
+              "key": "dash",
+              "max": 4,
+              "min": 1,
+              "step": 0.05,
+              "type": "slider",
+              "label": "Dash length",
+              "default": 1.7
+            }
+          ]
+        },
+        {
+          "label": "Hover",
+          "controls": [
+            {
+              "key": "mode",
+              "type": "select",
+              "label": "Mouse effect",
+              "default": "swell",
+              "options": [
+                {
+                  "label": "Swell",
+                  "value": "swell"
+                },
+                {
+                  "label": "Carve",
+                  "value": "carve"
+                },
+                {
+                  "label": "Push",
+                  "value": "push"
+                }
+              ]
+            },
+            {
+              "key": "radius",
+              "max": 0.6,
+              "min": 0.05,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Radius",
+              "default": 0.3
+            },
+            {
+              "key": "strength",
+              "max": 3,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Strength",
+              "default": 1.6
+            }
+          ]
+        },
+        {
+          "label": "Colors",
+          "controls": [
+            {
+              "key": "bg",
+              "type": "color",
+              "label": "Background",
+              "default": "#ffc400"
+            },
+            {
+              "key": "ink",
+              "type": "color",
+              "label": "Ink",
+              "default": "#050505"
+            }
+          ]
+        }
+      ],
+      "description": "Turns a typed letter into vertical dashed lines that swell and merge into the glyph, with mouse-reactive hover."
+    },
+    "start": {
+      "blur": 2.4
+    },
+    "animated": true,
+    "interactive": true,
+    "slug": "letter-dash-lines",
+    "prompt": "A letter dash lines tool",
+    "reply": "Letter Dash Lines is ready. Drag a slider or pick a preset.",
+    "slide": null,
+    "late": false
+  },
+  {
+    "key": "p:mirror-pixel-totem-eval-styles",
+    "name": "Mirror Pixel Totem",
+    "caption": "Four-way symmetric pixel art. Draw on it: the brush paints mirrored zones.",
+    "href": "/p/mirror-pixel-totem-eval-styles",
+    "spec": {
+      "code": "// code\nconst BAY = kit.dither.bayer(8);\n\nfunction hash(x, y, s) {\n  let h = (x * 374761393 + y * 668265263 + s * 2147483647) | 0;\n  h = Math.imul(h ^ (h >>> 13), 1274126177);\n  return ((h ^ (h >>> 16)) >>> 0) / 4294967296;\n}\n\ndefineTool({\n  actions: {\n    clearZones(ctx) { ctx.state.zones = []; ctx.state.down = false; },\n    undoZone(ctx) {\n      const z = ctx.state.zones || [];\n      if (!z.length) return;\n      const id = z[z.length - 1].stroke;\n      while (z.length && z[z.length - 1].stroke === id) z.pop();\n    },\n  },\n  render(ctx, p) {\n    const { g, width: W, height: H, px } = ctx;\n    const size = Math.max(2, Math.round(p.pixelSize * px));\n    const w = Math.ceil(W / size), h = Math.ceil(H / size);\n    const C = (hex) => kit.color.parse(hex);\n    const dark = C(p.dark), pink = C(p.pink), green = C(p.green), mint = C(p.mint), light = C(p.light);\n    const plum = kit.color.mix(dark, pink, 0.3);\n    const pairs = [[pink, green], [dark, light], [mint, green], [pink, dark], [green, dark], [pink, light], [mint, pink]];\n    const r = kit.rand(p.seed);\n\n    const shapes = [];\n    for (let i = 0; i < p.shapes; i++) {\n      const big = i < 4;\n      const ru = (big ? r.range(0.35, 0.8) : r.range(0.1, 0.45)) * p.scale;\n      const rv = (big ? r.range(0.12, 0.3) : r.range(0.05, 0.25)) * p.scale;\n      const pr = pairs[r.int(0, pairs.length - 1)];\n      shapes.push({\n        cu: r.range(0, 0.9), cv: r.range(0, 0.95), ru, rv,\n        type: r.int(0, 2), pat: r.int(0, 4),\n        a: r.chance(0.5) ? pr[0] : pr[1], b: r.chance(0.5) ? pr[1] : pr[0],\n        k: r.int(3, 9), id: i,\n      });\n      if (shapes[i].a === shapes[i].b) shapes[i].b = dark;\n    }\n\n    // ---- Zone brushes: paint extra zones with the pointer (kept in ctx.state) ----\n    const st = ctx.state, P = ctx.pointer;\n    if (!st.zones) { st.zones = []; st.count = 0; st.stroke = 0; }\n    if (p.brush !== 'off' && P && P.down && P.inside) {\n      let bu = (P.x - W / 2) / (W / 2), bv = (P.y - H / 2) / (H / 2);\n      if (p.mirror !== 'none') bu = Math.abs(bu);\n      if (p.mirror === 'both') bv = Math.abs(bv);\n      const start = !st.down;\n      if (start) st.stroke++;\n      const step = p.brushSize * (W / 2) * (p.brush === 'scatter' ? 0.9 : 0.7);\n      const far = start || Math.hypot(P.x - st.lx, P.y - st.ly) > step;\n      if (far && (p.brush !== 'stamp' || start)) {\n        st.lx = P.x; st.ly = P.y;\n        const n = p.brush === 'scatter' ? 3 : 1;\n        for (let k = 0; k < n; k++) {\n          const rr = kit.rand(p.seed * 7919 + (st.count++) * 131);\n          const sc = p.brush === 'scatter' ? rr.range(0.3, 0.7) : 1;\n          const ru = p.brushSize * sc;\n          const ox = p.brush === 'scatter' ? rr.range(-1, 1) * p.brushSize * 1.2 : 0;\n          const oy = p.brush === 'scatter' ? rr.range(-1, 1) * p.brushSize * 1.2 * (W / H) : 0;\n          const sr = kit.rand(p.seed * 104729 + st.stroke * 977);\n          const pr = p.brushInk === 'auto' ? pairs[sr.int(0, pairs.length - 1)] : pairs[+p.brushInk];\n          const cut = p.brush === 'cut';\n          let a = sr.chance(0.5) ? pr[0] : pr[1], b = a === pr[0] ? pr[1] : pr[0];\n          if (cut) { a = plum; b = plum; }\n          const pats = { mixed: sr.int(0, 4), gradient: 0, dither: 1, rings: 2, checker: 3, noise: 4 };\n          st.zones.push({\n            cu: bu + ox, cv: bv + oy, ru, rv: ru * (w / h),\n            type: p.brushShape === 'mixed' ? sr.int(0, 2) : +p.brushShape,\n            pat: cut ? 5 : pats[p.brushPattern], a, b, k: sr.int(3, 9), id: 1000 + st.stroke,\n            stroke: st.stroke,\n          });\n        }\n        if (st.zones.length > 160) st.zones.splice(0, st.zones.length - 160);\n      }\n      st.down = true;\n    } else st.down = false;\n    const all = shapes.concat(st.zones);\n\n    const buf = kit.buffer(w, h);\n    const img = buf.g.createImageData(w, h);\n    const d32 = new Uint32Array(img.data.buffer);\n    const pack = (c) => (255 << 24) | (Math.round(c[2]) << 16) | (Math.round(c[1]) << 8) | Math.round(c[0]);\n    const nb = p.bands;\n\n    for (let y = 0; y < h; y++) {\n      for (let x = 0; x < w; x++) {\n        let ax = x + 0.5 - w / 2, ay = y + 0.5 - h / 2;\n        if (p.mirror !== 'none') ax = Math.abs(ax);\n        if (p.mirror === 'both') ay = Math.abs(ay);\n        const u = ax / (w / 2), v = ay / (h / 2);\n        const ix = Math.floor(ax), iy = Math.floor(ay);\n        let col = null;\n        for (let s = all.length - 1; s >= 0; s--) {\n          const S = all[s];\n          const dx = (u - S.cu) / S.ru, dy = (v - S.cv) / S.rv;\n          let d;\n          if (S.type === 0) d = Math.hypot(dx, dy);\n          else if (S.type === 1) d = Math.max(Math.abs(dx), Math.abs(dy));\n          else d = (Math.abs(dx) + Math.abs(dy)) * 0.8;\n          if (d >= 1) continue;\n          const th = BAY[(y & 7) * 8 + (x & 7)];\n          switch (S.pat) {\n            case 0: col = kit.color.mix(S.a, S.b, Math.floor((1 - d) * nb) / nb); break;\n            case 1: col = (1 - d) * 1.1 > th ? S.a : S.b; break;\n            case 2: { const t = d * S.k; const f = t - Math.floor(t); col = ((Math.floor(t) & 1) ? f : 1 - f) > th ? S.a : S.b; break; }\n            case 3: col = (((ix + iy) >> 1) + Math.floor(S.k)) & 1 ? S.a : S.b; break;\n            case 5: col = S.a; break;\n            default: col = hash(ix, iy, S.id + p.seed) < 0.5 ? S.a : S.b;\n          }\n          break;\n        }\n        if (!col) {\n          const d = Math.hypot(u, v) / 1.35;\n          const t = Math.floor(Math.min(1, d) * nb) / nb;\n          col = kit.color.mix(plum, dark, Math.min(1, (1 - p.vignette) * 0 + t * p.vignette + (1 - p.vignette) * 0.2 * 0));\n          if (p.vignette < 0.01) col = plum;\n        }\n        d32[y * w + x] = pack(col);\n      }\n    }\n    buf.g.putImageData(img, 0, 0);\n    g.imageSmoothingEnabled = false;\n    g.fillStyle = p.dark;\n    g.fillRect(0, 0, W, H);\n    g.drawImage(buf.canvas, 0, 0, w * size, h * size);\n  },\n});",
+      "name": "Mirror Pixel Totem",
+      "presets": [
+        {
+          "name": "Acid garden",
+          "values": {
+            "seed": 8
+          }
+        },
+        {
+          "name": "Gameboy relic",
+          "values": {
+            "dark": "#0f380f",
+            "mint": "#9bbc0f",
+            "pink": "#306230",
+            "seed": 21,
+            "green": "#8bac0f",
+            "light": "#e4f0b0",
+            "pixelSize": 10
+          }
+        },
+        {
+          "name": "Sunset temple",
+          "values": {
+            "dark": "#1a0b2e",
+            "mint": "#fb8500",
+            "pink": "#ff4d6d",
+            "seed": 5,
+            "green": "#ffb703",
+            "light": "#fff1d6",
+            "shapes": 22
+          }
+        },
+        {
+          "name": "Fine grid",
+          "values": {
+            "dark": "#0b1d3a",
+            "mint": "#3a6ff0",
+            "pink": "#5bc0ff",
+            "seed": 33,
+            "green": "#ff7ad9",
+            "light": "#f4f7ff",
+            "shapes": 28,
+            "pixelSize": 6
+          }
+        }
+      ],
+      "animated": false,
+      "renderer": "canvas2d",
+      "sections": [
+        {
+          "label": "Composition",
+          "controls": [
+            {
+              "key": "seed",
+              "type": "seed",
+              "label": "Seed",
+              "default": 8
+            },
+            {
+              "key": "pixelSize",
+              "max": 40,
+              "min": 4,
+              "step": 1,
+              "type": "slider",
+              "label": "Pixel size",
+              "default": 14
+            },
+            {
+              "key": "shapes",
+              "max": 40,
+              "min": 0,
+              "step": 1,
+              "type": "slider",
+              "label": "Zones",
+              "default": 16
+            },
+            {
+              "key": "scale",
+              "max": 1.6,
+              "min": 0.4,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Zone size",
+              "default": 1
+            },
+            {
+              "key": "mirror",
+              "type": "select",
+              "label": "Symmetry",
+              "default": "both",
+              "options": [
+                {
+                  "label": "Four-way",
+                  "value": "both"
+                },
+                {
+                  "label": "Left / right",
+                  "value": "x"
+                },
+                {
+                  "label": "None",
+                  "value": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Zone brush",
+          "controls": [
+            {
+              "key": "brush",
+              "type": "select",
+              "label": "Brush",
+              "default": "off",
+              "options": [
+                {
+                  "label": "Off",
+                  "value": "off"
+                },
+                {
+                  "label": "Stamp",
+                  "value": "stamp"
+                },
+                {
+                  "label": "Trail",
+                  "value": "trail"
+                },
+                {
+                  "label": "Scatter",
+                  "value": "scatter"
+                },
+                {
+                  "label": "Cut (erase zones)",
+                  "value": "cut"
+                }
+              ]
+            },
+            {
+              "key": "brushSize",
+              "max": 0.4,
+              "min": 0.03,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Brush size",
+              "default": 0.14
+            },
+            {
+              "key": "brushShape",
+              "type": "select",
+              "label": "Brush shape",
+              "default": "mixed",
+              "options": [
+                {
+                  "label": "Random per stroke",
+                  "value": "mixed"
+                },
+                {
+                  "label": "Ellipse",
+                  "value": "0"
+                },
+                {
+                  "label": "Rectangle",
+                  "value": "1"
+                },
+                {
+                  "label": "Diamond",
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "key": "brushPattern",
+              "type": "select",
+              "label": "Brush fill",
+              "default": "mixed",
+              "options": [
+                {
+                  "label": "Random per stroke",
+                  "value": "mixed"
+                },
+                {
+                  "label": "Gradient bands",
+                  "value": "gradient"
+                },
+                {
+                  "label": "Dither",
+                  "value": "dither"
+                },
+                {
+                  "label": "Rings",
+                  "value": "rings"
+                },
+                {
+                  "label": "Checker",
+                  "value": "checker"
+                },
+                {
+                  "label": "Noise",
+                  "value": "noise"
+                }
+              ]
+            },
+            {
+              "key": "brushInk",
+              "type": "select",
+              "label": "Brush colors",
+              "default": "auto",
+              "options": [
+                {
+                  "label": "Random per stroke",
+                  "value": "auto"
+                },
+                {
+                  "label": "Pink / green",
+                  "value": "0"
+                },
+                {
+                  "label": "Dark / light",
+                  "value": "1"
+                },
+                {
+                  "label": "Mint / green",
+                  "value": "2"
+                },
+                {
+                  "label": "Pink / dark",
+                  "value": "3"
+                }
+              ]
+            },
+            {
+              "key": "undoZone",
+              "type": "button",
+              "label": "Undo last stroke",
+              "action": "code"
+            },
+            {
+              "key": "clearZones",
+              "type": "button",
+              "label": "Clear painted zones",
+              "action": "code"
+            }
+          ]
+        },
+        {
+          "label": "Texture",
+          "controls": [
+            {
+              "key": "bands",
+              "max": 10,
+              "min": 2,
+              "step": 1,
+              "type": "slider",
+              "label": "Gradient bands",
+              "default": 5
+            },
+            {
+              "key": "vignette",
+              "max": 1,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Vignette",
+              "default": 0.8
+            }
+          ]
+        },
+        {
+          "label": "Colors",
+          "controls": [
+            {
+              "key": "dark",
+              "type": "color",
+              "label": "Dark",
+              "default": "#220c24"
+            },
+            {
+              "key": "pink",
+              "type": "color",
+              "label": "Pink",
+              "default": "#ff5fc0"
+            },
+            {
+              "key": "green",
+              "type": "color",
+              "label": "Green",
+              "default": "#4dff8a"
+            },
+            {
+              "key": "mint",
+              "type": "color",
+              "label": "Mint",
+              "default": "#00d9a6"
+            },
+            {
+              "key": "light",
+              "type": "color",
+              "label": "Light",
+              "default": "#fbeff5"
+            }
+          ]
+        }
+      ],
+      "description": "Four-way symmetric pixel art of dither, chevron, ring and banded zones, with brushes to paint extra zones by hand."
+    },
+    "start": {
+      "brush": "trail"
+    },
+    "animated": false,
+    "interactive": true,
+    "slug": "mirror-pixel-totem-eval-styles",
+    "prompt": "A mirror pixel totem tool",
+    "reply": "Mirror Pixel Totem is ready. Drag a slider or pick a preset.",
+    "slide": null,
+    "late": false
+  },
+  {
+    "key": "p:contour-field",
+    "name": "Contour Field",
+    "caption": "Animated contour lines from a noise field or an image, with tinted bands and dots.",
+    "href": "/p/contour-field",
+    "spec": {
+      "code": "defineTool({\n  animated: true,\n  render(ctx, p) {\n    const { g, width: W, height: H, px, state } = ctx;\n    const { clamp } = kit.math;\n    const c = Math.max(4, p.cellSize * px);\n    const cols = Math.ceil(W / c), rows = Math.ceil(H / c);\n    const nw = cols + 1, nh = rows + 1;\n\n    // Static source sampled on the grid (cached).\n    let base = null;\n    if (p.source !== 'live') {\n      const src = p.source === 'image' ? p.image : kit.noiseImage(p.source, p.seed);\n      if (state.src !== src || state.nw !== nw || state.nh !== nh) {\n        state.src = src; state.nw = nw; state.nh = nh;\n        const d = src.fit(nw, nh).pixels();\n        state.base = new Float32Array(nw * nh);\n        for (let i = 0; i < nw * nh; i++) state.base[i] = (0.2126 * d[i * 4] + 0.7152 * d[i * 4 + 1] + 0.0722 * d[i * 4 + 2]) / 255;\n      }\n      base = state.base;\n    }\n    if (!state.F || state.F.length !== nw * nh) state.F = new Float32Array(nw * nh);\n    const F = state.F;\n    const n = kit.noise(p.seed);\n    const t = ctx.time * p.speed * 0.3;\n    const sc = p.scale / Math.max(nw, nh) * (nw > nh ? 1 : 1) * 1.0;\n    for (let j = 0; j < nh; j++) for (let i = 0; i < nw; i++) {\n      const k = j * nw + i;\n      if (!base) F[k] = n.fbm3(i * sc, j * sc, t, 2) * 0.7 + 0.5;\n      else F[k] = base[k] + p.wobble * n.simplex3(i * sc * 1.5, j * sc * 1.5, t);\n    }\n\n    g.fillStyle = p.bg;\n    g.fillRect(0, 0, W, H);\n\n    const L = p.levels;\n    const th = [];\n    for (let k = 0; k < L; k++) th.push((k + 1) / (L + 1) + p.threshold);\n    const lvl = (v) => { let s = 0; for (let k = 0; k < L; k++) if (v > th[k]) s++; return s; };\n\n    // Band fill (low-res buffer scaled up, pixel-crisp).\n    if (p.fill > 0) {\n      const buf = kit.buffer(cols, rows);\n      const img = buf.g.createImageData(cols, rows);\n      const d32 = new Uint32Array(img.data.buffer);\n      const bgc = kit.color.parse(p.bg);\n      const pal = [];\n      for (let k = 0; k <= L; k++) {\n        const m = kit.color.mix(bgc, p.accent, (k / L) * p.fill);\n        pal.push((255 << 24) | (m[2] << 16) | (m[1] << 8) | m[0]);\n      }\n      for (let j = 0; j < rows; j++) for (let i = 0; i < cols; i++) d32[j * cols + i] = pal[lvl(F[j * nw + i])];\n      buf.g.putImageData(img, 0, 0);\n      g.imageSmoothingEnabled = p.style === 'smooth';\n      if (p.style === 'smooth') g.drawImage(buf.canvas, c / 2, c / 2, cols * c - c, rows * c - c, 0, 0, W, H);\n      else g.drawImage(buf.canvas, 0, 0, cols * c, rows * c);\n    }\n\n    // Contour lines.\n    g.strokeStyle = p.ink;\n    g.lineWidth = p.lineWidth * px;\n    g.lineJoin = 'round';\n    g.lineCap = 'round';\n    g.beginPath();\n    if (p.style === 'stepped') {\n      for (let j = 0; j < rows; j++) for (let i = 0; i < cols; i++) {\n        const a = lvl(F[j * nw + i]);\n        if (i < cols - 1 && a !== lvl(F[j * nw + i + 1])) {\n          g.moveTo((i + 1) * c, j * c); g.lineTo((i + 1) * c, (j + 1) * c);\n        }\n        if (j < rows - 1 && a !== lvl(F[(j + 1) * nw + i])) {\n          g.moveTo(i * c, (j + 1) * c); g.lineTo((i + 1) * c, (j + 1) * c);\n        }\n      }\n    } else {\n      const T = [[], [3, 2], [2, 1], [3, 1], [0, 1], [0, 3, 2, 1], [0, 2], [0, 3], [0, 3], [0, 2], [0, 1, 3, 2], [0, 1], [3, 1], [2, 1], [3, 2], []];\n      // edges: 0 top, 1 right, 2 bottom, 3 left\n      for (let k = 0; k < L; k++) {\n        const tt = th[k];\n        for (let j = 0; j < rows; j++) for (let i = 0; i < cols; i++) {\n          const a = F[j * nw + i], b = F[j * nw + i + 1], cc = F[(j + 1) * nw + i + 1], d = F[(j + 1) * nw + i];\n          const idx = (a > tt ? 8 : 0) | (b > tt ? 4 : 0) | (cc > tt ? 2 : 0) | (d > tt ? 1 : 0);\n          const seg = T[idx];\n          for (let s = 0; s < seg.length; s += 2) {\n            for (let e = 0; e < 2; e++) {\n              const ed = seg[s + e];\n              let x, y;\n              if (ed === 0) { x = i + (tt - a) / (b - a); y = j; }\n              else if (ed === 1) { x = i + 1; y = j + (tt - b) / (cc - b); }\n              else if (ed === 2) { x = i + (tt - d) / (cc - d); y = j + 1; }\n              else { x = i; y = j + (tt - a) / (d - a); }\n              if (e === 0) g.moveTo(x * c, y * c); else g.lineTo(x * c, y * c);\n            }\n          }\n        }\n      }\n    }\n    g.stroke();\n\n    // Dots inside the outlined regions.\n    if (p.dots > 0) {\n      const r = kit.rand(p.seed + 101);\n      const count = Math.round(p.dots * (W * H) / (1e6 * px * px));\n      g.strokeStyle = p.ink;\n      g.fillStyle = p.accent;\n      g.lineWidth = Math.max(1, px * 0.9);\n      g.beginPath();\n      for (let k = 0; k < count; k++) {\n        const x = r() * W, y = r() * H;\n        const v = F[clamp(Math.round(y / c), 0, rows) * nw + clamp(Math.round(x / c), 0, cols)];\n        if (lvl(v) >= 1) {\n          g.moveTo(x + p.dotSize * px, y);\n          g.arc(x, y, p.dotSize * px, 0, kit.math.TAU);\n        }\n      }\n      g.stroke();\n    }\n  },\n});",
+      "name": "Contour Field",
+      "presets": [
+        {
+          "name": "Blueprint night",
+          "values": {
+            "bg": "#101012",
+            "ink": "#e4e4e2",
+            "fill": 0,
+            "style": "stepped",
+            "levels": 3,
+            "source": "live"
+          }
+        },
+        {
+          "name": "Topographic",
+          "values": {
+            "bg": "#efe8d8",
+            "ink": "#3a2e22",
+            "dots": 0,
+            "fill": 0.25,
+            "style": "smooth",
+            "accent": "#c4572b",
+            "levels": 8,
+            "cellSize": 8,
+            "lineWidth": 1
+          }
+        },
+        {
+          "name": "Pixel ocean",
+          "values": {
+            "bg": "#08233b",
+            "ink": "#8fe3ff",
+            "dots": 120,
+            "fill": 0.7,
+            "style": "stepped",
+            "accent": "#1b7fb8",
+            "levels": 5,
+            "source": "blobs",
+            "cellSize": 16,
+            "lineWidth": 2
+          }
+        },
+        {
+          "name": "Acid veins",
+          "values": {
+            "bg": "#1a0b2e",
+            "ink": "#d7ff3f",
+            "dots": 400,
+            "fill": 0.15,
+            "speed": 0.7,
+            "style": "smooth",
+            "accent": "#ff4fa3",
+            "levels": 4,
+            "source": "ridged",
+            "cellSize": 7
+          }
+        }
+      ],
+      "animated": true,
+      "renderer": "canvas2d",
+      "sections": [
+        {
+          "label": "Source",
+          "controls": [
+            {
+              "key": "source",
+              "type": "select",
+              "label": "Outlined field",
+              "default": "live",
+              "options": [
+                {
+                  "label": "Live noise",
+                  "value": "live"
+                },
+                {
+                  "label": "Warped shapes",
+                  "value": "warp"
+                },
+                {
+                  "label": "Ridges",
+                  "value": "ridged"
+                },
+                {
+                  "label": "Cells",
+                  "value": "cells"
+                },
+                {
+                  "label": "Blobs",
+                  "value": "blobs"
+                },
+                {
+                  "label": "Flow bands",
+                  "value": "flow"
+                },
+                {
+                  "label": "Image",
+                  "value": "image"
+                }
+              ]
+            },
+            {
+              "key": "image",
+              "type": "image",
+              "label": "Image"
+            },
+            {
+              "key": "scale",
+              "max": 8,
+              "min": 0.5,
+              "step": 0.05,
+              "type": "slider",
+              "label": "Noise scale",
+              "default": 3.2
+            },
+            {
+              "key": "seed",
+              "type": "seed",
+              "label": "Seed",
+              "default": 5
+            },
+            {
+              "key": "gen",
+              "type": "button",
+              "label": "Generate",
+              "action": "reseed"
+            }
+          ]
+        },
+        {
+          "label": "Contours",
+          "controls": [
+            {
+              "key": "style",
+              "type": "select",
+              "label": "Style",
+              "default": "stepped",
+              "options": [
+                {
+                  "label": "Stepped pixels",
+                  "value": "stepped"
+                },
+                {
+                  "label": "Smooth",
+                  "value": "smooth"
+                }
+              ]
+            },
+            {
+              "key": "cellSize",
+              "max": 30,
+              "min": 6,
+              "step": 1,
+              "type": "slider",
+              "label": "Resolution",
+              "default": 7
+            },
+            {
+              "key": "levels",
+              "max": 8,
+              "min": 1,
+              "step": 1,
+              "type": "slider",
+              "label": "Levels",
+              "default": 2
+            },
+            {
+              "key": "threshold",
+              "max": 0.3,
+              "min": -0.3,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Threshold",
+              "default": 0
+            },
+            {
+              "key": "lineWidth",
+              "max": 5,
+              "min": 0.5,
+              "step": 0.1,
+              "type": "slider",
+              "label": "Line weight",
+              "default": 1.5
+            }
+          ]
+        },
+        {
+          "label": "Dots & Fill",
+          "controls": [
+            {
+              "key": "dots",
+              "max": 800,
+              "min": 0,
+              "step": 10,
+              "type": "slider",
+              "label": "Dots",
+              "default": 420
+            },
+            {
+              "key": "dotSize",
+              "max": 8,
+              "min": 1,
+              "step": 0.1,
+              "type": "slider",
+              "label": "Dot size",
+              "default": 2
+            },
+            {
+              "key": "fill",
+              "max": 1,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Band fill",
+              "default": 0
+            }
+          ]
+        },
+        {
+          "label": "Motion & Colors",
+          "controls": [
+            {
+              "key": "speed",
+              "max": 2,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Speed",
+              "default": 0.35
+            },
+            {
+              "key": "wobble",
+              "max": 0.6,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Image wobble",
+              "default": 0.2
+            },
+            {
+              "key": "bg",
+              "type": "color",
+              "label": "Background",
+              "default": "#101012"
+            },
+            {
+              "key": "ink",
+              "type": "color",
+              "label": "Lines",
+              "default": "#e4e4e2"
+            },
+            {
+              "key": "accent",
+              "type": "color",
+              "label": "Fill / dots",
+              "default": "#5b6cff"
+            }
+          ]
+        }
+      ],
+      "description": "Animated contour lines from a noise field or an image, with stepped or smooth outlines, tinted bands and scattered dots."
+    },
+    "start": {},
+    "animated": true,
+    "interactive": false,
+    "slug": "contour-field",
+    "prompt": "A contour field tool",
+    "reply": "Contour Field is ready. Drag a slider or pick a preset.",
+    "slide": null,
+    "late": false
+  },
+  {
+    "key": "x:Dither Studio",
+    "name": "Dither Studio",
+    "caption": "Atkinson, Bayer and error diffusion, on noise or your own images.",
+    "href": null,
+    "spec": {
+      "name": "Dither Studio",
+      "description": "Ordered or error-diffusion dithering, on an image or a noise field, with a gradient palette.",
+      "renderer": "canvas2d",
+      "animated": false,
+      "sections": [
+        {
+          "label": "Source",
+          "controls": [
+            {
+              "type": "select",
+              "key": "source",
+              "label": "Source",
+              "options": [
+                {
+                  "value": "image",
+                  "label": "Image"
+                },
+                {
+                  "value": "noise",
+                  "label": "Noise"
+                }
+              ],
+              "default": "image"
+            },
+            {
+              "type": "image",
+              "key": "image",
+              "label": "Image"
+            },
+            {
+              "type": "slider",
+              "key": "noiseScale",
+              "label": "Noise scale",
+              "min": 1,
+              "max": 20,
+              "step": 0.1,
+              "default": 5
+            },
+            {
+              "type": "seed",
+              "key": "seed",
+              "label": "Seed",
+              "default": 7
+            }
+          ]
+        },
+        {
+          "label": "Dithering",
+          "controls": [
+            {
+              "type": "select",
+              "key": "algorithm",
+              "label": "Algorithm",
+              "options": [
+                {
+                  "value": "bayer2",
+                  "label": "Bayer 2×2"
+                },
+                {
+                  "value": "bayer4",
+                  "label": "Bayer 4×4"
+                },
+                {
+                  "value": "bayer8",
+                  "label": "Bayer 8×8"
+                },
+                {
+                  "value": "ign",
+                  "label": "Interleaved noise"
+                },
+                {
+                  "value": "floyd",
+                  "label": "Floyd-Steinberg"
+                },
+                {
+                  "value": "atkinson",
+                  "label": "Atkinson"
+                }
+              ],
+              "default": "bayer4"
+            },
+            {
+              "type": "slider",
+              "key": "pixelSize",
+              "label": "Pixel size",
+              "min": 1,
+              "max": 16,
+              "step": 1,
+              "default": 3
+            },
+            {
+              "type": "slider",
+              "key": "levels",
+              "label": "Levels",
+              "min": 2,
+              "max": 6,
+              "step": 1,
+              "default": 2
+            },
+            {
+              "type": "slider",
+              "key": "contrast",
+              "label": "Contrast",
+              "min": 0.3,
+              "max": 3,
+              "step": 0.01,
+              "default": 1.2
+            },
+            {
+              "type": "slider",
+              "key": "brightness",
+              "label": "Brightness",
+              "min": -0.5,
+              "max": 0.5,
+              "step": 0.01,
+              "default": 0
+            }
+          ]
+        },
+        {
+          "label": "Colors",
+          "controls": [
+            {
+              "type": "color",
+              "key": "dark",
+              "label": "Shadows",
+              "default": "#1b1b3a"
+            },
+            {
+              "type": "color",
+              "key": "light",
+              "label": "Highlights",
+              "default": "#f2e6d0"
+            }
+          ]
+        }
+      ],
+      "presets": [
+        {
+          "name": "Game Boy",
+          "values": {
+            "dark": "#0f380f",
+            "light": "#9bbc0f",
+            "levels": 4,
+            "algorithm": "bayer4",
+            "pixelSize": 4
+          }
+        },
+        {
+          "name": "Atkinson Mac",
+          "values": {
+            "dark": "#000000",
+            "light": "#ffffff",
+            "levels": 2,
+            "algorithm": "atkinson",
+            "pixelSize": 2
+          }
+        },
+        {
+          "name": "Violet noise",
+          "values": {
+            "source": "noise",
+            "dark": "#2a0845",
+            "light": "#ff9a8b",
+            "algorithm": "bayer8",
+            "pixelSize": 5,
+            "noiseScale": 4
+          }
+        }
+      ],
+      "code": "defineTool({\n  render(ctx, p) {\n    const { g, width: W, height: H, px, state } = ctx;\n    const { clamp } = kit.math;\n\n    // Working grid: one dither \"pixel\" = p.pixelSize screen pixels.\n    const size = Math.max(1, p.pixelSize * px);\n    const w = Math.ceil(W / size), h = Math.ceil(H / size);\n    const values = new Float32Array(w * h);\n\n    if (p.source === 'image') {\n      if (state.src !== p.image || state.w !== w || state.h !== h) {\n        state.src = p.image; state.w = w; state.h = h;\n        // Luminance of the image cropped to the grid, computed once per image and size.\n        const d = p.image.fit(w, h).pixels();\n        state.lum = new Float32Array(w * h);\n        for (let i = 0; i < w * h; i++) state.lum[i] = (0.2126 * d[i * 4] + 0.7152 * d[i * 4 + 1] + 0.0722 * d[i * 4 + 2]) / 255;\n      }\n      values.set(state.lum);\n    } else {\n      const key = p.seed + ':' + p.noiseScale + ':' + w + 'x' + h;\n      if (state.noiseKey !== key) {\n        state.noiseKey = key;\n        const n = kit.noise(p.seed);\n        const sc = p.noiseScale / Math.max(w, h);\n        state.noise = new Float32Array(w * h);\n        for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) state.noise[y * w + x] = n.fbm2(x * sc, y * sc, 5) * 0.5 + 0.5;\n      }\n      values.set(state.noise);\n    }\n\n    for (let i = 0; i < values.length; i++) values[i] = clamp((values[i] - 0.5) * p.contrast + 0.5 + p.brightness, 0, 1);\n\n    let out;\n    if (p.algorithm === 'floyd' || p.algorithm === 'atkinson') {\n      out = kit.dither.diffuse(values, w, h, p.algorithm, p.levels);\n    } else {\n      out = new Float32Array(w * h);\n      const q = p.levels - 1;\n      for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) {\n        const i = y * w + x;\n        out[i] = clamp(Math.floor(values[i] * q + kit.dither.threshold(x, y, p.algorithm)) / q, 0, 1);\n      }\n    }\n\n    // Precomputed palette: `levels` tones from shadow to highlight.\n    const pal = [];\n    for (let k = 0; k < p.levels; k++) pal.push(kit.color.mix(p.dark, p.light, k / (p.levels - 1)));\n\n    const buf = kit.buffer(w, h);\n    const data = buf.g.createImageData(w, h);\n    const px32 = new Uint32Array(data.data.buffer);\n    const pal32 = pal.map((c) => (255 << 24) | (c[2] << 16) | (c[1] << 8) | c[0]); // RGBA little-endian\n    const q = p.levels - 1;\n    for (let i = 0; i < out.length; i++) px32[i] = pal32[Math.round(out[i] * q)];\n    buf.g.putImageData(data, 0, 0);\n    g.imageSmoothingEnabled = false;\n    g.drawImage(buf.canvas, 0, 0, w * size, h * size);\n  },\n});\n"
+    },
+    "start": {
+      "dark": "#000000",
+      "light": "#ffffff",
+      "levels": 2,
+      "algorithm": "atkinson",
+      "pixelSize": 2,
+      "source": "noise",
+      "noiseScale": 5,
+      "seed": 7
+    },
+    "animated": false,
+    "interactive": false,
+    "slug": null,
+    "prompt": "A dithering tool with the classic Mac Atkinson look, on a noise field or my own photos",
+    "reply": "Dither Studio is ready: six algorithms from Bayer to Atkinson, a noise field or your own image, pixel size, levels and presets for Atkinson Mac, Game Boy and Violet noise.",
+    "slide": {
+      "key": "noiseScale",
+      "by": 0.15
+    },
+    "late": false
+  },
+  {
+    "key": "p:cross-stitch-tile",
+    "name": "Cross-Stitch Tile",
+    "caption": "Symmetric two-color charts in the style of antique filet-crochet and cross-stitch.",
+    "href": "/p/cross-stitch-tile",
+    "spec": {
+      "code": "function hash(x, y, s) {\n  let h = (x * 374761393 + y * 668265263 + s * 2147483647) | 0;\n  h = Math.imul(h ^ (h >>> 13), 1274126177);\n  return ((h ^ (h >>> 16)) >>> 0) / 4294967296;\n}\n\n// Returns 0 (ground), 1 (thread) or 2 (accent thread) for a cell at |offset| (ax, ay) from the center.\nfunction cellVal(ax, ay, p, P) {\n  const dx = P.cx - ax, dy = P.cy - ay;\n  const d = Math.min(dx, dy), far = Math.max(dx, dy);\n  const u = dx < dy ? ay : ax;\n  const bw = p.bw;\n  const acc = p.twoTone ? 2 : 1;\n  if (p.corner && dx < P.S && dy < P.S) {\n    const S = P.S, lx = dx, ly = dy;\n    if (lx === 0 || ly === 0 || lx === S - 1 || ly === S - 1) return 1;\n    if (lx === 1 || ly === 1 || lx === S - 2 || ly === S - 2) return 0;\n    const cc = (S - 1) / 2, ex = lx - cc, ey = ly - cc;\n    if (Math.abs(ex) < 0.6 || Math.abs(ey) < 0.6) return 0;\n    return Math.hypot(ex, ey) < S * 0.44 ? acc : 0;\n  }\n  if (d < bw) {\n    if (d === 0 || d === bw - 1) return 1;\n    const hw = (bw - 1) / 2, t = d - hw;\n    switch (p.border) {\n      case 'checker': return (u + d) % 2 === 0 ? 1 : 0;\n      case 'dashes': return u % 4 < 2 ? 1 : 0;\n      case 'diamonds': {\n        const k = Math.abs((u % 8) - 4), q = (4 - k) / 4 + Math.abs(t) / hw;\n        return (q <= 1.05 && q >= 0.6) || (k === 4 && Math.abs(t) < 0.5) ? 1 : 0;\n      }\n      default: {\n        const k = ((u % 8) - 3.5) / 3.5, q = k * k + (t / hw) * (t / hw);\n        return q <= 1.1 && q >= 0.45 ? 1 : 0;\n      }\n    }\n  }\n  const Fd = bw + 8;\n  if (d === Fd && p.frame) return 1;\n  if (d < Fd) {\n    if (!p.band || far < Fd + 2) return 0;\n    const zz = d - (bw + 4), k = u % 8, kk = Math.min(k, 8 - k), dist = kk + Math.abs(zz);\n    return (dist <= 3 && dist >= 2) || dist === 0 ? 1 : 0;\n  }\n  const r = Math.hypot(ax, ay), r0 = P.rf * p.rosette;\n  if (r < r0 + 1) {\n    if (r < 1.3) return acc;\n    const th = Math.atan2(ay, ax);\n    const rad = r0 * (0.5 + 0.5 * Math.pow(Math.abs(Math.cos(p.petals * th)), 0.7));\n    if (r < rad) return !(ax < 0.6 || ay < 0.6) || r < 2.2 ? acc : 0;\n    return 0;\n  }\n  if (p.ring && r < r0 + 4) return Math.abs(r - (r0 + 2.5)) < 0.75 ? 1 : 0;\n  if (p.spiral > 0) {\n    const Rs = P.rf * p.spiral + 2;\n    const cs = [[P.Rx * 0.62 + P.jx, P.Ry * p.scrollPos + P.jy], [P.Rx * 0.3 - P.jx, P.Ry * 0.68 - P.jy]];\n    for (let q = 0; q < 2; q++) {\n      const ex = ax - cs[q][0], ey = ay - cs[q][1], rr = Math.hypot(ex, ey);\n      if (rr < Rs) {\n        const sgn = (p.dir === 'ccw' ? 1 : -1) * (q ? -1 : 1);\n        const v = rr / p.pitch + sgn * Math.atan2(ey, ex) / (Math.PI * 2);\n        return v - Math.floor(v) < 0.45 ? 1 : 0;\n      }\n      if (rr < Rs + 1.2) return 0;\n    }\n  }\n  if (p.fill > 0 && r > r0 + 3 && d > Fd + 2) {\n    const lx = ax % 4, ly = ay % 4;\n    const hh = hash(Math.floor(ax / 4), Math.floor(ay / 4), p.seed);\n    if (hh < p.fill * 1.4) return (lx === 1 && ly <= 2) || (ly === 1 && lx <= 2) ? 1 : 0;\n    if (hh < p.fill * 1.4 + 0.3) return lx === 1 && ly === 1 ? 1 : 0;\n  }\n  return 0;\n}\n\ndefineTool({\n  render(ctx, p) {\n    const { g, width: W, height: H, px } = ctx;\n    const st = ctx.state;\n    const cols = Math.round(p.cells) | 1;\n    const cw0 = W / cols;\n    let rows = Math.round(H / cw0) | 1;\n    if (rows < 21) rows = 21;\n    const key = [cols, rows, p.seed, p.border, p.bw, p.corner, p.band, p.frame, p.petals, p.rosette, p.ring, p.spiral, p.pitch, p.scrollPos, p.dir, p.fill, p.twoTone].join('|');\n    if (st.key !== key) {\n      st.key = key;\n      const r = kit.rand(p.seed);\n      const cx = (cols - 1) / 2, cy = (rows - 1) / 2, Fd = p.bw + 8;\n      const Rx = Math.max(4, cx - Fd), Ry = Math.max(4, cy - Fd);\n      const P = {\n        cx, cy, Rx, Ry, rf: Math.min(Rx, Ry),\n        S: p.bw + Math.round(Math.min(cx, cy) * 0.2),\n        jx: (r() - 0.5) * Rx * 0.12, jy: (r() - 0.5) * Ry * 0.12,\n      };\n      const grid = new Uint8Array(cols * rows);\n      for (let j = 0; j < rows; j++) for (let i = 0; i < cols; i++) {\n        grid[j * cols + i] = cellVal(Math.abs(i - cx), Math.abs(j - cy), p, P);\n      }\n      st.grid = grid;\n    }\n    const cw = W / cols, ch = H / rows;\n    g.fillStyle = p.ground;\n    g.fillRect(0, 0, W, H);\n    if (p.gridlines) {\n      g.strokeStyle = kit.color.css(kit.color.mix(p.ground, '#000000', 0.3));\n      g.lineWidth = Math.max(1, px * 0.6);\n      g.beginPath();\n      for (let i = 0; i <= cols; i++) { const x = Math.round(i * cw); g.moveTo(x, 0); g.lineTo(x, H); }\n      for (let j = 0; j <= rows; j++) { const y = Math.round(j * ch); g.moveTo(0, y); g.lineTo(W, y); }\n      g.stroke();\n    }\n    const gx = cw * p.gap, gy = ch * p.gap;\n    for (let pass = 1; pass <= 2; pass++) {\n      const col = pass === 1 ? p.ink : p.accent;\n      g.fillStyle = col;\n      g.strokeStyle = col;\n      g.lineWidth = Math.max(1, Math.min(cw, ch) * 0.22);\n      g.lineCap = 'round';\n      g.beginPath();\n      for (let j = 0; j < rows; j++) for (let i = 0; i < cols; i++) {\n        if (st.grid[j * cols + i] !== pass) continue;\n        const x0 = i * cw + gx, y0 = j * ch + gy, w = cw - gx * 2 + (p.gap < 0.01 ? 0.5 : 0), h = ch - gy * 2 + (p.gap < 0.01 ? 0.5 : 0);\n        if (p.shape === 'dot') {\n          g.moveTo(x0 + w, y0 + h / 2);\n          g.ellipse(x0 + w / 2, y0 + h / 2, w / 2, h / 2, 0, 0, Math.PI * 2);\n        } else if (p.shape === 'cross') {\n          const m = 0.15;\n          g.moveTo(x0 + w * m, y0 + h * m); g.lineTo(x0 + w * (1 - m), y0 + h * (1 - m));\n          g.moveTo(x0 + w * (1 - m), y0 + h * m); g.lineTo(x0 + w * m, y0 + h * (1 - m));\n        } else {\n          g.rect(x0, y0, w, h);\n        }\n      }\n      if (p.shape === 'cross') g.stroke(); else g.fill();\n    }\n  },\n});",
+      "name": "Cross-Stitch Tile",
+      "presets": [
+        {
+          "name": "Antique red",
+          "values": {
+            "ink": "#f7f2ea",
+            "ground": "#9b0f1a"
+          }
+        },
+        {
+          "name": "Indigo scrolls",
+          "values": {
+            "ink": "#efe8d6",
+            "cells": 81,
+            "accent": "#d9a441",
+            "border": "diamonds",
+            "ground": "#1c2b5a",
+            "petals": 6,
+            "spiral": 0.3,
+            "twoTone": true
+          }
+        },
+        {
+          "name": "Dense checker",
+          "values": {
+            "ink": "#e9e2c8",
+            "fill": 0.8,
+            "ring": true,
+            "cells": 57,
+            "border": "checker",
+            "ground": "#16341f",
+            "petals": 8
+          }
+        },
+        {
+          "name": "Gold beads",
+          "values": {
+            "dir": "ccw",
+            "gap": 0.08,
+            "ink": "#f2a900",
+            "cells": 51,
+            "shape": "dot",
+            "border": "dashes",
+            "ground": "#222222",
+            "gridlines": false
+          }
+        },
+        {
+          "name": "Cross-stitch",
+          "values": {
+            "ink": "#a3162a",
+            "cells": 61,
+            "frame": false,
+            "shape": "cross",
+            "ground": "#f3ead8",
+            "gridlines": true
+          }
+        }
+      ],
+      "animated": false,
+      "renderer": "canvas2d",
+      "sections": [
+        {
+          "label": "Grid",
+          "controls": [
+            {
+              "key": "cells",
+              "max": 121,
+              "min": 41,
+              "step": 2,
+              "type": "slider",
+              "label": "Stitches across",
+              "default": 69
+            },
+            {
+              "key": "seed",
+              "type": "seed",
+              "label": "Seed",
+              "default": 5
+            },
+            {
+              "key": "gen",
+              "type": "button",
+              "label": "Generate",
+              "action": "reseed"
+            }
+          ]
+        },
+        {
+          "label": "Border",
+          "controls": [
+            {
+              "key": "border",
+              "type": "select",
+              "label": "Border style",
+              "default": "chain",
+              "options": [
+                {
+                  "label": "Chain links",
+                  "value": "chain"
+                },
+                {
+                  "label": "Diamonds",
+                  "value": "diamonds"
+                },
+                {
+                  "label": "Checker",
+                  "value": "checker"
+                },
+                {
+                  "label": "Dashes",
+                  "value": "dashes"
+                }
+              ]
+            },
+            {
+              "key": "bw",
+              "max": 9,
+              "min": 3,
+              "step": 2,
+              "type": "slider",
+              "label": "Border width",
+              "default": 5
+            },
+            {
+              "key": "corner",
+              "type": "toggle",
+              "label": "Corner flowers",
+              "default": true
+            },
+            {
+              "key": "band",
+              "type": "toggle",
+              "label": "Diamond band",
+              "default": true
+            },
+            {
+              "key": "frame",
+              "type": "toggle",
+              "label": "Inner frame",
+              "default": true
+            }
+          ]
+        },
+        {
+          "label": "Motifs",
+          "controls": [
+            {
+              "key": "petals",
+              "max": 8,
+              "min": 2,
+              "step": 1,
+              "type": "slider",
+              "label": "Rosette petals",
+              "default": 4
+            },
+            {
+              "key": "rosette",
+              "max": 0.7,
+              "min": 0.2,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Rosette size",
+              "default": 0.38
+            },
+            {
+              "key": "ring",
+              "type": "toggle",
+              "label": "Rosette ring",
+              "default": false
+            },
+            {
+              "key": "spiral",
+              "max": 0.4,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Scroll size",
+              "default": 0.22
+            },
+            {
+              "key": "pitch",
+              "max": 5,
+              "min": 2.2,
+              "step": 0.1,
+              "type": "slider",
+              "label": "Scroll tightness",
+              "default": 3.2
+            },
+            {
+              "key": "scrollPos",
+              "max": 0.6,
+              "min": 0.1,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Scroll position",
+              "default": 0.3
+            },
+            {
+              "key": "dir",
+              "type": "select",
+              "label": "Scroll direction",
+              "default": "cw",
+              "options": [
+                {
+                  "label": "Clockwise",
+                  "value": "cw"
+                },
+                {
+                  "label": "Counter-clockwise",
+                  "value": "ccw"
+                }
+              ]
+            },
+            {
+              "key": "fill",
+              "max": 1,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Sprinkles",
+              "default": 0.35
+            }
+          ]
+        },
+        {
+          "label": "Stitch & colors",
+          "controls": [
+            {
+              "key": "shape",
+              "type": "select",
+              "label": "Stitch shape",
+              "default": "square",
+              "options": [
+                {
+                  "label": "Filled square",
+                  "value": "square"
+                },
+                {
+                  "label": "Round bead",
+                  "value": "dot"
+                },
+                {
+                  "label": "Cross stitch",
+                  "value": "cross"
+                }
+              ]
+            },
+            {
+              "key": "gap",
+              "max": 0.35,
+              "min": 0,
+              "step": 0.01,
+              "type": "slider",
+              "label": "Stitch gap",
+              "default": 0.1
+            },
+            {
+              "key": "gridlines",
+              "type": "toggle",
+              "label": "Chart grid lines",
+              "default": true
+            },
+            {
+              "key": "ground",
+              "type": "color",
+              "label": "Ground",
+              "default": "#9b0f1a"
+            },
+            {
+              "key": "ink",
+              "type": "color",
+              "label": "Thread",
+              "default": "#f7f2ea"
+            },
+            {
+              "key": "twoTone",
+              "type": "toggle",
+              "label": "Accent thread",
+              "default": false
+            },
+            {
+              "key": "accent",
+              "type": "color",
+              "label": "Accent",
+              "default": "#e8b04a"
+            }
+          ]
+        }
+      ],
+      "description": "Symmetric two-colour charted pattern in the style of antique filet-crochet and cross-stitch charts, filling the whole frame: borders, corner flowers, diamond band, scrolls and a central rosette."
+    },
+    "start": {
+      "shape": "cross",
+      "ground": "#323c46",
+      "ink": "#f7f2ea"
+    },
+    "animated": false,
+    "interactive": false,
+    "slug": "cross-stitch-tile",
+    "prompt": "A cross-stitch tile tool",
+    "reply": "Cross-Stitch Tile is ready. Drag a slider or pick a preset.",
+    "slide": null,
+    "late": false
+  }
+]

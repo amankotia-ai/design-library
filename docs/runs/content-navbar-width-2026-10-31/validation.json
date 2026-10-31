@@ -1,0 +1,401 @@
+{
+  "status": "passed",
+  "results": [
+    {
+      "name": "sections",
+      "width": 1440,
+      "header": {
+        "left": 32,
+        "right": 1408
+      },
+      "content": {
+        "left": 32,
+        "right": 1408
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 3
+    },
+    {
+      "name": "pages",
+      "width": 1440,
+      "header": {
+        "left": 32,
+        "right": 1408
+      },
+      "content": {
+        "left": 32,
+        "right": 1408
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 3
+    },
+    {
+      "name": "systems",
+      "width": 1440,
+      "header": {
+        "left": 32,
+        "right": 1408
+      },
+      "content": {
+        "left": 32,
+        "right": 1408
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 3
+    },
+    {
+      "name": "section-detail",
+      "width": 1440,
+      "header": {
+        "left": 32,
+        "right": 1408
+      },
+      "content": {
+        "left": 32,
+        "right": 1408
+      },
+      "notice": {
+        "left": 32,
+        "right": 1408
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "system-detail",
+      "width": 1440,
+      "header": {
+        "left": 32,
+        "right": 1408
+      },
+      "content": {
+        "left": 32,
+        "right": 1408
+      },
+      "notice": {
+        "left": 32,
+        "right": 1408
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sources",
+      "width": 1440,
+      "header": {
+        "left": 32,
+        "right": 1408
+      },
+      "content": {
+        "left": 32,
+        "right": 1408
+      },
+      "notice": {
+        "left": 32,
+        "right": 1408
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sections",
+      "width": 900,
+      "header": {
+        "left": 32,
+        "right": 868
+      },
+      "content": {
+        "left": 32,
+        "right": 868
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 2
+    },
+    {
+      "name": "pages",
+      "width": 900,
+      "header": {
+        "left": 32,
+        "right": 868
+      },
+      "content": {
+        "left": 32,
+        "right": 868
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 2
+    },
+    {
+      "name": "systems",
+      "width": 900,
+      "header": {
+        "left": 32,
+        "right": 868
+      },
+      "content": {
+        "left": 32,
+        "right": 868
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 2
+    },
+    {
+      "name": "section-detail",
+      "width": 900,
+      "header": {
+        "left": 32,
+        "right": 868
+      },
+      "content": {
+        "left": 32,
+        "right": 868
+      },
+      "notice": {
+        "left": 32,
+        "right": 868
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "system-detail",
+      "width": 900,
+      "header": {
+        "left": 32,
+        "right": 868
+      },
+      "content": {
+        "left": 32,
+        "right": 868
+      },
+      "notice": {
+        "left": 32,
+        "right": 868
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sources",
+      "width": 900,
+      "header": {
+        "left": 32,
+        "right": 868
+      },
+      "content": {
+        "left": 32,
+        "right": 868
+      },
+      "notice": {
+        "left": 32,
+        "right": 868
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sections",
+      "width": 390,
+      "header": {
+        "left": 24,
+        "right": 366
+      },
+      "content": {
+        "left": 24,
+        "right": 366
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "pages",
+      "width": 390,
+      "header": {
+        "left": 24,
+        "right": 366
+      },
+      "content": {
+        "left": 24,
+        "right": 366
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "systems",
+      "width": 390,
+      "header": {
+        "left": 24,
+        "right": 366
+      },
+      "content": {
+        "left": 24,
+        "right": 366
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "section-detail",
+      "width": 390,
+      "header": {
+        "left": 24,
+        "right": 366
+      },
+      "content": {
+        "left": 24,
+        "right": 366
+      },
+      "notice": {
+        "left": 24,
+        "right": 366
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "system-detail",
+      "width": 390,
+      "header": {
+        "left": 24,
+        "right": 366
+      },
+      "content": {
+        "left": 24,
+        "right": 366
+      },
+      "notice": {
+        "left": 24,
+        "right": 366
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sources",
+      "width": 390,
+      "header": {
+        "left": 24,
+        "right": 366
+      },
+      "content": {
+        "left": 24,
+        "right": 366
+      },
+      "notice": {
+        "left": 24,
+        "right": 366
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sections",
+      "width": 320,
+      "header": {
+        "left": 24,
+        "right": 296
+      },
+      "content": {
+        "left": 24,
+        "right": 296
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "pages",
+      "width": 320,
+      "header": {
+        "left": 24,
+        "right": 296
+      },
+      "content": {
+        "left": 24,
+        "right": 296
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "systems",
+      "width": 320,
+      "header": {
+        "left": 24,
+        "right": 296
+      },
+      "content": {
+        "left": 24,
+        "right": 296
+      },
+      "notice": null,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "section-detail",
+      "width": 320,
+      "header": {
+        "left": 24,
+        "right": 296
+      },
+      "content": {
+        "left": 24,
+        "right": 296
+      },
+      "notice": {
+        "left": 24,
+        "right": 296
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "system-detail",
+      "width": 320,
+      "header": {
+        "left": 24,
+        "right": 296
+      },
+      "content": {
+        "left": 24,
+        "right": 296
+      },
+      "notice": {
+        "left": 24,
+        "right": 296
+      },
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sources",
+      "width": 320,
+      "header": {
+        "left": 24,
+        "right": 296
+      },
+      "content": {
+        "left": 24,
+        "right": 296
+      },
+      "notice": {
+        "left": 24,
+        "right": 296
+      },
+      "overflow": false,
+      "columns": null
+    }
+  ]
+}

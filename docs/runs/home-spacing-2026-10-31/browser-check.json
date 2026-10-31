@@ -1,0 +1,26 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "headerGap": "96px",
+      "headingTop": 199,
+      "cards": 3,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "headerGap": "96px",
+      "headingTop": 199,
+      "cards": 3,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "headerGap": "64px",
+      "headingTop": 181,
+      "cards": 3,
+      "overflow": false
+    }
+  ],
+  "cssSHA256": "48de19a3429a35b476a5158e4d016845745300c4beaf643665b4705a91c75622"
+}

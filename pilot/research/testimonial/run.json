@@ -1,0 +1,93 @@
+{
+  "run_id": "testimonial-002",
+  "date": "2026-10-30",
+  "mode": [
+    "faithful reproduction: Quote 1943\u00d7724",
+    "original expansion: portrait Quote, text-only statement, responsive layout"
+  ],
+  "source_ids": [
+    "17",
+    "21 (regression only)"
+  ],
+  "freebyrd": {
+    "index": "no folder-specific context",
+    "thread": "no folder-specific context",
+    "references": "no folder-specific context"
+  },
+  "implementation_owner": "/root",
+  "source_hashes": {
+    "src/main.jsx": "a09d09518ed02dcfa61d271baad8ec0b23b5c73b6dc4c7118fe730af0f6549fa",
+    "src/style.css": "b32ac9ae97545fd08060c56c685cf5282b7d5e3dbc8f23e60cd8532d804b2e85",
+    "src/data.js": "9fb9eb60ffa815712463636044afdef9a2027922e9e60e444baa369953a7f5f0",
+    "src/sections.jsx": "08a1c3a711d674a67f62e86537a1b7e9070c9afa87a19b2287ada68e5f6b4d2d",
+    "src/sections.css": "db77c7841748e42e7862b01462a9689b19a929eeafda2c299a85f4c623b92b69",
+    "src/quote.jsx": "3a4716585a95564ad258e3d6cd5328897697bfa89ae79b09508e659b525b6bff",
+    "src/tokens.css": "bf7494a52ba6c300483a860e5ba58571e571d3190df9594d5817473918183534",
+    "src/utils.js": "ac856ff0c23e845f690e8bce84c9c1b25ba900d28b8591f307b0bbfc7c98aeda",
+    "public/references/quote-source.png": "cd982e4c38a9e89ec1e91112b4ff16225ae4fb9da94d080427f3943c55b64eb3",
+    "public/assets/quote-portrait.png": "a71fa5bd248efd5b12abf2d197679ca825a1f5dbff8080a2f9c6c1d54656d75b",
+    "public/evidence/quote-faithful.png": "f7ec381c4fc3d494ef9c4dcd803eb9c56a65a78e0fe3f252ac32c56b038c743c"
+  },
+  "agents": [
+    {
+      "id": "/root/testimonial_visual",
+      "role": "visual analyst",
+      "evidence": "visual-analysis.md"
+    },
+    {
+      "id": "/root/testimonial_product",
+      "role": "product designer",
+      "evidence": [
+        "product-design.md",
+        "product-review.md"
+      ]
+    },
+    {
+      "id": "/root/testimonial_art",
+      "role": "art director",
+      "evidence": [
+        "art-direction.md",
+        "art-review.md"
+      ]
+    },
+    {
+      "id": "/root/quote_qa",
+      "role": "independent QA",
+      "evidence": [
+        "qa.json",
+        "qa.md",
+        "qa-check.mjs"
+      ]
+    }
+  ],
+  "viewports": {
+    "faithful": [
+      1943,
+      724
+    ],
+    "adaptations": [
+      320,
+      390,
+      768,
+      1440
+    ]
+  },
+  "build": "npm run build passed; npm run check passed",
+  "qa_status": "passed",
+  "limitations": [
+    "Source serif/metadata fonts unavailable; Noto Serif Display and Courier New are explicit substitutes.",
+    "Source mobile behavior is unseen; mobile layouts are original adaptations.",
+    "Photography remains attributed screenshot crops in a private local study.",
+    "Freebyrd returned no new UI ideas for this folder."
+  ],
+  "runtime": "http://127.0.0.1:5175/?section=quote",
+  "runtime_source": "/tmp/design-library-pilot-runtime (identical mirrored source; Documents dependency reads previously stalled)",
+  "qa_checks": 89,
+  "qa_failed": 0,
+  "review_status": {
+    "visual_analysis": "complete",
+    "product_review": "passed",
+    "art_review": "passed within declared substitutions",
+    "independent_qa": "passed"
+  }
+}

@@ -1,0 +1,122 @@
+/* The browser's neutral theme is independent of the systems it displays. */
+:root{--library-bg:#fdfdfc;--library-surface:#fafaf8;--library-wash:#f3f3ef;--library-ink:#21201c;--library-brand-red:#f60f30;--library-muted:#72716b;--library-rule:#e7e7e3;--library-preview-rule:#edede9;--library-radius:12px;--library-gap:24px;--library-header-inset:24px;--library-page-gutter:var(--library-header-inset);--library-preview-radius:0px;--library-preview-inset:16px;--library-caption-gap:12px;--library-grid-row-gap:40px}
+
+/* Official geist@1.9.0 assets. Serif currently ships at Regular only. */
+@font-face {
+  font-family: 'Geist Sans';
+  src: url('/assets/fonts/geist-sans-variable.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Geist Serif';
+  src: url('/assets/fonts/geist-serif-regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+:root {
+  --library-catalog-title-size: 22px;
+  --library-catalog-title-leading: 28px;
+  --library-card-title-size: 16px;
+  --library-card-title-leading: 22px;
+  --library-card-title-before: 6px;
+  --library-card-title-after: 4px;
+  --library-card-description-measure: 40ch;
+  --library-card-detail-gap: 6px;
+  --library-card-detail-bottom: 12px;
+  --library-card-footer-top: 10px;
+  --library-font-body: 'Geist Sans', Arial, sans-serif;
+  --library-font-heading: 'Geist Serif', Georgia, serif;
+  --library-weight-heading: 400;
+  --library-weight-bold: 700;
+  --library-handwritten-ink: #f60f30;
+}
+
+.library {
+  font-family: var(--library-font-body);
+}
+.library :is(button, input, select, textarea) {
+  font-family: var(--library-font-body);
+}
+/* Scope these rules to the browser, never to the reference preview documents. */
+.library .reading-column :is(h1, h2, h3, h4, h5, h6),
+.library .library-brand .brand-name {
+  font-family: var(--library-font-heading);
+  font-weight: var(--library-weight-heading);
+  font-synthesis: none;
+}
+.library :is(b, strong) {
+  font-family: var(--library-font-body);
+  font-weight: var(--library-weight-bold);
+}
+
+/* Serif has only Regular. This is an optical weight adjustment for the logo. */
+.library .library-brand .brand-name {
+  letter-spacing: 0;
+  word-spacing: 0;
+}
+.library .library-brand .brand-lettering {
+  display: inline-block;
+  width: 6.556em;
+  height: 1em;
+  overflow: visible;
+  vertical-align: baseline;
+}
+.library .library-brand .brand-lettering text {
+  font-family: var(--library-font-heading);
+  font-size: 1000px;
+  font-weight: 400;
+  font-kerning: normal;
+  font-feature-settings: 'kern' 1;
+  letter-spacing: 0;
+  word-spacing: 0;
+  fill: currentColor;
+  stroke: currentColor;
+  stroke-width: .22px;
+  vector-effect: non-scaling-stroke;
+  paint-order: stroke fill;
+}
+.library .library-brand .brand-signature {
+  display: block;
+  flex: none;
+  width: 83.2px;
+  height: 30.4px;
+  margin-inline-start: -6.4px;
+  object-fit: contain;
+  /* Align the handwritten ink baseline, rather than its transparent image box. */
+  transform: translateY(1.6px);
+}
+@media (max-width: 700px) {
+  :root { --library-header-inset: 16px; }
+  .library .library-brand .brand-signature {
+    width: 76.8px;
+    height: 28px;
+    margin-inline-start: -4.8px;
+    transform: translateY(.8px);
+  }
+}
+@media (max-width: 380px) {
+  .library .library-brand {
+    font-size: 17.2px;
+    gap: 6.4px;
+  }
+  .library .library-brand .brand-mark {
+    width: 22.4px;
+    height: 22.4px;
+  }
+  .library .library-brand .brand-signature {
+    width: 70.4px;
+    height: 25.6px;
+    margin-inline-start: -3.2px;
+  }
+}
+
+@media (max-width: 700px) {
+  :root {
+    --library-grid-row-gap: 32px;
+    --library-catalog-title-size: 20px;
+    --library-catalog-title-leading: 26px;
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "label": "after-pages-desktop",
+    "bodyHeight": 182.09375,
+    "heading": "Pages",
+    "headingSize": "28px",
+    "itemSize": "18px",
+    "overflow": false,
+    "viewport": 1482
+  },
+  {
+    "label": "after-systems-desktop",
+    "bodyHeight": 120.1484375,
+    "heading": "Design Systems",
+    "headingSize": "28px",
+    "itemSize": "18px",
+    "overflow": false,
+    "viewport": 1482
+  },
+  {
+    "label": "after-mobile",
+    "bodyHeight": 134.140625,
+    "heading": "Sections",
+    "headingSize": "28px",
+    "itemSize": "18px",
+    "overflow": false,
+    "viewport": 390
+  },
+  {
+    "label": "after-pages-mobile",
+    "bodyHeight": 181.984375,
+    "heading": "Pages",
+    "headingSize": "28px",
+    "itemSize": "18px",
+    "overflow": false,
+    "viewport": 390
+  },
+  {
+    "label": "after-systems-mobile",
+    "bodyHeight": 121.796875,
+    "heading": "Design Systems",
+    "headingSize": "28px",
+    "itemSize": "18px",
+    "overflow": false,
+    "viewport": 390
+  }
+]

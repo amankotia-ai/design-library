@@ -1,0 +1,449 @@
+{
+  "status": "passed",
+  "results": [
+    {
+      "name": "sections",
+      "width": 1440,
+      "header": {
+        "left": 24,
+        "right": 1416
+      },
+      "content": {
+        "left": 24,
+        "right": 1416
+      },
+      "notice": null,
+      "brandLeft": 24,
+      "navRight": 1416,
+      "overflow": false,
+      "columns": 3
+    },
+    {
+      "name": "pages",
+      "width": 1440,
+      "header": {
+        "left": 24,
+        "right": 1416
+      },
+      "content": {
+        "left": 24,
+        "right": 1416
+      },
+      "notice": null,
+      "brandLeft": 24,
+      "navRight": 1416,
+      "overflow": false,
+      "columns": 3
+    },
+    {
+      "name": "systems",
+      "width": 1440,
+      "header": {
+        "left": 24,
+        "right": 1416
+      },
+      "content": {
+        "left": 24,
+        "right": 1416
+      },
+      "notice": null,
+      "brandLeft": 24,
+      "navRight": 1416,
+      "overflow": false,
+      "columns": 3
+    },
+    {
+      "name": "section-detail",
+      "width": 1440,
+      "header": {
+        "left": 24,
+        "right": 1416
+      },
+      "content": {
+        "left": 24,
+        "right": 1416
+      },
+      "notice": {
+        "left": 24,
+        "right": 1416
+      },
+      "brandLeft": 24,
+      "navRight": 1416,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "system-detail",
+      "width": 1440,
+      "header": {
+        "left": 24,
+        "right": 1416
+      },
+      "content": {
+        "left": 24,
+        "right": 1416
+      },
+      "notice": {
+        "left": 24,
+        "right": 1416
+      },
+      "brandLeft": 24,
+      "navRight": 1416,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sources",
+      "width": 1440,
+      "header": {
+        "left": 24,
+        "right": 1416
+      },
+      "content": {
+        "left": 24,
+        "right": 1416
+      },
+      "notice": {
+        "left": 24,
+        "right": 1416
+      },
+      "brandLeft": 24,
+      "navRight": 1416,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sections",
+      "width": 900,
+      "header": {
+        "left": 24,
+        "right": 876
+      },
+      "content": {
+        "left": 24,
+        "right": 876
+      },
+      "notice": null,
+      "brandLeft": 24,
+      "navRight": 876,
+      "overflow": false,
+      "columns": 2
+    },
+    {
+      "name": "pages",
+      "width": 900,
+      "header": {
+        "left": 24,
+        "right": 876
+      },
+      "content": {
+        "left": 24,
+        "right": 876
+      },
+      "notice": null,
+      "brandLeft": 24,
+      "navRight": 876,
+      "overflow": false,
+      "columns": 2
+    },
+    {
+      "name": "systems",
+      "width": 900,
+      "header": {
+        "left": 24,
+        "right": 876
+      },
+      "content": {
+        "left": 24,
+        "right": 876
+      },
+      "notice": null,
+      "brandLeft": 24,
+      "navRight": 876,
+      "overflow": false,
+      "columns": 2
+    },
+    {
+      "name": "section-detail",
+      "width": 900,
+      "header": {
+        "left": 24,
+        "right": 876
+      },
+      "content": {
+        "left": 24,
+        "right": 876
+      },
+      "notice": {
+        "left": 24,
+        "right": 876
+      },
+      "brandLeft": 24,
+      "navRight": 876,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "system-detail",
+      "width": 900,
+      "header": {
+        "left": 24,
+        "right": 876
+      },
+      "content": {
+        "left": 24,
+        "right": 876
+      },
+      "notice": {
+        "left": 24,
+        "right": 876
+      },
+      "brandLeft": 24,
+      "navRight": 876,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sources",
+      "width": 900,
+      "header": {
+        "left": 24,
+        "right": 876
+      },
+      "content": {
+        "left": 24,
+        "right": 876
+      },
+      "notice": {
+        "left": 24,
+        "right": 876
+      },
+      "brandLeft": 24,
+      "navRight": 876,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sections",
+      "width": 390,
+      "header": {
+        "left": 16,
+        "right": 374
+      },
+      "content": {
+        "left": 16,
+        "right": 374
+      },
+      "notice": null,
+      "brandLeft": 16,
+      "navRight": 374,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "pages",
+      "width": 390,
+      "header": {
+        "left": 16,
+        "right": 374
+      },
+      "content": {
+        "left": 16,
+        "right": 374
+      },
+      "notice": null,
+      "brandLeft": 16,
+      "navRight": 374,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "systems",
+      "width": 390,
+      "header": {
+        "left": 16,
+        "right": 374
+      },
+      "content": {
+        "left": 16,
+        "right": 374
+      },
+      "notice": null,
+      "brandLeft": 16,
+      "navRight": 374,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "section-detail",
+      "width": 390,
+      "header": {
+        "left": 16,
+        "right": 374
+      },
+      "content": {
+        "left": 16,
+        "right": 374
+      },
+      "notice": {
+        "left": 16,
+        "right": 374
+      },
+      "brandLeft": 16,
+      "navRight": 374,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "system-detail",
+      "width": 390,
+      "header": {
+        "left": 16,
+        "right": 374
+      },
+      "content": {
+        "left": 16,
+        "right": 374
+      },
+      "notice": {
+        "left": 16,
+        "right": 374
+      },
+      "brandLeft": 16,
+      "navRight": 374,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sources",
+      "width": 390,
+      "header": {
+        "left": 16,
+        "right": 374
+      },
+      "content": {
+        "left": 16,
+        "right": 374
+      },
+      "notice": {
+        "left": 16,
+        "right": 374
+      },
+      "brandLeft": 16,
+      "navRight": 374,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sections",
+      "width": 320,
+      "header": {
+        "left": 16,
+        "right": 304
+      },
+      "content": {
+        "left": 16,
+        "right": 304
+      },
+      "notice": null,
+      "brandLeft": 16,
+      "navRight": 304,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "pages",
+      "width": 320,
+      "header": {
+        "left": 16,
+        "right": 304
+      },
+      "content": {
+        "left": 16,
+        "right": 304
+      },
+      "notice": null,
+      "brandLeft": 16,
+      "navRight": 304,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "systems",
+      "width": 320,
+      "header": {
+        "left": 16,
+        "right": 304
+      },
+      "content": {
+        "left": 16,
+        "right": 304
+      },
+      "notice": null,
+      "brandLeft": 16,
+      "navRight": 304,
+      "overflow": false,
+      "columns": 1
+    },
+    {
+      "name": "section-detail",
+      "width": 320,
+      "header": {
+        "left": 16,
+        "right": 304
+      },
+      "content": {
+        "left": 16,
+        "right": 304
+      },
+      "notice": {
+        "left": 16,
+        "right": 304
+      },
+      "brandLeft": 16,
+      "navRight": 304,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "system-detail",
+      "width": 320,
+      "header": {
+        "left": 16,
+        "right": 304
+      },
+      "content": {
+        "left": 16,
+        "right": 304
+      },
+      "notice": {
+        "left": 16,
+        "right": 304
+      },
+      "brandLeft": 16,
+      "navRight": 304,
+      "overflow": false,
+      "columns": null
+    },
+    {
+      "name": "sources",
+      "width": 320,
+      "header": {
+        "left": 16,
+        "right": 304
+      },
+      "content": {
+        "left": 16,
+        "right": 304
+      },
+      "notice": {
+        "left": 16,
+        "right": 304
+      },
+      "brandLeft": 16,
+      "navRight": 304,
+      "overflow": false,
+      "columns": null
+    }
+  ]
+}

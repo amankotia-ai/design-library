@@ -1,0 +1,57 @@
+{
+  "run_id": "collection-selector-2026-10-30",
+  "scope": "Only the library collection selector appearance and affected shell behavior. Native selection semantics retained.",
+  "mode": "Original library UI correction; user screenshot is evidence, not a pixel-reproduction target.",
+  "agents": [
+    {
+      "id": "/root/selector_direction",
+      "roles": [
+        "visual analysis",
+        "product constraints",
+        "art direction"
+      ],
+      "artifact": "direction.md"
+    },
+    {
+      "id": "/root",
+      "role": "implementation"
+    },
+    {
+      "id": "/root/selector_qa",
+      "role": "independent scoped QA",
+      "artifacts": [
+        "qa.md",
+        "qa.json"
+      ]
+    }
+  ],
+  "changes": [
+    "Move library collection control CSS into shared style.css.",
+    "Explicit12px/20px typography and36px height.",
+    "Stable176px desktop width and full-width mobile adaptation.",
+    "Remove OS-specific closed-select chrome and inset decorative chevron12px from the right."
+  ],
+  "source_sha256": {
+    "src/style.css": "95612609d29d2a5d6e2036109f9db0645239d27c009cc951c6abe888d4ce75da",
+    "src/blueprint.css": "59a06f91427524cf907e81134f1f65a4e4d8579521a710375fde57aa419ad2c8",
+    "src/main.jsx": "573c2f72bb63bf2c26729349a351961a34dab691d851354ffde14b6a97bef3c3"
+  },
+  "checks": {
+    "build": "passed",
+    "metadata_media_provenance": "passed",
+    "independent_qa": "passed completed selector checks; see qa.md and qa.json",
+    "visual_review": "passed desktop rest/focus image review; see direction.md"
+  },
+  "status": "passed within selector scope",
+  "captures": [
+    "evidence/selector-fix/selector-desktop-rest.jpg",
+    "evidence/selector-fix/selector-desktop.jpg",
+    "evidence/selector-fix/selector-mobile.jpg"
+  ],
+  "review_limit": "Mobile342×36/no-overflow is an observed runtime measurement; a mobile screenshot is not required for the declared desktop visual pass.",
+  "review_artifacts": [
+    "direction.md",
+    "qa.md",
+    "qa.json"
+  ]
+}

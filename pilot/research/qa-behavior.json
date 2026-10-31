@@ -1,0 +1,218 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "route": "/?view=page",
+      "scrollWidth": 320,
+      "viewport": 320,
+      "brokenImages": []
+    },
+    {
+      "width": 320,
+      "route": "/",
+      "scrollWidth": 320,
+      "viewport": 320,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "route": "/?view=page",
+      "scrollWidth": 390,
+      "viewport": 390,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "scrollWidth": 390,
+      "viewport": 390,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "route": "/?view=page",
+      "scrollWidth": 768,
+      "viewport": 768,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "scrollWidth": 768,
+      "viewport": 768,
+      "brokenImages": []
+    },
+    {
+      "width": 769,
+      "route": "/?view=page",
+      "scrollWidth": 769,
+      "viewport": 769,
+      "brokenImages": []
+    },
+    {
+      "width": 769,
+      "route": "/",
+      "scrollWidth": 769,
+      "viewport": 769,
+      "brokenImages": []
+    },
+    {
+      "width": 1024,
+      "route": "/?view=page",
+      "scrollWidth": 1024,
+      "viewport": 1024,
+      "brokenImages": []
+    },
+    {
+      "width": 1024,
+      "route": "/",
+      "scrollWidth": 1024,
+      "viewport": 1024,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "route": "/?view=page",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "route": "/",
+      "scrollWidth": 1440,
+      "viewport": 1440,
+      "brokenImages": []
+    }
+  ],
+  "sourceH1": [
+    "Start with the originals."
+  ],
+  "systemH1": [
+    "One language, three sections."
+  ],
+  "sources": [
+    {
+      "loaded": true,
+      "width": 2350
+    },
+    {
+      "loaded": true,
+      "width": 3044
+    }
+  ],
+  "mobileIframe": "/?view=hero&embed=1",
+  "desktopIframe": "/?view=hero&embed=1&mode=faithful",
+  "overlay": "0.25",
+  "compareImages": [
+    {
+      "loaded": true,
+      "width": 2030
+    },
+    {
+      "loaded": true,
+      "width": 2030
+    }
+  ],
+  "footerTarget": 1,
+  "footerScroll": 0,
+  "hashLinks": [
+    {
+      "href": "#top",
+      "target": true
+    },
+    {
+      "href": "#work",
+      "target": true
+    },
+    {
+      "href": "#notes",
+      "target": true
+    },
+    {
+      "href": "#about",
+      "target": true
+    },
+    {
+      "href": "#contact",
+      "target": true
+    },
+    {
+      "href": "#work",
+      "target": true
+    },
+    {
+      "href": "#top",
+      "target": true
+    }
+  ],
+  "articlesHash": "#notes",
+  "focus": [
+    {
+      "text": "▤ Design Library PILOT 01",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "Library",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "Sources",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "System",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "Open page ↗",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "00Assembled pageSplit + offset + open↗",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "01HeroSplit / image-led↗",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "02FeatureOffset image + text rail↗",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "03FooterOpen typographic close↗",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "Desktop",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "Mobile",
+      "outline": "solid",
+      "width": "2px"
+    },
+    {
+      "text": "",
+      "outline": "none",
+      "width": "3px"
+    }
+  ],
+  "longContent": {
+    "scrollWidth": 390,
+    "viewport": 390,
+    "titleHeight": 364
+  },
+  "errors": []
+}

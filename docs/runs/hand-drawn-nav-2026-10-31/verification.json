@@ -1,0 +1,278 @@
+{
+  "results": [
+    {
+      "panel": "sections",
+      "width": 1440,
+      "label": "Sections",
+      "rect": {
+        "x": 1067.6875,
+        "y": 33.5,
+        "width": 51.78125,
+        "height": 36,
+        "top": 33.5,
+        "right": 1119.46875,
+        "bottom": 69.5,
+        "left": 1067.6875
+      },
+      "decoration": "none",
+      "after": {
+        "content": "\"\"",
+        "color": "rgb(246, 15, 48)",
+        "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+        "top": "26px",
+        "height": "5px"
+      },
+      "overflow": false,
+      "hover": "none",
+      "focus": {
+        "outline": "solid",
+        "width": "2px"
+      },
+      "errors": []
+    },
+    {
+      "panel": "sections",
+      "width": 390,
+      "label": "Sections",
+      "rect": {
+        "x": 24,
+        "y": 80,
+        "width": 51.78125,
+        "height": 40,
+        "top": 80,
+        "right": 75.78125,
+        "bottom": 120,
+        "left": 24
+      },
+      "decoration": "none",
+      "after": {
+        "content": "\"\"",
+        "color": "rgb(246, 15, 48)",
+        "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+        "top": "28px",
+        "height": "5px"
+      },
+      "overflow": false,
+      "hover": "none",
+      "focus": {
+        "outline": "solid",
+        "width": "2px"
+      },
+      "errors": []
+    },
+    {
+      "panel": "sections",
+      "width": 320,
+      "label": "Sections",
+      "rect": {
+        "x": 24,
+        "y": 77,
+        "width": 51.78125,
+        "height": 40,
+        "top": 77,
+        "right": 75.78125,
+        "bottom": 117,
+        "left": 24
+      },
+      "decoration": "none",
+      "after": {
+        "content": "\"\"",
+        "color": "rgb(246, 15, 48)",
+        "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+        "top": "28px",
+        "height": "5px"
+      },
+      "overflow": false,
+      "hover": "none",
+      "focus": {
+        "outline": "solid",
+        "width": "2px"
+      },
+      "errors": []
+    },
+    {
+      "panel": "pages",
+      "width": 1440,
+      "label": "Pages",
+      "rect": {
+        "x": 1137.46875,
+        "y": 33.5,
+        "width": 36.765625,
+        "height": 36,
+        "top": 33.5,
+        "right": 1174.234375,
+        "bottom": 69.5,
+        "left": 1137.46875
+      },
+      "decoration": "none",
+      "after": {
+        "content": "\"\"",
+        "color": "rgb(246, 15, 48)",
+        "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+        "top": "26px",
+        "height": "5px"
+      },
+      "overflow": false,
+      "hover": "none",
+      "focus": {
+        "outline": "solid",
+        "width": "2px"
+      },
+      "errors": []
+    },
+    {
+      "panel": "pages",
+      "width": 390,
+      "label": "Pages",
+      "rect": {
+        "x": 99.78125,
+        "y": 80,
+        "width": 36.765625,
+        "height": 40,
+        "top": 80,
+        "right": 136.546875,
+        "bottom": 120,
+        "left": 99.78125
+      },
+      "decoration": "none",
+      "after": {
+        "content": "\"\"",
+        "color": "rgb(246, 15, 48)",
+        "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+        "top": "28px",
+        "height": "5px"
+      },
+      "overflow": false,
+      "hover": "none",
+      "focus": {
+        "outline": "solid",
+        "width": "2px"
+      },
+      "errors": []
+    },
+    {
+      "panel": "pages",
+      "width": 320,
+      "label": "Pages",
+      "rect": {
+        "x": 99.78125,
+        "y": 77,
+        "width": 36.765625,
+        "height": 40,
+        "top": 77,
+        "right": 136.546875,
+        "bottom": 117,
+        "left": 99.78125
+      },
+      "decoration": "none",
+      "after": {
+        "content": "\"\"",
+        "color": "rgb(246, 15, 48)",
+        "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+        "top": "28px",
+        "height": "5px"
+      },
+      "overflow": false,
+      "hover": "none",
+      "focus": {
+        "outline": "solid",
+        "width": "2px"
+      },
+      "errors": []
+    },
+    {
+      "panel": "systems",
+      "width": 1440,
+      "label": "Design Systems",
+      "rect": {
+        "x": 1192.234375,
+        "y": 33.5,
+        "width": 95.765625,
+        "height": 36,
+        "top": 33.5,
+        "right": 1288,
+        "bottom": 69.5,
+        "left": 1192.234375
+      },
+      "decoration": "none",
+      "after": {
+        "content": "\"\"",
+        "color": "rgb(246, 15, 48)",
+        "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+        "top": "26px",
+        "height": "5px"
+      },
+      "overflow": false,
+      "hover": "none",
+      "focus": {
+        "outline": "solid",
+        "width": "2px"
+      },
+      "errors": []
+    },
+    {
+      "panel": "systems",
+      "width": 390,
+      "label": "Design Systems",
+      "rect": {
+        "x": 160.546875,
+        "y": 80,
+        "width": 95.765625,
+        "height": 40,
+        "top": 80,
+        "right": 256.3125,
+        "bottom": 120,
+        "left": 160.546875
+      },
+      "decoration": "none",
+      "after": {
+        "content": "\"\"",
+        "color": "rgb(246, 15, 48)",
+        "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+        "top": "28px",
+        "height": "5px"
+      },
+      "overflow": false,
+      "hover": "none",
+      "focus": {
+        "outline": "solid",
+        "width": "2px"
+      },
+      "errors": []
+    },
+    {
+      "panel": "systems",
+      "width": 320,
+      "label": "Design Systems",
+      "rect": {
+        "x": 160.546875,
+        "y": 77,
+        "width": 95.765625,
+        "height": 40,
+        "top": 77,
+        "right": 256.3125,
+        "bottom": 117,
+        "left": 160.546875
+      },
+      "decoration": "none",
+      "after": {
+        "content": "\"\"",
+        "color": "rgb(246, 15, 48)",
+        "mask": "url(\"http://127.0.0.1:5175/assets/hand-drawn-underline.svg\")",
+        "top": "28px",
+        "height": "5px"
+      },
+      "overflow": false,
+      "hover": "none",
+      "focus": {
+        "outline": "solid",
+        "width": "2px"
+      },
+      "errors": []
+    }
+  ],
+  "forced": {
+    "decoration": "underline",
+    "afterDisplay": "none"
+  }
+}

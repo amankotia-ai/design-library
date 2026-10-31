@@ -1,0 +1,103 @@
+{
+  "source": "/tmp/blueprint-faithful-intake/source-desktop.jpg",
+  "source_sha256": "54a0df645e8c7a4f9a710231455ddc0620e4fd5e5f79c6ef08b93953550be610",
+  "implementation": "/Users/abhishekmankotia/Documents/ChatGPT/Design Library/pilot/evidence/blueprint-faithful/qa-settled-desktop.jpg",
+  "implementation_sha256": "f5fd4e83108c77e0111b76a5f4171d6048f692336cf691c5ca4db4808dfe124a",
+  "image_dimensions": [
+    [
+      1440,
+      8534
+    ],
+    [
+      1440,
+      8534
+    ]
+  ],
+  "regions": [
+    {
+      "name": "hero",
+      "box": [
+        0,
+        0,
+        1440,
+        595
+      ],
+      "mean_absolute_RGB": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "features",
+      "box": [
+        0,
+        3273,
+        1440,
+        4982
+      ],
+      "mean_absolute_RGB": [
+        0.499288,
+        0.517635,
+        0.535032
+      ]
+    },
+    {
+      "name": "pricing",
+      "box": [
+        0,
+        4982,
+        1440,
+        6324
+      ],
+      "mean_absolute_RGB": [
+        0.004634,
+        0.004634,
+        0.004574
+      ]
+    },
+    {
+      "name": "faq",
+      "box": [
+        0,
+        6324,
+        1440,
+        7565
+      ],
+      "mean_absolute_RGB": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "closing",
+      "box": [
+        0,
+        7565,
+        1440,
+        8184
+      ],
+      "mean_absolute_RGB": [
+        12.201937,
+        11.724389,
+        5.020212
+      ]
+    },
+    {
+      "name": "footer",
+      "box": [
+        0,
+        8184,
+        1440,
+        8534
+      ],
+      "mean_absolute_RGB": [
+        0.005847,
+        0.00381,
+        0.004982
+      ]
+    }
+  ],
+  "limits": "Values describe these recorded JPEG captures only. Dynamic canvas/video/typewriter/illustration phases are not synchronized and are not a pixel-equivalence claim."
+}

@@ -1,0 +1,117 @@
+{
+  "assets": [
+    {
+      "contentType": "image/webp",
+      "id": "438d335a57e82a34",
+      "kind": "image",
+      "name": "agents-demo-poster.webp",
+      "path": "/assets/conversion/438d335a57e82a34.webp",
+      "url": "https://conversion.ai/images/videos/agents-demo-poster.webp"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "3d8beb7664b1e798",
+      "kind": "font",
+      "name": "family-regular.woff2",
+      "path": "/assets/conversion/3d8beb7664b1e798.woff2",
+      "url": "https://conversion.ai/fonts/family/family-regular.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "c9b20c723b357560",
+      "kind": "font",
+      "name": "TWKLausanne-400.woff2",
+      "path": "/assets/conversion/c9b20c723b357560.woff2",
+      "url": "https://conversion.ai/fonts/twk-lausanne/TWKLausanne-400.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "ac71634f7dcefd58",
+      "kind": "font",
+      "name": "TWKLausanne-500.woff2",
+      "path": "/assets/conversion/ac71634f7dcefd58.woff2",
+      "url": "https://conversion.ai/fonts/twk-lausanne/TWKLausanne-500.woff2"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2b5133e8dcf76136",
+      "kind": "image",
+      "name": "12.webp",
+      "path": "/assets/conversion/2b5133e8dcf76136.webp",
+      "url": "https://conversion.ai/images/textures/12.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "52442a0b99c59ee5",
+      "kind": "image",
+      "name": "6.webp",
+      "path": "/assets/conversion/52442a0b99c59ee5.webp",
+      "url": "https://conversion.ai/images/textures/6.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "156f4b791655ef7d",
+      "kind": "image",
+      "name": "1.webp",
+      "path": "/assets/conversion/156f4b791655ef7d.webp",
+      "url": "https://conversion.ai/images/textures/1.webp"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "438c15b7fa41794e",
+      "kind": "image",
+      "name": "clickhouse.svg",
+      "path": "/assets/conversion/438c15b7fa41794e.svg",
+      "url": "https://conversion.ai/images/customer-logos/clickhouse.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bce59ab32a26f339",
+      "kind": "image",
+      "name": "plaid.svg",
+      "path": "/assets/conversion/bce59ab32a26f339.svg",
+      "url": "https://conversion.ai/images/customer-logos/plaid.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "dd32905ddc166995",
+      "kind": "image",
+      "name": "webflow-color.svg",
+      "path": "/assets/conversion/dd32905ddc166995.svg",
+      "url": "https://conversion.ai/images/customer-logos/webflow-color.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a54b62605b749dc8",
+      "kind": "image",
+      "name": "profound.svg",
+      "path": "/assets/conversion/a54b62605b749dc8.svg",
+      "url": "https://conversion.ai/images/customer-logos/profound.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f3578fbf1fc92e67",
+      "kind": "image",
+      "name": "peopledatalabs-color.svg",
+      "path": "/assets/conversion/f3578fbf1fc92e67.svg",
+      "url": "https://conversion.ai/images/customer-logos/peopledatalabs-color.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c7b41fa891ad8fee",
+      "kind": "image",
+      "name": "ivanti.svg",
+      "path": "/assets/conversion/c7b41fa891ad8fee.svg",
+      "url": "https://conversion.ai/images/customer-logos/ivanti.svg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "6223d7fee78463e7",
+      "kind": "image",
+      "name": "pdl-testimonial-poster.webp",
+      "path": "/assets/conversion/6223d7fee78463e7.webp",
+      "url": "https://conversion.ai/images/videos/pdl-testimonial-poster.webp"
+    }
+  ],
+  "failures": []
+}

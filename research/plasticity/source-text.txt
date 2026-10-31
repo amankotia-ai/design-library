@@ -1,0 +1,200 @@
+Plasticity
+Product Tour
+Buy
+Renew
+Upgrade
+Old versions
+Resources
+Try for free
+Try for free
+=
+Menu
+Powerful solid and surface modeling, no subscription
+A workflow optimized for creativity, unparalleled fillets, sophisticated surface modeling, and the most advanced direct editing tools.
+Download for your OS
+Try for Free
+Direct editing
+Dimensioning
+Surfacing
+Materials
+Export
+Try it for free for 30 days
+Available on
+macOS (Intel / M-series)
+Windows
+Linux
+Download for Windows
+Download for macOS (M-series)
+Download for Linux (Ubuntu)
+Download for macOS (Intel)
+The case for Plasticity
+No other CAD software gives you this much power at this price.
+From vehicle design to industrial design to video game art, Plasticity gives you the tools to create perfect solids and surfaces.
+Boolean Precision
+Execute complex Boolean operations with watertight results, even on dense or sculptural geometry.
+Studio only
+XNURBS Surface blending
+Create ultra-smooth, G2-continuous surfaces between even the most irregular shapes. Achieve precise, seamless blends with minimal setup.
+Fillets and Edge Control
+Apply curvature-perfect fillets that adapt intelligently to edge conditions.
+Dimensions and Precision
+Add live dimensions that update geometry instantly. Model with engineering-grade accuracy while keeping the flexibility of direct-editing workflows.
+Direct Editing
+Push, pull, and adjust existing geometry without starting from scratch. Drive edits with dimensions and PMI. Modify CAD data instantly with no history tree required.
+Why Plasticity
+Plasticity is a powerful complement to other CAD tools. History-based parametric modeling is valuable but costly: to keep feature trees robust, many advanced solid and surfacing tools are disabled. Plasticity is free of these constraints and exposes the full power of Parasolid and xNURBS. With Plasticity, you can rapidly create precise surfaces and complex solids that would otherwise be blocked by laborious history workflows.
+For Enterprise
+Plasticity is available for enterprise use. Get enhanced support, elevated security, and custom features and integrations.
+Explore Enterprise
+Check out the community
+Join the community to get help, share your creations, and get the latest news.
+Join the Discord
+No subscription model
+Plasticity is available with a perpetual license, so you can use it forever. No subscriptions or internet connectivity required.
+Explore Pricing
+Pricing
+Whether you’re a one-person army or a large team, we have a plan for you.
+Starter
+Free
+30 days free trial
+Learn the benefits of Plasticity's unique modeling workflow and powerful geometry kernel.
+Try for free
+Try for free
+What you get
+All essential 3D modeling tools
+STEP import, low resolution OBJ/STL export. No other formats
+No commercial use allowed
+Indie
+$175
+USD
+Plus local taxes
+Dive into the world of hard-surface modeling. If you are new to CAD or on a budget, this plan is for you.
+Get indie
+What you get
+Individual license (for one person only). Commercial use allowed
+Node-locked (up to 2 machines)
+All essential 3D modeling tools
+STEP, OBJ, STL, and Parasolid import/export. FBX import
+All version updates included for 12 months, including major releases
+Blender bridge
+Studio
+$299
+USD
+Plus local taxes
+Get new features while still under development. Access tools intended for advanced workflows.
+Get studio
+What you get
+Individual license (for one person only). Commercial use allowed
+Node-locked (up to 4 machines)
+All essential 3D modeling tools, plus professional and expert-level solid and surfacing tools
+STEP, IGES, ACIS, OBJ, STL, and Parasolid import/export. Rhino import, FBX import. DXF/DWG import for Windows only
+All version updates included for 12 months, including major releases
+Access to the beta program for 12 months — help shape the direction of new features
+Blender bridge
+PolySplines G2 continuous mesh-to-NURBS conversion
+xNURBS (Windows & Mac only)
+If you are a company with more than 10 employees, this plan is required.
+Unleash your creativity with Plasticity
+Plasticity has all the classic CAD features you've come to expect, plus dozens of tools that are normally only found in software at ten times the price.
+All modeling and sketching tools are designed to work together seamlessly, allowing you to go from concept to creation in a single, intuitive workflow.
+Angle Dimensions
+Measure and define exact angles with intuitive dimension tools.
+Bridge Curves
+Create smooth, controlled transitions between curves or surfaces.
+Construction Planes
+Set up custom construction planes to model at any angle or orientation.
+What the people think
+Makers, video game artists, industrial designers, and mechanical engineers use Plasticity to achieve their most ambitious ideas.
+When I started studying plasticity, I liked its simplicity, minimalism and intuitiveness so much that at the moment modeling something has become not just another challenge for me, but like a game, and I like it so much
+React
+reactrrr
+I really like how plasticity is just very easy to get into. Very intuitive and easy to learn (especially if you have experience in blender), should have tried it sooner.
+Theophilus Abdiel
+theokids
+I use plasticity daily, perpetual license, such an underrated and fun software.
+Mattia Merenda
+mattiamerenda2
+Man, I love this software. It allows for doing things directly without worrying about meshflow, freezes. #plasticity
+Art3mit
+awaghadeamit
+I think a lot of companies could learn about how intuitive is the UI and workflow inside Plasticity definitely makes modeling a meditative experience.
+ignissantander
+ignissantander
+Plasticity is a form of meditation.
+8STRD
+8strd
+This is the best CAD software, and other don’t even get close.
+Michal Kalisz
+veezen3d
+Our team has been really enjoying Plasticity. Looking forward to trying out this update!
+Sierra Division
+sierra_division
+Plasticity is awesome, great for finding a flow.
+neoCortex
+visioncortez
+One of the best software purchases I’ve made in a while... Plasticity is doing an amazing job with the development, always looking forward to each update.
+Scott Gadille
+scottgadille
+Started learning Plasticity, a "CAD for artists" modeling software and it is fantastic.
+Karim Joseph
+karijoart
+I used to underestimate Plasticity. It seemed like just another 3D editor — nice, but unnecessary. Now, it’s my best friend and go-to tool. Fast, intuitive, with features that work exactly the way I need. It doesn’t get in the way — it helps. What used to feel like routine now feels like a pleasure
+NOLFUT
+nolfut
+Frequently Asked Questions
+If you have anything else you want to ask,
+reach out to us
+.
+See all FAQs
+What are the system requirements for Plasticity?
+Plasticity benefits from modern, high-performance hardware. While you can use the free trial to check how well it runs on your system, we recommend the following for a smooth experience:
+CPU: Modern multi-core processor, such as Intel Core i7 or AMD Ryzen 7
+GPU: Dedicated graphics card (e.g. NVIDIA GeForce GTX 1660, RTX series)
+RAM: Minimum 16 GB (32 GB recommended for large projects)
+Plasticity can run on both laptops and desktops, but a powerful CPU, GPU, and sufficient RAM will greatly improve performance — especially when working with complex 3D models.
+How does a node-locked, individual-use license work?
+A node-locked license is tied to specific computers:
+Indie license: You can use Plasticity on up to two of your computers at the same time.
+Studio license: You can use Plasticity on up to four of your computers at the same time.
+We provide:
+10 activations per license (per one-year period). You can request additional activations at any time.
+Licenses are strictly for individual use and cannot be shared between multiple people. Even if installed on multiple machines, each license may only be used by a single individual. Concurrent use by different people is not permitted.
+What is a perpetual license?
+Both our Indie and Studio licenses are perpetual, meaning you pay only once for a 12-month maintenance window, but you own and can use the software forever. With your purchase, you receive 12 months of free upgrades, encompassing releases within that period. The versions of the software released and installed within the 12-month period will not become invalid or inaccessible after one year.
+We aim to have two or three major releases each year.
+What operating systems does Plasticity run on?
+Plasticity is available for:
+Windows (10+)
+macOS (12+)
+Linux (Ubuntu 22+)
+Please note that not all features are available on every platform.
+Your license can be used across multiple devices and operating systems — you’re free to install Plasticity on Windows, macOS, and Linux simultaneously.
+Do you offer academic licenses or other kinds of discounts?
+Yes! We offer a free academic license for non-commercial use (Indie version only) as well as several educational and special discounts. Please email us at
+[email protected]
+to apply.
+I have more questions!
+See all FAQs
+Or email us at
+[email protected]
+with any additional questions.
+Get Started with Plasticity
+Let's Get Started
+Plasticity.xyz
+Product Tour
+Buy
+Privacy Policy
+Refund Policy
+Terms of Service
+EULA
+Connect With Us
+Twitter
+Discord
+[email protected]
+Try It For Free
+Download Windows
+Download Linux (Deb)
+Download macOS (M-series)
+Download macOS (Intel)
+Old versions
+Plasticity Crack

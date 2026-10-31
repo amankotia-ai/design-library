@@ -1,0 +1,1570 @@
+{
+  "run_id": "blueprint-faithful-all-sections-2026-10-30",
+  "reviewer": "/root/full_qa",
+  "role": "Independent QA",
+  "status": "passed within declared scope",
+  "check_count": 44,
+  "checks": [
+    {
+      "name": "Desktop width/no overflow",
+      "pass": true,
+      "evidence": 1440
+    },
+    {
+      "name": "Exact source Geist loaded",
+      "pass": true,
+      "evidence": "13px Geist, \"Geist Fallback\", system-ui, sans-serif"
+    },
+    {
+      "name": "All11 gallery images load",
+      "pass": true,
+      "evidence": [
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-0.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-1.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-2.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-3.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-4.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-5.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-6.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-7.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-8.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-9.png"
+        },
+        {
+          "ok": true,
+          "src": "http://127.0.0.1:5175/blueprint-source/gallery-10.png"
+        }
+      ]
+    },
+    {
+      "name": "All16 FAQs present",
+      "pass": true,
+      "evidence": 16
+    },
+    {
+      "name": "All11 gallery cards present",
+      "pass": true,
+      "evidence": 11
+    },
+    {
+      "name": "Monthly prices and offer links",
+      "pass": true,
+      "evidence": {
+        "links": [
+          "https://blueprint.page/login?next=%2Fbilling%2Fcheckout%3Foffer%3Dsolo_month",
+          "https://blueprint.page/login?next=%2Fbilling%2Fcheckout%3Foffer%3Dstudio_month",
+          "https://blueprint.page/login?next=%2Fbilling%2Fcheckout%3Foffer%3Dagency_month",
+          "https://blueprint.page/login"
+        ],
+        "pressed": [
+          "true",
+          "false"
+        ],
+        "prices": [
+          "$13.30",
+          "$34.30",
+          "$97.30"
+        ]
+      }
+    },
+    {
+      "name": "Plan comparison expands with real table",
+      "pass": true,
+      "evidence": {
+        "expanded": "true",
+        "label": "Compare all plans",
+        "tableHeight": 677.9296875,
+        "tableRows": 19
+      }
+    },
+    {
+      "name": "Yearly prices restore",
+      "pass": true,
+      "evidence": [
+        "$15.83",
+        "$40.83",
+        "$115.83"
+      ]
+    },
+    {
+      "name": "Native FAQ keyboard expansion exposes answer",
+      "pass": true,
+      "evidence": {
+        "height": 130.6875,
+        "open": true,
+        "text": "No. You describe the tool in plain words, or paste a reference image. Claude, Anthropic’s AI model, writes the code, and you only ever see the controls: sliders, colors, presets and a Variation button."
+      }
+    },
+    {
+      "name": "Carousel next moves and enables previous",
+      "pass": true,
+      "evidence": {
+        "before": {
+          "left": 0,
+          "max": 1960
+        },
+        "after": {
+          "left": 1126.5,
+          "next": false,
+          "prev": false
+        }
+      }
+    },
+    {
+      "name": "Recovered preset changes real parameter controls",
+      "pass": true,
+      "evidence": {
+        "ground": "#f1e8d8",
+        "shape": "circle",
+        "thickness": "0.4"
+      }
+    },
+    {
+      "name": "Pause updates to Play",
+      "pass": true,
+      "evidence": "First click observed aria-label/title Play; parent HMR later reset initial state, so visibility lookup was not treated as a product failure."
+    },
+    {
+      "name": "Native shape and slider keyboard update",
+      "pass": true,
+      "evidence": {
+        "shape": "star",
+        "spacing": "29",
+        "spacingLabel": "Stripe spacing29"
+      }
+    },
+    {
+      "name": "Generate changes the visible seed",
+      "pass": true,
+      "evidence": {
+        "label": "Seed2773",
+        "value": "2773"
+      }
+    },
+    {
+      "name": "Actual recovered renderer PNG export",
+      "pass": true,
+      "evidence": {
+        "file": "qa-editor-red-export.png",
+        "dimensions": [
+          1120,
+          1400
+        ],
+        "observed": "Red/cream source preset is present in exported pixel image."
+      }
+    },
+    {
+      "name": "Aspect format changes real artboard geometry",
+      "pass": true,
+      "evidence": {
+        "height": 384,
+        "label": "Format 1:1",
+        "width": 384
+      }
+    },
+    {
+      "name": "Source service actions are real external destinations",
+      "pass": true,
+      "evidence": {
+        "footerAnchors": [
+          "http://127.0.0.1:5175/?view=blueprint-page#examples",
+          "http://127.0.0.1:5175/?view=blueprint-page#features",
+          "http://127.0.0.1:5175/?view=blueprint-page#pricing",
+          "http://127.0.0.1:5175/?view=blueprint-page#faq"
+        ],
+        "forms": [
+          "https://blueprint.page/new",
+          "https://blueprint.page/login",
+          "https://blueprint.page/login",
+          "https://blueprint.page/login",
+          "https://blueprint.page/login",
+          "https://blueprint.page/login",
+          "https://blueprint.page/login",
+          "https://blueprint.page/login",
+          "https://blueprint.page/login",
+          "https://blueprint.page/new",
+          "https://blueprint.page/login",
+          "https://blueprint.page/login",
+          "https://blueprint.page/new"
+        ],
+        "galleryFrames": 0,
+        "prompt": ""
+      }
+    },
+    {
+      "name": "Folder collapse hides controls",
+      "pass": true,
+      "evidence": {
+        "selectRects": 0,
+        "shapeFolders": [
+          {
+            "open": "true",
+            "text": "Presets"
+          },
+          {
+            "open": "true",
+            "text": "Op Art Vibrations"
+          },
+          {
+            "open": "false",
+            "text": "Shape"
+          },
+          {
+            "open": "true",
+            "text": "Stripes"
+          },
+          {
+            "open": "true",
+            "text": "Colors"
+          },
+          {
+            "open": "true",
+            "text": "Variation"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hex color input commits valid color",
+      "pass": true,
+      "evidence": {
+        "color": "#00ff00",
+        "text": "#00ff00",
+        "wellStyle": "--dial-color: #00ff00; position: relative; display: block;"
+      }
+    },
+    {
+      "name": "Mobile390 has no horizontal overflow",
+      "pass": true,
+      "evidence": {
+        "editor": {
+          "frame": {
+            "bottom": 1017.962890625,
+            "height": 337.587890625,
+            "left": 59.9609375,
+            "right": 330.03125,
+            "top": 680.375,
+            "width": 270.0703125,
+            "x": 59.9609375,
+            "y": 680.375
+          },
+          "tab": "controls",
+          "tabs": [
+            {
+              "pressed": "true",
+              "text": "Controls"
+            },
+            {
+              "pressed": "false",
+              "text": "Chat"
+            },
+            {
+              "pressed": "false",
+              "text": "Presets"
+            }
+          ]
+        },
+        "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "height": 11959,
+        "sections": [
+          {
+            "cls": "l-hero",
+            "height": 508.375,
+            "id": "",
+            "width": 390,
+            "y": 60
+          },
+          {
+            "cls": "l-showcase",
+            "height": 1718,
+            "id": "",
+            "width": 390,
+            "y": 568.375
+          },
+          {
+            "cls": "l-section l-compare",
+            "height": 1590.015625,
+            "id": "compare",
+            "width": 374,
+            "y": 2286.375
+          },
+          {
+            "cls": "l-section",
+            "height": 3242.7734375,
+            "id": "features",
+            "width": 390,
+            "y": 3876.390625
+          },
+          {
+            "cls": "l-section",
+            "height": 2576.9375,
+            "id": "pricing",
+            "width": 390,
+            "y": 7119.1640625
+          },
+          {
+            "cls": "l-section l-faq",
+            "height": 1273.5,
+            "id": "faq",
+            "width": 390,
+            "y": 9696.1015625
+          },
+          {
+            "cls": "l-final",
+            "height": 537,
+            "id": "",
+            "width": 390,
+            "y": 10969.6015625
+          },
+          {
+            "cls": "sf",
+            "height": 452,
+            "id": "",
+            "width": 390,
+            "y": 11506.6015625
+          }
+        ],
+        "viewport": [
+          390,
+          844
+        ],
+        "width": 390
+      }
+    },
+    {
+      "name": "Mobile panel selection exposes Chat state",
+      "pass": true,
+      "evidence": {
+        "chatRects": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "selected": [
+          "false",
+          "true",
+          "false"
+        ],
+        "tab": "chat",
+        "observed": "Actual screenshot shows full source chat messages and visible36px composer; parentrails use display:contents."
+      }
+    },
+    {
+      "name": "Closing prompt preserves local user input for source action",
+      "pass": true,
+      "evidence": {
+        "typed": "QA local example",
+        "action": "https://blueprint.page/new",
+        "method": "Real focus, Select All and keyboard typing; no submit."
+      }
+    },
+    {
+      "name": "Closing halftone canvas is initialized",
+      "pass": true,
+      "evidence": {
+        "width": 374,
+        "height": 473,
+        "observed": "Visible recovered contour texture phase in screenshot; initial offscreen300×150 was expected lazy state."
+      }
+    },
+    {
+      "name": "All ten source sections render individually",
+      "pass": true,
+      "evidence": [
+        {
+          "bodyHeight": 60,
+          "cards": 0,
+          "faq": 0,
+          "features": 0,
+          "final": 0,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 0,
+          "h1": null,
+          "h2": null,
+          "headers": 1,
+          "iframe": 0,
+          "plans": 0,
+          "url": "http://127.0.0.1:5175/?view=blueprint-header",
+          "videos": 0,
+          "width": 1440
+        },
+        {
+          "bodyHeight": 587.1484375,
+          "cards": 0,
+          "faq": 0,
+          "features": 0,
+          "final": 0,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 0,
+          "h1": "The fastest way to make a generative design tool.",
+          "h2": null,
+          "headers": 1,
+          "iframe": 0,
+          "plans": 0,
+          "url": "http://127.0.0.1:5175/?view=blueprint-hero",
+          "videos": 0,
+          "width": 1440
+        },
+        {
+          "bodyHeight": 754,
+          "cards": 0,
+          "faq": 0,
+          "features": 0,
+          "final": 0,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 0,
+          "h1": null,
+          "h2": null,
+          "headers": 0,
+          "iframe": 1,
+          "plans": 0,
+          "url": "http://127.0.0.1:5175/?view=blueprint-editor",
+          "videos": 0,
+          "width": 1440
+        },
+        {
+          "bodyHeight": 957.078125,
+          "cards": 11,
+          "faq": 0,
+          "features": 0,
+          "final": 0,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 0,
+          "h1": null,
+          "h2": "Made with Blueprint.",
+          "headers": 0,
+          "iframe": 0,
+          "plans": 0,
+          "url": "http://127.0.0.1:5175/?view=blueprint-examples",
+          "videos": 0,
+          "width": 1440
+        },
+        {
+          "bodyHeight": 974.7578125,
+          "cards": 0,
+          "faq": 0,
+          "features": 0,
+          "final": 0,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 0,
+          "h1": null,
+          "h2": "Same prompt. One is ready to send.",
+          "headers": 0,
+          "iframe": 0,
+          "plans": 0,
+          "url": "http://127.0.0.1:5175/?view=blueprint-compare",
+          "videos": 2,
+          "width": 1440
+        },
+        {
+          "bodyHeight": 1708.9453125,
+          "cards": 0,
+          "faq": 0,
+          "features": 7,
+          "final": 0,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 0,
+          "h1": null,
+          "h2": "Everything after the first prompt.",
+          "headers": 0,
+          "iframe": 0,
+          "plans": 0,
+          "url": "http://127.0.0.1:5175/?view=blueprint-features",
+          "videos": 0,
+          "width": 1440
+        },
+        {
+          "bodyHeight": 1341.0390625,
+          "cards": 0,
+          "faq": 0,
+          "features": 0,
+          "final": 0,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 0,
+          "h1": null,
+          "h2": "Start free. Upgrade when it works.",
+          "headers": 0,
+          "iframe": 0,
+          "plans": 3,
+          "url": "http://127.0.0.1:5175/?view=blueprint-pricing",
+          "videos": 0,
+          "width": 1440
+        },
+        {
+          "bodyHeight": 1241,
+          "cards": 0,
+          "faq": 16,
+          "features": 0,
+          "final": 0,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 0,
+          "h1": null,
+          "h2": "Questions about Blueprint.",
+          "headers": 0,
+          "iframe": 0,
+          "plans": 0,
+          "url": "http://127.0.0.1:5175/?view=blueprint-faq",
+          "videos": 0,
+          "width": 1440
+        },
+        {
+          "bodyHeight": 618.5,
+          "cards": 0,
+          "faq": 0,
+          "features": 0,
+          "final": 1,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 0,
+          "h1": null,
+          "h2": "What tool do you need?",
+          "headers": 0,
+          "iframe": 0,
+          "plans": 0,
+          "url": "http://127.0.0.1:5175/?view=blueprint-prompt",
+          "videos": 0,
+          "width": 1440
+        },
+        {
+          "bodyHeight": 351.5,
+          "cards": 0,
+          "faq": 0,
+          "features": 0,
+          "final": 0,
+          "font": "13px Geist, \"Geist Fallback\", system-ui, sans-serif",
+          "footer": 1,
+          "h1": null,
+          "h2": "Product",
+          "headers": 0,
+          "iframe": 0,
+          "plans": 0,
+          "url": "http://127.0.0.1:5175/?view=blueprint-footer",
+          "videos": 0,
+          "width": 1440
+        }
+      ]
+    },
+    {
+      "name": "Library exposes distinct source collection and all11views",
+      "pass": true,
+      "evidence": {
+        "compareDisabled": true,
+        "font": "16px / 26.4px LibrarySans, Arial, sans-serif",
+        "frame": "http://127.0.0.1:5175/?view=blueprint-page&embed=1",
+        "options": [
+          {
+            "text": "Assembled page",
+            "value": "blueprint-page"
+          },
+          {
+            "text": "Navigation",
+            "value": "blueprint-header"
+          },
+          {
+            "text": "Hero",
+            "value": "blueprint-hero"
+          },
+          {
+            "text": "Editor demo",
+            "value": "blueprint-editor"
+          },
+          {
+            "text": "Examples",
+            "value": "blueprint-examples"
+          },
+          {
+            "text": "Comparison",
+            "value": "blueprint-compare"
+          },
+          {
+            "text": "Features",
+            "value": "blueprint-features"
+          },
+          {
+            "text": "Pricing",
+            "value": "blueprint-pricing"
+          },
+          {
+            "text": "FAQ",
+            "value": "blueprint-faq"
+          },
+          {
+            "text": "Closing prompt",
+            "value": "blueprint-prompt"
+          },
+          {
+            "text": "Footer",
+            "value": "blueprint-footer"
+          }
+        ],
+        "system": "Blueprint Study"
+      }
+    },
+    {
+      "name": "Source system metadata and exact specimen font",
+      "pass": true,
+      "evidence": {
+        "description": "The complete Blueprint landing page, reconstructed section by section with source Geist fonts, exact media, vivid blue grid surfaces, product demos, and the original responsive layouts.",
+        "heading": "Blueprint Study",
+        "specimenFont": "BlueprintGeist, Arial, sans-serif",
+        "swatches": [
+          "Blueprint / #104bff",
+          "Paper / #f7f7f8",
+          "Ink / #18181b"
+        ]
+      }
+    },
+    {
+      "name": "Gallery hover-state frames are cleaned from reconstruction",
+      "pass": true,
+      "evidence": 0
+    },
+    {
+      "name": "Footer section links navigate local assembled study",
+      "pass": true,
+      "evidence": [
+        "http://127.0.0.1:5175/?view=blueprint-page#examples",
+        "http://127.0.0.1:5175/?view=blueprint-page#features",
+        "http://127.0.0.1:5175/?view=blueprint-page#pricing",
+        "http://127.0.0.1:5175/?view=blueprint-page#faq"
+      ]
+    },
+    {
+      "name": "Five distinct gallery source programs reach rendered ACK",
+      "pass": true,
+      "evidence": [
+        {
+          "text": "Isometric Wireframe Scene",
+          "ready": true,
+          "cardClass": "g-card"
+        },
+        {
+          "text": "ASCII Logo Extrude",
+          "ready": true,
+          "cardClass": "g-card"
+        },
+        {
+          "text": "Cross Stitch Clusters",
+          "ready": true,
+          "cardClass": "g-card"
+        },
+        {
+          "text": "Letter Dash Lines",
+          "ready": true,
+          "cardClass": "g-card"
+        },
+        {
+          "text": "Mirror Pixel Totem",
+          "ready": true,
+          "cardClass": "g-card"
+        }
+      ]
+    },
+    {
+      "name": "Gallery focus leave cleans live frames without preview errors",
+      "pass": true,
+      "evidence": {
+        "active": "Tools",
+        "errors": [],
+        "frames": 0
+      }
+    },
+    {
+      "name": "All11 source comparison pairs are available and load",
+      "pass": true,
+      "evidence": [
+        {
+          "caption": "Aligned at 1440 × 8534Open page ↗",
+          "enabled": true,
+          "id": "blueprint-page",
+          "images": [
+            {
+              "height": 8534,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/source-desktop.jpg",
+              "width": 1440
+            },
+            {
+              "height": 8534,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/page.jpg",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 60Open section ↗",
+          "enabled": true,
+          "id": "blueprint-header",
+          "images": [
+            {
+              "height": 60,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/header.png",
+              "width": 1440
+            },
+            {
+              "height": 60,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/header.png",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 595Open section ↗",
+          "enabled": true,
+          "id": "blueprint-hero",
+          "images": [
+            {
+              "height": 595,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/hero.png",
+              "width": 1440
+            },
+            {
+              "height": 595,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/hero.png",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 754Open section ↗",
+          "enabled": true,
+          "id": "blueprint-editor",
+          "images": [
+            {
+              "height": 754,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/editor.png",
+              "width": 1440
+            },
+            {
+              "height": 754,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/editor.png",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 958Open section ↗",
+          "enabled": true,
+          "id": "blueprint-examples",
+          "images": [
+            {
+              "height": 958,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/examples.png",
+              "width": 1440
+            },
+            {
+              "height": 958,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/examples.png",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 975Open section ↗",
+          "enabled": true,
+          "id": "blueprint-compare",
+          "images": [
+            {
+              "height": 975,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/compare.png",
+              "width": 1440
+            },
+            {
+              "height": 975,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/compare.png",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 1709Open section ↗",
+          "enabled": true,
+          "id": "blueprint-features",
+          "images": [
+            {
+              "height": 1709,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/features.png",
+              "width": 1440
+            },
+            {
+              "height": 1709,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/features.png",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 1342Open section ↗",
+          "enabled": true,
+          "id": "blueprint-pricing",
+          "images": [
+            {
+              "height": 1342,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/pricing.png",
+              "width": 1440
+            },
+            {
+              "height": 1342,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/pricing.png",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 1241Open section ↗",
+          "enabled": true,
+          "id": "blueprint-faq",
+          "images": [
+            {
+              "height": 1241,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/faq.png",
+              "width": 1440
+            },
+            {
+              "height": 1241,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/faq.png",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 619Open section ↗",
+          "enabled": true,
+          "id": "blueprint-prompt",
+          "images": [
+            {
+              "height": 619,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/prompt.png",
+              "width": 1440
+            },
+            {
+              "height": 619,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/prompt.png",
+              "width": 1440
+            }
+          ]
+        },
+        {
+          "caption": "Aligned at 1440 × 351Open section ↗",
+          "enabled": true,
+          "id": "blueprint-footer",
+          "images": [
+            {
+              "height": 351,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/references/blueprint-full/footer.png",
+              "width": 1440
+            },
+            {
+              "height": 351,
+              "ok": true,
+              "src": "http://127.0.0.1:5175/evidence/blueprint-full/footer.png",
+              "width": 1440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Source comparison overlay changes opacity and source attribution",
+      "pass": true,
+      "evidence": {
+        "captions": [
+          "Original / Blueprint",
+          "Implementation / Assembled-page context; dynamic frames vary"
+        ],
+        "figureOpacity": "0.49",
+        "opacity": "51",
+        "view": "overlay"
+      }
+    },
+    {
+      "name": "Expanded pricing disclosure matches source Hide comparison label",
+      "pass": true,
+      "evidence": {
+        "label": "Hide comparison",
+        "open": "true"
+      }
+    },
+    {
+      "name": "Source prompt focus exposes complete observed example",
+      "pass": true,
+      "evidence": {
+        "focused": true,
+        "height": 11958,
+        "text": "Animated 60s op art: vertical stripes shifted into concentric diamonds, thinning from left to right"
+      }
+    },
+    {
+      "name": "Final desktop geometry matches source measured sections",
+      "pass": true,
+      "evidence": {
+        "height": 8534,
+        "sections": [
+          {
+            "cls": "l-hero",
+            "height": 527.1484375,
+            "id": "",
+            "width": 1440,
+            "y": 60
+          },
+          {
+            "cls": "l-showcase",
+            "height": 1711.078125,
+            "id": "",
+            "width": 1440,
+            "y": 587.1484375
+          },
+          {
+            "cls": "l-section l-compare",
+            "height": 974.7578125,
+            "id": "compare",
+            "width": 1416,
+            "y": 2298.2265625
+          },
+          {
+            "cls": "l-section",
+            "height": 1708.9453125,
+            "id": "features",
+            "width": 1440,
+            "y": 3272.984375
+          },
+          {
+            "cls": "l-section",
+            "height": 1341.953125,
+            "id": "pricing",
+            "width": 1440,
+            "y": 4981.9296875
+          },
+          {
+            "cls": "l-section l-faq",
+            "height": 1241,
+            "id": "faq",
+            "width": 1440,
+            "y": 6323.8828125
+          },
+          {
+            "cls": "l-final",
+            "height": 618.5,
+            "id": "",
+            "width": 1440,
+            "y": 7564.8828125
+          },
+          {
+            "cls": "sf",
+            "height": 350.5,
+            "id": "",
+            "width": 1440,
+            "y": 8183.3828125
+          }
+        ],
+        "viewport": [
+          1440,
+          900
+        ],
+        "width": 1440
+      }
+    },
+    {
+      "name": "Final mobile geometry matches observed source state",
+      "pass": true,
+      "evidence": {
+        "height": 11958,
+        "prompt": "Animated 60s op art: vertical stripes shifted into concentric diamonds, thinning from left to right",
+        "sections": [
+          {
+            "cls": "l-hero",
+            "height": 508.375,
+            "id": "",
+            "width": 390,
+            "y": 60
+          },
+          {
+            "cls": "l-showcase",
+            "height": 1718,
+            "id": "",
+            "width": 390,
+            "y": 568.375
+          },
+          {
+            "cls": "l-section l-compare",
+            "height": 1590.015625,
+            "id": "compare",
+            "width": 374,
+            "y": 2286.375
+          },
+          {
+            "cls": "l-section",
+            "height": 3242.7734375,
+            "id": "features",
+            "width": 390,
+            "y": 3876.390625
+          },
+          {
+            "cls": "l-section",
+            "height": 2576.9375,
+            "id": "pricing",
+            "width": 390,
+            "y": 7119.1640625
+          },
+          {
+            "cls": "l-section l-faq",
+            "height": 1273.5,
+            "id": "faq",
+            "width": 390,
+            "y": 9696.1015625
+          },
+          {
+            "cls": "l-final",
+            "height": 537,
+            "id": "",
+            "width": 390,
+            "y": 10969.6015625
+          },
+          {
+            "cls": "sf",
+            "height": 451,
+            "id": "",
+            "width": 390,
+            "y": 11506.6015625
+          }
+        ],
+        "viewport": [
+          390,
+          844
+        ],
+        "width": 390
+      }
+    },
+    {
+      "name": "Standalone navigation retains source hero tone and colors",
+      "pass": true,
+      "evidence": {
+        "background": "rgb(16, 75, 255)",
+        "height": 60,
+        "signin": "rgba(255, 255, 255, 0.75)",
+        "startBackground": "rgb(255, 255, 255)",
+        "startColor": "rgb(16, 75, 255)",
+        "tone": "hero"
+      }
+    },
+    {
+      "name": "Source paragraph pretty wrapping survives shared reset styles",
+      "pass": true,
+      "evidence": {
+        "height": 1340.8671875,
+        "sourceFont": "16px / 25.6px Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "wrap": "pretty",
+        "sourceDeclaration": ".s-sub{text-wrap:pretty} in original0f82tvflabozn.css",
+        "note": "Initialparentbalanceexpectation corrected against actualsourceCSS; behavior matches pretty."
+      }
+    },
+    {
+      "name": "Standalone pricing contains closed-table scroll overflow",
+      "pass": true,
+      "evidence": {
+        "bodyRect": 1341.953125,
+        "bodyScroll": 1342,
+        "comparisonHeight": 0,
+        "docScroll": 1342,
+        "overflow": "hidden",
+        "position": "relative",
+        "scrollY": 0,
+        "maxNativeScroll": 441.5,
+        "viewportHeight": 900,
+        "expandedRows": 19,
+        "expandedTbodyRows": 18,
+        "expandedHeight": 688.828125,
+        "expandedLabel": "Hide comparison",
+        "note": "Native bottom scroll confirmed no blank tail. Scoped relative containing block clips absolute sr-only descendants; native expansion and recollapse remain correct."
+      }
+    },
+    {
+      "name": "Recovered seven-card feature module animates and preserves source geometry",
+      "pass": true,
+      "evidence": {
+        "desktopHeight": 1708.9453125,
+        "mobile": {
+          "cards": 7,
+          "height": 3242.7734375,
+          "scrollWidth": 390,
+          "width": 390
+        },
+        "frames": [
+          {
+            "art": "transform: scale(1.23313); filter: contrast(1.255) brightness(1.05268);",
+            "at": 1793376332085,
+            "height": 1708.9453125,
+            "play": 7,
+            "sliders": [
+              "scaleX(0.481944)",
+              "scaleX(0.721433)",
+              "scaleX(0.579096)"
+            ]
+          },
+          {
+            "art": "transform: scale(1.18027); filter: contrast(1.18145) brightness(0.969783);",
+            "at": 1793376336640,
+            "height": 1708.9453125,
+            "sliders": [
+              "scaleX(0.599407)",
+              "scaleX(0.616362)",
+              "scaleX(0.342237)"
+            ]
+          }
+        ],
+        "elapsedMs": 4555,
+        "actualStyleChanged": true,
+        "sliderStylesChanged": true,
+        "note": "Visible native screenshots inspected; rAF controls and Contour texture presentation update. Pointer drag was not exercised."
+      }
+    },
+    {
+      "name": "Recovered sixteen-item FAQ animates native keyboard open and close",
+      "pass": true,
+      "evidence": {
+        "count": 16,
+        "closedHeight": 1241,
+        "opening": {
+          "at": 1793376373535,
+          "height": 12.984375,
+          "opacity": "0.191033",
+          "open": true,
+          "sectionHeight": 1253.984375
+        },
+        "openSettled": {
+          "answerHeight": 68.1875,
+          "opacity": "1",
+          "open": true,
+          "sectionHeight": 1309.1875
+        },
+        "closing": {
+          "at": 1793376366268,
+          "closing": "1",
+          "height": 44.328125,
+          "opacity": "0.650153",
+          "open": true
+        },
+        "closedSettled": {
+          "closing": null,
+          "height": 1241,
+          "open": false
+        },
+        "sourceDurationsMs": {
+          "open": 320,
+          "close": 260
+        },
+        "logs": [],
+        "note": "Actual intermediate height/opacity and closing-state transitions observed. CUA read-only DOM does not expose getAnimations(), so animation handles were not directly introspected; duration values are verified from the delivered isolated source module."
+      }
+    },
+    {
+      "name": "Standalone hero clips source pseudo overflow at reference preview size",
+      "pass": true,
+      "evidence": {
+        "body": 595.1484375,
+        "docScroll": 595,
+        "height": 595,
+        "hero": {
+          "bottom": 587.1484375,
+          "height": 527.1484375,
+          "left": 0,
+          "right": 1440,
+          "top": 60,
+          "width": 1440,
+          "x": 0,
+          "y": 60
+        },
+        "overflow": "clip",
+        "paddingBottom": "8px",
+        "scrollWidth": 1440,
+        "width": 1440,
+        "nativeMaxScroll": 0,
+        "note": "1440×595 viewport; body595.1484375 rounds to document595, no extra native scrolling; recovered8px opening gap retained."
+      }
+    },
+    {
+      "name": "Standalone editor recovers shared hero backdrop without exposed ghost content",
+      "pass": true,
+      "evidence": {
+        "desktop": {
+          "body": 754,
+          "docScroll": 900,
+          "frame": [],
+          "height": 900,
+          "scrollWidth": 1440,
+          "width": 1440
+        },
+        "frame": {
+          "body": 754,
+          "height": 746,
+          "left": 144,
+          "top": 8
+        },
+        "mobile": {
+          "body": 864.59375,
+          "ghostHidden": "true",
+          "ghostInert": true,
+          "height": 844,
+          "scrollWidth": 390,
+          "showcaseHeight": 864.59375,
+          "width": 390
+        },
+        "ghost": {
+          "ariaHidden": "true",
+          "inert": true,
+          "visibility": "hidden",
+          "axHasGhostHeading": false
+        },
+        "localizedPixelComparison": {
+          "local": [
+            20,
+            20
+          ],
+          "source": [
+            20,
+            615
+          ],
+          "rgb": [
+            36,
+            74,
+            245
+          ],
+          "patch11x11MeanRgbDifference": [
+            0,
+            0,
+            0
+          ]
+        },
+        "logs": [],
+        "note": "Actual source grid/fade visible behind first300px desktop/200px mobile. White editor begins8px below top. This localized static patch is not a claim of equality for dynamic editor frames."
+      }
+    },
+    {
+      "name": "Library desktop editor embed keeps measured754px height without standalone/mobile regression",
+      "pass": true,
+      "evidence": {
+        "iframeStyle": {
+          "width": "1440px",
+          "height": "754px",
+          "src": "?view=blueprint-editor&embed=1&mode=faithful"
+        },
+        "actualEmbed": {
+          "body": 754,
+          "embed": "",
+          "innerWidth": 1440,
+          "showcase": 754,
+          "windowHeight": 700
+        },
+        "standalone": {
+          "body": 754,
+          "embed": null,
+          "height": 900,
+          "width": 1440
+        },
+        "css": "@media(min-width:761px){.bp-source-view-editor[data-source-embed] .ed-window{height:700px}}",
+        "mobileScope": "Current scoped CSS excludes viewport widths760px and below; prior actual390px mobile check remains applicable.",
+        "note": "Actual library frame inspected and captured. Embedded body/showcase754px, ed-window700px, standalone body754px with no embed marker."
+      }
+    }
+  ],
+  "source_sha256": {
+    "index.html": "e39946aa9ae66344f375b7bf1bcee460234a15d368cf3025b4df47f99f2c101d",
+    "src/main.jsx": "17499f5236e91e05a416d9adc13cc8bf1fda7dbde9fc7a813b3c860e34219b78",
+    "src/data.js": "c3f408fd1383c0d4e53beb41d099cfc9b022c0f1bcc798b17a3c4a20a3bac6f6",
+    "src/style.css": "40aefe8284485fa3b5a4a029afacc605fea8919e6bee92407015068182e120e1",
+    "src/blueprint-faithful-commerce.jsx": "7f2cc595dfbe1d04a90520a5c75ac9829b80a23be9b357750747f01111eb8b68",
+    "src/blueprint-faithful-editor.jsx": "a99ef8418bcd66a4c2e85f2fad271f06971381876e1cbf58f0a84937a4955762",
+    "src/blueprint-faithful-gallery.jsx": "f50be1dee56877653bf0a44636be94af40b4813dc43c92ae42e266718213f802",
+    "src/blueprint-faithful-static.jsx": "e88a166d2645cb7196d1dac413eb93f25f89f79553ab273c807d2a9d7f284375",
+    "src/blueprint-faithful-texture.jsx": "877442669e8cc3a15b9d5ed5db4eef4fe27af1eea07882724219d809d82f539e",
+    "src/blueprint-faithful.jsx": "6006ec8af7dcc7106aecd864441264afb19b0af1fec03d8757f7aa506913e8c4",
+    "src/blueprint-source-parts.json": "1e4a4d4c234816265305b5fa842772c9b5dd11134d9b50e00d37dfe0d041ab2b",
+    "src/blueprint-source-styles.json": "9cf90ddeaddf7e714757d2ea8ac7bf5c78f6d70cd29e00bf6ea817257994540a",
+    "public/blueprint-source/op-art.html": "f537f563ee35d9613ef8d0d2ee10d6c55fa859a6ae668eb2daef970288539d51",
+    "public/blueprint-source/op-art-program.json": "3950ee54d962c8a9f2acb789bdd65ced9e9549fafff3961178c4e618ea02eb69",
+    "public/blueprint-source/gallery-programs.json": "c7a13f0b245a9bf940c99c941559b901ae725dff111da539d3c847da181ad555",
+    "public/blueprint-source/_next/static/chunks/3sfdcgxkuxy2m.css": "9905695902d1614e7a8983239b7420dd0155c0168b710db57d4ff40c71c8f26a",
+    "public/blueprint-source/_next/static/chunks/1op-7rxb6r37t.css": "0222b73ca107fb7acd58f065c42134a0a335d876e2553b9ecb04a16d8fd442fd",
+    "public/blueprint-source/_next/static/chunks/2w4f7vrzk4l5_.css": "0f1cd390042bf206460c62af75f00ebb0ecb2713bbba18901217717725eefe3b",
+    "public/blueprint-source/_next/static/chunks/1aep2ggrdsqqz.css": "af3bfb68729499910326a8051d12f198a9a326fd4217d03b6bffb7765e59c50b",
+    "public/blueprint-source/_next/static/chunks/2qq8ja1fxehuz.css": "22b6790372d05d324cf06a233abe702043b931eaf3f9806c471ecc9881f85083",
+    "public/blueprint-source/_next/static/chunks/0maafgwn76h0g.css": "d7482b2777090b78f07f6df81ad02677329b07466054a65bfab8bc776ccfe0a1",
+    "public/blueprint-source/_next/static/chunks/16j316g1zkc-o.css": "36b1cc2c159db3056de17033c1cba8e04eef95817958afa44b69e1ee9135efd4",
+    "public/blueprint-source/_next/static/chunks/3jfa2o2_3n0zk.css": "52a7388357b993773b42044325d5524628d299bd9ba66fef08dce22096e48200",
+    "public/blueprint-source/_next/static/chunks/2jcxe6aho0p6s.css": "027f704077b5b15453d987b70fde4014690b618cff3cccb0f57cd75622890427",
+    "public/blueprint-source/_next/static/chunks/0f82tvflabozn.css": "e89491efafc69375aff255938c3ddaa0803cd5b90e110ab5c5752d4269e00e08",
+    "public/blueprint-source/_next/static/chunks/2_jefqdqcd9dk.css": "150a97d5980d13f5d0ab51117053cab024724423c7fdbaec7bf57e8ab2ce8422",
+    "public/blueprint-source/_next/static/chunks/3el-_c_q5-a_i.css": "594aa697d8e0eb4800407faa32018f8e33453379b116e59fa1f8e382f535d4e3",
+    "public/blueprint-source/study-reset.css": "dc2d7ca6aa0b76042cdc7b268a47e3dcc28db3175f12136718f55ec62e00c444",
+    "src/blueprint-faithful-motion.jsx": "ba906e15873bef1e9aab3bc2a677d04badf5b02bff1e615e27468e59ea95f2e5"
+  },
+  "artifact_sha256": {
+    "evidence/blueprint-faithful/qa-final-desktop.jpg": "9b60c5652982cdfbb87ad18b110915dffddfa8563e1c47386f918d9ac5f68e62",
+    "evidence/blueprint-faithful/qa-final-mobile.jpg": "452e5ced0af6764f404c35822331e319fbf3ff15a2f91c9e48a5d054b23be3e8",
+    "evidence/blueprint-faithful/qa-editor-red-export.png": "72bd13b93fb593cb8448df0323828154f0cc10177ce70ce4583c9e8dbe10dc6d",
+    "evidence/blueprint-faithful/qa-gallery-ascii.jpg": "e1d91da03e8374bdbf4180dbf7229f45f0ab2e3054f68b9c1bb6a7e5aa610d54",
+    "evidence/blueprint-faithful/qa-gallery-mirror.jpg": "9e1d297f089fc4486729d02bb44bbdfc4c9bd16a0f6f856a95a2fdcd15bde196",
+    "evidence/blueprint-faithful/qa-library-comparison.jpg": "b929089eb071a687f8e1f4753c725f70cb45c1689c39f1065049a6477ccfcecd",
+    "evidence/blueprint-faithful/qa-pixel-comparison.json": "215602c52bba902fd2a5d0f5aa0936d04ee5b05efdb849f92c45c3dbc75dbafd",
+    "evidence/blueprint-faithful/qa-final-header.jpg": "ca0bd244a0e3e9b267e1badf302ae45ff980f1f88a80218d51a3f1a575365010",
+    "evidence/blueprint-faithful/qa-final-pricing-targeted.jpg": "5c53dc2d1a3bb0471f1339eac78b1ddced3c59f6d1cffa3475d79e9335bd0c9e",
+    "evidence/blueprint-faithful/qa-features-motion-a.jpg": "a2e745c8295fce40be8c791433e71a41f35d836a4c7e0b11f62ab9041a7a5122",
+    "evidence/blueprint-faithful/qa-features-motion-b.jpg": "39f11705f76d597fde238e4cfe24a2bfebd7f9c1fe7432d4b5831b5f97c7272c",
+    "evidence/blueprint-faithful/qa-faq-source-animation.jpg": "f3f6b92bb9e23e78bdff0086eca646e6868c32702cc2ef3033ffe75b9a1710df",
+    "evidence/blueprint-faithful/qa-isolated-hero-final.jpg": "d0e69886ba9dfa7246f67a568c979ebf55a29fad202424255e5f99255f63f748",
+    "evidence/blueprint-faithful/qa-isolated-editor-final.jpg": "687f01bd116e3b8278d52fd22e22c131b801d1b1a638c03258d84191414f5f77",
+    "evidence/blueprint-faithful/qa-isolated-editor-mobile-final.jpg": "0d07ff423dfb4e4826b4d523df0e465719c2292ca728d890beb39c095139a642",
+    "evidence/blueprint-faithful/qa-library-editor-embed-final.jpg": "8d18fd747c02e5a26ce83e466701c4d6e3501524ec04005c0ee06da4002dc8c1"
+  },
+  "runtime_project_mismatches": [],
+  "final_metrics": {
+    "desktop": {
+      "height": 8534,
+      "sections": [
+        {
+          "cls": "l-hero",
+          "height": 527.1484375,
+          "id": "",
+          "width": 1440,
+          "y": 60
+        },
+        {
+          "cls": "l-showcase",
+          "height": 1711.078125,
+          "id": "",
+          "width": 1440,
+          "y": 587.1484375
+        },
+        {
+          "cls": "l-section l-compare",
+          "height": 974.7578125,
+          "id": "compare",
+          "width": 1416,
+          "y": 2298.2265625
+        },
+        {
+          "cls": "l-section",
+          "height": 1708.9453125,
+          "id": "features",
+          "width": 1440,
+          "y": 3272.984375
+        },
+        {
+          "cls": "l-section",
+          "height": 1341.953125,
+          "id": "pricing",
+          "width": 1440,
+          "y": 4981.9296875
+        },
+        {
+          "cls": "l-section l-faq",
+          "height": 1241,
+          "id": "faq",
+          "width": 1440,
+          "y": 6323.8828125
+        },
+        {
+          "cls": "l-final",
+          "height": 618.5,
+          "id": "",
+          "width": 1440,
+          "y": 7564.8828125
+        },
+        {
+          "cls": "sf",
+          "height": 350.5,
+          "id": "",
+          "width": 1440,
+          "y": 8183.3828125
+        }
+      ],
+      "viewport": [
+        1440,
+        900
+      ],
+      "width": 1440
+    },
+    "mobile": {
+      "height": 11958,
+      "prompt": "Animated 60s op art: vertical stripes shifted into concentric diamonds, thinning from left to right",
+      "sections": [
+        {
+          "cls": "l-hero",
+          "height": 508.375,
+          "id": "",
+          "width": 390,
+          "y": 60
+        },
+        {
+          "cls": "l-showcase",
+          "height": 1718,
+          "id": "",
+          "width": 390,
+          "y": 568.375
+        },
+        {
+          "cls": "l-section l-compare",
+          "height": 1590.015625,
+          "id": "compare",
+          "width": 374,
+          "y": 2286.375
+        },
+        {
+          "cls": "l-section",
+          "height": 3242.7734375,
+          "id": "features",
+          "width": 390,
+          "y": 3876.390625
+        },
+        {
+          "cls": "l-section",
+          "height": 2576.9375,
+          "id": "pricing",
+          "width": 390,
+          "y": 7119.1640625
+        },
+        {
+          "cls": "l-section l-faq",
+          "height": 1273.5,
+          "id": "faq",
+          "width": 390,
+          "y": 9696.1015625
+        },
+        {
+          "cls": "l-final",
+          "height": 537,
+          "id": "",
+          "width": 390,
+          "y": 10969.6015625
+        },
+        {
+          "cls": "sf",
+          "height": 451,
+          "id": "",
+          "width": 390,
+          "y": 11506.6015625
+        }
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 390
+    }
+  },
+  "pixel_comparison": "evidence/blueprint-faithful/qa-pixel-comparison.json",
+  "findings": [],
+  "resolved_findings": [
+    "Expanded comparison label now matches source Hide comparison.",
+    "Dither Studio form now points to actual Blueprint service rather than local404.",
+    "Footer section anchors now navigate local assembled study.",
+    "Stray uninitialized gallery iframes removed; final live gallery adapter reaches real rendered ACK and cleans up.",
+    "Closing prompt now uses recovered observed examples and focus/typing behavior.",
+    "Footer1px drift resolved; final source-sized body heights now match.",
+    "Standalone pricing absolute sr-only spans now remain in the collapsed comparison containing block; native scrolling no longer exposes a blank tail, while expansion and recollapse work."
+  ],
+  "limitations": [
+    "Static pixel statistics refer only to their explicitly hashed recorded capture pair. They do not establish equality for all animation/video/shader/typewriter phases.",
+    "Desktop and mobile measured geometry match observed source states; mobile closing height can change while the source prompt types/erases. Final mobile capture uses the complete observed first prompt.",
+    "Browser: Chromium through CUA. No cross-browser or screen-reader audit is claimed.",
+    "Auth, paid checkout, remix and new-tool forms route to the original service. No external form was submitted, no account/tool created, and no purchase attempted.",
+    "Five gallery programs were exercised to rendered readiness; remaining six programs are present/recovered but are not individually claimed as runtime-tested by this reviewer.",
+    "Invisible/source static illustration controls are retained as illustrations. Source service feedback fallback and original back-end behavior are outside the local reconstruction.",
+    "Temporary viewport overrides were reset.",
+    "Final full-page captures precede the final reset-specificity, standalone-header and standalone-pricing containment refinements. Current targeted images and actual UI checks cover their affected output; recorded pixel metrics remain evidence for their own input hashes.",
+    "The final isolated feature/FAQ presentation module was reviewed with two additional actual UI checks and current source hashes. Earlier full captures predate this animation refinement; targeted feature-frame and FAQ-transition captures document the affected output. Element.getAnimations is unavailable through CUA read-only DOM; live interpolation and source320/260ms durations were checked instead.",
+    "Final isolated hero/editor adapters have targeted current captures and checks42–43. Assembled output is unchanged by these scoped adapters. The original desktop backdrop patch matches exactly for its measured11×11 region; no equality claim extends to dynamic editor canvas phases."
+  ],
+  "final_targeted_revision_note": "After full captures, source reset selector specificity and standalone header tone were refined without changing assembled geometry. Actual UI reinspection verified hero-tone navigation and source .s-sub text-wrap:pretty. A standalone-only comparison containing block subsequently resolved closed-table absolute sr-only overflow; native collapsed scroll bounds and expanded 19-row table were verified. Current qa-final-header.jpg and qa-final-pricing-targeted.jpg supersede affected parts of the older full-capture review. All 39 individually recorded checks pass.",
+  "targeted_motion_revision": {
+    "changed_sources": [
+      "src/blueprint-faithful-motion.jsx",
+      "src/blueprint-faithful-static.jsx",
+      "src/blueprint-faithful-commerce.jsx",
+      "src/blueprint-source-parts.json"
+    ],
+    "retained_checks": "Prior 39 checks retain their unaffected scope; feature/FAQ motion behavior is superseded by checks40–41.",
+    "feature_observation_ms": 4555,
+    "faq_animation_api_limit": "CUA read-only DOM omits Element.getAnimations; interpolation and source module timing verified, direct handles not inspected.",
+    "no_console_errors": true
+  },
+  "targeted_isolated_preview_revision": {
+    "changed_sources": [
+      "src/blueprint-faithful.jsx",
+      "public/blueprint-source/study-reset.css"
+    ],
+    "scope": "Checks42–43 supersede affected standalone hero/editor adapter output; assembled output and comparison image assets remain unchanged.",
+    "native_hero_max_scroll": 0,
+    "editor_body_at1440x900": 754,
+    "ghost_aria_hidden": true,
+    "ghost_inert": true,
+    "ghost_heading_absent_in_ax": true,
+    "localized_static_pixel_patch_equal": true
+  },
+  "targeted_embed_revision": {
+    "changed_sources": [
+      "src/blueprint-faithful.jsx",
+      "public/blueprint-source/study-reset.css"
+    ],
+    "check": 44,
+    "iframe_style_height": 754,
+    "embedded_body_height": 754,
+    "standalone_body_height": 754,
+    "embedded_window_height": 700,
+    "mobile_excluded_by_media_query": true,
+    "unaffected_prior_scope_retained": true
+  }
+}

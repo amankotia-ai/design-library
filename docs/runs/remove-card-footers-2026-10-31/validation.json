@@ -1,0 +1,42 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "panel": "sections",
+      "noFooter": true,
+      "noOverflow": true
+    },
+    {
+      "width": 1440,
+      "panel": "pages",
+      "noFooter": true,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "panel": "sections",
+      "noFooter": true,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "panel": "pages",
+      "noFooter": true,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "panel": "sections",
+      "noFooter": true,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "panel": "pages",
+      "noFooter": true,
+      "noOverflow": true
+    },
+    "Heading navigation/filters work; System cards remain accessible (System footers separately removed by concurrent work)"
+  ],
+  "errors": []
+}

@@ -1,0 +1,90 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "geometry": [
+        {
+          "w": 520,
+          "h": 2252,
+          "nw": 1440,
+          "nh": 6237,
+          "ratioError": 0.00002563057625223908
+        },
+        {
+          "w": 520,
+          "h": 3086,
+          "nw": 1440,
+          "nh": 8545,
+          "ratioError": 0.000016685709865071896
+        }
+      ],
+      "noOverflow": true
+    },
+    {
+      "width": 768,
+      "geometry": [
+        {
+          "w": 316,
+          "h": 1369,
+          "nw": 1440,
+          "nh": 6237,
+          "ratioError": 0.00005481086562167392
+        },
+        {
+          "w": 316,
+          "h": 1875,
+          "nw": 1440,
+          "nh": 8545,
+          "ratioError": 0.000013731226838314958
+        }
+      ],
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "geometry": [
+        {
+          "w": 314,
+          "h": 1360,
+          "nw": 1440,
+          "nh": 6237,
+          "ratioError": 0.000002122060945602966
+        },
+        {
+          "w": 314,
+          "h": 1863,
+          "nw": 1440,
+          "nh": 8545,
+          "ratioError": 0.00002575484465902611
+        }
+      ],
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "geometry": [
+        {
+          "w": 244,
+          "h": 1057,
+          "nw": 1440,
+          "nh": 6237,
+          "ratioError": 0.000038225203788128104
+        },
+        {
+          "w": 244,
+          "h": 1448,
+          "nw": 1440,
+          "nh": 8545,
+          "ratioError": 0.000011314813677332225
+        }
+      ],
+      "noOverflow": true
+    },
+    "System filtering, URL persistence and clear passed",
+    "page detail, responsive controls and direct full page passed",
+    "blueprint-page detail, responsive controls and direct full page passed",
+    "Design Systems retains two system cards with palettes and system links",
+    "Sections retains 18 section entries"
+  ],
+  "errors": []
+}

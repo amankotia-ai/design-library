@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+.venv/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+
+# Local runtime alias and generated build copy
+pilot/node_modules 2
+pilot/steel-build/

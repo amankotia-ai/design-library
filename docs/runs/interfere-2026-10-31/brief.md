@@ -1,0 +1,7 @@
+# Interfere library addition
+Started 2026-10-31 03:41:24 IST (2026-10-30 22:11:24 UTC). Deadline 04:01:24 IST /22:31:24 UTC. Active-work budget20minutes.
+Scope: use existing REA installation to inspect Interfere, preserve source evidence, recreate complete homepage and independently addressable reusable sections, register one distinct design system and page in local Design Library. Existing private reference library remains local per established project workflow.
+Faithful reproduction: public homepage composition, copy, source fonts/SVGs, dark theme, reference-sized desktop and mobile captures. Original system expansion: system specimen and library integration only; no unrequested invented page sections. No production-mode labels in product.
+Completion: runnable preview, all source sections and assembled page linked, local fonts/media, separate tokens/source layout, source links and native navigation disclosures, responsive visual checks and independent delivered-revision QA. Frozen animation/demo states and inferred menu styling recorded. Source service backend out of scope.
+Freebyrd index, thread and references returned no folder-specific context. README and team workflow read. Sites local workflow and baseline-ui applied; exact source design is an explicit exception to default style constraints.
+Actual specialists: /root/visual_analysis (reference + REA), /root/product_design (integration semantics), /root/art_direction (visual rules), independent QA assigned after delivery.

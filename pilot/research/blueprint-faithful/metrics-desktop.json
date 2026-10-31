@@ -1,0 +1,497 @@
+{
+  "headings": [
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(255, 255, 255)",
+      "font": "500 76px / 74.48px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px 0px 22px",
+      "padding": "0px",
+      "rect": {
+        "height": 148.953125,
+        "width": 900,
+        "x": 270,
+        "y": 189.3984375
+      },
+      "tag": "H1",
+      "text": "The fastest way to make a generative design tool."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 44px / 46.2px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 46.1953125,
+        "width": 640,
+        "x": 144,
+        "y": 1597.1484375
+      },
+      "tag": "H2",
+      "text": "Made with Blueprint."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(255, 255, 255)",
+      "font": "500 44px / 46.2px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 92.390625,
+        "width": 640,
+        "x": 144,
+        "y": 2426.2265625
+      },
+      "tag": "H2",
+      "text": "Same prompt. One is ready to send."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 44px / 46.2px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 46.1953125,
+        "width": 640,
+        "x": 144,
+        "y": 3400.984375
+      },
+      "tag": "H2",
+      "text": "Everything after the first prompt."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 15px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "18px 12px 8px",
+      "padding": "0px",
+      "rect": {
+        "height": 19.5,
+        "width": 722,
+        "x": 165,
+        "y": 3837.3671875
+      },
+      "tag": "H3",
+      "text": "Send a link, not a file."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 15px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "18px 12px 8px",
+      "padding": "0px",
+      "rect": {
+        "height": 19.5,
+        "width": 334,
+        "x": 941,
+        "y": 3837.3671875
+      },
+      "tag": "H3",
+      "text": "Keeps working when you leave."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 15px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "18px 12px 8px",
+      "padding": "0px",
+      "rect": {
+        "height": 19.5,
+        "width": 334,
+        "x": 165,
+        "y": 4253.7578125
+      },
+      "tag": "H3",
+      "text": "Controls that stay put."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 15px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "18px 12px 8px",
+      "padding": "0px",
+      "rect": {
+        "height": 19.5,
+        "width": 334,
+        "x": 553,
+        "y": 4253.7578125
+      },
+      "tag": "H3",
+      "text": "Export at print size."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 15px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "18px 12px 8px",
+      "padding": "0px",
+      "rect": {
+        "height": 19.5,
+        "width": 334,
+        "x": 941,
+        "y": 4253.7578125
+      },
+      "tag": "H3",
+      "text": "One canvas, many frames."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 15px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "18px 12px 8px",
+      "padding": "0px",
+      "rect": {
+        "height": 19.5,
+        "width": 334,
+        "x": 165,
+        "y": 4656.34375
+      },
+      "tag": "H3",
+      "text": "Start from a picture."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 15px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "18px 12px 8px",
+      "padding": "0px",
+      "rect": {
+        "height": 19.5,
+        "width": 722,
+        "x": 553,
+        "y": 4656.34375
+      },
+      "tag": "H3",
+      "text": "Every change is a version."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 44px / 46.2px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 92.390625,
+        "width": 640,
+        "x": 144,
+        "y": 5109.9296875
+      },
+      "tag": "H2",
+      "text": "Start free. Upgrade when it works."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "plan-name",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 16px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 20.5,
+        "width": 320,
+        "x": 172,
+        "y": 5437.1015625
+      },
+      "tag": "H3",
+      "text": "Solo"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "plan-name",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 16px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 20.5,
+        "width": 320,
+        "x": 560,
+        "y": 5437.1015625
+      },
+      "tag": "H3",
+      "text": "StudioRecommended"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "plan-name",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 16px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 20.5,
+        "width": 320,
+        "x": 948,
+        "y": 5437.1015625
+      },
+      "tag": "H3",
+      "text": "Agency"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "plan-name",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 16px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 20.5,
+        "width": 932,
+        "x": 172,
+        "y": 6033.3828125
+      },
+      "tag": "H3",
+      "text": "Free"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 44px / 46.2px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 92.390625,
+        "width": 365.328125,
+        "x": 144,
+        "y": 6451.8828125
+      },
+      "tag": "H2",
+      "text": "Questions about Blueprint."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(255, 255, 255)",
+      "font": "500 56px / 56px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "final-title",
+      "margin": "0px 0px 14px",
+      "padding": "0px",
+      "rect": {
+        "height": 56,
+        "width": 640,
+        "x": 400,
+        "y": 7794.8828125
+      },
+      "tag": "H2",
+      "text": "What tool do you need?"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 11.5px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px 0px 4px",
+      "padding": "0px",
+      "rect": {
+        "height": 15,
+        "width": 44.0390625,
+        "x": 800,
+        "y": 8247.3828125
+      },
+      "tag": "H2",
+      "text": "Product"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 11.5px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px 0px 4px",
+      "padding": "0px",
+      "rect": {
+        "height": 15,
+        "width": 25.8125,
+        "x": 968,
+        "y": 8247.3828125
+      },
+      "tag": "H2",
+      "text": "Help"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "",
+      "color": "rgb(24, 24, 27)",
+      "font": "500 11.5px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px 0px 4px",
+      "padding": "0px",
+      "rect": {
+        "height": 15,
+        "width": 30.5703125,
+        "x": 1136,
+        "y": 8247.3828125
+      },
+      "tag": "H2",
+      "text": "Legal"
+    }
+  ],
+  "height": 8534,
+  "sections": [
+    {
+      "background": "color(srgb 0.968628 0.968628 0.972549 / 0.9) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "l-head",
+      "color": "rgb(24, 24, 27)",
+      "font": "14px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "0px",
+      "rect": {
+        "height": 60,
+        "width": 1440,
+        "x": 0,
+        "y": 6248
+      },
+      "tag": "HEADER"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "l-hero",
+      "color": "rgb(255, 255, 255)",
+      "font": "14px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "96px 0px 64px",
+      "rect": {
+        "height": 527.1484375,
+        "width": 1440,
+        "x": 0,
+        "y": 60
+      },
+      "tag": "SECTION"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "l-showcase",
+      "color": "rgb(24, 24, 27)",
+      "font": "14px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "8px 0px 128px",
+      "rect": {
+        "height": 1711.078125,
+        "width": 1440,
+        "x": 0,
+        "y": 587.1484375
+      },
+      "tag": "SECTION"
+    },
+    {
+      "background": "linear-gradient(rgba(255, 255, 255, 0.05) 1px, rgba(0, 0, 0, 0) 1px) repeat scroll 50% 0px / 32px 32px padding-box border-box, linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, rgba(0, 0, 0, 0) 1px) repeat scroll 50% 0px / 32px 32px padding-box border-box, rgb(16, 75, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "l-section l-compare",
+      "color": "rgb(255, 255, 255)",
+      "font": "14px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "compare",
+      "margin": "0px 12px",
+      "padding": "128px 0px",
+      "rect": {
+        "height": 974.7578125,
+        "width": 1416,
+        "x": 12,
+        "y": 2298.2265625
+      },
+      "tag": "SECTION"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "l-section",
+      "color": "rgb(24, 24, 27)",
+      "font": "14px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "features",
+      "margin": "0px",
+      "padding": "128px 0px",
+      "rect": {
+        "height": 1708.9453125,
+        "width": 1440,
+        "x": 0,
+        "y": 3272.984375
+      },
+      "tag": "SECTION"
+    },
+    {
+      "background": "rgb(238, 239, 241) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "l-section",
+      "color": "rgb(24, 24, 27)",
+      "font": "14px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "pricing",
+      "margin": "0px",
+      "padding": "128px 0px",
+      "rect": {
+        "height": 1341.953125,
+        "width": 1440,
+        "x": 0,
+        "y": 4981.9296875
+      },
+      "tag": "SECTION"
+    },
+    {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "l-section l-faq",
+      "color": "rgb(24, 24, 27)",
+      "font": "14px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "faq",
+      "margin": "0px",
+      "padding": "128px 0px",
+      "rect": {
+        "height": 1241,
+        "width": 1440,
+        "x": 0,
+        "y": 6323.8828125
+      },
+      "tag": "SECTION"
+    },
+    {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "cls": "l-final",
+      "color": "rgb(255, 255, 255)",
+      "font": "14px Geist, \"Geist Fallback\", system-ui, sans-serif",
+      "id": "",
+      "margin": "0px",
+      "padding": "12px",
+      "rect": {
+        "height": 618.5,
+        "width": 1440,
+        "x": 0,
+        "y": 7564.8828125
+      },
+      "tag": "SECTION"
+    }
+  ],
+  "url": "https://blueprint.page/#faq",
+  "viewport": {
+    "height": 900,
+    "width": 1440
+  }
+}

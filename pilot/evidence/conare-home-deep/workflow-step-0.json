@@ -1,0 +1,28 @@
+{
+  "t": 961.4000000059605,
+  "cards": [
+    {
+      "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+      "active": "true"
+    },
+    {
+      "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+      "active": "false"
+    },
+    {
+      "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+      "active": "false"
+    },
+    {
+      "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+      "active": "false"
+    }
+  ],
+  "viz": [
+    {
+      "text": "Add our refund and shipping policies to docs\n\nPolicies.pdf\nadded to context\n\nWriting…\nWorked for 2s ▶\n\nWrote \nRefunds and \nShipping to the docs namespace, searchable now.\n\nWriting 2 documents…\n2 documents created",
+      "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d:200;\">Add our refund and shipping policies to docs</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d:600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Policies.pdf</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d:900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d:2400;\">Writing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">Worked for 2s <span class=\"text-[9px]\">▶</span></span></p><!--[--><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Wrote <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span> and <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Shipping</span> to the docs namespace, searchable now. </p><div class=\"viz-in viz-progress\" style=\"--d:1600;\"><span class=\"viz-matrix\"><!--[--><i style=\"--k:1;\"></i><i style=\"--k:2;\"></i><i style=\"--k:3;\"></i><i style=\"--k:4;\"></i><i style=\"--k:5;\"></i><i style=\"--k:6;\"></i><i style=\"--k:7;\"></i><i style=\"--k:8;\"></i><i style=\"--k:9;\"></i><!--]--></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d:2400;\">Writing 2 documents…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d:2400;\">2 documents created</span></span><span class=\"viz-timer\" style=\"--to:2;--d:1600;\"></span></div><!--]--></div></div>"
+    }
+  ],
+  "run": "true"
+}

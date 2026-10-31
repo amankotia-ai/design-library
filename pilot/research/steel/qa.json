@@ -1,0 +1,77 @@
+{
+  "reviewer": "/root/steel_qa",
+  "status": "passed with documented limits",
+  "scope": "Steel addition and affected library routes; Chromium only",
+  "reviewedAt": "2026-10-30T22:25:01.968Z",
+  "routeViewportChecks": 37,
+  "revisionStable": true,
+  "sourceHashes": {
+    "src/main.jsx": "8b9f678130206ec5671b2ff2c0ac7a66cdda4415d32367a80289ab5a2bf9e22c",
+    "src/data.js": "34ccde1bffb830bbfb3b5abb4132f175b272d0d7bc8c50b5936ab4dc46f9bc7d",
+    "src/catalog.jsx": "0414f6b5ab9fef3d181664188d7d03bd9a6106046b8ec67187e25fa9db0bfcfc",
+    "src/page-shells.js": "909b3ffbed2e38b2800a4873852a33b4bf7376e5a10ba160609aba0a0539fe6e",
+    "src/system-preview.jsx": "73357a0937ec66c775807486fde45dd35dda0695f25ed53676e77c7a00af766a",
+    "src/system-preview.css": "56ec7d80748640478e417526bb1d4533bf2360ff7331eb3abc3c917ab41824e7",
+    "src/steel.jsx": "6bcff921e0629672bf897075d53c993c08c4e3b36c07ccbc0cfbca32a5752931",
+    "src/steel-source-parts.json": "bbfa73173866ef4317235e846cb1d1e50c1aa009416250fa73b6e1c927e3a4d6",
+    "src/steel-mobile-parts.json": "f6d74caf95b2b1ceb07c8f8b3de8418829ae4145d10d5d512fa2d377596b96bd",
+    "src/steel-data.js": "0c94702b02970845b0a134e68a1d3dcc4c88dbbd5e223c5042aeec7595669325",
+    "src/steel-tokens.css": "04165274ba7c23c2851980ac80ed7e0302383acfc0a379ad55d844f9c96ec98c",
+    "public/steel-source/source.css": "20810c39493f6b58c540b706543d0624df655cf082ac083c8cf93d6d63fe29df",
+    "public/steel-source/layout.css": "587cf46723de2465c7daca935fec8d31d6b56319809a84c2d2523fe58f0c1231",
+    "src/catalog.css": "2c5d04acc5daa2913bd3fe3c9d6611b3dc34e6bc05e1337e78147ac18950bd2d",
+    "src/style.css": "be50f8cae38ad6de771d6f884e7af51969e1c5ab59d3e80f03a5770f21a1ec58"
+  },
+  "outputHashes": {
+    "public/steel-source/proxies-desktop.png": "3260c47c3bcd355749fe82d1ad760c20645e34e74a9484680a38dcc460a622fa",
+    "public/steel-source/proxies-mobile.png": "b10df64175370532cb08c842654b3d2922b0cb0181f4fcbe126b0195e29a54f0",
+    "research/steel/qa/final-desktop.png": "5a0912d6ce1bac314c9dc0dfcafa4e89f98679b6355483d80a09210f1bcbc85f",
+    "research/steel/qa/final-mobile.png": "a0cda27709298d18d566f428423772ab66917a7d573fe7b5f24daeccb874d361",
+    "research/steel/qa/final-mobile-menu.png": "f7b09aaad96d39fe11c1d408469476f48c37d72efde3457ea9d2984f9086ef77",
+    "research/steel/qa/final-systems.png": "20cd3997edc5da9041b8a04dddc7781b90d328476dcc0d0ff61bc13b9be9d47f",
+    "research/steel/qa/final-sections.png": "24e9af5213fa0b642c8646c607441dfaed4765f733a904021bb7535bfa0718ee",
+    "research/steel/qa/final-sources.png": "316b3dc49d30bc96908d559cb970e12a69624882b94cbfb6283c126cc9214c99"
+  },
+  "evidence": "qa-final.json",
+  "resolved": [
+    "Desktop announcement and source-sized hero geometry",
+    "Desktop Resources and mobile menu visibility",
+    "Mobile menu close and opaque background",
+    "Native FAQ keyboard behavior",
+    "Recovered mobile terminal scenes",
+    "Source globe recovered as captured static image",
+    "Use-case heading and native disclosure adaptation",
+    "Full-page embed height and fixed reference hero",
+    "Steel registry restored without dropping concurrent systems",
+    "Standalone section routes and clean section thumbnails"
+  ],
+  "nonBlockingFindings": [
+    {
+      "id": "N1",
+      "location": "System catalog Steel specimen",
+      "finding": "Four palette swatches wrap into two rows; lower parameter specimen is partly cropped by fixed card preview.",
+      "impact": "Decorative specimen only. Page/sections and system guidance remain reachable."
+    },
+    {
+      "id": "N2",
+      "location": "Steel footer registry layout copy",
+      "finding": "Layout text says oversized purple wordmark, while current recovered footer image is red.",
+      "impact": "Color adjective is inaccurate; actual source artwork is retained."
+    }
+  ],
+  "limits": [
+    "Dynamic product scenes and globe use settled illustration states. The public hero artwork program remains dynamic.",
+    "Use-case field is an authored native disclosure adaptation, not the moving source field.",
+    "A/B headline variant A is fixed consistently; original captures include both variants.",
+    "Source font/media redistribution rights are unverified; local study only.",
+    "Backend browser infrastructure, accounts, billing and external service behavior are outside scope.",
+    "Full npm run check is reported by parent as blocked by unrelated Salesloft.mode metadata; no full-project pass is claimed.",
+    "Review covers current isolated runtime source hashes. Any later source change invalidates its affected review."
+  ],
+  "finalAddendum": {
+    "file": "qa-addendum.json",
+    "status": "passed",
+    "scope": "Final additive main/data synchronization; affected Steel routes only",
+    "notesCorrection": "2026-10-30T22:27:19.693Z"
+  }
+}

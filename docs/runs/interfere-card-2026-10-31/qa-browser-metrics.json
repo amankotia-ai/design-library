@@ -1,0 +1,43 @@
+[
+  {
+    "clientHeight": 331,
+    "clientWidth": 298,
+    "focusables": 0,
+    "height": 333.328125,
+    "heldaneLoaded": false,
+    "interLoaded": false,
+    "issueBottomPadding": 20.3671875,
+    "scrollHeight": 331,
+    "scrollWidth": 298,
+    "width": 300,
+    "settledFontCheck": {
+      "interLoaded": true,
+      "heldaneLoaded": true,
+      "after": "document.fonts.ready"
+    }
+  },
+  {
+    "clientHeight": 398,
+    "clientWidth": 358,
+    "focusables": 0,
+    "height": 400,
+    "heldaneLoaded": true,
+    "interLoaded": true,
+    "issueBottomPadding": 24.265625,
+    "scrollHeight": 398,
+    "scrollWidth": 358,
+    "width": 360
+  },
+  {
+    "clientHeight": 665,
+    "clientWidth": 598,
+    "focusables": 0,
+    "height": 666.6640625,
+    "heldaneLoaded": true,
+    "interLoaded": true,
+    "issueBottomPadding": 39.8671875,
+    "scrollHeight": 665,
+    "scrollWidth": 598,
+    "width": 600
+  }
+]

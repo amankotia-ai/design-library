@@ -1,0 +1,82 @@
+[
+  {
+    "label": "sections-desktop",
+    "brand": "28px",
+    "item": "16px",
+    "overflow": false,
+    "page": "22px",
+    "viewport": 1482
+  },
+  {
+    "label": "systems-desktop",
+    "brand": "28px",
+    "item": "16px",
+    "overflow": false,
+    "page": "22px",
+    "viewport": 1482
+  },
+  {
+    "label": "pages-desktop",
+    "brand": "28px",
+    "item": "16px",
+    "overflow": false,
+    "page": "22px",
+    "viewport": 1482
+  },
+  {
+    "label": "pages-mobile",
+    "brand": "24px",
+    "item": "16px",
+    "overflow": false,
+    "page": "20px",
+    "viewport": 390
+  },
+  {
+    "label": "systems-mobile",
+    "brand": "24px",
+    "item": "16px",
+    "overflow": false,
+    "page": "20px",
+    "viewport": 390
+  },
+  {
+    "label": "systems-narrow",
+    "brand": "21.5px",
+    "item": "16px",
+    "overflow": false,
+    "page": "20px",
+    "viewport": 360
+  },
+  {
+    "label": "sections-narrow",
+    "brand": "21.5px",
+    "item": "16px",
+    "overflow": false,
+    "page": "20px",
+    "viewport": 360
+  },
+  {
+    "label": "sections-mobile",
+    "brand": "24px",
+    "item": "16px",
+    "overflow": false,
+    "page": "20px",
+    "viewport": 390
+  },
+  {
+    "label": "systems-desktop-final",
+    "brand": "28px",
+    "item": "16px",
+    "overflow": false,
+    "page": "22px",
+    "viewport": 1482
+  },
+  {
+    "label": "sections-mobile-final",
+    "brand": "24px",
+    "item": "16px",
+    "overflow": false,
+    "page": "20px",
+    "viewport": 390
+  }
+]

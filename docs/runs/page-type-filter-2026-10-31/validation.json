@@ -1,0 +1,9 @@
+{
+  "checks": [
+    "Page type options derive registry; both selections, URL persistence/reload and clear work",
+    "Stale system and invalid section/page type values do not hide pages",
+    "Compact page cards preserved with no1440/390/320 overflow",
+    "Sections retains combined section type/system filters and reload"
+  ],
+  "errors": []
+}

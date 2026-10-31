@@ -1,0 +1,45 @@
+{
+  "source": "https://interfere.com/",
+  "retrieved": "2026-10-31",
+  "parts": [
+    "header",
+    "hero",
+    "trust",
+    "overview",
+    "testimonial",
+    "monitoring",
+    "triage",
+    "resolution",
+    "security",
+    "releases",
+    "footer"
+  ],
+  "assets": {
+    "https://assets.interfere.com/assets/InterVariable-Italic-FCBEiFp6.woff2": "/interfere/assets/4812248855d8a7.woff2",
+    "https://assets.interfere.com/assets/heldane-text-regular-BiDZuXYg.woff2": "/interfere/assets/405969baf295e1.woff2",
+    "https://assets.interfere.com/assets/DepartureMono-Regular-2BZob_Zz.woff2": "/interfere/assets/910e99055980ec.woff2",
+    "https://assets.interfere.com/assets/InterVariable-DiVDrmQJ.woff2": "/interfere/assets/8d5fd9f89e9e12.woff2",
+    "https://assets.interfere.com/assets/heldane-text-regular-italic-B0r2PsDD.woff2": "/interfere/assets/aaa7a240141a77.woff2",
+    "https://images.interfere.com/cdn-cgi/imagedelivery/ZQ3TDZdJHXvYNyL5BNulpQ/marketing-site/homepage/profound/format=auto,width=128": "/interfere/assets/27feba3fc55b46.png",
+    "https://assets.interfere.com/assets/Berkeley%20Mono%20Variable%20Interfere-r0-ZJKwN.woff2": "/interfere/assets/e88ab71d4f3835.woff2",
+    "https://images.interfere.com/cdn-cgi/imagedelivery/ZQ3TDZdJHXvYNyL5BNulpQ/marketing-site/homepage/dylan/format=auto,width=256": "/interfere/assets/8d0d8ee7f8b026.png",
+    "https://assets.interfere.com/assets/heldane-text-bold-BrteRB6Y.woff2": "/interfere/assets/a66280e10286ca.woff2",
+    "https://assets.interfere.com/assets/heldane-text-bold-italic-CetAnKxh.woff2": "/interfere/assets/07298f1d361d1f.woff2",
+    "https://assets.interfere.com/assets/heldane-text-medium-oiz2E4RN.woff2": "/interfere/assets/109aebdac70a1f.woff2",
+    "https://assets.interfere.com/assets/heldane-text-medium-italic-wjPoiWPk.woff2": "/interfere/assets/5f6c726ea95307.woff2"
+  },
+  "missing_assets": [],
+  "source_css": [
+    "https://assets.interfere.com/assets/globals-CdWaSmdV.css",
+    "https://assets.interfere.com/assets/logo-wall-CIY0ozwo.css",
+    "https://assets.interfere.com/assets/_marketing-DikRKne4.css"
+  ],
+  "limitations": [
+    "Animation load effects frozen in settled state",
+    "Native disclosure menu styling authored; source labels and destinations retained",
+    "Product demonstration is a static source DOM state; backend and live investigation not reproduced",
+    "Source copyright, product copy and endorsements remain attributed to Interfere",
+    "Demo-avatar photos unavailable in server markup: original initials fallback retained"
+  ],
+  "behavior": "Native navigation disclosures and locally implemented native release scrolling; source service links retained"
+}

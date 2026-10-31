@@ -1,0 +1,174 @@
+[
+  {
+    "width": 1440,
+    "result": {
+      "overflow": false,
+      "brand": {
+        "x": 152,
+        "y": 32,
+        "right": 487.203125,
+        "bottom": 70,
+        "width": 335.203125,
+        "height": 38
+      },
+      "signature": {
+        "x": 383.203125,
+        "y": 32,
+        "right": 487.203125,
+        "bottom": 70,
+        "width": 104,
+        "height": 38
+      },
+      "name": {
+        "x": 200,
+        "y": 33,
+        "right": 375.203125,
+        "bottom": 69,
+        "width": 175.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 1067.6875,
+        "y": 32.5,
+        "right": 1288,
+        "bottom": 69.5,
+        "width": 220.3125,
+        "height": 37
+      },
+      "imageLoaded": true,
+      "href": "/",
+      "nameFont": "\"Geist Serif\", Georgia, serif",
+      "nameWeight": "400",
+      "stroke": "0.22px"
+    }
+  },
+  {
+    "width": 768,
+    "result": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 32,
+        "right": 359.203125,
+        "bottom": 70,
+        "width": 335.203125,
+        "height": 38
+      },
+      "signature": {
+        "x": 255.203125,
+        "y": 32,
+        "right": 359.203125,
+        "bottom": 70,
+        "width": 104,
+        "height": 38
+      },
+      "name": {
+        "x": 72,
+        "y": 33,
+        "right": 247.203125,
+        "bottom": 69,
+        "width": 175.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 523.6875,
+        "y": 32.5,
+        "right": 744,
+        "bottom": 69.5,
+        "width": 220.3125,
+        "height": 37
+      },
+      "imageLoaded": true,
+      "href": "/",
+      "nameFont": "\"Geist Serif\", Georgia, serif",
+      "nameWeight": "400",
+      "stroke": "0.22px"
+    }
+  },
+  {
+    "width": 390,
+    "result": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 24,
+        "right": 320.171875,
+        "bottom": 59,
+        "width": 296.171875,
+        "height": 35
+      },
+      "signature": {
+        "x": 224.171875,
+        "y": 24,
+        "right": 320.171875,
+        "bottom": 59,
+        "width": 96,
+        "height": 35
+      },
+      "name": {
+        "x": 66,
+        "y": 25.5,
+        "right": 216.171875,
+        "bottom": 57.5,
+        "width": 150.171875,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 79,
+        "right": 366,
+        "bottom": 120,
+        "width": 342,
+        "height": 41
+      },
+      "imageLoaded": true,
+      "href": "/",
+      "nameFont": "\"Geist Serif\", Georgia, serif",
+      "nameWeight": "400",
+      "stroke": "0.22px"
+    }
+  },
+  {
+    "width": 320,
+    "result": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 24,
+        "right": 293.65625,
+        "bottom": 56,
+        "width": 269.65625,
+        "height": 32
+      },
+      "signature": {
+        "x": 205.65625,
+        "y": 24,
+        "right": 293.65625,
+        "bottom": 56,
+        "width": 88,
+        "height": 32
+      },
+      "name": {
+        "x": 60,
+        "y": 24,
+        "right": 197.65625,
+        "bottom": 56,
+        "width": 137.65625,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 76,
+        "right": 296,
+        "bottom": 117,
+        "width": 272,
+        "height": 41
+      },
+      "imageLoaded": true,
+      "href": "/",
+      "nameFont": "\"Geist Serif\", Georgia, serif",
+      "nameWeight": "400",
+      "stroke": "0.22px"
+    }
+  }
+]

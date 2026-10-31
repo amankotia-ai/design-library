@@ -1,0 +1,35 @@
+--- before/library-tokens.css
++++ after/library-tokens.css
+@@ -1,5 +1,5 @@
+ /* The browser's neutral theme is independent of the systems it displays. */
+-:root{--library-bg:#fdfdfc;--library-surface:#fafaf8;--library-wash:#f3f3ef;--library-ink:#21201c;--library-muted:#72716b;--library-rule:#e7e7e3;--library-radius:12px;--library-gap:24px;--library-header-inset:24px;--library-page-gutter:var(--library-header-inset);--library-preview-radius:0px;--library-preview-inset:16px;--library-caption-gap:12px;--library-grid-row-gap:40px}
++:root{--library-bg:#fdfdfc;--library-surface:#fafaf8;--library-wash:#f3f3ef;--library-ink:#21201c;--library-muted:#72716b;--library-rule:#e7e7e3;--library-preview-rule:#edede9;--library-radius:12px;--library-gap:24px;--library-header-inset:24px;--library-page-gutter:var(--library-header-inset);--library-preview-radius:0px;--library-preview-inset:16px;--library-caption-gap:12px;--library-grid-row-gap:40px}
+ 
+ /* Official geist@1.9.0 assets. Serif currently ships at Regular only. */
+ @font-face {
+@@ -17,10 +17,10 @@
+   font-display: swap;
+ }
+ :root {
+-  --library-catalog-title-size: 28px;
+-  --library-catalog-title-leading: 36px;
+-  --library-card-title-size: 18px;
+-  --library-card-title-leading: 24px;
++  --library-catalog-title-size: 22px;
++  --library-catalog-title-leading: 28px;
++  --library-card-title-size: 16px;
++  --library-card-title-leading: 22px;
+   --library-card-title-before: 6px;
+   --library-card-title-after: 4px;
+   --library-card-detail-gap: 6px;
+@@ -113,5 +113,9 @@
+ }
+ 
+ @media (max-width: 700px) {
+-  :root { --library-grid-row-gap: 32px; }
++  :root {
++    --library-grid-row-gap: 32px;
++    --library-catalog-title-size: 20px;
++    --library-catalog-title-leading: 26px;
++  }
+ }

@@ -1,0 +1,232 @@
+[
+  {
+    "query": "?panel=pages",
+    "device": "desktop",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=pages",
+    "device": "mobile",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=sections",
+    "device": "desktop",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=sections",
+    "device": "mobile",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=systems",
+    "device": "desktop",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=systems",
+    "device": "mobile",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=system&section=blueprint-page",
+    "device": "desktop",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=system&section=blueprint-page",
+    "device": "mobile",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=sections&section=hero",
+    "device": "desktop",
+    "rejectedWording": false
+  },
+  {
+    "check": "Reference selection and Compare retained",
+    "passed": true
+  },
+  {
+    "query": "?panel=sections&section=hero",
+    "device": "mobile",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=page",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=page",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=hero",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=hero",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=image-index",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=image-index",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=project-detail",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=project-detail",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=split-material",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=split-material",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=image-rail",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=image-rail",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=feature",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=feature",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=quote",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=quote",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=footer",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=footer",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-page",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-page",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-header",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-header",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-hero",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-hero",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-editor",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-editor",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-examples",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-examples",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-compare",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-compare",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-features",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-features",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-pricing",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-pricing",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-faq",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-faq",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-prompt",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-prompt",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=library&section=blueprint-footer",
+    "rejectedWording": false
+  },
+  {
+    "query": "?view=blueprint-footer",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=system&section=page",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=sources&section=page",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=system&section=blueprint-page",
+    "rejectedWording": false
+  },
+  {
+    "query": "?panel=sources&section=blueprint-page",
+    "rejectedWording": false
+  }
+]

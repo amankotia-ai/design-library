@@ -1,0 +1,28 @@
+{
+  "t": 19414.59999999404,
+  "cards": [
+    {
+      "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+      "active": "false"
+    },
+    {
+      "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+      "active": "false"
+    },
+    {
+      "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+      "active": "false"
+    },
+    {
+      "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+      "active": "true"
+    }
+  ],
+  "viz": [
+    {
+      "text": "How do refunds work?\n\nConare\nadded to context\n\nThinking…\nWorked for 1s ▶\n\nCalled Search in docs. Refunds are available for 30 days.\n\nSource\nRefunds",
+      "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">How do refunds work?</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">Conare</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Thinking…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Worked for 1s <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Called <span class=\"viz-chip\">Search</span> in docs. Refunds are available for 30 days. </p><p class=\"viz-in flex items-center gap-2 text-[12px] leading-4 text-neutral-500\" style=\"--d:2600;\"> Source <span class=\"viz-chip text-off-white\"><span class=\"viz-dot bg-home-red\"></span>Refunds</span></p></div></div>"
+    }
+  ],
+  "run": "true"
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "desktop",
+    "width": 1482,
+    "data": [
+      {
+        "text": "An image-led portfolio, from selected work and project stories to a studio note and contact footer.",
+        "width": 344.75,
+        "height": 42.875,
+        "maxInlineSize": "344.76px",
+        "font": "13px / 21.45px \"Geist Sans\", Arial, sans-serif",
+        "cardWidth": 462,
+        "overflow": false
+      },
+      {
+        "text": "A complete product story with a working demo, examples, features, pricing, FAQs, and a closing call to action.",
+        "width": 344.75,
+        "height": 42.875,
+        "maxInlineSize": "344.76px",
+        "font": "13px / 21.45px \"Geist Sans\", Arial, sans-serif",
+        "cardWidth": 462,
+        "overflow": false
+      }
+    ],
+    "horizontalOverflow": false
+  },
+  {
+    "name": "tablet",
+    "width": 800,
+    "data": [
+      {
+        "text": "An image-led portfolio, from selected work and project stories to a studio note and contact footer.",
+        "width": 344.75,
+        "height": 42.875,
+        "maxInlineSize": "344.76px",
+        "font": "13px / 21.45px \"Geist Sans\", Arial, sans-serif",
+        "cardWidth": 368,
+        "overflow": false
+      },
+      {
+        "text": "A complete product story with a working demo, examples, features, pricing, FAQs, and a closing call to action.",
+        "width": 344.75,
+        "height": 42.875,
+        "maxInlineSize": "344.76px",
+        "font": "13px / 21.45px \"Geist Sans\", Arial, sans-serif",
+        "cardWidth": 368,
+        "overflow": false
+      }
+    ],
+    "horizontalOverflow": false
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "data": [
+      {
+        "text": "An image-led portfolio, from selected work and project stories to a studio note and contact footer.",
+        "width": 344.75,
+        "height": 42.875,
+        "maxInlineSize": "344.76px",
+        "font": "13px / 21.45px \"Geist Sans\", Arial, sans-serif",
+        "cardWidth": 358,
+        "overflow": false
+      },
+      {
+        "text": "A complete product story with a working demo, examples, features, pricing, FAQs, and a closing call to action.",
+        "width": 344.75,
+        "height": 42.875,
+        "maxInlineSize": "344.76px",
+        "font": "13px / 21.45px \"Geist Sans\", Arial, sans-serif",
+        "cardWidth": 358,
+        "overflow": false
+      }
+    ],
+    "horizontalOverflow": false
+  }
+]

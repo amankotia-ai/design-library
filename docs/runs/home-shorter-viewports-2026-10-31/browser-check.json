@@ -1,0 +1,37 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "paddingTop": "32px",
+      "minHeight": "0px",
+      "marginBottom": "96px",
+      "brandTop": 32,
+      "stageHeights": [
+        400.71875,
+        400.734375
+      ],
+      "viewportHeights": [
+        383.71875,
+        383.734375
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "paddingTop": "24px",
+      "minHeight": "0px",
+      "marginBottom": "64px",
+      "brandTop": 24,
+      "stageHeights": [
+        377.765625,
+        377.765625
+      ],
+      "viewportHeights": [
+        360.765625,
+        360.765625
+      ],
+      "overflow": false
+    }
+  ],
+  "cssSHA256": "590f6fca7ec9d727f384ac7cd3642f0aecba6705fdcde0586df89d0639b1f71d"
+}

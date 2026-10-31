@@ -1,0 +1,148 @@
+{
+  "checks": [
+    {
+      "panel": "sections",
+      "width": 1440,
+      "metrics": [
+        {
+          "label": "Section type",
+          "width": 134,
+          "height": 36,
+          "needed": 133.0879364013672,
+          "radius": "9999px"
+        },
+        {
+          "label": "Design system",
+          "width": 131,
+          "height": 36,
+          "needed": 130.7359161376953,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "pages",
+      "width": 1440,
+      "metrics": [
+        {
+          "label": "Page type",
+          "width": 125,
+          "height": 36,
+          "needed": 124.67596435546875,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "sections",
+      "width": 768,
+      "metrics": [
+        {
+          "label": "Section type",
+          "width": 134,
+          "height": 36,
+          "needed": 133.0879364013672,
+          "radius": "9999px"
+        },
+        {
+          "label": "Design system",
+          "width": 131,
+          "height": 36,
+          "needed": 130.7359161376953,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "pages",
+      "width": 768,
+      "metrics": [
+        {
+          "label": "Page type",
+          "width": 125,
+          "height": 36,
+          "needed": 124.67596435546875,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "sections",
+      "width": 390,
+      "metrics": [
+        {
+          "label": "Section type",
+          "width": 134,
+          "height": 36,
+          "needed": 133.0879364013672,
+          "radius": "9999px"
+        },
+        {
+          "label": "Design system",
+          "width": 131,
+          "height": 36,
+          "needed": 130.7359161376953,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "pages",
+      "width": 390,
+      "metrics": [
+        {
+          "label": "Page type",
+          "width": 125,
+          "height": 36,
+          "needed": 124.67596435546875,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "sections",
+      "width": 320,
+      "metrics": [
+        {
+          "label": "Section type",
+          "width": 134,
+          "height": 36,
+          "needed": 133.0879364013672,
+          "radius": "9999px"
+        },
+        {
+          "label": "Design system",
+          "width": 131,
+          "height": 36,
+          "needed": 130.7359161376953,
+          "radius": "9999px"
+        }
+      ]
+    },
+    {
+      "panel": "pages",
+      "width": 320,
+      "metrics": [
+        {
+          "label": "Page type",
+          "width": 125,
+          "height": 36,
+          "needed": 124.67596435546875,
+          "radius": "9999px"
+        }
+      ]
+    },
+    "Longest section choice Calls to action and Blueprint system selection, reload/clear/keyboard focus passed",
+    "Pages longest choice Landing page/filter/reload/clear passed",
+    {
+      "detailSystemSwitchUnchanged": {
+        "width": 220,
+        "height": 36
+      }
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "catalog.css": "c15002818d536009a4c722f4b8044c01414c6f0f184807d1d3c667481a60c819"
+  }
+}

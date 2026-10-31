@@ -1,0 +1,21 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "headerGap": "96px",
+      "headingTop": 199,
+      "countLabel": "Design systems",
+      "cards": 3,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "headerGap": "64px",
+      "headingTop": 181,
+      "countLabel": "Design systems",
+      "cards": 3,
+      "overflow": false
+    }
+  ],
+  "cssSHA256": "e9885bcc13c12686c501c5535f5903517db6580436b204507fecb46398de7b2a"
+}

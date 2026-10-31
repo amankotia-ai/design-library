@@ -1,0 +1,73 @@
+{
+  "sourceChatId": "01a18a31-ec9c-7bb3-86f1-f4ffc0978ea4",
+  "sourceChatTitle": "Review Berlickfold X posts",
+  "mode": "Original Quiet Serif expansion",
+  "references": [
+    {
+      "study": 7,
+      "title": "Catalogue and project panel",
+      "author": "Bernardo Lickfold",
+      "url": "https://x.com/berlickfold/status/2055682704847327527",
+      "observation": "Even at mobile width the catalogue retains pairs of portrait images. The project panel uses a paragraph, a short metadata table, then stacked project imagery.",
+      "localImage": "/references/editorial/image-index.webp",
+      "mode": "Original system expansion; source image retained only as evidence"
+    },
+    {
+      "study": 16,
+      "title": "Structure before imagery",
+      "author": "Bernardo Lickfold",
+      "url": "https://x.com/berlickfold/status/2033943094652019066",
+      "observation": "The desktop version reserves a narrow information rail beside tall photo panels. The mobile example keeps a photo pair above the copy and metadata, preserving their shared edges.",
+      "localImage": "/references/editorial/project-pair.webp",
+      "mode": "Original system expansion; source image retained only as evidence"
+    },
+    {
+      "study": 23,
+      "title": "A shared horizontal hinge",
+      "author": "Bernardo Lickfold",
+      "url": "https://x.com/berlickfold/status/2019020426375266668",
+      "observation": "A deep blank upper band separates navigation from the main content. The headline and small food image begin on the same line as the large room photograph. Short copy sits just above that line on the right.",
+      "localImage": "/references/editorial/horizontal-hinge.webp",
+      "mode": "Original system expansion; source image retained only as evidence"
+    },
+    {
+      "study": 29,
+      "title": "Images beside an index",
+      "author": "Bernardo Lickfold",
+      "url": "https://x.com/berlickfold/status/1921501628307222909",
+      "observation": "A large blank band follows the header. Below it, stacked portraits occupy the left side while a numbered list occupies the right. One list item is darker to show the active project.",
+      "localImage": "/references/editorial/image-rail.webp",
+      "mode": "Original system expansion; source image retained only as evidence"
+    }
+  ],
+  "assets": [
+    {
+      "path": "/assets/editorial/portrait.webp",
+      "origin": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/grid-study/dist/assets/portrait.webp",
+      "kind": "Prior Imagegen demo asset, not reference photography",
+      "sha256": "c3f8756b5ad561dacf49af2b4b7ae5b36575e3bb83bc7a835e9bf3fc1c1a3f97",
+      "promptRecord": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/grid-study/research/image-prompts.txt"
+    },
+    {
+      "path": "/assets/editorial/linen.webp",
+      "origin": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/grid-study/dist/assets/linen.webp",
+      "kind": "Prior Imagegen demo asset, not reference photography",
+      "sha256": "401cf960929887324213d1816130d2a98e5eebe9c8a4eb86f7dab6a6a0821c1a",
+      "promptRecord": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/grid-study/research/image-prompts.txt"
+    },
+    {
+      "path": "/assets/editorial/landscape.webp",
+      "origin": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/grid-study/dist/assets/landscape.webp",
+      "kind": "Prior Imagegen demo asset, not reference photography",
+      "sha256": "455372f710e9f501a17383bccca0e16883046a909fc3388c809d747cc3dc73e8",
+      "promptRecord": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/grid-study/research/image-prompts.txt"
+    }
+  ],
+  "notes": [
+    "Two coastal frames are separate crops of one generated source image, not two documentary photographs.",
+    "Sample portfolio content is illustrative; no client relationship or commissioned project is implied.",
+    "Source16 desktop/mobile pair and source29 mobile index informed composition; other responsive behavior is authored.",
+    "Noto Serif Display remains an explicitly free alternative, not identified source serif.",
+    "No files in Render Assets or installed skills were changed."
+  ]
+}

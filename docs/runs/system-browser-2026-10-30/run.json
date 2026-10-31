@@ -1,0 +1,47 @@
+{
+  "mode": "Original system expansion: library browser",
+  "sourceMode": "Faithful source sections unchanged",
+  "preview": "http://127.0.0.1:5175/",
+  "startUtc": "2026-10-30T17:24:39Z",
+  "deadlineUtc": "2026-10-30T17:44:39Z",
+  "roles": {
+    "implementation": "/root",
+    "visualAnalysis": "/root/visual_analysis",
+    "productDesign": "/root/product_design",
+    "artDirection": "/root/art_direction",
+    "independentQA": "/root/independent_qa"
+  },
+  "decisions": [
+    "Visual trait + defining element for reusable system display names; attributed source name plus separate source-study mode.",
+    "Stable IDs and section routes preserved; former names retained as aliases.",
+    "Two language IDs across three collections, with counts derived from registry.",
+    "Actual rendered preview assets, including original Cobalt hero and source Blueprint editor.",
+    "Usage, trade-offs, visual logic, extension guidance, evidence and lineage precede tokens."
+  ],
+  "runtime": "/private/tmp/design-library-pilot-runtime",
+  "validation": {
+    "build": "passed",
+    "inputChecks": "passed",
+    "parentBrowserChecks": "No console errors, missing images or overflow at 1440 and 390px",
+    "independentQA": "passed: 68 scoped checks, 0 failures, 0 browser errors; see qa.json and qa.md"
+  },
+  "hashes": {
+    "pilot/src/main.jsx": "81117626b9f6cf58f5faad0d4e3e32b3c5a98ab9804cb121558ceab224f422de",
+    "pilot/src/data.js": "f059f695f314da8fd6325a418de256f70bcdb56c903ed5e822f7a60a0e2a5349",
+    "pilot/src/system-browser.jsx": "76a23527bbf47a8cbf6a2bf8e82f9055670c1c41e7d947fc8313bb254b4e0317",
+    "pilot/src/system-browser.css": "dc9916772d3cabbf123f1b3474c9890bb2d6e0bc2f9b729369b9f6feb094295e",
+    "pilot/src/library-tokens.css": "842a8e50e34f6c5f6926681e3ecc7592a0af617330cae336a4ed4702ef8ac7f5",
+    "pilot/src/style.css": "74aad432a16264ab4e05e8b061b8488f181c861a927fc85174701ddbead0e105",
+    "pilot/scripts/check.mjs": "e4ca37e98b490e1b243a2a271321a1313c7a21ba534f64ed5de929b9d7085bf1",
+    "pilot/evidence/system-browser-home-desktop.png": "e90d4fc305f43c4b661d23b9673010a29efbd8ae2ff97591f3c5b0916bfc3c9e",
+    "pilot/evidence/system-browser-home-mobile.png": "b3e730a3bbd2ca0fbbadb488dc64ba3390647847dbaaaac6600d2617a400d2c5",
+    "pilot/evidence/system-browser-detail-desktop.png": "5132d531bfc28f77ba4b229d3347b3617975bcd37dd0af887804cd13b0dffee3",
+    "pilot/evidence/system-browser-detail-mobile.png": "01cea1040da772a345b64a7020d982081e69a6c7c07ae049c0b45c6fbec4cc1c"
+  },
+  "completedUtc": "2026-10-30T17:30:36Z",
+  "unfinished": [],
+  "limits": [
+    "Local Chromium review; cross-browser and screen-reader certification are outside this pass.",
+    "Existing source font and asset substitutions remain disclosed; no new source behavior recovery is claimed."
+  ]
+}

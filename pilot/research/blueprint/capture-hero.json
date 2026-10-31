@@ -1,0 +1,31 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "/Users/abhishekmankotia/Library/Caches/ms-playwright/chromium-1248/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing"
+  },
+  "environment": {
+    "viewport": {
+      "width": 1440,
+      "height": 594
+    }
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:5175/?view=signal-hero&mode=faithful"
+  },
+  "actions": [
+    {
+      "step_id": "settle",
+      "action": "wait_for_timeout",
+      "duration_ms": 700
+    }
+  ],
+  "capture": {
+    "at_end": [
+      "screenshot",
+      "url"
+    ],
+    "events": [
+      "page-errors"
+    ]
+  }
+}

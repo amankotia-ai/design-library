@@ -1,0 +1,1225 @@
+{
+  "url": "https://emilkowal.ski/ui/you-dont-need-animations",
+  "body": {
+    "tag": "BODY",
+    "text": "Enrollment for my new course aiforui.dev is open! 12 hours left to join.\n\nEmil Kowalski\nDesign Engineer\n\nWhen ",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 6964.875
+    },
+    "font": "",
+    "fontFamily": "Sans, \"Sans Fallback\"",
+    "fontSize": "16px",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgb(253, 253, 252)",
+    "borderRadius": "0px",
+    "margin": "0px",
+    "padding": "0px"
+  },
+  "elements": [
+    {
+      "tag": "P",
+      "text": "Enrollment for my new course aiforui.dev is open! 12 hours left to join.",
+      "rect": {
+        "x": 398,
+        "y": 15.453125,
+        "width": 463.515625,
+        "height": 23.09375
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "14px",
+      "lineHeight": "23.1px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "rect": {
+        "x": 1022,
+        "y": 13,
+        "width": 28,
+        "height": 28
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "14px",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "8px",
+      "margin": "0px -8px 0px 16px",
+      "padding": "0px"
+    },
+    {
+      "tag": "HEADER",
+      "text": "Emil Kowalski\nDesign Engineer",
+      "rect": {
+        "x": 398,
+        "y": 117,
+        "width": 644,
+        "height": 40
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 128px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "When done right, animations make an interface feel predictable, faster, and more enjoyable to use. They help y",
+      "rect": {
+        "x": 398,
+        "y": 285,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "But they can also do the opposite. They can make an interface feel unpredictable, slow, and annoying. They can",
+      "rect": {
+        "x": 398,
+        "y": 363.78125,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "So how do you know when and how to animate to improve the experience?",
+      "rect": {
+        "x": 398,
+        "y": 442.5625,
+        "width": 644,
+        "height": 26.390625
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Step one is making sure your animations have a purpose.",
+      "rect": {
+        "x": 398,
+        "y": 494.953125,
+        "width": 644,
+        "height": 26.390625
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "text": "Purposeful animations",
+      "rect": {
+        "x": 398,
+        "y": 577.34375,
+        "width": 171.140625,
+        "height": 24
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Before you start animating, ask yourself: what’s the purpose of this animation?\nAs an example, what’s the purp",
+      "rect": {
+        "x": 398,
+        "y": 621.34375,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "rect": {
+        "x": 398,
+        "y": 706.125,
+        "width": 644,
+        "height": 320
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "You can view the full animation on linear.app/ai.",
+      "rect": {
+        "x": 398,
+        "y": 1042.125,
+        "width": 644,
+        "height": 16
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(130, 130, 124)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "16px 0px 32px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "This animation explains how Product Intelligence (Linear’s feature) works. We could have used a static asset, ",
+      "rect": {
+        "x": 398,
+        "y": 1090.125,
+        "width": 644,
+        "height": 79.171875
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Another purposeful animation is this subtle scale down effect when pressing a button. It’s a small thing, but ",
+      "rect": {
+        "x": 398,
+        "y": 1195.296875,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Paste",
+      "rect": {
+        "x": 609.71875,
+        "y": 1389.078125,
+        "width": 90.28125,
+        "height": 40
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(23, 23, 23)",
+      "borderRadius": "9999px",
+      "margin": "0px",
+      "padding": "8px 24px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Paste",
+      "rect": {
+        "x": 740,
+        "y": 1389.078125,
+        "width": 90.28125,
+        "height": 40
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(23, 23, 23)",
+      "borderRadius": "9999px",
+      "margin": "0px",
+      "padding": "8px 24px"
+    },
+    {
+      "tag": "P",
+      "text": "Sonner’s enter animation, on the other hand, has two purposes:",
+      "rect": {
+        "x": 398,
+        "y": 1571.078125,
+        "width": 644,
+        "height": 26.390625
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "But sometimes the purpose of an animation might just be to bring delight.",
+      "rect": {
+        "x": 398,
+        "y": 2042.46875,
+        "width": 644,
+        "height": 26.390625
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Morphing of the feedback component below helps make the experience more unique and memorable. This works as lo",
+      "rect": {
+        "x": 398,
+        "y": 2094.859375,
+        "width": 644,
+        "height": 79.171875
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Feedback",
+      "rect": {
+        "x": 674.25,
+        "y": 2332.03125,
+        "width": 91.5,
+        "height": 36
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgb(255, 255, 255)",
+      "borderRadius": "8px",
+      "margin": "0px",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "P",
+      "text": "Press on the button to see it morph.",
+      "rect": {
+        "x": 398,
+        "y": 2509.03125,
+        "width": 644,
+        "height": 16
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(130, 130, 124)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "-20px 0px 32px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Used multiple times a day, this component would quickly become irritating. The initial delight would fade and ",
+      "rect": {
+        "x": 398,
+        "y": 2557.03125,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "How often users will see an animation is a key factor in deciding whether to animate or not. Let’s dive deeper",
+      "rect": {
+        "x": 398,
+        "y": 2635.8125,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "text": "Frequency of use",
+      "rect": {
+        "x": 398,
+        "y": 2744.59375,
+        "width": 132.40625,
+        "height": 24
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "I use Raycast hundreds of times a day. If it animated every time I opened it, it would be very annoying. But t",
+      "rect": {
+        "x": 398,
+        "y": 2788.59375,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "To see it for yourself, try to toggle the open state of the menu below by pressing J and then K. Which one fee",
+      "rect": {
+        "x": 398,
+        "y": 2867.375,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Animation",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "14px",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgb(255, 255, 255)",
+      "borderRadius": "9999px",
+      "margin": "0px",
+      "padding": "6px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "No animation",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "14px",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgb(255, 255, 255)",
+      "borderRadius": "9999px",
+      "margin": "0px",
+      "padding": "6px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Open Application\n↵",
+      "rect": {
+        "x": 901.09375,
+        "y": 3362.65625,
+        "width": 134.90625,
+        "height": 28
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "margin": "0px 0px 0px 472.094px",
+      "padding": "0px 6px"
+    },
+    {
+      "tag": "P",
+      "text": "When I open Raycast, I have a clear goal in mind. I don’t expect to be “delighted”, I don’t need to be. I just",
+      "rect": {
+        "x": 398,
+        "y": 3428.15625,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Think about what the user wants to achieve and how often they will see an animation. A hover effect is nice, b",
+      "rect": {
+        "x": 398,
+        "y": 3506.9375,
+        "width": 644,
+        "height": 79.171875
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Imagine you interact with this list often during the day.",
+      "rect": {
+        "x": 398,
+        "y": 4123.109375,
+        "width": 644,
+        "height": 16
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(130, 130, 124)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "-20px 0px 32px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Imagine you interact with this list often during the day.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(130, 130, 124)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "16px 0px 32px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "The same goes for keyboard-initiated actions. These actions may be repeated hundreds of times a day, an animat",
+      "rect": {
+        "x": 398,
+        "y": 4171.109375,
+        "width": 644,
+        "height": 79.171875
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Since we can’t really use a keyboard on touch devices, you can press the buttons below to see how it feels wit",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "To see it for yourself, focus on the input below and use arrow keys to navigate through the list. Notice how t",
+      "rect": {
+        "x": 398,
+        "y": 4276.28125,
+        "width": 644,
+        "height": 79.171875
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Animation",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "14px",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgb(255, 255, 255)",
+      "borderRadius": "9999px",
+      "margin": "0px",
+      "padding": "6px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "No animation",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "14px",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgb(255, 255, 255)",
+      "borderRadius": "9999px",
+      "margin": "0px",
+      "padding": "6px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Open Application\n↵",
+      "rect": {
+        "x": 901.09375,
+        "y": 4797.953125,
+        "width": 134.90625,
+        "height": 28
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "margin": "0px 0px 0px 472.094px",
+      "padding": "0px 6px"
+    },
+    {
+      "tag": "P",
+      "text": "Press shift to toggle the animation",
+      "rect": {
+        "x": 398,
+        "y": 4849.453125,
+        "width": 644,
+        "height": 16
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(130, 130, 124)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "18px 0px 32px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "But even if your animation won’t be used too often and it fulfills a clear purpose, you still have to think ab",
+      "rect": {
+        "x": 398,
+        "y": 4897.453125,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "text": "Perception of speed",
+      "rect": {
+        "x": 398,
+        "y": 5006.234375,
+        "width": 153.609375,
+        "height": 24
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Unless you are working on marketing sites, your animations have to be fast. They improve the perceived perform",
+      "rect": {
+        "x": 398,
+        "y": 5050.234375,
+        "width": 644,
+        "height": 79.171875
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "To give you an example, a faster-spinning spinner makes the app seem to load faster, even though the load time",
+      "rect": {
+        "x": 398,
+        "y": 5155.40625,
+        "width": 644,
+        "height": 52.78125
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Which one works harder to load the data?",
+      "rect": {
+        "x": 398,
+        "y": 5431.1875,
+        "width": 644,
+        "height": 16
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(130, 130, 124)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "-20px 0px 32px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "A 180ms dropdown animation feels more responsive than a 400ms one:",
+      "rect": {
+        "x": 398,
+        "y": 5479.1875,
+        "width": 644,
+        "height": 26.390625
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Options",
+      "rect": {
+        "x": 584.4375,
+        "y": 5783.578125,
+        "width": 107.125,
+        "height": 40
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgb(255, 255, 255)",
+      "borderRadius": "9999px",
+      "margin": "0px",
+      "padding": "8px 24px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Options",
+      "rect": {
+        "x": 748.4375,
+        "y": 5783.578125,
+        "width": 107.125,
+        "height": 40
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgb(255, 255, 255)",
+      "borderRadius": "9999px",
+      "margin": "0px",
+      "padding": "8px 24px"
+    },
+    {
+      "tag": "P",
+      "text": "Click on the buttons to compare the speed.",
+      "rect": {
+        "x": 398,
+        "y": 5916.578125,
+        "width": 644,
+        "height": 16
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(130, 130, 124)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "-20px 0px 32px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "As a rule of thumb, UI animations should generally stay under 300ms.",
+      "rect": {
+        "x": 398,
+        "y": 5964.578125,
+        "width": 644,
+        "height": 26.390625
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Another example of the importance of speed: tooltips should have a slight delay before appearing to prevent ac",
+      "rect": {
+        "x": 398,
+        "y": 6016.96875,
+        "width": 644,
+        "height": 79.171875
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "This feels faster without defeating the purpose of the initial delay.",
+      "rect": {
+        "x": 398,
+        "y": 6122.140625,
+        "width": 644,
+        "height": 26.390625
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "rect": {
+        "x": 602,
+        "y": 6291.53125,
+        "width": 32,
+        "height": 32
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "rect": {
+        "x": 634,
+        "y": 6291.53125,
+        "width": 32,
+        "height": 32
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "rect": {
+        "x": 666,
+        "y": 6291.53125,
+        "width": 32,
+        "height": 32
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "rect": {
+        "x": 742,
+        "y": 6291.53125,
+        "width": 32,
+        "height": 32
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "rect": {
+        "x": 774,
+        "y": 6291.53125,
+        "width": 32,
+        "height": 32
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "rect": {
+        "x": 806,
+        "y": 6291.53125,
+        "width": 32,
+        "height": 32
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "text": "Building great interfaces",
+      "rect": {
+        "x": 398,
+        "y": 6492.53125,
+        "width": 186.71875,
+        "height": 24
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "The goal is not to animate for animation’s sake, it’s to build great user interfaces. The ones that users will",
+      "rect": {
+        "x": 398,
+        "y": 6536.53125,
+        "width": 644,
+        "height": 79.171875
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "text": "Knowing when to animate is just one of many things you need to know in order to craft great animations. If you",
+      "rect": {
+        "x": 398,
+        "y": 6641.703125,
+        "width": 644,
+        "height": 79.171875
+      },
+      "font": "",
+      "fontFamily": "Sans, \"Sans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "26.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(33, 32, 28)",
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "margin": "0px 0px 26px",
+      "padding": "0px"
+    }
+  ]
+}

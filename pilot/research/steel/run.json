@@ -1,0 +1,33 @@
+{
+  "run": "steel-2026-10-31",
+  "runtime": "/tmp/design-library-steel-runtime",
+  "preview": "http://127.0.0.1:5177/?view=steel-page",
+  "source": "https://steel.dev/",
+  "hashes": {
+    "src/steel.jsx": "6bcff921e0629672bf897075d53c993c08c4e3b36c07ccbc0cfbca32a5752931",
+    "src/steel-data.js": "0c94702b02970845b0a134e68a1d3dcc4c88dbbd5e223c5042aeec7595669325",
+    "src/steel-tokens.css": "04165274ba7c23c2851980ac80ed7e0302383acfc0a379ad55d844f9c96ec98c",
+    "src/steel-source-parts.json": "bbfa73173866ef4317235e846cb1d1e50c1aa009416250fa73b6e1c927e3a4d6",
+    "src/steel-mobile-parts.json": "f6d74caf95b2b1ceb07c8f8b3de8418829ae4145d10d5d512fa2d377596b96bd",
+    "public/steel-source/source.css": "20810c39493f6b58c540b706543d0624df655cf082ac083c8cf93d6d63fe29df",
+    "public/steel-source/tokens.css": "04165274ba7c23c2851980ac80ed7e0302383acfc0a379ad55d844f9c96ec98c",
+    "public/steel-source/layout.css": "587cf46723de2465c7daca935fec8d31d6b56319809a84c2d2523fe58f0c1231",
+    "public/steel-source/proxies-desktop.png": "3260c47c3bcd355749fe82d1ad760c20645e34e74a9484680a38dcc460a622fa",
+    "public/steel-source/proxies-mobile.png": "b10df64175370532cb08c842654b3d2922b0cb0181f4fcbe126b0195e29a54f0"
+  },
+  "validation": {
+    "productionBuild": "passed",
+    "scopedInputs": "passed",
+    "independentQA": "37 scoped route/viewport checks passed; qa.md defines scope",
+    "artReview": "passed within declared scope",
+    "broadCheck": "blocked by unrelated missing salesloft.mode in parallel snapshot"
+  },
+  "remaining": [
+    "Product scenes are settled states",
+    "Use-case motion is replaced with native disclosures",
+    "Source font redistribution rights unverified",
+    "Source hero animation frame varies",
+    "System specimen has a minor palette/parameter crop"
+  ],
+  "finalReview": "qa.json + qa-addendum.json"
+}

@@ -1,0 +1,258 @@
+{
+  "reviewer": "/root/quote_qa",
+  "role": "independent QA",
+  "date": "2026-10-30",
+  "status": "passed",
+  "scope": "Named design-system registry, section binding and visible Study/System identity; scoped follow-up to quote QA",
+  "hashes": {
+    "src/data.js": "e6af33c2b76f912c578b28e42e16126db59854ed116f841fd08e1ae9e081db7c",
+    "src/main.jsx": "29198c5f9300760ac66e76dbeadf7628c3d51d40b6c9ef2f7578ea030c9a6eed",
+    "scripts/check.mjs": "098b2dee9cbb4d2a937e8991e9d1babdfa87caca88b7a61dd3a4af197237e13b",
+    "evidence/system-identity/library-1440.png": "94730bd8c1da1bc98146aa76daa77f61656009945658b9b6d9b1243f2e73e656",
+    "evidence/system-identity/library-390.png": "8ff87970819709db2181970abedc60ef97b2f16fb3d521bc677a59053159a709",
+    "evidence/system-identity/system-1440.png": "ebe96f5a7abe7db7d0c847009c040a20add926d1f8f5f8ceb15abb06ffb4b730",
+    "evidence/system-identity/system-390.png": "3cf5ba078cb815ac46a0e4a8585c24f4565d6a0690aa45648d88cfa7bc13cab5"
+  },
+  "checks": [
+    {
+      "name": "Systems have unique nonempty IDs",
+      "passed": true,
+      "details": [
+        "editorial-01"
+      ]
+    },
+    {
+      "name": "Every system named and described",
+      "passed": true,
+      "details": [
+        {
+          "id": "editorial-01",
+          "name": "Quiet Direction",
+          "family": "Editorial",
+          "description": "An editorial system with slender serif headlines, generous spacing, precise grids, and photography that carries the color. Designed for portfolios and creative studios."
+        }
+      ]
+    },
+    {
+      "name": "Every section linked to registered system",
+      "passed": true,
+      "details": [
+        {
+          "id": "page",
+          "systemId": "editorial-01"
+        },
+        {
+          "id": "hero",
+          "systemId": "editorial-01"
+        },
+        {
+          "id": "feature",
+          "systemId": "editorial-01"
+        },
+        {
+          "id": "quote",
+          "systemId": "editorial-01"
+        },
+        {
+          "id": "footer",
+          "systemId": "editorial-01"
+        }
+      ]
+    },
+    {
+      "name": "Source/runtime equality src/data.js",
+      "passed": true,
+      "details": "e6af33c2b76f912c578b28e42e16126db59854ed116f841fd08e1ae9e081db7c"
+    },
+    {
+      "name": "Source/runtime equality src/main.jsx",
+      "passed": true,
+      "details": "29198c5f9300760ac66e76dbeadf7628c3d51d40b6c9ef2f7578ea030c9a6eed"
+    },
+    {
+      "name": "Source/runtime equality scripts/check.mjs",
+      "passed": true,
+      "details": "098b2dee9cbb4d2a937e8991e9d1babdfa87caca88b7a61dd3a4af197237e13b"
+    },
+    {
+      "name": "Study 320 system identity matches metadata",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Study 320 no overflow",
+      "passed": true,
+      "details": {
+        "w": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "Study 320 quote preview retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "System 320 name/description match metadata",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "System 320 no overflow",
+      "passed": true,
+      "details": {
+        "w": 320,
+        "scroll": 320
+      }
+    },
+    {
+      "name": "Selector 320 page preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 320 hero preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 320 feature preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 320 quote preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 320 footer preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Study 390 system identity matches metadata",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Study 390 no overflow",
+      "passed": true,
+      "details": {
+        "w": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "Study 390 quote preview retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "System 390 name/description match metadata",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "System 390 no overflow",
+      "passed": true,
+      "details": {
+        "w": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "name": "Selector 390 page preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 390 hero preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 390 feature preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 390 quote preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 390 footer preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Study 1440 system identity matches metadata",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Study 1440 no overflow",
+      "passed": true,
+      "details": {
+        "w": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "Study 1440 quote preview retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "System 1440 name/description match metadata",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "System 1440 no overflow",
+      "passed": true,
+      "details": {
+        "w": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "name": "Selector 1440 page preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 1440 hero preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 1440 feature preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 1440 quote preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Selector 1440 footer preserves system identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "No browser page errors",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "visual_inspection": [
+    "evidence/system-identity/library-1440.png",
+    "evidence/system-identity/library-390.png",
+    "evidence/system-identity/system-1440.png",
+    "evidence/system-identity/system-390.png"
+  ],
+  "visual_findings": "No blocking finding. Names and descriptions are readable, wrap naturally, and preserve existing reading-column hierarchy and preview controls."
+}

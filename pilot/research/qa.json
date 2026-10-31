@@ -1,0 +1,44 @@
+{
+  "reviewer": "/root/independent_qa",
+  "role": "independent QA",
+  "date": "2026-10-30",
+  "status": "changes_requested",
+  "revision": "4b1aee855c8ad077560fce9fd724ef2ba843d3f2920173eb00e1abad5673b111",
+  "revision_files": {
+    "index.html": "63f630b65e62b0180755fe56181d7c5aeb2c3d1f426847bfee44ba269f594850",
+    "package-lock.json": "54f315d024a210ad6862822354da23772131a787a9aec3e9a956da9c3981e24d",
+    "package.json": "a4632b37410046fe201b209552969fb6c2f874f10d75b54b112fedfafa49a1b8",
+    "postcss.config.js": "9199a4d20e13f66b8be9a348af182f4d14805b93b315db19f95be8432cd8301b",
+    "src/data.js": "0d8784bd974ac63c648bcce223b237ef963f905423018b6639a6e3e28bb2fdfb",
+    "src/main.jsx": "319e41b4d0f9a3bb34284dac3ca11c39cf1ef756fe7389c7a7da201222cbf5b1",
+    "src/sections.css": "0af72e3f735737ada72d1ab394c6867d847ea3adedb21c846ec8ba2d4c368717",
+    "src/sections.jsx": "fb851d1168d41c803077905ce5f13f6e7120443ca8c2245ad930240ec338b8bf",
+    "src/style.css": "62124e7a8697068da8ea3acedaefbfcd611ce07d590bd75feae41d5d9dcc5a60",
+    "src/tokens.css": "9149ffa1cce8a8f12dfdaaa00dfe0bf95531e0107cc695b9253734267513fd77",
+    "tailwind.config.js": "0f1254ce08e993f52c4a619b75222bffa18613d869ac12fec7be94616ce953f1",
+    "vite.config.js": "507e98a1228bf5ebc73a334bdb470e152e12d1950b4b5bc858adc1e73d91a5c0"
+  },
+  "screenshots": {
+    "hero-faithful.png": "2deeecde5eb0b447d1b99042b4802f0833204b1d9524a7a6116a9155a96742f6",
+    "library-desktop.png": "62393b46725c7ecc31018c6ffe939befea8e7550e4a244d2878079ea3b17002c",
+    "page-desktop.png": "193c221975dcebbb341c78fbabbf6a0f867a38ddc2302d7cac0ac35029a55650",
+    "page-mobile.png": "57a839834fc62717904b33a84ab9cca08c1bd0c87c359f2451fc670fdcc3105f",
+    "page-tablet.png": "80c1078ea46c2b933d577e72bb0b6c267cb4a69862f04bfb67edc849d62d6c64"
+  },
+  "findings": [
+    {
+      "id": "QA-01",
+      "status": "open",
+      "owner": "/root",
+      "location": "src/main.jsx PreviewFrame",
+      "issue": "Iframe height retains previously selected section height; Footer canvas2350px vs body562.8px after assembled page.",
+      "success": "Section/device changes size preview to current natural content."
+    }
+  ],
+  "behavior_evidence": "research/qa-behavior.json",
+  "limitations": [
+    "One Chromium browser, no screen-reader matrix",
+    "Explicit type, grid, screenshot-photo approximations",
+    "Runtime copy used during Documents cloud materialization stalls"
+  ]
+}

@@ -1,0 +1,820 @@
+[
+  {
+    "tag": "P",
+    "cls": "mt-6 font-glyphic text-[16px] leading-6",
+    "rect": [
+      40,
+      5213.203125,
+      486,
+      24
+    ],
+    "background": "rgba(0, 0, 0, 0)",
+    "html": "<p class=\"mt-6 font-glyphic text-[16px] leading-6\"> Search any data you bring. Get the right answer. </p>",
+    "links": []
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "rect": [
+      40,
+      5157.203125,
+      486,
+      80
+    ],
+    "background": "rgba(0, 0, 0, 0)",
+    "html": "<div><img src=\"/brand/mark-white.svg\" alt=\"Conare\" width=\"36\" height=\"32\" class=\"h-8 w-auto\"><p class=\"mt-6 font-glyphic text-[16px] leading-6\"> Search any data you bring. Get the right answer. </p></div>",
+    "links": []
+  },
+  {
+    "tag": "DIV",
+    "cls": "flex flex-col justify-between gap-12 md:col-span-5",
+    "rect": [
+      40,
+      5157.203125,
+      486,
+      204.78125
+    ],
+    "background": "rgba(0, 0, 0, 0)",
+    "html": "<div class=\"flex flex-col justify-between gap-12 md:col-span-5\"><div><img src=\"/brand/mark-white.svg\" alt=\"Conare\" width=\"36\" height=\"32\" class=\"h-8 w-auto\"><p class=\"mt-6 font-glyphic text-[16px] leading-6\"> Search any data you bring. Get the right answer. </p></div><div class=\"flex flex-wrap items-center gap-x-6 gap-y-2 text-[13px] leading-[1.4] text-off-white/80\"><span>© 2026 Conare, Inc.</span><a href=\"/privacy\" class=\"roll-host transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Privacy</span><span class=\"roll-b\" aria-hidden=\"true\">Privacy</span></span></a><a href=\"/terms\" class=\"roll-host transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Terms</span><span class=\"roll-b\" aria-hidden=\"true\">Terms</span></span></a></div></div>",
+    "links": [
+      {
+        "text": "Privacy\nPrivacy",
+        "href": "https://conare.ai/privacy"
+      },
+      {
+        "text": "Terms\nTerms",
+        "href": "https://conare.ai/terms"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "cls": "relative mx-auto grid max-w-[1440px] gap-y-14 px-4 pt-16 sm:px-6 md:grid-cols-12 md:gap-x-6 lg:px-10 lg:pt-20",
+    "rect": [
+      0,
+      5077.203125,
+      1280,
+      284.78125
+    ],
+    "background": "rgba(0, 0, 0, 0)",
+    "html": "<div class=\"relative mx-auto grid max-w-[1440px] gap-y-14 px-4 pt-16 sm:px-6 md:grid-cols-12 md:gap-x-6 lg:px-10 lg:pt-20\"><div class=\"flex flex-col justify-between gap-12 md:col-span-5\"><div><img src=\"/brand/mark-white.svg\" alt=\"Conare\" width=\"36\" height=\"32\" class=\"h-8 w-auto\"><p class=\"mt-6 font-glyphic text-[16px] leading-6\"> Search any data you bring. Get the right answer. </p></div><div class=\"flex flex-wrap items-center gap-x-6 gap-y-2 text-[13px] leading-[1.4] text-off-white/80\"><span>© 2026 Conare, Inc.</span><a href=\"/privacy\" class=\"roll-host transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Privacy</span><span class=\"roll-b\" aria-hidden=\"true\">Privacy</span></span></a><a href=\"/terms\" class=\"roll-host transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Terms</span><span class=\"roll-b\" aria-hidden=\"true\">Terms</span></span></a></div></div><div role=\"navigation\" aria-label=\"Footer\" class=\"grid grid-cols-2 gap-x-6 gap-y-12 sm:grid-cols-4 md:col-span-5 md:col-start-8 md:grid-cols-2 lg:col-span-7 lg:col-start-6 lg:grid-cols-4\"><!--[--><div><p class=\"font-geist text-[13px] leading-5\">Product</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"/docs/query\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Search</span><span class=\"roll-b\" aria-hidden=\"true\">Search</span></span></a></li><li class=\"flex\"><a href=\"/docs/sources\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Sync</span><span class=\"roll-b\" aria-hidden=\"true\">Sync</span></span></a></li><li class=\"flex\"><a href=\"/docs/files\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Parse</span><span class=\"roll-b\" aria-hidden=\"true\">Parse</span></span></a></li><li class=\"flex\"><a href=\"/docs/embed-rerank\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Embed</span><span class=\"roll-b\" aria-hidden=\"true\">Embed</span></span></a></li><li class=\"flex\"><a href=\"/reranker\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Rerank</span><span class=\"roll-b\" aria-hidden=\"true\">Rerank</span></span></a></li><!--]--></ul></div><div><p class=\"font-geist text-[13px] leading-5\">Developers</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"/docs\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Docs</span><span class=\"roll-b\" aria-hidden=\"true\">Docs</span></span></a></li><li class=\"flex\"><a href=\"/docs/quickstart\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Quickstart</span><span class=\"roll-b\" aria-hidden=\"true\">Quickstart</span></span></a></li><li class=\"flex\"><a href=\"/docs/api\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">API</span><span class=\"roll-b\" aria-hidden=\"true\">API</span></span></a></li><li class=\"flex\"><a href=\"/docs/sdk\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">SDK</span><span class=\"roll-b\" aria-hidden=\"true\">SDK</span></span></a></li><li class=\"flex\"><a href=\"/docs/mcp-server\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">MCP server</span><span class=\"roll-b\" aria-hidden=\"true\">MCP server</span></span></a></li><!--]--></ul></div><div><p class=\"font-geist text-[13px] leading-5\">Resources</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"/evals\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Evals</span><span class=\"roll-b\" aria-hidden=\"true\">Evals</span></span></a></li><li class=\"flex\"><a href=\"/blog\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Blog</span><span class=\"roll-b\" aria-hidden=\"true\">Blog</span></span></a></li><li class=\"flex\"><a href=\"/pricing\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Pricing</span><span class=\"roll-b\" aria-hidden=\"true\">Pricing</span></span></a></li><li class=\"flex\"><a href=\"/security/disclosure\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Security</span><span class=\"roll-b\" aria-hidden=\"true\">Security</span></span></a></li><li class=\"flex\"><a href=\"/subprocessors\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Subprocessors</span><span class=\"roll-b\" aria-hidden=\"true\">Subprocessors</span></span></a></li><li class=\"flex\"><a href=\"https://status.conare.ai/\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Status</span><span class=\"roll-b\" aria-hidden=\"true\">Status</span></span></a></li><!--]--></ul></div><div><p class=\"font-geist text-[13px] leading-5\">Company</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"https://cal.com/team/conare-inc/demo\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Book a demo</span><span class=\"roll-b\" aria-hidden=\"true\">Book a demo</span></span></a></li><li class=\"flex\"><a href=\"https://cal.com/team/conare-inc/demo\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Contact us</span><span class=\"roll-b\" aria-hidden=\"true\">Contact us</span></span></a></li><li class=\"flex\"><a href=\"https://conare.ai/login\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Sign in</span><span class=\"roll-b\" aria-hidden=\"true\">Sign in</span></span></a></li><!--]--></ul></div><!--]--></div></div>",
+    "links": [
+      {
+        "text": "Privacy\nPrivacy",
+        "href": "https://conare.ai/privacy"
+      },
+      {
+        "text": "Terms\nTerms",
+        "href": "https://conare.ai/terms"
+      },
+      {
+        "text": "Search\nSearch",
+        "href": "https://conare.ai/docs/query"
+      },
+      {
+        "text": "Sync\nSync",
+        "href": "https://conare.ai/docs/sources"
+      },
+      {
+        "text": "Parse\nParse",
+        "href": "https://conare.ai/docs/files"
+      },
+      {
+        "text": "Embed\nEmbed",
+        "href": "https://conare.ai/docs/embed-rerank"
+      },
+      {
+        "text": "Rerank\nRerank",
+        "href": "https://conare.ai/reranker"
+      },
+      {
+        "text": "Docs\nDocs",
+        "href": "https://conare.ai/docs"
+      },
+      {
+        "text": "Quickstart\nQuickstart",
+        "href": "https://conare.ai/docs/quickstart"
+      },
+      {
+        "text": "API\nAPI",
+        "href": "https://conare.ai/docs/api"
+      },
+      {
+        "text": "SDK\nSDK",
+        "href": "https://conare.ai/docs/sdk"
+      },
+      {
+        "text": "MCP server\nMCP server",
+        "href": "https://conare.ai/docs/mcp-server"
+      },
+      {
+        "text": "Evals\nEvals",
+        "href": "https://conare.ai/evals"
+      },
+      {
+        "text": "Blog\nBlog",
+        "href": "https://conare.ai/blog"
+      },
+      {
+        "text": "Pricing\nPricing",
+        "href": "https://conare.ai/pricing"
+      },
+      {
+        "text": "Security\nSecurity",
+        "href": "https://conare.ai/security/disclosure"
+      },
+      {
+        "text": "Subprocessors\nSubprocessors",
+        "href": "https://conare.ai/subprocessors"
+      },
+      {
+        "text": "Status\nStatus",
+        "href": "https://status.conare.ai/"
+      },
+      {
+        "text": "Book a demo\nBook a demo",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Contact us\nContact us",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Sign in\nSign in",
+        "href": "https://conare.ai/login"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "cls": "relative w-full overflow-hidden text-off-white",
+    "rect": [
+      0,
+      5077.203125,
+      1280,
+      575.671875
+    ],
+    "background": "rgba(0, 0, 0, 0)",
+    "html": "<div class=\"relative w-full overflow-hidden text-off-white\"><div aria-hidden=\"true\" class=\"absolute inset-0 bg-linear-to-b from-neutral-200 to-neutral-100\"></div><div aria-hidden=\"true\" class=\"footer-grain absolute inset-0 opacity-30\"></div><div class=\"relative mx-auto grid max-w-[1440px] gap-y-14 px-4 pt-16 sm:px-6 md:grid-cols-12 md:gap-x-6 lg:px-10 lg:pt-20\"><div class=\"flex flex-col justify-between gap-12 md:col-span-5\"><div><img src=\"/brand/mark-white.svg\" alt=\"Conare\" width=\"36\" height=\"32\" class=\"h-8 w-auto\"><p class=\"mt-6 font-glyphic text-[16px] leading-6\"> Search any data you bring. Get the right answer. </p></div><div class=\"flex flex-wrap items-center gap-x-6 gap-y-2 text-[13px] leading-[1.4] text-off-white/80\"><span>© 2026 Conare, Inc.</span><a href=\"/privacy\" class=\"roll-host transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Privacy</span><span class=\"roll-b\" aria-hidden=\"true\">Privacy</span></span></a><a href=\"/terms\" class=\"roll-host transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Terms</span><span class=\"roll-b\" aria-hidden=\"true\">Terms</span></span></a></div></div><div role=\"navigation\" aria-label=\"Footer\" class=\"grid grid-cols-2 gap-x-6 gap-y-12 sm:grid-cols-4 md:col-span-5 md:col-start-8 md:grid-cols-2 lg:col-span-7 lg:col-start-6 lg:grid-cols-4\"><!--[--><div><p class=\"font-geist text-[13px] leading-5\">Product</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"/docs/query\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Search</span><span class=\"roll-b\" aria-hidden=\"true\">Search</span></span></a></li><li class=\"flex\"><a href=\"/docs/sources\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Sync</span><span class=\"roll-b\" aria-hidden=\"true\">Sync</span></span></a></li><li class=\"flex\"><a href=\"/docs/files\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Parse</span><span class=\"roll-b\" aria-hidden=\"true\">Parse</span></span></a></li><li class=\"flex\"><a href=\"/docs/embed-rerank\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Embed</span><span class=\"roll-b\" aria-hidden=\"true\">Embed</span></span></a></li><li class=\"flex\"><a href=\"/reranker\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Rerank</span><span class=\"roll-b\" aria-hidden=\"true\">Rerank</span></span></a></li><!--]--></ul></div><div><p class=\"font-geist text-[13px] leading-5\">Developers</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"/docs\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Docs</span><span class=\"roll-b\" aria-hidden=\"true\">Docs</span></span></a></li><li class=\"flex\"><a href=\"/docs/quickstart\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Quickstart</span><span class=\"roll-b\" aria-hidden=\"true\">Quickstart</span></span></a></li><li class=\"flex\"><a href=\"/docs/api\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">API</span><span class=\"roll-b\" aria-hidden=\"true\">API</span></span></a></li><li class=\"flex\"><a href=\"/docs/sdk\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">SDK</span><span class=\"roll-b\" aria-hidden=\"true\">SDK</span></span></a></li><li class=\"flex\"><a href=\"/docs/mcp-server\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">MCP server</span><span class=\"roll-b\" aria-hidden=\"true\">MCP server</span></span></a></li><!--]--></ul></div><div><p class=\"font-geist text-[13px] leading-5\">Resources</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"/evals\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Evals</span><span class=\"roll-b\" aria-hidden=\"true\">Evals</span></span></a></li><li class=\"flex\"><a href=\"/blog\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Blog</span><span class=\"roll-b\" aria-hidden=\"true\">Blog</span></span></a></li><li class=\"flex\"><a href=\"/pricing\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Pricing</span><span class=\"roll-b\" aria-hidden=\"true\">Pricing</span></span></a></li><li class=\"flex\"><a href=\"/security/disclosure\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Security</span><span class=\"roll-b\" aria-hidden=\"true\">Security</span></span></a></li><li class=\"flex\"><a href=\"/subprocessors\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Subprocessors</span><span class=\"roll-b\" aria-hidden=\"true\">Subprocessors</span></span></a></li><li class=\"flex\"><a href=\"https://status.conare.ai/\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Status</span><span class=\"roll-b\" aria-hidden=\"true\">Status</span></span></a></li><!--]--></ul></div><div><p class=\"font-geist text-[13px] leading-5\">Company</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"https://cal.com/team/conare-inc/demo\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Book a demo</span><span class=\"roll-b\" aria-hidden=\"true\">Book a demo</span></span></a></li><li class=\"flex\"><a href=\"https://cal.com/team/conare-inc/demo\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Contact us</span><span class=\"roll-b\" aria-hidden=\"true\">Contact us</span></span></a></li><li class=\"flex\"><a href=\"https://conare.ai/login\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Sign in</span><span class=\"roll-b\" aria-hidden=\"true\">Sign in</span></span></a></li><!--]--></ul></div><!--]--></div></div><div class=\"relative mx-auto mt-24 max-w-[1440px] px-4 sm:px-6 lg:mt-40 lg:px-10\"><div aria-hidden=\"true\" class=\"aspect-[482.203/52.6] w-full overflow-hidden\"><svg viewBox=\"180.413 23.083 482.203 61.169\" class=\"block w-full fill-off-white\" preserveAspectRatio=\"xMidYMin meet\"><path d=\"M211.683 40.2172C209.513 40.2172 207.742 40.5598 206.371 41.2452C205.001 41.9306 203.915 42.8729 203.116 44.0724C202.316 45.2717 201.745 46.6996 201.402 48.3559C201.117 49.955 200.974 51.7256 200.974 53.6675C200.974 55.6094 201.117 57.4085 201.402 59.0647C201.745 60.721 202.316 62.1489 203.116 63.3482C203.915 64.5477 205.001 65.49 206.371 66.1754C207.742 66.8608 209.513 67.2034 211.683 67.2034H227.104C228.703 67.2034 230.074 67.0892 231.216 66.8608C232.415 66.6323 233.415 66.2326 234.214 65.6614C235.014 65.0331 235.671 64.205 236.185 63.1769C236.699 62.1489 237.099 60.8352 237.384 59.2361H258.031C257.574 63.0627 256.689 66.3468 255.375 69.0882C254.119 71.7725 252.576 74.0571 250.749 75.9419C248.978 77.7695 247.008 79.2259 244.838 80.3111C242.724 81.3963 240.554 82.253 238.327 82.8812C236.099 83.4524 233.929 83.8236 231.816 83.995C229.702 84.1663 227.789 84.252 226.076 84.252H212.711C210.883 84.252 208.799 84.1663 206.457 83.995C204.172 83.7665 201.831 83.3096 199.432 82.6242C197.033 81.8817 194.692 80.8536 192.407 79.5401C190.18 78.1693 188.152 76.3702 186.324 74.1428C184.554 71.8582 183.126 69.0597 182.041 65.7471C180.956 62.3773 180.413 58.3508 180.413 53.6675C180.413 48.9842 180.956 44.9862 182.041 41.6736C183.126 38.3038 184.554 35.5053 186.324 33.2779C188.152 30.9933 190.18 29.1942 192.407 27.8806C194.692 26.5098 197.033 25.4818 199.432 24.7964C201.831 24.0539 204.172 23.597 206.457 23.4257C208.799 23.1972 210.883 23.083 212.711 23.083H226.076C227.789 23.083 229.702 23.1687 231.816 23.34C233.929 23.5114 236.099 23.9112 238.327 24.5394C240.554 25.1105 242.724 25.9387 244.838 27.0239C247.008 28.109 248.978 29.594 250.749 31.4787C252.576 33.3064 254.119 35.591 255.375 38.3324C256.689 41.0167 257.574 44.2723 258.031 48.0989H237.384C236.984 45.1289 235.985 43.0728 234.386 41.9306C232.786 40.7883 230.359 40.2172 227.104 40.2172H211.683ZM308.733 23.083C310.56 23.083 312.617 ",
+    "links": [
+      {
+        "text": "Privacy\nPrivacy",
+        "href": "https://conare.ai/privacy"
+      },
+      {
+        "text": "Terms\nTerms",
+        "href": "https://conare.ai/terms"
+      },
+      {
+        "text": "Search\nSearch",
+        "href": "https://conare.ai/docs/query"
+      },
+      {
+        "text": "Sync\nSync",
+        "href": "https://conare.ai/docs/sources"
+      },
+      {
+        "text": "Parse\nParse",
+        "href": "https://conare.ai/docs/files"
+      },
+      {
+        "text": "Embed\nEmbed",
+        "href": "https://conare.ai/docs/embed-rerank"
+      },
+      {
+        "text": "Rerank\nRerank",
+        "href": "https://conare.ai/reranker"
+      },
+      {
+        "text": "Docs\nDocs",
+        "href": "https://conare.ai/docs"
+      },
+      {
+        "text": "Quickstart\nQuickstart",
+        "href": "https://conare.ai/docs/quickstart"
+      },
+      {
+        "text": "API\nAPI",
+        "href": "https://conare.ai/docs/api"
+      },
+      {
+        "text": "SDK\nSDK",
+        "href": "https://conare.ai/docs/sdk"
+      },
+      {
+        "text": "MCP server\nMCP server",
+        "href": "https://conare.ai/docs/mcp-server"
+      },
+      {
+        "text": "Evals\nEvals",
+        "href": "https://conare.ai/evals"
+      },
+      {
+        "text": "Blog\nBlog",
+        "href": "https://conare.ai/blog"
+      },
+      {
+        "text": "Pricing\nPricing",
+        "href": "https://conare.ai/pricing"
+      },
+      {
+        "text": "Security\nSecurity",
+        "href": "https://conare.ai/security/disclosure"
+      },
+      {
+        "text": "Subprocessors\nSubprocessors",
+        "href": "https://conare.ai/subprocessors"
+      },
+      {
+        "text": "Status\nStatus",
+        "href": "https://status.conare.ai/"
+      },
+      {
+        "text": "Book a demo\nBook a demo",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Contact us\nContact us",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Sign in\nSign in",
+        "href": "https://conare.ai/login"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "cls": "relative w-full md:sticky md:bottom-0 md:z-0",
+    "rect": [
+      0,
+      5077.203125,
+      1280,
+      575.671875
+    ],
+    "background": "rgba(0, 0, 0, 0)",
+    "html": "<div role=\"contentinfo\" class=\"relative w-full md:sticky md:bottom-0 md:z-0\"><div class=\"relative w-full overflow-hidden text-off-white\"><div aria-hidden=\"true\" class=\"absolute inset-0 bg-linear-to-b from-neutral-200 to-neutral-100\"></div><div aria-hidden=\"true\" class=\"footer-grain absolute inset-0 opacity-30\"></div><div class=\"relative mx-auto grid max-w-[1440px] gap-y-14 px-4 pt-16 sm:px-6 md:grid-cols-12 md:gap-x-6 lg:px-10 lg:pt-20\"><div class=\"flex flex-col justify-between gap-12 md:col-span-5\"><div><img src=\"/brand/mark-white.svg\" alt=\"Conare\" width=\"36\" height=\"32\" class=\"h-8 w-auto\"><p class=\"mt-6 font-glyphic text-[16px] leading-6\"> Search any data you bring. Get the right answer. </p></div><div class=\"flex flex-wrap items-center gap-x-6 gap-y-2 text-[13px] leading-[1.4] text-off-white/80\"><span>© 2026 Conare, Inc.</span><a href=\"/privacy\" class=\"roll-host transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Privacy</span><span class=\"roll-b\" aria-hidden=\"true\">Privacy</span></span></a><a href=\"/terms\" class=\"roll-host transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Terms</span><span class=\"roll-b\" aria-hidden=\"true\">Terms</span></span></a></div></div><div role=\"navigation\" aria-label=\"Footer\" class=\"grid grid-cols-2 gap-x-6 gap-y-12 sm:grid-cols-4 md:col-span-5 md:col-start-8 md:grid-cols-2 lg:col-span-7 lg:col-start-6 lg:grid-cols-4\"><!--[--><div><p class=\"font-geist text-[13px] leading-5\">Product</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"/docs/query\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Search</span><span class=\"roll-b\" aria-hidden=\"true\">Search</span></span></a></li><li class=\"flex\"><a href=\"/docs/sources\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Sync</span><span class=\"roll-b\" aria-hidden=\"true\">Sync</span></span></a></li><li class=\"flex\"><a href=\"/docs/files\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Parse</span><span class=\"roll-b\" aria-hidden=\"true\">Parse</span></span></a></li><li class=\"flex\"><a href=\"/docs/embed-rerank\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Embed</span><span class=\"roll-b\" aria-hidden=\"true\">Embed</span></span></a></li><li class=\"flex\"><a href=\"/reranker\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Rerank</span><span class=\"roll-b\" aria-hidden=\"true\">Rerank</span></span></a></li><!--]--></ul></div><div><p class=\"font-geist text-[13px] leading-5\">Developers</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"/docs\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Docs</span><span class=\"roll-b\" aria-hidden=\"true\">Docs</span></span></a></li><li class=\"flex\"><a href=\"/docs/quickstart\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Quickstart</span><span class=\"roll-b\" aria-hidden=\"true\">Quickstart</span></span></a></li><li class=\"flex\"><a href=\"/docs/api\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">API</span><span class=\"roll-b\" aria-hidden=\"true\">API</span></span></a></li><li class=\"flex\"><a href=\"/docs/sdk\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">SDK</span><span class=\"roll-b\" aria-hidden=\"true\">SDK</span></span></a></li><li class=\"flex\"><a href=\"/docs/mcp-server\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">MCP server</span><span class=\"roll-b\" aria-hidden=\"true\">MCP server</span></span></a></li><!--]--></ul></div><div><p class=\"font-geist text-[13px] leading-5\">Resources</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"/evals\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Evals</span><span class=\"roll-b\" aria-hidden=\"true\">Evals</span></span></a></li><li class=\"flex\"><a href=\"/blog\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Blog</span><span class=\"roll-b\" aria-hidden=\"true\">Blog</span></span></a></li><li class=\"flex\"><a href=\"/pricing\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Pricing</span><span class=\"roll-b\" aria-hidden=\"true\">Pricing</span></span></a></li><li class=\"flex\"><a href=\"/security/disclosure\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Security</span><span class=\"roll-b\" aria-hidden=\"true\">Security</span></span></a></li><li class=\"flex\"><a href=\"/subprocessors\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Subprocessors</span><span class=\"roll-b\" aria-hidden=\"true\">Subprocessors</span></span></a></li><li class=\"flex\"><a href=\"https://status.conare.ai/\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Status</span><span class=\"roll-b\" aria-hidden=\"true\">Status</span></span></a></li><!--]--></ul></div><div><p class=\"font-geist text-[13px] leading-5\">Company</p><ul class=\"mt-6 flex flex-col gap-3\"><!--[--><li class=\"flex\"><a href=\"https://cal.com/team/conare-inc/demo\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Book a demo</span><span class=\"roll-b\" aria-hidden=\"true\">Book a demo</span></span></a></li><li class=\"flex\"><a href=\"https://cal.com/team/conare-inc/demo\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Contact us</span><span class=\"roll-b\" aria-hidden=\"true\">Contact us</span></span></a></li><li class=\"flex\"><a href=\"https://conare.ai/login\" class=\"roll-host font-geist text-[12px] leading-5 text-off-white/80 transition-colors duration-200 ease-(--ease-conare) hover:text-off-white\"><span class=\"roll\"><span class=\"roll-a\">Sign in</span><span class=\"roll-b\" aria-hidden=\"true\">Sign in</span></span></a></li><!--]--></ul></div><!--]--></div></div><div class=\"relative mx-auto mt-24 max-w-[1440px] px-4 sm:px-6 lg:mt-40 lg:px-10\"><div aria-hidden=\"true\" class=\"aspect-[482.203/52.6] w-full overflow-hidden\"><svg viewBox=\"180.413 23.083 482.203 61.169\" class=\"block w-full fill-off-white\" preserveAspectRatio=\"xMidYMin meet\"><path d=\"M211.683 40.2172C209.513 40.2172 207.742 40.5598 206.371 41.2452C205.001 41.9306 203.915 42.8729 203.116 44.0724C202.316 45.2717 201.745 46.6996 201.402 48.3559C201.117 49.955 200.974 51.7256 200.974 53.6675C200.974 55.6094 201.117 57.4085 201.402 59.0647C201.745 60.721 202.316 62.1489 203.116 63.3482C203.915 64.5477 205.001 65.49 206.371 66.1754C207.742 66.8608 209.513 67.2034 211.683 67.2034H227.104C228.703 67.2034 230.074 67.0892 231.216 66.8608C232.415 66.6323 233.415 66.2326 234.214 65.6614C235.014 65.0331 235.671 64.205 236.185 63.1769C236.699 62.1489 237.099 60.8352 237.384 59.2361H258.031C257.574 63.0627 256.689 66.3468 255.375 69.0882C254.119 71.7725 252.576 74.0571 250.749 75.9419C248.978 77.7695 247.008 79.2259 244.838 80.3111C242.724 81.3963 240.554 82.253 238.327 82.8812C236.099 83.4524 233.929 83.8236 231.816 83.995C229.702 84.1663 227.789 84.252 226.076 84.252H212.711C210.883 84.252 208.799 84.1663 206.457 83.995C204.172 83.7665 201.831 83.3096 199.432 82.6242C197.033 81.8817 194.692 80.8536 192.407 79.5401C190.18 78.1693 188.152 76.3702 186.324 74.1428C184.554 71.8582 183.126 69.0597 182.041 65.7471C180.956 62.3773 180.413 58.3508 180.413 53.6675C180.413 48.9842 180.956 44.9862 182.041 41.6736C183.126 38.3038 184.554 35.5053 186.324 33.2779C188.152 30.9933 190.18 29.1942 192.407 27.8806C194.692 26.5098 197.033 25.4818 199.432 24.7964C201.831 24.0539 204.172 23.597 206.457 23.4257C208.799 23.1972 210.883 23.083 212.711 23.083H226.076C227.789 23.083 229.702 23.1687 231.816 23.34C233.929 23.5114 236.099 23.9112 238.327 24.5394C240.554 25.1105 242.724 25.9387 244.838 27.0239C247.008 28.109 248.978 29.594 250.749 31.4787C252.576 33.3064 254.119 35.591 255.375 38.3324C256.689 41.0167 257.574 44.2723 258.031 48.0989H237.384C236.984 45.1289 235.985 43.0728 234.386 41.9306C232.786 40.7883 2",
+    "links": [
+      {
+        "text": "Privacy\nPrivacy",
+        "href": "https://conare.ai/privacy"
+      },
+      {
+        "text": "Terms\nTerms",
+        "href": "https://conare.ai/terms"
+      },
+      {
+        "text": "Search\nSearch",
+        "href": "https://conare.ai/docs/query"
+      },
+      {
+        "text": "Sync\nSync",
+        "href": "https://conare.ai/docs/sources"
+      },
+      {
+        "text": "Parse\nParse",
+        "href": "https://conare.ai/docs/files"
+      },
+      {
+        "text": "Embed\nEmbed",
+        "href": "https://conare.ai/docs/embed-rerank"
+      },
+      {
+        "text": "Rerank\nRerank",
+        "href": "https://conare.ai/reranker"
+      },
+      {
+        "text": "Docs\nDocs",
+        "href": "https://conare.ai/docs"
+      },
+      {
+        "text": "Quickstart\nQuickstart",
+        "href": "https://conare.ai/docs/quickstart"
+      },
+      {
+        "text": "API\nAPI",
+        "href": "https://conare.ai/docs/api"
+      },
+      {
+        "text": "SDK\nSDK",
+        "href": "https://conare.ai/docs/sdk"
+      },
+      {
+        "text": "MCP server\nMCP server",
+        "href": "https://conare.ai/docs/mcp-server"
+      },
+      {
+        "text": "Evals\nEvals",
+        "href": "https://conare.ai/evals"
+      },
+      {
+        "text": "Blog\nBlog",
+        "href": "https://conare.ai/blog"
+      },
+      {
+        "text": "Pricing\nPricing",
+        "href": "https://conare.ai/pricing"
+      },
+      {
+        "text": "Security\nSecurity",
+        "href": "https://conare.ai/security/disclosure"
+      },
+      {
+        "text": "Subprocessors\nSubprocessors",
+        "href": "https://conare.ai/subprocessors"
+      },
+      {
+        "text": "Status\nStatus",
+        "href": "https://status.conare.ai/"
+      },
+      {
+        "text": "Book a demo\nBook a demo",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Contact us\nContact us",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Sign in\nSign in",
+        "href": "https://conare.ai/login"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "cls": "home",
+    "rect": [
+      0,
+      0,
+      1280,
+      5652.875
+    ],
+    "background": "rgb(254, 254, 254)",
+    "html": "<div class=\"home\"><a href=\"https://conare.ai/evals\" class=\"announce group relative z-10 block bg-red-wash text-off-black transition-colors duration-200 ease-(--ease-conare) hover:bg-home-wash-hover\"><div class=\"mx-auto flex h-9 max-w-[1440px] items-center justify-center gap-2 px-4 text-[13px] sm:px-6 lg:px-10\"><span class=\"announce-tag shrink-0 bg-off-black transition-colors duration-200 ease-(--ease-conare) group-hover:bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">New</span><span class=\"truncate leading-4\">Accuracy you can check: every benchmark, losses included. <span class=\"announce-cta hidden underline decoration-off-black/30 underline-offset-2 transition-colors duration-200 ease-(--ease-conare) group-hover:decoration-off-black sm:inline\">See the evals</span></span></div></a><header class=\"sticky top-0 z-20 border-b border-neutral-700 bg-off-white\"><div class=\"mx-auto grid h-16 max-w-[1440px] grid-cols-[1fr_auto_1fr] items-center px-4 sm:px-6 lg:px-10\"><a href=\"/\" aria-label=\"Conare home\" class=\"flex shrink-0 justify-self-start\"><img src=\"/brand/primary-logo.svg\" alt=\"\" width=\"147\" height=\"24\" class=\"h-6 w-auto\"></a><div role=\"navigation\" aria-label=\"Primary\" class=\"hidden md:block\"><ul class=\"relative flex items-center gap-1 text-[14px] leading-none text-neutral-300\"><!--[--><li aria-hidden=\"true\" class=\"nav-mark pointer-events-none absolute inset-y-0 left-0 my-auto h-[30px] bg-home-paper\" style=\"display:none;\"></li><li aria-hidden=\"true\" class=\"nav-mark pointer-events-none absolute inset-y-0 left-0 my-auto h-[30px] bg-home-paper\" style=\"display:none;\"></li><!--]--><li class=\"relative flex\"><button type=\"button\" aria-expanded=\"false\" aria-controls=\"home-product-menu\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center gap-1 py-2 hover:text-off-black\"><!----> Product <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" class=\"transition-transform duration-200\"><path d=\"m6 9 6 6 6-6\"></path></svg></button><div id=\"home-product-menu\" hidden=\"\" class=\"absolute top-full left-1/2 -translate-x-1/2 pt-3\"><div class=\"grid w-[640px] max-w-[calc(100vw-32px)] grid-cols-2 gap-px border border-neutral-700 bg-neutral-700\"><div class=\"bg-off-white p-2\"><p class=\"label px-3 pt-2 pb-1 tracking-[0.06em] text-neutral-400 uppercase!\"> Product </p><ul class=\"relative\"><!----><!--[--><li class=\"relative\"><a href=\"/#search\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Search</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Store documents and query them.</span></a></li><li class=\"relative\"><a href=\"/#sync\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Sync</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Keep your apps in a namespace.</span></a></li><li class=\"relative\"><a href=\"/#parse\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Parse</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Read any file in full, every row and cell.</span></a></li><li class=\"relative\"><a href=\"/#embed\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Embed</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Embeddings for any vector database.</span></a></li><li class=\"relative\"><a href=\"/reranker\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Rerank</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Put the best passages first.</span></a></li><!--]--><li aria-hidden=\"true\" class=\"mx-3 my-1 border-t border-neutral-700\"></li><!--[--><li class=\"relative\"><a href=\"/#benchmarks\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Benchmarks</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Accuracy you can check, losses included.</span></a></li><li class=\"relative\"><a href=\"/#price\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Price vs accuracy</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Most accurate, and the cheapest.</span></a></li><!--]--></ul></div><div class=\"bg-off-white p-2\"><div aria-hidden=\"true\" class=\"relative grid h-full min-h-[250px] grid-cols-[minmax(0,1fr)] overflow-hidden bg-neutral-200 text-neutral-300\"><div class=\"footer-grain pointer-events-none absolute inset-0 opacity-30\"></div><!----></div></div></div></div></li><!--[--><li class=\"relative flex\"><a href=\"/#faq\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center py-2 hover:text-off-black\"><!----> FAQ</a></li><li class=\"relative flex\"><a href=\"/pricing\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center py-2 hover:text-off-black\"><!----> Pricing</a></li><li class=\"relative flex\"><a href=\"/docs\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center py-2 hover:text-off-black\"><!----> Docs</a></li><!--]--></ul></div><div class=\"col-start-3 flex gap-2 justify-self-end\"><a href=\"https://cal.com/team/conare-inc/demo\" class=\"inline-flex items-center justify-center gap-2 rounded-none font-medium whitespace-nowrap transition-colors duration-200 ease-(--ease-conare) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-home-red border border-neutral-600 text-off-black h-7 text-[12px] px-2.5 btn-px max-md:hidden\" data-variant=\"secondary\"><span aria-hidden=\"true\" class=\"btn-px-fill\" data-inks=\"true\" style=\"grid-template-columns: repeat(14, 6px); grid-auto-rows: 6px;\"><i style=\"--i: 4; --o: 3;\"></i><i style=\"--i: 13; --o: 11;\"></i><i style=\"--i: 21; --o: 18;\"></i><i style=\"--i: 26; --o: 22;\"></i><i style=\"--i: 30; --o: 22;\"></i><i style=\"--i: 43; --o: 25;\"></i><i style=\"--i: 48; --o: 44;\"></i><i style=\"--i: 59; --o: 43;\"></i><i style=\"--i: 58; --o: 38;\"></i><i style=\"--i: 67; --o: 57;\"></i><i style=\"--i: 67; --o: 49;\"></i><i style=\"--i: 66; --o: 48;\"></i><i style=\"--i: 63; --o: 49;\"></i><i style=\"--i: 61; --o: 62;\"></i><i style=\"--i: 5; --o: 7;\"></i><i style=\"--i: 10; --o: 12;\"></i><i style=\"--i: 26; --o: 17;\"></i><i style=\"--i: 37; --o: 31;\"></i><i style=\"--i: 37; --o: 27;\"></i><i style=\"--i: 47; --o: 36;\"></i><i style=\"--i: 52; --o: 31;\"></i><i style=\"--i: 42; --o: 49;\"></i><i style=\"--i: 50; --o: 38;\"></i><i style=\"--i: 63; --o: 49;\"></i><i style=\"--i: 56; --o: 47;\"></i><i style=\"--i: 67; --o: 50;\"></i><i style=\"--i: 62; --o: 61;\"></i><i style=\"--i: 71; --o: 52;\"></i><i style=\"--i: 15; --o: 11;\"></i><i style=\"--i: 16; --o: 15;\"></i><i style=\"--i: 17; --o: 29;\"></i><i style=\"--i: 22; --o: 34;\"></i><i style=\"--i: 31; --o: 38;\"></i><i style=\"--i: 36; --o: 41;\"></i><i style=\"--i: 53; --o: 37;\"></i><i style=\"--i: 50; --o: 42;\"></i><i style=\"--i: 62; --o: 42;\"></i><i style=\"--i: 57; --o: 44;\"></i><i style=\"--i: 59; --o: 61;\"></i><i style=\"--i: 74; --o: 56;\"></i><i style=\"--i: 65; --o: 49;\"></i><i style=\"--i: 61; --o: 58;\"></i><i style=\"--i: 12; --o: 9;\"></i><i style=\"--i: 18; --o: 10;\"></i><i style=\"--i: 18; --o: 31;\"></i><i style=\"--i: 32; --o: 20;\"></i><i style=\"--i: 38; --o: 29;\"></i><i style=\"--i: 39; --o: 39;\"></i><i style=\"--i: 52; --o: 41;\"></i><i style=\"--i: 58; --o: 43;\"></i><i style=\"--i: 59; --o: 54;\"></i><i style=\"--i: 53; --o: 43;\"></i><i style=\"--i: 63; --o: 57;\"></i><i style=\"--i: 61; --o: 63;\"></i><i style=\"--i: 74; --o: 66;\"></i><i style=\"--i: 68; --o: 54;\"></i><i style=\"--i: 11; --o: 13;\"></i><i style=\"--i: 10; --o: 16;\"></i><i style=\"--i: 18; --o: 17;\"></i><i style=\"--i: 33; --o: 20;\"></i><i style=\"--i: 36; --o: 27;\"></i><i style=\"--i: 50; --o: 41;\"></i><i style=\"--i: 38; --o: 41;\"></i><i style=\"--i: 40; --o: 45;\"></i><i style=\"--i: 56; --o: 45;\"></i><i style=\"--i: 66; --o: 49;\"></i><i style=\"--i: 52; --o: 55;\"></i><i style=\"--i: 60; --o: 51;\"></i><i style=\"--i: 75; --o: 53;\"></i><i style=\"--i: 65; --o: 54;\"></i></span><!----><span class=\"btn-label\"><!--[--> Contact us <!--]--></span><!----></a><a href=\"/dashboard\" class=\"inline-flex items-center justify-center gap-2 rounded-none font-medium whitespace-nowrap transition-colors duration-200 ease-(--ease-conare) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-home-red bg-off-black text-off-white h-7 text-[12px] px-2.5 btn-px max-md:hidden\" data-variant=\"dark\"><span aria-hidden=\"true\" class=\"btn-px-fill\" data-inks=\"false\" style=\"grid-template-columns: repeat(14, 6px); grid-auto-rows: 6px;\"><i style=\"--i: 4; --o: 3;\"></i><i style=\"--i: 13; --o: 11;\"></i><i style=\"--i: 21; --o: 18;\"></i><i style=\"--i: 26; --o: 22;\"></i><i style=\"--i: 30; --o: 22;\"></i><i style=\"--i: 43; --o: 25;\"></i><i style=\"--i: 48; --o: 44;\"></i><i style=\"--i: 59; --o: 43;\"></i><i style=\"--i: 58; --o: 38;\"></i><i style=\"--i: 67; --o: 57;\"></i><i style=\"--i: 67; --o: 49;\"></i><i style=\"--i: 66; --o: 48;\"></i><i style=\"--i: 63; --o: 49;\"></i><i style=\"--i: 61; --o: 62;\"></i><i style=\"--i: 5; --o: 7;\"></i><i style=\"--i: 10; --o: 12;\"></i><i style=\"--i: 26; --o: 17;\"></i><i style=\"--i: 37; --o: 31;\"></i><i style=\"--i: 37; --o: 27;\"></i><i style=\"--i: 47; --o: 36;\"></i><i style=\"--i: 52; --o: 31;\"></i><i style=\"--i: 42; --o: 49;\"></i><i style=\"--i: 50; --o: 38;\"></i><i style=\"--i: 63; --o: 49;\"></i><i style=\"--i: 56; --o: 47;\"></i><i style=\"--i: 67; --o: 50;\"></i><i style=\"--i: 62; --o: 61;\"></i><i style=\"--i: 71; --o: 52;\"></i><i style=\"--i: 15; --o: 11;\"></i><i style=\"--i: 16; --o: 15;\"></i><i style=\"--i: 17; --o: 29;\"></i><i style=\"--i: 22; --o: 34;\"></i><i style=\"--i: 31; --o: 38;\"></i><i style=\"--i: 36; --o: 41;\"></i><i s",
+    "links": [
+      {
+        "text": "NEW\nAccuracy you can check: every benchmark, losses included. See the evals",
+        "href": "https://conare.ai/evals"
+      },
+      {
+        "text": "",
+        "href": "https://conare.ai/"
+      },
+      {
+        "text": "SearchStore documents and query them.",
+        "href": "https://conare.ai/#search"
+      },
+      {
+        "text": "SyncKeep your apps in a namespace.",
+        "href": "https://conare.ai/#sync"
+      },
+      {
+        "text": "ParseRead any file in full, every row and cell.",
+        "href": "https://conare.ai/#parse"
+      },
+      {
+        "text": "EmbedEmbeddings for any vector database.",
+        "href": "https://conare.ai/#embed"
+      },
+      {
+        "text": "RerankPut the best passages first.",
+        "href": "https://conare.ai/reranker"
+      },
+      {
+        "text": "BenchmarksAccuracy you can check, losses included.",
+        "href": "https://conare.ai/#benchmarks"
+      },
+      {
+        "text": "Price vs accuracyMost accurate, and the cheapest.",
+        "href": "https://conare.ai/#price"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://conare.ai/#faq"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://conare.ai/pricing"
+      },
+      {
+        "text": "Docs",
+        "href": "https://conare.ai/docs"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Dashboard",
+        "href": "https://conare.ai/dashboard"
+      },
+      {
+        "text": "SearchStore documents and query them.",
+        "href": "https://conare.ai/#search"
+      },
+      {
+        "text": "SyncKeep your apps in a namespace.",
+        "href": "https://conare.ai/#sync"
+      },
+      {
+        "text": "ParseRead any file in full, every row and cell.",
+        "href": "https://conare.ai/#parse"
+      },
+      {
+        "text": "EmbedEmbeddings for any vector database.",
+        "href": "https://conare.ai/#embed"
+      },
+      {
+        "text": "RerankPut the best passages first.",
+        "href": "https://conare.ai/reranker"
+      },
+      {
+        "text": "BenchmarksAccuracy you can check, losses included.",
+        "href": "https://conare.ai/#benchmarks"
+      },
+      {
+        "text": "Price vs accuracyMost accurate, and the cheapest.",
+        "href": "https://conare.ai/#price"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://conare.ai/#faq"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://conare.ai/pricing"
+      },
+      {
+        "text": "Docs",
+        "href": "https://conare.ai/docs"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Dashboard",
+        "href": "https://conare.ai/dashboard"
+      },
+      {
+        "text": "ViDoRe v3, embedding\n67.0\nnDCG@10 · #1 of 9\n1\nconare-embed-1\n67.0\n2\nPerplexity pplx-embed-v2-late-9b, page images\n66.5\n3\nPerplexity pplx-embed-v2-late-9b, page text\n66.1\n4\nMixedbread search, page images\n64.2\n5\nMixedbread search, page text\n62.3\nSee the benchmark",
+        "href": "https://conare.ai/evals/vidore-embedding"
+      },
+      {
+        "text": "ViDoRe v3, six languages\n65.4\nnDCG@10 · #1 of 7\n1\nconare-embed-1\n65.4\n2\nPerplexity pplx-embed-v2-late-9b, page images\n65.2\n3\nPerplexity pplx-embed-v2-late-9b, page text\n64.7\n4\nMixedbread search, page images\n62.5\n5\nMixedbread search, page text\n60.1\nSee the benchmark",
+        "href": "https://conare.ai/evals/vidore-six-languages"
+      },
+      {
+        "text": "ViDoRe v3, reranking\n70.2\nnDCG@10 · #1 of 10\n1\nconare-rerank-1\n70.2\n2\nVoyage rerank-2.5\n68.5\n3\nVoyage rerank-2.5-lite\n67.4\n4\nzerank-2\n67.0\n5\nzerank-1\n66.7\nSee the benchmark",
+        "href": "https://conare.ai/evals/vidore-reranking"
+      },
+      {
+        "text": "LMEB, memory retrieval\n75.0\nnDCG@10 · #1 of 106\n1\nconare-embed-1\n75.0\n2\nnvidia/Nemotron-3-Embed-8B\n72.5\n3\nBAAI/bge-multilingual-gemma2\n68.7\n4\nnvidia/Nemotron-3-Embed-1B\n68.7\n5\ntencent/KaLM-Embedding-Gemma3-12B\n68.4\nSee the benchmark",
+        "href": "https://conare.ai/evals/lmeb"
+      },
+      {
+        "text": "Legal case search\n1.3%\n% ranked wrong, lower is better · #1 of 6\n1\nconare-rerank-1\n1.3%\n2\nClaude Opus 5.5\n2.5%\n3\nGPT-6 Sol\n7.6%\n4\nMixedbread mxbai-rerank-v3.1\n11.4%\n5\nContextual rerank-v2\n53.2%\nSee the benchmark",
+        "href": "https://conare.ai/evals/legal-cases"
+      },
+      {
+        "text": "Several conditions at once\n2.5%\n% ranked wrong, lower is better · #2 of 6, level with Claude Opus 5.5\n1\nClaude Opus 5.5\n1.1%\n2\nconare-rerank-1\n2.5%\n3\nGPT-6 Sol\n3.8%\n4\nMixedbread mxbai-rerank-v3.1\n16.7%\n5\nContextual rerank-v2\n50.0%\nSee the benchmark",
+        "href": "https://conare.ai/evals/several-conditions"
+      },
+      {
+        "text": "See the benchmark",
+        "href": "https://conare.ai/evals/vidore-embedding"
+      },
+      {
+        "text": "Several conditions at once",
+        "href": "https://conare.ai/evals/several-conditions"
+      },
+      {
+        "text": "Book a demo",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Privacy\nPrivacy",
+        "href": "https://conare.ai/privacy"
+      },
+      {
+        "text": "Terms\nTerms",
+        "href": "https://conare.ai/terms"
+      },
+      {
+        "text": "Search\nSearch",
+        "href": "https://conare.ai/docs/query"
+      },
+      {
+        "text": "Sync\nSync",
+        "href": "https://conare.ai/docs/sources"
+      },
+      {
+        "text": "Parse\nParse",
+        "href": "https://conare.ai/docs/files"
+      },
+      {
+        "text": "Embed\nEmbed",
+        "href": "https://conare.ai/docs/embed-rerank"
+      },
+      {
+        "text": "Rerank\nRerank",
+        "href": "https://conare.ai/reranker"
+      },
+      {
+        "text": "Docs\nDocs",
+        "href": "https://conare.ai/docs"
+      },
+      {
+        "text": "Quickstart\nQuickstart",
+        "href": "https://conare.ai/docs/quickstart"
+      },
+      {
+        "text": "API\nAPI",
+        "href": "https://conare.ai/docs/api"
+      },
+      {
+        "text": "SDK\nSDK",
+        "href": "https://conare.ai/docs/sdk"
+      },
+      {
+        "text": "MCP server\nMCP server",
+        "href": "https://conare.ai/docs/mcp-server"
+      },
+      {
+        "text": "Evals\nEvals",
+        "href": "https://conare.ai/evals"
+      },
+      {
+        "text": "Blog\nBlog",
+        "href": "https://conare.ai/blog"
+      },
+      {
+        "text": "Pricing\nPricing",
+        "href": "https://conare.ai/pricing"
+      },
+      {
+        "text": "Security\nSecurity",
+        "href": "https://conare.ai/security/disclosure"
+      },
+      {
+        "text": "Subprocessors\nSubprocessors",
+        "href": "https://conare.ai/subprocessors"
+      },
+      {
+        "text": "Status\nStatus",
+        "href": "https://status.conare.ai/"
+      },
+      {
+        "text": "Book a demo\nBook a demo",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Contact us\nContact us",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Sign in\nSign in",
+        "href": "https://conare.ai/login"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "rect": [
+      0,
+      0,
+      1280,
+      5652.875
+    ],
+    "background": "rgba(0, 0, 0, 0)",
+    "html": "<div><!--[--><div class=\"home\"><a href=\"https://conare.ai/evals\" class=\"announce group relative z-10 block bg-red-wash text-off-black transition-colors duration-200 ease-(--ease-conare) hover:bg-home-wash-hover\"><div class=\"mx-auto flex h-9 max-w-[1440px] items-center justify-center gap-2 px-4 text-[13px] sm:px-6 lg:px-10\"><span class=\"announce-tag shrink-0 bg-off-black transition-colors duration-200 ease-(--ease-conare) group-hover:bg-home-red py-[3px] pr-[calc(4px-0.06em)] pl-1 text-[10px] leading-[14px] font-medium tracking-[0.06em] text-off-white uppercase [text-box:trim-both_cap_alphabetic]\">New</span><span class=\"truncate leading-4\">Accuracy you can check: every benchmark, losses included. <span class=\"announce-cta hidden underline decoration-off-black/30 underline-offset-2 transition-colors duration-200 ease-(--ease-conare) group-hover:decoration-off-black sm:inline\">See the evals</span></span></div></a><header class=\"sticky top-0 z-20 border-b border-neutral-700 bg-off-white\"><div class=\"mx-auto grid h-16 max-w-[1440px] grid-cols-[1fr_auto_1fr] items-center px-4 sm:px-6 lg:px-10\"><a href=\"/\" aria-label=\"Conare home\" class=\"flex shrink-0 justify-self-start\"><img src=\"/brand/primary-logo.svg\" alt=\"\" width=\"147\" height=\"24\" class=\"h-6 w-auto\"></a><div role=\"navigation\" aria-label=\"Primary\" class=\"hidden md:block\"><ul class=\"relative flex items-center gap-1 text-[14px] leading-none text-neutral-300\"><!--[--><li aria-hidden=\"true\" class=\"nav-mark pointer-events-none absolute inset-y-0 left-0 my-auto h-[30px] bg-home-paper\" style=\"display:none;\"></li><li aria-hidden=\"true\" class=\"nav-mark pointer-events-none absolute inset-y-0 left-0 my-auto h-[30px] bg-home-paper\" style=\"display:none;\"></li><!--]--><li class=\"relative flex\"><button type=\"button\" aria-expanded=\"false\" aria-controls=\"home-product-menu\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center gap-1 py-2 hover:text-off-black\"><!----> Product <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" class=\"transition-transform duration-200\"><path d=\"m6 9 6 6 6-6\"></path></svg></button><div id=\"home-product-menu\" hidden=\"\" class=\"absolute top-full left-1/2 -translate-x-1/2 pt-3\"><div class=\"grid w-[640px] max-w-[calc(100vw-32px)] grid-cols-2 gap-px border border-neutral-700 bg-neutral-700\"><div class=\"bg-off-white p-2\"><p class=\"label px-3 pt-2 pb-1 tracking-[0.06em] text-neutral-400 uppercase!\"> Product </p><ul class=\"relative\"><!----><!--[--><li class=\"relative\"><a href=\"/#search\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Search</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Store documents and query them.</span></a></li><li class=\"relative\"><a href=\"/#sync\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Sync</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Keep your apps in a namespace.</span></a></li><li class=\"relative\"><a href=\"/#parse\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Parse</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Read any file in full, every row and cell.</span></a></li><li class=\"relative\"><a href=\"/#embed\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Embed</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Embeddings for any vector database.</span></a></li><li class=\"relative\"><a href=\"/reranker\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Rerank</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Put the best passages first.</span></a></li><!--]--><li aria-hidden=\"true\" class=\"mx-3 my-1 border-t border-neutral-700\"></li><!--[--><li class=\"relative\"><a href=\"/#benchmarks\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Benchmarks</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Accuracy you can check, losses included.</span></a></li><li class=\"relative\"><a href=\"/#price\" class=\"block px-3 py-2\"><span class=\"menu-text block text-[14px] leading-5 font-medium text-off-black\" data-hot=\"false\">Price vs accuracy</span><span class=\"block text-[13px] leading-5 text-neutral-400\">Most accurate, and the cheapest.</span></a></li><!--]--></ul></div><div class=\"bg-off-white p-2\"><div aria-hidden=\"true\" class=\"relative grid h-full min-h-[250px] grid-cols-[minmax(0,1fr)] overflow-hidden bg-neutral-200 text-neutral-300\"><div class=\"footer-grain pointer-events-none absolute inset-0 opacity-30\"></div><!----></div></div></div></div></li><!--[--><li class=\"relative flex\"><a href=\"/#faq\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center py-2 hover:text-off-black\"><!----> FAQ</a></li><li class=\"relative flex\"><a href=\"/pricing\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center py-2 hover:text-off-black\"><!----> Pricing</a></li><li class=\"relative flex\"><a href=\"/docs\" data-nav-item=\"\" class=\"px-4 nav-link relative flex items-center py-2 hover:text-off-black\"><!----> Docs</a></li><!--]--></ul></div><div class=\"col-start-3 flex gap-2 justify-self-end\"><a href=\"https://cal.com/team/conare-inc/demo\" class=\"inline-flex items-center justify-center gap-2 rounded-none font-medium whitespace-nowrap transition-colors duration-200 ease-(--ease-conare) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-home-red border border-neutral-600 text-off-black h-7 text-[12px] px-2.5 btn-px max-md:hidden\" data-variant=\"secondary\"><span aria-hidden=\"true\" class=\"btn-px-fill\" data-inks=\"true\" style=\"grid-template-columns: repeat(14, 6px); grid-auto-rows: 6px;\"><i style=\"--i: 4; --o: 3;\"></i><i style=\"--i: 13; --o: 11;\"></i><i style=\"--i: 21; --o: 18;\"></i><i style=\"--i: 26; --o: 22;\"></i><i style=\"--i: 30; --o: 22;\"></i><i style=\"--i: 43; --o: 25;\"></i><i style=\"--i: 48; --o: 44;\"></i><i style=\"--i: 59; --o: 43;\"></i><i style=\"--i: 58; --o: 38;\"></i><i style=\"--i: 67; --o: 57;\"></i><i style=\"--i: 67; --o: 49;\"></i><i style=\"--i: 66; --o: 48;\"></i><i style=\"--i: 63; --o: 49;\"></i><i style=\"--i: 61; --o: 62;\"></i><i style=\"--i: 5; --o: 7;\"></i><i style=\"--i: 10; --o: 12;\"></i><i style=\"--i: 26; --o: 17;\"></i><i style=\"--i: 37; --o: 31;\"></i><i style=\"--i: 37; --o: 27;\"></i><i style=\"--i: 47; --o: 36;\"></i><i style=\"--i: 52; --o: 31;\"></i><i style=\"--i: 42; --o: 49;\"></i><i style=\"--i: 50; --o: 38;\"></i><i style=\"--i: 63; --o: 49;\"></i><i style=\"--i: 56; --o: 47;\"></i><i style=\"--i: 67; --o: 50;\"></i><i style=\"--i: 62; --o: 61;\"></i><i style=\"--i: 71; --o: 52;\"></i><i style=\"--i: 15; --o: 11;\"></i><i style=\"--i: 16; --o: 15;\"></i><i style=\"--i: 17; --o: 29;\"></i><i style=\"--i: 22; --o: 34;\"></i><i style=\"--i: 31; --o: 38;\"></i><i style=\"--i: 36; --o: 41;\"></i><i style=\"--i: 53; --o: 37;\"></i><i style=\"--i: 50; --o: 42;\"></i><i style=\"--i: 62; --o: 42;\"></i><i style=\"--i: 57; --o: 44;\"></i><i style=\"--i: 59; --o: 61;\"></i><i style=\"--i: 74; --o: 56;\"></i><i style=\"--i: 65; --o: 49;\"></i><i style=\"--i: 61; --o: 58;\"></i><i style=\"--i: 12; --o: 9;\"></i><i style=\"--i: 18; --o: 10;\"></i><i style=\"--i: 18; --o: 31;\"></i><i style=\"--i: 32; --o: 20;\"></i><i style=\"--i: 38; --o: 29;\"></i><i style=\"--i: 39; --o: 39;\"></i><i style=\"--i: 52; --o: 41;\"></i><i style=\"--i: 58; --o: 43;\"></i><i style=\"--i: 59; --o: 54;\"></i><i style=\"--i: 53; --o: 43;\"></i><i style=\"--i: 63; --o: 57;\"></i><i style=\"--i: 61; --o: 63;\"></i><i style=\"--i: 74; --o: 66;\"></i><i style=\"--i: 68; --o: 54;\"></i><i style=\"--i: 11; --o: 13;\"></i><i style=\"--i: 10; --o: 16;\"></i><i style=\"--i: 18; --o: 17;\"></i><i style=\"--i: 33; --o: 20;\"></i><i style=\"--i: 36; --o: 27;\"></i><i style=\"--i: 50; --o: 41;\"></i><i style=\"--i: 38; --o: 41;\"></i><i style=\"--i: 40; --o: 45;\"></i><i style=\"--i: 56; --o: 45;\"></i><i style=\"--i: 66; --o: 49;\"></i><i style=\"--i: 52; --o: 55;\"></i><i style=\"--i: 60; --o: 51;\"></i><i style=\"--i: 75; --o: 53;\"></i><i style=\"--i: 65; --o: 54;\"></i></span><!----><span class=\"btn-label\"><!--[--> Contact us <!--]--></span><!----></a><a href=\"/dashboard\" class=\"inline-flex items-center justify-center gap-2 rounded-none font-medium whitespace-nowrap transition-colors duration-200 ease-(--ease-conare) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-home-red bg-off-black text-off-white h-7 text-[12px] px-2.5 btn-px max-md:hidden\" data-variant=\"dark\"><span aria-hidden=\"true\" class=\"btn-px-fill\" data-inks=\"false\" style=\"grid-template-columns: repeat(14, 6px); grid-auto-rows: 6px;\"><i style=\"--i: 4; --o: 3;\"></i><i style=\"--i: 13; --o: 11;\"></i><i style=\"--i: 21; --o: 18;\"></i><i style=\"--i: 26; --o: 22;\"></i><i style=\"--i: 30; --o: 22;\"></i><i style=\"--i: 43; --o: 25;\"></i><i style=\"--i: 48; --o: 44;\"></i><i style=\"--i: 59; --o: 43;\"></i><i style=\"--i: 58; --o: 38;\"></i><i style=\"--i: 67; --o: 57;\"></i><i style=\"--i: 67; --o: 49;\"></i><i style=\"--i: 66; --o: 48;\"></i><i style=\"--i: 63; --o: 49;\"></i><i style=\"--i: 61; --o: 62;\"></i><i style=\"--i: 5; --o: 7;\"></i><i style=\"--i: 10; --o: 12;\"></i><i style=\"--i: 26; --o: 17;\"></i><i style=\"--i: 37; --o: 31;\"></i><i style=\"--i: 37; --o: 27;\"></i><i style=\"--i: 47; --o: 36;\"></i><i style=\"--i: 52; --o: 31;\"></i><i style=\"--i: 42; --o: 49;\"></i><i style=\"--i: 50; --o: 38;\"></i><i style=\"--i: 63; --o: 49;\"></i><i style=\"--i: 56; --o: 47;\"></i><i style=\"--i: 67; --o: 50;\"></i><i style=\"--i: 62; --o: 61;\"></i><i style=\"--i: 71; --o: 52;\"></i><i style=\"--i: 15; --o: 11;\"></i><i style=\"--i: 16; --o: 15;\"></i><i style=\"--i: 17; --o: 29;\"></i><i style=\"--i: 22; --o: 34;\"></i><i style=\"--i: 31; --o: 38;\"></i><i style=\"--i: 36; --o: ",
+    "links": [
+      {
+        "text": "NEW\nAccuracy you can check: every benchmark, losses included. See the evals",
+        "href": "https://conare.ai/evals"
+      },
+      {
+        "text": "",
+        "href": "https://conare.ai/"
+      },
+      {
+        "text": "SearchStore documents and query them.",
+        "href": "https://conare.ai/#search"
+      },
+      {
+        "text": "SyncKeep your apps in a namespace.",
+        "href": "https://conare.ai/#sync"
+      },
+      {
+        "text": "ParseRead any file in full, every row and cell.",
+        "href": "https://conare.ai/#parse"
+      },
+      {
+        "text": "EmbedEmbeddings for any vector database.",
+        "href": "https://conare.ai/#embed"
+      },
+      {
+        "text": "RerankPut the best passages first.",
+        "href": "https://conare.ai/reranker"
+      },
+      {
+        "text": "BenchmarksAccuracy you can check, losses included.",
+        "href": "https://conare.ai/#benchmarks"
+      },
+      {
+        "text": "Price vs accuracyMost accurate, and the cheapest.",
+        "href": "https://conare.ai/#price"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://conare.ai/#faq"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://conare.ai/pricing"
+      },
+      {
+        "text": "Docs",
+        "href": "https://conare.ai/docs"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Dashboard",
+        "href": "https://conare.ai/dashboard"
+      },
+      {
+        "text": "SearchStore documents and query them.",
+        "href": "https://conare.ai/#search"
+      },
+      {
+        "text": "SyncKeep your apps in a namespace.",
+        "href": "https://conare.ai/#sync"
+      },
+      {
+        "text": "ParseRead any file in full, every row and cell.",
+        "href": "https://conare.ai/#parse"
+      },
+      {
+        "text": "EmbedEmbeddings for any vector database.",
+        "href": "https://conare.ai/#embed"
+      },
+      {
+        "text": "RerankPut the best passages first.",
+        "href": "https://conare.ai/reranker"
+      },
+      {
+        "text": "BenchmarksAccuracy you can check, losses included.",
+        "href": "https://conare.ai/#benchmarks"
+      },
+      {
+        "text": "Price vs accuracyMost accurate, and the cheapest.",
+        "href": "https://conare.ai/#price"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://conare.ai/#faq"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://conare.ai/pricing"
+      },
+      {
+        "text": "Docs",
+        "href": "https://conare.ai/docs"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Dashboard",
+        "href": "https://conare.ai/dashboard"
+      },
+      {
+        "text": "ViDoRe v3, embedding\n67.0\nnDCG@10 · #1 of 9\n1\nconare-embed-1\n67.0\n2\nPerplexity pplx-embed-v2-late-9b, page images\n66.5\n3\nPerplexity pplx-embed-v2-late-9b, page text\n66.1\n4\nMixedbread search, page images\n64.2\n5\nMixedbread search, page text\n62.3\nSee the benchmark",
+        "href": "https://conare.ai/evals/vidore-embedding"
+      },
+      {
+        "text": "ViDoRe v3, six languages\n65.4\nnDCG@10 · #1 of 7\n1\nconare-embed-1\n65.4\n2\nPerplexity pplx-embed-v2-late-9b, page images\n65.2\n3\nPerplexity pplx-embed-v2-late-9b, page text\n64.7\n4\nMixedbread search, page images\n62.5\n5\nMixedbread search, page text\n60.1\nSee the benchmark",
+        "href": "https://conare.ai/evals/vidore-six-languages"
+      },
+      {
+        "text": "ViDoRe v3, reranking\n70.2\nnDCG@10 · #1 of 10\n1\nconare-rerank-1\n70.2\n2\nVoyage rerank-2.5\n68.5\n3\nVoyage rerank-2.5-lite\n67.4\n4\nzerank-2\n67.0\n5\nzerank-1\n66.7\nSee the benchmark",
+        "href": "https://conare.ai/evals/vidore-reranking"
+      },
+      {
+        "text": "LMEB, memory retrieval\n75.0\nnDCG@10 · #1 of 106\n1\nconare-embed-1\n75.0\n2\nnvidia/Nemotron-3-Embed-8B\n72.5\n3\nBAAI/bge-multilingual-gemma2\n68.7\n4\nnvidia/Nemotron-3-Embed-1B\n68.7\n5\ntencent/KaLM-Embedding-Gemma3-12B\n68.4\nSee the benchmark",
+        "href": "https://conare.ai/evals/lmeb"
+      },
+      {
+        "text": "Legal case search\n1.3%\n% ranked wrong, lower is better · #1 of 6\n1\nconare-rerank-1\n1.3%\n2\nClaude Opus 5.5\n2.5%\n3\nGPT-6 Sol\n7.6%\n4\nMixedbread mxbai-rerank-v3.1\n11.4%\n5\nContextual rerank-v2\n53.2%\nSee the benchmark",
+        "href": "https://conare.ai/evals/legal-cases"
+      },
+      {
+        "text": "Several conditions at once\n2.5%\n% ranked wrong, lower is better · #2 of 6, level with Claude Opus 5.5\n1\nClaude Opus 5.5\n1.1%\n2\nconare-rerank-1\n2.5%\n3\nGPT-6 Sol\n3.8%\n4\nMixedbread mxbai-rerank-v3.1\n16.7%\n5\nContextual rerank-v2\n50.0%\nSee the benchmark",
+        "href": "https://conare.ai/evals/several-conditions"
+      },
+      {
+        "text": "See the benchmark",
+        "href": "https://conare.ai/evals/vidore-embedding"
+      },
+      {
+        "text": "Several conditions at once",
+        "href": "https://conare.ai/evals/several-conditions"
+      },
+      {
+        "text": "Book a demo",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Privacy\nPrivacy",
+        "href": "https://conare.ai/privacy"
+      },
+      {
+        "text": "Terms\nTerms",
+        "href": "https://conare.ai/terms"
+      },
+      {
+        "text": "Search\nSearch",
+        "href": "https://conare.ai/docs/query"
+      },
+      {
+        "text": "Sync\nSync",
+        "href": "https://conare.ai/docs/sources"
+      },
+      {
+        "text": "Parse\nParse",
+        "href": "https://conare.ai/docs/files"
+      },
+      {
+        "text": "Embed\nEmbed",
+        "href": "https://conare.ai/docs/embed-rerank"
+      },
+      {
+        "text": "Rerank\nRerank",
+        "href": "https://conare.ai/reranker"
+      },
+      {
+        "text": "Docs\nDocs",
+        "href": "https://conare.ai/docs"
+      },
+      {
+        "text": "Quickstart\nQuickstart",
+        "href": "https://conare.ai/docs/quickstart"
+      },
+      {
+        "text": "API\nAPI",
+        "href": "https://conare.ai/docs/api"
+      },
+      {
+        "text": "SDK\nSDK",
+        "href": "https://conare.ai/docs/sdk"
+      },
+      {
+        "text": "MCP server\nMCP server",
+        "href": "https://conare.ai/docs/mcp-server"
+      },
+      {
+        "text": "Evals\nEvals",
+        "href": "https://conare.ai/evals"
+      },
+      {
+        "text": "Blog\nBlog",
+        "href": "https://conare.ai/blog"
+      },
+      {
+        "text": "Pricing\nPricing",
+        "href": "https://conare.ai/pricing"
+      },
+      {
+        "text": "Security\nSecurity",
+        "href": "https://conare.ai/security/disclosure"
+      },
+      {
+        "text": "Subprocessors\nSubprocessors",
+        "href": "https://conare.ai/subprocessors"
+      },
+      {
+        "text": "Status\nStatus",
+        "href": "https://status.conare.ai/"
+      },
+      {
+        "text": "Book a demo\nBook a demo",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Contact us\nContact us",
+        "href": "https://cal.com/team/conare-inc/demo"
+      },
+      {
+        "text": "Sign in\nSign in",
+        "href": "https://conare.ai/login"
+      }
+    ]
+  }
+]

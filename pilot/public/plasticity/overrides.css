@@ -1,0 +1,4 @@
+/* Local accommodations for the static reference recreation. */
+.plasticity-mobile-menu { padding:12px; border:1px solid #404040; background:#171717; }
+.plasticity-mobile-menu a { display:block; padding:10px; border-bottom:1px solid #333; color:#eee; font:12px monospace; text-transform:uppercase; }
+@media (min-width:768px) { a[href="#platform-specific-download"] { display:inline-flex !important; max-width:none !important; padding-left:8px !important; padding-right:10px !important; } }

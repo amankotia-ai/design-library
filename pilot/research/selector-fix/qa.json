@@ -1,0 +1,35 @@
+{
+  "reviewer": "/root/selector_qa",
+  "status": "passed",
+  "scope": "Collection selector appearance, native selection, focus, responsive sizing and panel retention only",
+  "implementation_edited_by_reviewer": false,
+  "observations": {
+    "desktop_viewport_width": 1440,
+    "desktop_selector": {"width":176,"height":36},
+    "mobile_viewport_width":390,
+    "mobile_selector":{"width":342,"height":36},
+    "font":"12px / 20px LibrarySans, Arial, sans-serif",
+    "appearance":"none",
+    "arrow_right_inset":12,
+    "horizontal_overflow":false,
+    "keyboard_focus_outline_px":2
+  },
+  "completed_checks": [
+    "Actual desktop at-rest and focus screenshots inspected",
+    "Actual mobile control screenshot inspected",
+    "Native keyboard selection reached Signal Workshop and returned Quiet Direction",
+    "Selected label and decorative arrow do not clip",
+    "Keyboard focus-visible outline observed",
+    "System and Sources retain labeled native selector",
+    "Signal selection made in Sources is reflected in System heading",
+    "Temporary viewport override reset"
+  ],
+  "captures": [
+    "evidence/selector-fix/selector-desktop.jpg",
+    "evidence/selector-fix/selector-desktop-rest.jpg",
+    "evidence/selector-fix/selector-mobile.jpg"
+  ],
+  "revision_basis":"Parent selector-fix/run.json records delivered source hashes; this report reviews the running synchronized revision without editing source.",
+  "findings":[],
+  "limitations":["Scoped Chromium/CUA review; no cross-browser or screen-reader audit", "Unrelated workshop and reference reproduction behavior was not re-tested"]
+}

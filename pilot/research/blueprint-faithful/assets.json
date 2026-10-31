@@ -1,0 +1,1013 @@
+{
+  "assets": [
+    {
+      "contentType": "font/woff2",
+      "id": "4a6611addcab495c",
+      "kind": "font",
+      "name": "07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/4a6611addcab495c.woff2",
+      "url": "https://blueprint.page/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "72f585f2f8cdf217",
+      "kind": "font",
+      "name": "605ce01b664af129-s.p.0wgildi0cnwt9.woff2",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/72f585f2f8cdf217.woff2",
+      "url": "https://blueprint.page/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2"
+    },
+    {
+      "contentType": "text/css",
+      "id": "380be78498223d70",
+      "kind": "stylesheet",
+      "name": "3sfdcgxkuxy2m.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/380be78498223d70.css",
+      "url": "https://blueprint.page/_next/static/chunks/3sfdcgxkuxy2m.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "9c77348b8ed83e7e",
+      "kind": "stylesheet",
+      "name": "1op-7rxb6r37t.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/9c77348b8ed83e7e.css",
+      "url": "https://blueprint.page/_next/static/chunks/1op-7rxb6r37t.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "412d1b80d9980ee9",
+      "kind": "stylesheet",
+      "name": "0maafgwn76h0g.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/412d1b80d9980ee9.css",
+      "url": "https://blueprint.page/_next/static/chunks/0maafgwn76h0g.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "e1381045d08e2d6c",
+      "kind": "stylesheet",
+      "name": "1aep2ggrdsqqz.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/e1381045d08e2d6c.css",
+      "url": "https://blueprint.page/_next/static/chunks/1aep2ggrdsqqz.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "e4b14662433811d8",
+      "kind": "stylesheet",
+      "name": "2w4f7vrzk4l5_.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/e4b14662433811d8.css",
+      "url": "https://blueprint.page/_next/static/chunks/2w4f7vrzk4l5_.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "45a938e12180e883",
+      "kind": "stylesheet",
+      "name": "2qq8ja1fxehuz.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/45a938e12180e883.css",
+      "url": "https://blueprint.page/_next/static/chunks/2qq8ja1fxehuz.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "15075fcf667e912b",
+      "kind": "stylesheet",
+      "name": "3jfa2o2_3n0zk.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/15075fcf667e912b.css",
+      "url": "https://blueprint.page/_next/static/chunks/3jfa2o2_3n0zk.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "269ff4c99c89ad54",
+      "kind": "stylesheet",
+      "name": "16j316g1zkc-o.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/269ff4c99c89ad54.css",
+      "url": "https://blueprint.page/_next/static/chunks/16j316g1zkc-o.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "264ab6d37122291e",
+      "kind": "stylesheet",
+      "name": "2jcxe6aho0p6s.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/264ab6d37122291e.css",
+      "url": "https://blueprint.page/_next/static/chunks/2jcxe6aho0p6s.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ce9e7c5f65b1bda8",
+      "kind": "stylesheet",
+      "name": "0f82tvflabozn.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/ce9e7c5f65b1bda8.css",
+      "url": "https://blueprint.page/_next/static/chunks/0f82tvflabozn.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "00460cb46d97c185",
+      "kind": "stylesheet",
+      "name": "2_jefqdqcd9dk.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/00460cb46d97c185.css",
+      "url": "https://blueprint.page/_next/static/chunks/2_jefqdqcd9dk.css"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "45bc69045aebe37f",
+      "kind": "image",
+      "name": "claude-opart.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/45bc69045aebe37f.webp",
+      "url": "https://blueprint.page/compare/claude-opart.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b35458ea7cb13a33",
+      "kind": "image",
+      "name": "blueprint-opart.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/b35458ea7cb13a33.webp",
+      "url": "https://blueprint.page/compare/blueprint-opart.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "770de05eac427150",
+      "kind": "image",
+      "name": "stitch-tile-red.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/770de05eac427150.webp",
+      "url": "https://blueprint.page/landing/tools/stitch-tile-red.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "922046e2b0b2dca6",
+      "kind": "image",
+      "name": "stitch-tile-indigo.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/922046e2b0b2dca6.webp",
+      "url": "https://blueprint.page/landing/tools/stitch-tile-indigo.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "37d3b27212a4209f",
+      "kind": "image",
+      "name": "plot-grid.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/37d3b27212a4209f.webp",
+      "url": "https://blueprint.page/landing/tools/plot-grid.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f8af0e6c60a2c3a7",
+      "kind": "image",
+      "name": "contour-ink.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/f8af0e6c60a2c3a7.webp",
+      "url": "https://blueprint.page/landing/contour-ink.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "04fbe9f1f14659df",
+      "kind": "image",
+      "name": "ascii-terminal.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/04fbe9f1f14659df.webp",
+      "url": "https://blueprint.page/landing/tools/ascii-terminal.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "a89b74e5c43ab324",
+      "kind": "image",
+      "name": "totem-acid.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/a89b74e5c43ab324.webp",
+      "url": "https://blueprint.page/landing/tools/totem-acid.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "0d6e5b61fedc2ad0",
+      "kind": "image",
+      "name": "totem-gameboy.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/0d6e5b61fedc2ad0.webp",
+      "url": "https://blueprint.page/landing/tools/totem-gameboy.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "6e9b73fa1210c8cd",
+      "kind": "image",
+      "name": "totem-sunset.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/6e9b73fa1210c8cd.webp",
+      "url": "https://blueprint.page/landing/tools/totem-sunset.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "d6e24ae649e3b442",
+      "kind": "image",
+      "name": "totem-fine.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/d6e24ae649e3b442.webp",
+      "url": "https://blueprint.page/landing/tools/totem-fine.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "25562bb5f5c11b55",
+      "kind": "image",
+      "name": "dash-yellow.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/25562bb5f5c11b55.webp",
+      "url": "https://blueprint.page/landing/tools/dash-yellow.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9416b9fc0ed11e99",
+      "kind": "image",
+      "name": "dash-chunky.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/9416b9fc0ed11e99.webp",
+      "url": "https://blueprint.page/landing/tools/dash-chunky.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "239912cd01af871d",
+      "kind": "image",
+      "name": "clusters-moss.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/239912cd01af871d.webp",
+      "url": "https://blueprint.page/landing/tools/clusters-moss.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "4f2c007cac3f746f",
+      "kind": "image",
+      "name": "clusters-dense.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/4f2c007cac3f746f.webp",
+      "url": "https://blueprint.page/landing/tools/clusters-dense.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "67b43735c1a4d4bc",
+      "kind": "image",
+      "name": "clusters-red.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/67b43735c1a4d4bc.webp",
+      "url": "https://blueprint.page/landing/tools/clusters-red.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "65a9295ac813959d",
+      "kind": "image",
+      "name": "clusters-cobalt.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/65a9295ac813959d.webp",
+      "url": "https://blueprint.page/landing/tools/clusters-cobalt.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "db0b4220ff37b29e",
+      "kind": "image",
+      "name": "op-art.3w65m2i1u7weo.webp",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/db0b4220ff37b29e.webp",
+      "url": "https://blueprint.page/_next/static/media/op-art.3w65m2i1u7weo.webp"
+    },
+    {
+      "contentType": "text/css",
+      "id": "32653a627c42c9ef",
+      "kind": "stylesheet",
+      "name": "3el-_c_q5-a_i.css",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/32653a627c42c9ef.css",
+      "url": "https://blueprint.page/_next/static/chunks/3el-_c_q5-a_i.css"
+    },
+    {
+      "contentType": "font/ttf",
+      "id": "85511b3fa47fb1a3",
+      "kind": "font",
+      "name": "JetBrainsMono%5Bwght%5D.ttf",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/85511b3fa47fb1a3.ttf",
+      "url": "https://blueprint.page/api/fonts/google/ofl/jetbrainsmono/JetBrainsMono%5Bwght%5D.ttf"
+    },
+    {
+      "contentType": "font/ttf",
+      "id": "5da38fdf843ced77",
+      "kind": "font",
+      "name": "SpaceGrotesk%5Bwght%5D.ttf",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/5da38fdf843ced77.ttf",
+      "url": "https://blueprint.page/api/fonts/google/ofl/spacegrotesk/SpaceGrotesk%5Bwght%5D.ttf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8791ce1f2824c587",
+      "kind": "image",
+      "name": "Blueprint",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/8791ce1f2824c587.svg",
+      "url": "inline-svg:8791ce1f2824c587"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3b8375d5386096ee",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/3b8375d5386096ee.svg",
+      "url": "inline-svg:3b8375d5386096ee"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "136d4909db873383",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/136d4909db873383.svg",
+      "url": "inline-svg:136d4909db873383"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7fdaabbf59bc984f",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/7fdaabbf59bc984f.svg",
+      "url": "inline-svg:7fdaabbf59bc984f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "93e7d51ccb747ab1",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/93e7d51ccb747ab1.svg",
+      "url": "inline-svg:93e7d51ccb747ab1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a1e96296c0d5cec3",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/a1e96296c0d5cec3.svg",
+      "url": "inline-svg:a1e96296c0d5cec3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "07cd7843e37758f9",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/07cd7843e37758f9.svg",
+      "url": "inline-svg:07cd7843e37758f9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bcd92b9e468d2ef1",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/bcd92b9e468d2ef1.svg",
+      "url": "inline-svg:bcd92b9e468d2ef1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "72c7b00b87ca6d6f",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/72c7b00b87ca6d6f.svg",
+      "url": "inline-svg:72c7b00b87ca6d6f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "18d545ea8a6c5ffc",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/18d545ea8a6c5ffc.svg",
+      "url": "inline-svg:18d545ea8a6c5ffc"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f5a1ce154070720f",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/f5a1ce154070720f.svg",
+      "url": "inline-svg:f5a1ce154070720f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5c33e5e9d8b38916",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/5c33e5e9d8b38916.svg",
+      "url": "inline-svg:5c33e5e9d8b38916"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "578280e2cf2572f9",
+      "kind": "image",
+      "name": "svg-13",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/578280e2cf2572f9.svg",
+      "url": "inline-svg:578280e2cf2572f9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b6c452f1707ae601",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/b6c452f1707ae601.svg",
+      "url": "inline-svg:b6c452f1707ae601"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ce72d34f3e033f28",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/ce72d34f3e033f28.svg",
+      "url": "inline-svg:ce72d34f3e033f28"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "85ad004c6f5c34b5",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/85ad004c6f5c34b5.svg",
+      "url": "inline-svg:85ad004c6f5c34b5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "22b67f40d6d8f154",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/22b67f40d6d8f154.svg",
+      "url": "inline-svg:22b67f40d6d8f154"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5508fa08dc29b28d",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/5508fa08dc29b28d.svg",
+      "url": "inline-svg:5508fa08dc29b28d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0f262ebd48c40b15",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/0f262ebd48c40b15.svg",
+      "url": "inline-svg:0f262ebd48c40b15"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "48f0357bf9564421",
+      "kind": "image",
+      "name": "svg-20",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/48f0357bf9564421.svg",
+      "url": "inline-svg:48f0357bf9564421"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0726fc772c8b1ed0",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/0726fc772c8b1ed0.svg",
+      "url": "inline-svg:0726fc772c8b1ed0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1d6a1ac29ec869fe",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/1d6a1ac29ec869fe.svg",
+      "url": "inline-svg:1d6a1ac29ec869fe"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "688826b3f83386ed",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/688826b3f83386ed.svg",
+      "url": "inline-svg:688826b3f83386ed"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b4e42d3ecbccae6f",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/b4e42d3ecbccae6f.svg",
+      "url": "inline-svg:b4e42d3ecbccae6f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "212e5b89fc01a11e",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/212e5b89fc01a11e.svg",
+      "url": "inline-svg:212e5b89fc01a11e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "89deaf163e53fb43",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/89deaf163e53fb43.svg",
+      "url": "inline-svg:89deaf163e53fb43"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f0011d204d24edaa",
+      "kind": "image",
+      "name": "svg-27",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/f0011d204d24edaa.svg",
+      "url": "inline-svg:f0011d204d24edaa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9be5f81e68ecc2de",
+      "kind": "image",
+      "name": "svg-28",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/9be5f81e68ecc2de.svg",
+      "url": "inline-svg:9be5f81e68ecc2de"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c61254eba5540a33",
+      "kind": "image",
+      "name": "svg-29",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/c61254eba5540a33.svg",
+      "url": "inline-svg:c61254eba5540a33"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "315cc6a7d704434c",
+      "kind": "image",
+      "name": "svg-30",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/315cc6a7d704434c.svg",
+      "url": "inline-svg:315cc6a7d704434c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "66ac48910032ddde",
+      "kind": "image",
+      "name": "svg-31",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/66ac48910032ddde.svg",
+      "url": "inline-svg:66ac48910032ddde"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a4c7d55b90341d8d",
+      "kind": "image",
+      "name": "svg-32",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/a4c7d55b90341d8d.svg",
+      "url": "inline-svg:a4c7d55b90341d8d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a06201a9e6f49725",
+      "kind": "image",
+      "name": "svg-33",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/a06201a9e6f49725.svg",
+      "url": "inline-svg:a06201a9e6f49725"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ce81d37eb2006f52",
+      "kind": "image",
+      "name": "svg-34",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/ce81d37eb2006f52.svg",
+      "url": "inline-svg:ce81d37eb2006f52"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "986f4dc2bef79f27",
+      "kind": "image",
+      "name": "svg-35",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/986f4dc2bef79f27.svg",
+      "url": "inline-svg:986f4dc2bef79f27"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6db05b14e80fef8b",
+      "kind": "image",
+      "name": "svg-36",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/6db05b14e80fef8b.svg",
+      "url": "inline-svg:6db05b14e80fef8b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6af0ca653aee9613",
+      "kind": "image",
+      "name": "svg-37",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/6af0ca653aee9613.svg",
+      "url": "inline-svg:6af0ca653aee9613"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "04fbe8ee246f1e09",
+      "kind": "image",
+      "name": "svg-38",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/04fbe8ee246f1e09.svg",
+      "url": "inline-svg:04fbe8ee246f1e09"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "769565a7517952ed",
+      "kind": "image",
+      "name": "svg-39",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/769565a7517952ed.svg",
+      "url": "inline-svg:769565a7517952ed"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d8939e342d9d2278",
+      "kind": "image",
+      "name": "svg-40",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/d8939e342d9d2278.svg",
+      "url": "inline-svg:d8939e342d9d2278"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bf19c609ed33b664",
+      "kind": "image",
+      "name": "svg-41",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/bf19c609ed33b664.svg",
+      "url": "inline-svg:bf19c609ed33b664"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fba34596ad109bec",
+      "kind": "image",
+      "name": "svg-42",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/fba34596ad109bec.svg",
+      "url": "inline-svg:fba34596ad109bec"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0d4c20369bf3c0b3",
+      "kind": "image",
+      "name": "svg-43",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/0d4c20369bf3c0b3.svg",
+      "url": "inline-svg:0d4c20369bf3c0b3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "56962ea55822bbd6",
+      "kind": "image",
+      "name": "svg-44",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/56962ea55822bbd6.svg",
+      "url": "inline-svg:56962ea55822bbd6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3b0a7eb2613da707",
+      "kind": "image",
+      "name": "svg-45",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/3b0a7eb2613da707.svg",
+      "url": "inline-svg:3b0a7eb2613da707"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5531bf1242fd43dd",
+      "kind": "image",
+      "name": "svg-46",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/5531bf1242fd43dd.svg",
+      "url": "inline-svg:5531bf1242fd43dd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1277d1503446bfbf",
+      "kind": "image",
+      "name": "svg-47",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/1277d1503446bfbf.svg",
+      "url": "inline-svg:1277d1503446bfbf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d273e4f679ddefc0",
+      "kind": "image",
+      "name": "svg-48",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/d273e4f679ddefc0.svg",
+      "url": "inline-svg:d273e4f679ddefc0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0f76c8ce78919254",
+      "kind": "image",
+      "name": "svg-49",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/0f76c8ce78919254.svg",
+      "url": "inline-svg:0f76c8ce78919254"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "af85ca8522ae3499",
+      "kind": "image",
+      "name": "svg-50",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/af85ca8522ae3499.svg",
+      "url": "inline-svg:af85ca8522ae3499"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9de0bd8dc4eceb1e",
+      "kind": "image",
+      "name": "svg-51",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/9de0bd8dc4eceb1e.svg",
+      "url": "inline-svg:9de0bd8dc4eceb1e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "922227cd2c04962f",
+      "kind": "image",
+      "name": "svg-52",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/922227cd2c04962f.svg",
+      "url": "inline-svg:922227cd2c04962f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7406d4552d0d4b76",
+      "kind": "image",
+      "name": "svg-53",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/7406d4552d0d4b76.svg",
+      "url": "inline-svg:7406d4552d0d4b76"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0c12a14570ff80aa",
+      "kind": "image",
+      "name": "svg-54",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/0c12a14570ff80aa.svg",
+      "url": "inline-svg:0c12a14570ff80aa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "63b2468d92c93b1b",
+      "kind": "image",
+      "name": "svg-55",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/63b2468d92c93b1b.svg",
+      "url": "inline-svg:63b2468d92c93b1b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e999dbdd7c0da585",
+      "kind": "image",
+      "name": "svg-56",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/e999dbdd7c0da585.svg",
+      "url": "inline-svg:e999dbdd7c0da585"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1a93ef741eb724c8",
+      "kind": "image",
+      "name": "svg-57",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/1a93ef741eb724c8.svg",
+      "url": "inline-svg:1a93ef741eb724c8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "07b4facfaeba3088",
+      "kind": "image",
+      "name": "svg-58",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/07b4facfaeba3088.svg",
+      "url": "inline-svg:07b4facfaeba3088"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "465c360bbd2ef27d",
+      "kind": "image",
+      "name": "svg-59",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/465c360bbd2ef27d.svg",
+      "url": "inline-svg:465c360bbd2ef27d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5621f7c81f7af9df",
+      "kind": "image",
+      "name": "svg-60",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/5621f7c81f7af9df.svg",
+      "url": "inline-svg:5621f7c81f7af9df"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7c1c9cc52c5601c7",
+      "kind": "image",
+      "name": "svg-61",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/7c1c9cc52c5601c7.svg",
+      "url": "inline-svg:7c1c9cc52c5601c7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bdc31140964ec11c",
+      "kind": "image",
+      "name": "svg-62",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/bdc31140964ec11c.svg",
+      "url": "inline-svg:bdc31140964ec11c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c60ceaf2afbb2015",
+      "kind": "image",
+      "name": "svg-63",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/c60ceaf2afbb2015.svg",
+      "url": "inline-svg:c60ceaf2afbb2015"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fefd1fd4c34f755e",
+      "kind": "image",
+      "name": "svg-64",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/fefd1fd4c34f755e.svg",
+      "url": "inline-svg:fefd1fd4c34f755e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7002b641cdbecbe3",
+      "kind": "image",
+      "name": "svg-65",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/7002b641cdbecbe3.svg",
+      "url": "inline-svg:7002b641cdbecbe3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "815af81163a6b129",
+      "kind": "image",
+      "name": "svg-66",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/815af81163a6b129.svg",
+      "url": "inline-svg:815af81163a6b129"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "67d1d59864d9f9ee",
+      "kind": "image",
+      "name": "svg-67",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/67d1d59864d9f9ee.svg",
+      "url": "inline-svg:67d1d59864d9f9ee"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d1bd6fed7bdff473",
+      "kind": "image",
+      "name": "svg-68",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/d1bd6fed7bdff473.svg",
+      "url": "inline-svg:d1bd6fed7bdff473"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8595fc126467d053",
+      "kind": "image",
+      "name": "svg-69",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/8595fc126467d053.svg",
+      "url": "inline-svg:8595fc126467d053"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "361a0081d5557be7",
+      "kind": "image",
+      "name": "svg-70",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/361a0081d5557be7.svg",
+      "url": "inline-svg:361a0081d5557be7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "060ded77014c23bf",
+      "kind": "image",
+      "name": "svg-71",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/060ded77014c23bf.svg",
+      "url": "inline-svg:060ded77014c23bf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0a91f54af14d2fc1",
+      "kind": "image",
+      "name": "svg-72",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/0a91f54af14d2fc1.svg",
+      "url": "inline-svg:0a91f54af14d2fc1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4bd941ba78831eaf",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/4bd941ba78831eaf.svg",
+      "url": "inline-svg:4bd941ba78831eaf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5b4738e1601d0aaf",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/5b4738e1601d0aaf.svg",
+      "url": "inline-svg:5b4738e1601d0aaf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "754fafbf50ad13d8",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/754fafbf50ad13d8.svg",
+      "url": "inline-svg:754fafbf50ad13d8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "72ae99a9463085a3",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/72ae99a9463085a3.svg",
+      "url": "inline-svg:72ae99a9463085a3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "29ab810ce6cc377e",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/29ab810ce6cc377e.svg",
+      "url": "inline-svg:29ab810ce6cc377e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "541a0051dd9d6b17",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/541a0051dd9d6b17.svg",
+      "url": "inline-svg:541a0051dd9d6b17"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bd87b8d230763c0a",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/bd87b8d230763c0a.svg",
+      "url": "inline-svg:bd87b8d230763c0a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3412f37e30742b80",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/3412f37e30742b80.svg",
+      "url": "inline-svg:3412f37e30742b80"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "025bde64e28b209c",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/025bde64e28b209c.svg",
+      "url": "inline-svg:025bde64e28b209c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a8555310eaed8c2f",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/a8555310eaed8c2f.svg",
+      "url": "inline-svg:a8555310eaed8c2f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d42861b208e0597d",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/d42861b208e0597d.svg",
+      "url": "inline-svg:d42861b208e0597d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7e74b55e985c6c26",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/7e74b55e985c6c26.svg",
+      "url": "inline-svg:7e74b55e985c6c26"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9f508752978783c9",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/9f508752978783c9.svg",
+      "url": "inline-svg:9f508752978783c9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f65d12bf42bc1e6a",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/f65d12bf42bc1e6a.svg",
+      "url": "inline-svg:f65d12bf42bc1e6a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "88bc160acbf8c81c",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/88bc160acbf8c81c.svg",
+      "url": "inline-svg:88bc160acbf8c81c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e0d2cc45f3a4d39d",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/e0d2cc45f3a4d39d.svg",
+      "url": "inline-svg:e0d2cc45f3a4d39d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d481582258ead926",
+      "kind": "image",
+      "name": "Included",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/d481582258ead926.svg",
+      "url": "inline-svg:d481582258ead926"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d16796ac47fcfcad",
+      "kind": "image",
+      "name": "svg-90",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/d16796ac47fcfcad.svg",
+      "url": "inline-svg:d16796ac47fcfcad"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a9e9f202b995b17a",
+      "kind": "image",
+      "name": "Blueprint",
+      "path": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/a9e9f202b995b17a.svg",
+      "url": "inline-svg:a9e9f202b995b17a"
+    }
+  ],
+  "directoryPath": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51",
+  "failures": [],
+  "manifestPath": "/var/folders/tx/z_rvf2qn2wz6sjz__fnlmmd40000gn/T/browser-use/assets/04c9ceab-6fe9-423c-99ff-cac4736d5b51/manifest.json",
+  "summary": {
+    "downloadedCount": 125,
+    "elapsedMs": 206.60416699992493,
+    "failedCount": 0,
+    "requestedCount": 125
+  }
+}

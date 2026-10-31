@@ -1,0 +1,70 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "outerOverflow": false,
+      "geometry": [
+        {
+          "viewportRadius": "0px",
+          "stageHeight": 450.8125,
+          "viewportHeight": 433.8125,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1907
+        },
+        {
+          "viewportRadius": "0px",
+          "stageHeight": 450.828125,
+          "viewportHeight": 433.828125,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1907
+        }
+      ]
+    },
+    {
+      "innerWheel": 0,
+      "scrollY": 500,
+      "outerY": 0
+    },
+    {
+      "innerWheel": 1,
+      "scrollY": 500,
+      "outerY": 0
+    },
+    {
+      "width": 390,
+      "outerOverflow": false,
+      "geometry": [
+        {
+          "viewportRadius": "0px",
+          "stageHeight": 425,
+          "viewportHeight": 408,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1916
+        },
+        {
+          "viewportRadius": "0px",
+          "stageHeight": 425,
+          "viewportHeight": 408,
+          "topInset": 16,
+          "bottomInset": 1,
+          "leftInset": 16,
+          "logicalHeight": 1916
+        }
+      ]
+    },
+    {
+      "mobileOuterY": 500
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "system-browser.jsx": "73126eed095ba4c697891b0c176729298de44f477f97433a1722ce427cbae18f",
+    "system-browser.css": "c0b26549ffbd1f5cadc4521cfbc432bc585b315ef55f517bb379e9e977cd963d"
+  }
+}

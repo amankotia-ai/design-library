@@ -1,0 +1,235 @@
+{
+  "checks": [
+    {
+      "name": "desktop hover opens",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop dimensions",
+      "ok": true,
+      "detail": "{\"x\":214,\"y\":95,\"width\":640,\"height\":447}"
+    },
+    {
+      "name": "preview Search",
+      "ok": true,
+      "detail": "/assets/conare/menu/0.png"
+    },
+    {
+      "name": "preview Sync",
+      "ok": true,
+      "detail": "/assets/conare/menu/1.png"
+    },
+    {
+      "name": "preview Parse",
+      "ok": true,
+      "detail": "/assets/conare/menu/2.png"
+    },
+    {
+      "name": "preview Embed",
+      "ok": true,
+      "detail": "/assets/conare/menu/3.png"
+    },
+    {
+      "name": "preview Rerank",
+      "ok": true,
+      "detail": "/assets/conare/menu/4.png"
+    },
+    {
+      "name": "preview Benchmarks",
+      "ok": true,
+      "detail": "/assets/conare/menu/5.png"
+    },
+    {
+      "name": "preview Price vs accuracy",
+      "ok": true,
+      "detail": "/assets/conare/menu/6.png"
+    },
+    {
+      "name": "desktop Escape closes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "keyboard opens",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "keyboard tab enters menu",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "keyboard escape focus",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "prompt shortcut 1280",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "prompt 4 suggestions 1280",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "prompt Escape 1280",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no overflow 1280",
+      "ok": true,
+      "detail": "{\"doc\":1280,\"width\":1280}"
+    },
+    {
+      "name": "footer links 1280",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "JS errors 1280",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile menu 390",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile 7 links 390",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile escape 390",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "prompt shortcut 390",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "prompt 4 suggestions 390",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "prompt Escape 390",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no overflow 390",
+      "ok": true,
+      "detail": "{\"doc\":390,\"width\":390}"
+    },
+    {
+      "name": "footer links 390",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "JS errors 390",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile menu 320",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile 7 links 320",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile escape 320",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "prompt shortcut 320",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "prompt 4 suggestions 320",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "prompt Escape 320",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no overflow 320",
+      "ok": true,
+      "detail": "{\"doc\":320,\"width\":320}"
+    },
+    {
+      "name": "footer links 320",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "JS errors 320",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "carousel no-preference",
+      "ok": true,
+      "detail": "active=1"
+    },
+    {
+      "name": "carousel reduce",
+      "ok": true,
+      "detail": "active=0"
+    },
+    {
+      "name": "route /?panel=systems",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "route /?panel=sections&system=conare",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "route /?panel=pages",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "route /?panel=sources&section=conare-evals-page",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "route /?panel=library&section=conare-evals-page",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "route /?view=conare-page",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "errors": [
+    "keyboard tab enters menu ",
+    "keyboard escape focus ",
+    "prompt shortcut 390 ",
+    "prompt 4 suggestions 390 "
+  ]
+}

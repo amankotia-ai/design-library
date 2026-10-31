@@ -1,0 +1,17 @@
+{
+  "src/main.jsx": false,
+  "src/data.js": false,
+  "src/catalog.jsx": false,
+  "src/page-shells.js": false,
+  "src/system-preview.jsx": false,
+  "src/system-preview.css": false,
+  "src/steel.jsx": true,
+  "src/steel-source-parts.json": true,
+  "src/steel-mobile-parts.json": true,
+  "src/steel-data.js": true,
+  "src/steel-tokens.css": true,
+  "public/steel-source/source.css": true,
+  "public/steel-source/layout.css": true,
+  "src/catalog.css": true,
+  "src/style.css": true
+}

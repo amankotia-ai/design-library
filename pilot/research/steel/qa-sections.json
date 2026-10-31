@@ -1,0 +1,282 @@
+[
+  {
+    "id": "header",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "hero",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "demo",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "customers",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "stats",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "use-cases",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "features",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "integrations",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "enterprise",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "stealth",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "faq",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "blog",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "cta",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "footer",
+    "w": 1440,
+    "width": 1440,
+    "scroll": 1440,
+    "h": 825,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "header",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "hero",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "demo",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "customers",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "stats",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "use-cases",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "features",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "integrations",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "enterprise",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "stealth",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "faq",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "blog",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "cta",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  },
+  {
+    "id": "footer",
+    "w": 390,
+    "width": 390,
+    "scroll": 390,
+    "h": 1767,
+    "text": 546,
+    "sections": [],
+    "errors": []
+  }
+]

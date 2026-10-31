@@ -1,0 +1,29 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "paddingTop": "32px",
+      "minHeight": "0px",
+      "marginBottom": "96px",
+      "brandTop": 32,
+      "cardMetadata": [
+        "Editorial / Portfolio",
+        "Creative tools"
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "paddingTop": "24px",
+      "minHeight": "0px",
+      "marginBottom": "64px",
+      "brandTop": 24,
+      "cardMetadata": [
+        "Editorial / Portfolio",
+        "Creative tools"
+      ],
+      "overflow": false
+    }
+  ],
+  "cssSHA256": "0d773bd7e8091e4ae33d000a8c4b10a67bb98b68ba5d40aa8225d06f9eba12f6"
+}

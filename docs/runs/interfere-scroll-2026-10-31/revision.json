@@ -1,0 +1,25 @@
+{
+  "file": "pilot/src/system-browser.jsx",
+  "function": "PagePreview",
+  "function_sha256": "1f093410f6ce2ed1303a74b5d4915d132ca5969f1dacdea3300f71f4912bbb0b",
+  "visible_shared_file_sha256": "f1694a71bbe43c2ac752fb12b4c58aa541af003811397db04787e6facb58b378",
+  "active_server": "http://127.0.0.1:5202",
+  "fix": "Direct source document only for interactive Interfere full-page preview",
+  "unchanged": "Sizing, transform, loading, title, inert thumbnail attributes and all other routes",
+  "concurrent_changes": "SystemPanel visual refinements by separate work are preserved and outside this bug fix",
+  "manual_check": {
+    "source_viewport": 1697,
+    "source_scroll_height": 7286,
+    "pointer_scroll": [
+      0,
+      1440
+    ],
+    "outer_scroll_before_after": [
+      157.5,
+      157.5
+    ],
+    "keyboard": "PageDown changes source scroll position"
+  },
+  "qa": "Core fix passed independent pointer, keyboard, narrow layout and route regression checks; see qa.md for Chrome automation drift limit",
+  "build": "Not completed: existing Conversion cloud-placeholder font blocked Vite file copy; owned build cancelled. Dev compilation/native checks passed."
+}

@@ -1,0 +1,11 @@
+{
+  "production_build": "passed",
+  "modules": 65,
+  "source_css_bytes": 348135,
+  "interfere_registry_media_check": "passed:1system,11sections,1page,11thumbnails,12localfont/imageassets",
+  "full_existing_check": "fails on unrelated concurrent salesloft.mode metadata",
+  "warning": "Existing application chunk exceeds500kB; no build failure",
+  "final_qa": "qa-final.md + qa-final-metadata.md",
+  "built_index_sha256": "5b12ce7edc7e17848c5774aa7a195993e0da25561bed3897a3204314b8ef5c20",
+  "copied_build_files": 43
+}

@@ -1,0 +1,10 @@
+html:has(.bp-faithful){--font-geist-sans:Geist;--font-geist-mono:"Geist Mono";color-scheme:light}body:has(.bp-faithful){font-family:Geist,"Geist Fallback",system-ui,sans-serif;font-size:13px;line-height:normal;background:#f7f7f8;color:#18181b}:where(.bp-faithful) p{text-wrap:wrap}:where(.bp-faithful) a{box-shadow:none}.bp-faithful button:not([class]){border:0}.bp-source-fragment{display:contents}:where(.bp-faithful) input{font:inherit;color:inherit}.bp-faithful .l-hero h1{text-wrap:balance}.bp-faithful .l-lede{text-wrap:balance}.bp-faithful video{display:block}.bp-faithful .l-final .l-final-body{position:relative}
+.bp-faithful.bp-standalone{min-height:0}html:has(.bp-standalone),body:has(.bp-standalone){height:auto}.bp-source-view-header{background:#104bff}.bp-source-view-editor .l-showcase{padding-bottom:0}.bp-source-view-examples .l-showcase{padding-top:0}
+/* Isolated section adaptation: contain the collapsed source comparison table. */
+.bp-source-view-pricing .pricing-compare{position:relative;overflow:hidden}
+
+/* Isolated source captures retain their original composition backdrop. */
+.bp-source-view-hero{overflow:clip;padding-bottom:8px}.bp-source-view-editor .l-showcase{position:relative;isolation:isolate}.bp-source-view-editor .blueprint-editor-context{position:absolute;top:0;left:0;right:0;transform:translateY(-100%);visibility:hidden;pointer-events:none;z-index:-1}.bp-source-view-editor .blueprint-editor-context .l-hero:before,.bp-source-view-editor .blueprint-editor-context .l-hero:after{visibility:visible}
+
+/* Auto-height library iframes retain the measured900px reference viewport for the editor. */
+@media(min-width:761px){.bp-source-view-editor[data-source-embed] .ed-window{height:700px}}

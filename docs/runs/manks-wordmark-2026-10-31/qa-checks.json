@@ -1,0 +1,1198 @@
+[
+  {
+    "panel": "home",
+    "width": 1440,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 152,
+        "y": 32,
+        "right": 471.203125,
+        "bottom": 68,
+        "width": 319.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 1070.828125,
+        "y": 39.5,
+        "right": 1288,
+        "bottom": 60.5,
+        "width": 217.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": []
+    },
+    "errors": []
+  },
+  {
+    "panel": "home",
+    "width": 768,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 32,
+        "right": 343.203125,
+        "bottom": 68,
+        "width": 319.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 526.828125,
+        "y": 39.5,
+        "right": 744,
+        "bottom": 60.5,
+        "width": 217.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": []
+    },
+    "errors": []
+  },
+  {
+    "panel": "home",
+    "width": 390,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 24,
+        "right": 306.171875,
+        "bottom": 56,
+        "width": 282.171875,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 76,
+        "right": 247.171875,
+        "bottom": 97,
+        "width": 223.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": []
+    },
+    "errors": []
+  },
+  {
+    "panel": "home",
+    "width": 320,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 24,
+        "right": 281.65625,
+        "bottom": 56,
+        "width": 257.65625,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 76,
+        "right": 247.171875,
+        "bottom": 97,
+        "width": 223.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": []
+    },
+    "errors": []
+  },
+  {
+    "panel": "library",
+    "width": 1440,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 398,
+        "y": 120,
+        "right": 717.203125,
+        "bottom": 156,
+        "width": 319.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 824.828125,
+        "y": 127.5,
+        "right": 1042,
+        "bottom": 148.5,
+        "width": 217.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif",
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "library",
+    "width": 768,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 62,
+        "y": 120,
+        "right": 381.203125,
+        "bottom": 156,
+        "width": 319.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 488.828125,
+        "y": 127.5,
+        "right": 706,
+        "bottom": 148.5,
+        "width": 217.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif",
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "library",
+    "width": 390,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 99,
+        "right": 306.171875,
+        "bottom": 131,
+        "width": 282.171875,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 151,
+        "right": 247.171875,
+        "bottom": 172,
+        "width": 223.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif",
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "library",
+    "width": 320,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 99,
+        "right": 281.65625,
+        "bottom": 131,
+        "width": 257.65625,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 151,
+        "right": 247.171875,
+        "bottom": 172,
+        "width": 223.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif",
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "sources",
+    "width": 1440,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 398,
+        "y": 120,
+        "right": 717.203125,
+        "bottom": 156,
+        "width": 319.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 824.828125,
+        "y": 127.5,
+        "right": 1042,
+        "bottom": 148.5,
+        "width": 217.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "sources",
+    "width": 768,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 62,
+        "y": 120,
+        "right": 381.203125,
+        "bottom": 156,
+        "width": 319.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 488.828125,
+        "y": 127.5,
+        "right": 706,
+        "bottom": 148.5,
+        "width": 217.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "sources",
+    "width": 390,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 99,
+        "right": 306.171875,
+        "bottom": 131,
+        "width": 282.171875,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 151,
+        "right": 247.171875,
+        "bottom": 172,
+        "width": 223.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "sources",
+    "width": 320,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 99,
+        "right": 281.65625,
+        "bottom": 131,
+        "width": 257.65625,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 151,
+        "right": 247.171875,
+        "bottom": 172,
+        "width": 223.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "system",
+    "width": 1440,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 398,
+        "y": 120,
+        "right": 717.203125,
+        "bottom": 156,
+        "width": 319.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 824.828125,
+        "y": 127.5,
+        "right": 1042,
+        "bottom": 148.5,
+        "width": 217.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "system",
+    "width": 768,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 62,
+        "y": 120,
+        "right": 381.203125,
+        "bottom": 156,
+        "width": 319.203125,
+        "height": 36
+      },
+      "nav": {
+        "x": 488.828125,
+        "y": 127.5,
+        "right": 706,
+        "bottom": 148.5,
+        "width": 217.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "system",
+    "width": 390,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 99,
+        "right": 306.171875,
+        "bottom": 131,
+        "width": 282.171875,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 151,
+        "right": 247.171875,
+        "bottom": 172,
+        "width": 223.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  },
+  {
+    "panel": "system",
+    "width": 320,
+    "check": {
+      "overflow": false,
+      "brand": {
+        "x": 24,
+        "y": 99,
+        "right": 281.65625,
+        "bottom": 131,
+        "width": 257.65625,
+        "height": 32
+      },
+      "nav": {
+        "x": 24,
+        "y": 151,
+        "right": 247.171875,
+        "bottom": 172,
+        "width": 223.171875,
+        "height": 21
+      },
+      "image": {
+        "complete": true,
+        "naturalWidth": 2079,
+        "naturalHeight": 756,
+        "alt": "of Manks"
+      },
+      "headingFonts": [
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ],
+        [
+          "\"Geist Serif\", Georgia, serif",
+          "400"
+        ]
+      ],
+      "wordmark": {
+        "family": "\"Geist Serif\", Georgia, serif",
+        "weight": "400",
+        "stroke": "0.22px"
+      },
+      "body": "\"Geist Sans\", Arial, sans-serif",
+      "selects": [
+        "\"Geist Sans\", Arial, sans-serif"
+      ]
+    },
+    "errors": []
+  }
+]

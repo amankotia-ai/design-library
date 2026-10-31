@@ -1,0 +1,158 @@
+[
+  {
+    "viewport": 1440,
+    "name": {
+      "x": 200,
+      "y": 33,
+      "width": 175.203125,
+      "height": 36,
+      "top": 33,
+      "right": 375.203125,
+      "bottom": 69,
+      "left": 200
+    },
+    "signature": {
+      "x": 387.203125,
+      "y": 34,
+      "width": 104,
+      "height": 38,
+      "top": 34,
+      "right": 491.203125,
+      "bottom": 72,
+      "left": 387.203125
+    },
+    "brand": {
+      "x": 152,
+      "y": 32,
+      "width": 339.203125,
+      "height": 38,
+      "top": 32,
+      "right": 491.203125,
+      "bottom": 70,
+      "left": 152
+    },
+    "serifBaseline": 61,
+    "signatureInkBaseline": 60.80375180375181,
+    "baselineDifference": -0.19624819624819168,
+    "gap": 12,
+    "overflow": false,
+    "imageLoaded": true
+  },
+  {
+    "viewport": 768,
+    "name": {
+      "x": 72,
+      "y": 33,
+      "width": 175.203125,
+      "height": 36,
+      "top": 33,
+      "right": 247.203125,
+      "bottom": 69,
+      "left": 72
+    },
+    "signature": {
+      "x": 259.203125,
+      "y": 34,
+      "width": 104,
+      "height": 38,
+      "top": 34,
+      "right": 363.203125,
+      "bottom": 72,
+      "left": 259.203125
+    },
+    "brand": {
+      "x": 24,
+      "y": 32,
+      "width": 339.203125,
+      "height": 38,
+      "top": 32,
+      "right": 363.203125,
+      "bottom": 70,
+      "left": 24
+    },
+    "serifBaseline": 61,
+    "signatureInkBaseline": 60.80375180375181,
+    "baselineDifference": -0.19624819624819168,
+    "gap": 12,
+    "overflow": false,
+    "imageLoaded": true
+  },
+  {
+    "viewport": 390,
+    "name": {
+      "x": 66,
+      "y": 25.5,
+      "width": 150.171875,
+      "height": 32,
+      "top": 25.5,
+      "right": 216.171875,
+      "bottom": 57.5,
+      "left": 66
+    },
+    "signature": {
+      "x": 226.171875,
+      "y": 25,
+      "width": 96,
+      "height": 35,
+      "top": 25,
+      "right": 322.171875,
+      "bottom": 60,
+      "left": 226.171875
+    },
+    "brand": {
+      "x": 24,
+      "y": 24,
+      "width": 298.171875,
+      "height": 35,
+      "top": 24,
+      "right": 322.171875,
+      "bottom": 59,
+      "left": 24
+    },
+    "serifBaseline": 49.5,
+    "signatureInkBaseline": 49.7034632034632,
+    "baselineDifference": 0.20346320346320113,
+    "gap": 10,
+    "overflow": false,
+    "imageLoaded": true
+  },
+  {
+    "viewport": 320,
+    "name": {
+      "x": 60,
+      "y": 24,
+      "width": 137.65625,
+      "height": 32,
+      "top": 24,
+      "right": 197.65625,
+      "bottom": 56,
+      "left": 60
+    },
+    "signature": {
+      "x": 207.65625,
+      "y": 25,
+      "width": 88,
+      "height": 32,
+      "top": 25,
+      "right": 295.65625,
+      "bottom": 57,
+      "left": 207.65625
+    },
+    "brand": {
+      "x": 24,
+      "y": 24,
+      "width": 271.65625,
+      "height": 32,
+      "top": 24,
+      "right": 295.65625,
+      "bottom": 56,
+      "left": 24
+    },
+    "serifBaseline": 48,
+    "signatureInkBaseline": 47.60317460317461,
+    "baselineDifference": -0.39682539682539186,
+    "gap": 10,
+    "overflow": false,
+    "imageLoaded": true
+  }
+]

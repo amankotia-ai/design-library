@@ -1,0 +1,42 @@
+{
+  "canvases": [
+    {
+      "i": 0,
+      "width": 0,
+      "height": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 1000
+      },
+      "parent": "<div aria-hidden=\"true\" class=\"pointer-events-none invisible fixed inset-0 z-30 overflow-hidden\"><canvas class=\"absolute inset-0 size-full\" height=\"0\" width=\"0\"></canvas><div class=\"absolute grid\"><svg aria-hidden=\"true\" class=\"col-start-1 row-start-1 block h-auto w-full overflow-visible\" fill=\"currentColor\" focusable=\"false\" viewBox=\"0 0 176.377 40\" xmlns=\"http://www.w3.org/2000/svg\" style=\"color: rgb(121, 51, 135);\"><path d=\"M36.9908 39.9824C38.0318 39.9824 38.5523 39.9824 38.9499 39.7798C39.2997 39.6016 39.584 39.3173 39.7622 38.9675C39.9648 38.5699 39.9648 38.0494 39.9648 37.0084L39.9649 2.99262C39.9649 1.9516 39.9649 1.4311 39.7623 1.03348C39.5841 0.683727 39.2997 0.399368 38.9499 0.221161C38.5523 0.0185658 38.0318 0.0185656 36.9908 0.0185654L2.97505 0.0185564C1.93403 0.0185562 1.41352 0.018556 1.01591 0.221151C0.666152 0.399358 0.381797 0.683717 0.203585 1.03347C0.000990488 1.43108 0.000990351 1.95159 0.000990078 2.99261L0.000981157 37.0084C0.000980884 38.0494 0.000980748 38.5699 0.203575 38.9675C0.381787 39.3173 0.666142 39.6016 1.0159 39.7798C1.41351 39.9824 1.93402 39.9824 2.97504 39.9824L36.9908 39.9824ZM34.7692 6.67921C35.7474 6.67921 36.2365 6.67921 36.5588 6.88384C36.8409 7.06299 37.0442 7.34295 37.1271 7.6667C37.2218 8.03651 37.0703 8.50155 36.7672 9.43164L33.3974 19.7733C33.157 20.5111 33.0368 20.88 32.8108 21.1529C32.6112 21.3938 32.354 21.5805 32.0631 21.6956C31.7336 21.826 31.3456 21.826 30.5697 21.826L5.45245 21.826C4.28953 21.826 3.70807 21.826 3.44598 21.",
+      "data": "data:,"
+    }
+  ],
+  "hero": "<section id=\"hero\" class=\"relative isolate bg-[var(--hero-bg)] max-md:flex max-md:h-auto! max-md:flex-col\" data-nav-hero=\"\" data-nav-ink=\"var(--hero-ink)\" style=\"height: 50vh; background: var(--band-hero); --hero-launch: 500ms; --hero-slide: 900ms;\"><div class=\"pointer-events-none absolute inset-0 z-[2]\"><iframe aria-hidden=\"true\" class=\"pointer-events-none absolute inset-0 block size-full border-0\" data-steel-piece=\"\" data-steel-boot=\"{&quot;x&quot;:30,&quot;y&quot;:-3.5,&quot;scale&quot;:8.0625,&quot;spill&quot;:0,&quot;fill&quot;:&quot;var(--band-hero)&quot;}\" src=\"/hero/steel-home.html\" tabindex=\"-1\" title=\"Steel: the banners' piece\" style=\"color: var(--hero-piece-ink); color-scheme: light; opacity: 1;\"></iframe></div><div class=\"contents\" data-hook=\"hero-squares\"><svg aria-hidden=\"true\" class=\"pointer-events-none absolute\" height=\"0\" width=\"0\" style=\"right: 0px; bottom: 0px; mix-blend-mode: normal; opacity: 1;\"><defs><pattern height=\"7\" id=\"_r_3_-stripe\" patternTransform=\"rotate(45)\" patternUnits=\"userSpaceOnUse\" width=\"7\"><rect fill=\"#FDFDFC\" height=\"7\" width=\"2.5\"></rect></pattern><filter color-interpolation-filters=\"sRGB\" filterUnits=\"userSpaceOnUse\" height=\"0\" id=\"_r_3_-wear\" width=\"0\" x=\"0\" y=\"0\"><feTurbulence baseFrequency=\"0.25\" numOctaves=\"2\" result=\"jitter\" seed=\"341\" type=\"fractalNoise\"></feTurbulence><feDisplacementMap in=\"SourceGraphic\" in2=\"jitter\" result=\"wobbled\" scale=\"0.3\" xChannelSelector=\"R\" yChannelSelector=\"G\"></feDisplacementMap><feGaussianBlur in=\"wobbled\" result=\"soft\" stdDeviation=\"1.65\"></feGaussianBlur><feComponentTransfer in=\"soft\" result=\"bled\"><feFuncA intercept=\"-1.4\" slope=\"4\" type=\"linear\"></feFuncA></feComponentTransfer><feTurbulence baseFrequency=\"0.03809523809523809\" numOctaves=\"4\" result=\"blotNoise\" seed=\"342\" type=\"fractalNoise\"></feTurbulence><feColorMatrix in=\"blotNoise\" result=\"blot\" type=\"matrix\" values=\"0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  10 0 0 0 -4.36\"></feColorMatrix><feComposite in=\"bled\" in2=\"blot\" operator=\"in\" result=\"erased\"></feComposite><feTurbulence baseFrequency=\"0.55\" numOctaves=\"1\" result=\"speckNoise\" seed=\"343\" type=\"fractalNoise\"></feTurbulence><feColorMatrix in=\"speckNoise\" result=\"speck\" type=\"matrix\" values=\"0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  14 0 0 0 -4.284\"></feColorMatrix><feComposite in=\"erased\" in2=\"speck\" operator=\"in\" result=\"worn\"></feComposite><feTurbulence baseFrequency=\"0.9\" numOctaves=\"2\" result=\"grainNoise\" seed=\"344\" type=\"fractalNoise\"></feTurbulence><feColorMatrix in=\"grainNoise\" result=\"grainMask\" type=\"matrix\" values=\"0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0 1\"></feColorMatrix><feComposite in=\"worn\" in2=\"grainMask\" operator=\"in\"></feComposite></filter></defs><g filter=\"url(#_r_3_-wear)\"></g></svg></div><div class=\"max-md:hidden\" data-hook=\"hero-paper\"><div aria-hidden=\"true\" class=\"pointer-events-none absolute inset-y-0 right-0 overflow-hidden\" data-paper-region=\"_r_4_\" style=\"width: 50%; --paper-w: 102%; --paper-x: 16%; --paper-y: 0%; --paper-shift: 40px;\"><style>@media (min-width: 1280px) and (max-width: 1535px) { [data-paper-region=\"_r_4_\"] > * { --paper-w: 117.3%; --paper-x: 20.43%; --paper-y: 6.52%; } }</style><div class=\"absolute top-1/2 left-1/2 bg-cover bg-center\" data-paper=\"_r_4_\" style=\"background-image: url(&quot;/hero/paper-sheet.jpg&quot;); width: var(--paper-w); aspect-ratio: 1.3745 / 1; border-radius: 0px; transform: translate(-50%, -50%) translate(var(--paper-x), var(--paper-y)) translateY(var(--paper-shift)) rotate(0deg); mix-blend-mode: normal; opacity: 1; filter: contrast(100%) brightness(100%);\"></div></div></div><div aria-hidden=\"true\" class=\"pointer-events-none absolute inset-0 z-[1]\" data-grain=\"\" style=\"background-image: url(&quot;data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'180'%20height%3D'180'%3E%3Cfilter%20id%3D'g'%3E%3CfeTurbulence%20type%3D'fractalNoise'%20baseFrequency%3D'1.26'%20numOctaves%3D'3'%20stitchTiles%3D'stitch'%2F%3E%3CfeColorMatrix%20type%3D'saturate'%20values%3D'0'%2F%3E%3C%2Ffilter%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20filter%3D'url(%23g)'%20opacity%3D'0.11'%2F%3E%3C%2Fsvg%3E&quot;); background-repeat: repeat;\"></div><div class=\"layout-grid pointer-events-none absolute inset-x-0 z-10 max-md:relative max-md:order-1 max-md:pt-[calc(7rem+var(--announce-h))] max-md:bottom-auto! max-md:pb-8\" style=\"bottom: 40px;\"><div class=\"col-span-full\"><h1 class=\"pointer-events-auto font-sans max-md:max-w-none! max-md:text-[length:var(--hero-title-size-phone,40px)]! -ms-3\" style=\"color: var(--hero-ink); font-size: var(--hero-title-size, calc(64px + var(--hero-title-boost, 0px))); font-weight: 360; line-height: var(--hero-dial-leading, 1.01); max-width: 43%;\"><span data-hug=\"\"><span class=\"relative\"><span data-headline=\"A\">Browser<br>Infrastructure<br>for AI Agents</span><span data-headline=\"B\">Give your AI agents<br>a browser<br>that works.</span></span></span></h1></div></div></section>",
+  "resources": [
+    "https://steel.dev/_next/static/immutable/media/ABCSchengenAMono_Variable.p.1vh0uvnfona6i.woff2",
+    "https://steel.dev/_next/static/immutable/media/ABCSchengenA_Variable-s.p.3nb4eiitxra8w.woff2",
+    "https://steel.dev/github.svg",
+    "https://steel.dev/logos/zo_computer.svg",
+    "https://steel.dev/logos/readwise.svg",
+    "https://steel.dev/logos/profound.svg",
+    "https://steel.dev/logos/avoca.svg",
+    "https://steel.dev/logos/octogen-logo.svg",
+    "https://steel.dev/logos/clamo.svg",
+    "https://steel.dev/logos/atoms.svg",
+    "https://steel.dev/logos/fluencify.svg",
+    "https://steel.dev/logos/rho.svg",
+    "https://steel.dev/logos/zingage.svg",
+    "https://steel.dev/logos/provizual_logo.png",
+    "https://steel.dev/logos/melrose.svg",
+    "https://steel.dev/logos/nimbus.svg",
+    "https://steel.dev/logos/cognizant.svg",
+    "https://steel.dev/logos/navattic.svg",
+    "https://steel.dev/logos/magical.svg",
+    "https://steel.dev/discord.svg",
+    "https://steel.dev/x.svg",
+    "https://steel.dev/linkedin.svg"
+  ]
+}

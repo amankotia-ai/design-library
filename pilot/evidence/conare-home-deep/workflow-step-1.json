@@ -1,0 +1,28 @@
+{
+  "t": 7135.29999999702,
+  "cards": [
+    {
+      "text": "01\nConnect\n\nWrite documents, upload files or connect an app. Each lands in a namespace.",
+      "active": "false"
+    },
+    {
+      "text": "02\nSync\n\nA changed record replaces its old version. A deleted one is deleted.",
+      "active": "true"
+    },
+    {
+      "text": "03\nRetrieve\n\nKeyword and vector search find candidates. The reranker puts the best first.",
+      "active": "false"
+    },
+    {
+      "text": "04\nDeliver\n\nYour model gets the passages that answer the question, with their source.",
+      "active": "false"
+    }
+  ],
+  "viz": [
+    {
+      "text": "Keep HubSpot in sync with CRM\n\nHubSpot\nadded to context\n\nSyncing…\nSynced 3 records ▶\n\nUpdated \nDeal 4821, created \nDeal 4830 and deleted \nContact 913\n.\n\nSyncing HubSpot…\nNext sync in 15 min",
+      "html": "<div class=\"step-body [grid-area:1/1]\" data-active=\"true\"><div class=\"viz flex flex-col gap-3 px-4 pt-1 pb-4\" data-active=\"true\"><p class=\"viz-in ml-10 bg-neutral-200 px-3 py-2.5 text-[13px] leading-5\" style=\"--d: 200;\">Keep HubSpot in sync with CRM</p><p class=\"viz-in flex items-center justify-end gap-1.5 text-[12px] leading-4 text-neutral-500\" style=\"--d: 600;\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" aria-hidden=\"true\"><rect x=\"0.5\" y=\"0.5\" width=\"11\" height=\"11\" fill=\"none\" stroke=\"currentColor\"></rect><rect x=\"3\" y=\"3\" width=\"3\" height=\"6\" fill=\"currentColor\"></rect></svg><span class=\"text-neutral-600\">HubSpot</span> added to context </p><p class=\"viz-in grid text-[12px] leading-4\" style=\"--d: 900;\"><span class=\"viz-swap-a viz-shimmer [grid-area:1/1]\" style=\"--d: 2400;\">Syncing…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Synced 3 records <span class=\"text-[9px]\">▶</span></span></p><p class=\"viz-in text-[13px] leading-6\" style=\"--d:1300;\"> Updated <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4821</span>, created <span class=\"viz-chip\"><span class=\"viz-dot bg-home-red\"></span>Deal 4830</span> and deleted <span class=\"viz-chip\"><span class=\"viz-dot bg-neutral-500\"></span><span class=\"line-through\">Contact 913</span></span>. </p><div class=\"viz-in viz-progress\" style=\"--d: 1600;\"><span class=\"viz-matrix\"><i style=\"--k: 1;\"></i><i style=\"--k: 2;\"></i><i style=\"--k: 3;\"></i><i style=\"--k: 4;\"></i><i style=\"--k: 5;\"></i><i style=\"--k: 6;\"></i><i style=\"--k: 7;\"></i><i style=\"--k: 8;\"></i><i style=\"--k: 9;\"></i></span><span class=\"grid flex-1\"><span class=\"viz-swap-a [grid-area:1/1]\" style=\"--d: 2400;\">Syncing HubSpot…</span><span class=\"viz-swap-b [grid-area:1/1] text-neutral-500\" style=\"--d: 2400;\">Next sync in 15 min</span></span><span class=\"viz-timer\" style=\"--to: 4; --d: 1600;\"></span></div></div></div>"
+    }
+  ],
+  "run": "true"
+}

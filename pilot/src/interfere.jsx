@@ -1,0 +1,10 @@
+import React,{useRef,useState,useLayoutEffect} from 'react';
+
+// Source utilities live in their own document so they cannot alter the library.
+export function InterfereStudy({view='interfere-page'}){
+ const frame=useRef(null);const observer=useRef(null);const [height,setHeight]=useState(900);
+ useLayoutEffect(()=>()=>observer.current?.disconnect(),[]);
+ const loaded=()=>{const doc=frame.current.contentDocument;doc.fonts.ready.then(()=>{const measure=()=>{const content=doc.body.firstElementChild.getBoundingClientRect().height;const menus=[...doc.querySelectorAll('details[open] .recreation-menu-panel')].map(node=>node.getBoundingClientRect().bottom+doc.documentElement.scrollTop+16);setHeight(Math.ceil(Math.max(content,...menus)))};doc.addEventListener('toggle',measure,true);observer.current?.disconnect();observer.current=new ResizeObserver(measure);observer.current.observe(doc.body);measure()})};
+ return <iframe ref={frame} onLoad={loaded} title={`Interfere ${view.replace('interfere-','')}`} src={`/interfere/${view.replace('interfere-','')}.html`} style={{display:'block',width:'100%',height,border:0,background:'#0b0b0b'}}/>;
+}
+export function InterfereNotes(){return <section className="article-section"><h2>Interfere: reference and limits</h2><p>This recreation retains the public homepage’s layout, copy, fonts, SVG artwork and product demonstration markup. Load animations are shown in a settled state. The product scenes are static illustrations; live investigations and service backends are not recreated. Navigation uses native disclosures with source destinations; the disclosure panel styling and mobile menu icon are adaptations. Demo avatars retain the server-rendered initials fallback instead of source photographs.</p><p><a href="https://interfere.com/" target="_blank" rel="noreferrer">View Interfere ↗</a> · REA inspection and viewport captures are preserved in the project evidence. Source identity, media and claims belong to Interfere.</p></section>}

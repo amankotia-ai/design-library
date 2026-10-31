@@ -1,0 +1,74 @@
+{
+  "reviewer": "/root/cleanup_qa",
+  "checks": [
+    {
+      "type": "inner wheel",
+      "title": "Quiet Serif page preview",
+      "url": "http://127.0.0.1:5175/?view=page&embed=1",
+      "before": 0,
+      "after": 700,
+      "outerScroll": 0,
+      "frameHeight": 900
+    },
+    {
+      "type": "inner wheel",
+      "title": "Cobalt Grid page preview",
+      "url": "http://127.0.0.1:5175/?view=signal-page&embed=1",
+      "before": 0,
+      "after": 700,
+      "outerScroll": 0,
+      "frameHeight": 900
+    },
+    {
+      "type": "inner wheel",
+      "title": "Blueprint page preview",
+      "url": "http://127.0.0.1:5175/?view=blueprint-page&embed=1",
+      "before": 0,
+      "after": 700,
+      "outerScroll": 0,
+      "frameHeight": 900
+    },
+    {
+      "type": "keyboard exits frame",
+      "outerFocus": {
+        "tag": "A",
+        "text": "Quiet Serif",
+        "href": "/?panel=system&section=page"
+      },
+      "viewportOutline": "none"
+    },
+    {
+      "type": "frame focus visible",
+      "outline": "solid"
+    },
+    {
+      "type": "title link",
+      "expected": "Quiet Serif",
+      "title": "Quiet Serif"
+    },
+    {
+      "type": "title link",
+      "expected": "Cobalt Grid",
+      "title": "Cobalt Grid"
+    },
+    {
+      "type": "title link",
+      "expected": "Blueprint",
+      "title": "Blueprint"
+    },
+    {
+      "type": "mobile-size surround outer scroll",
+      "outerScroll": 400,
+      "overflow": false
+    },
+    {
+      "type": "native handlers",
+      "wheelOrTouchHandlers": false
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "pilot/src/system-browser.jsx": "9f04d25efc24b8e8f154d7f6638eb532505b19c1eb8e0a8bc4035b37d65ba598",
+    "pilot/src/system-browser.css": "9f778eac0636c9a18c187ae192d705ca43a9f5635f442e50bd254751841c0994"
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "href": "https://conare.ai/evals/vidore-embedding",
+    "text": "ViDoRe v3, embedding\n67.0\nnDCG@10 · #1 of 9\n1\nconare-embed-1\n67.0\n2\nPerplexity pplx-embed-v2-late-9b, page images\n66.5\n3\nPerplexity pplx-embed-v2-late-9b, page text\n66.1\n4\nMixedbread search, page images\n64.2\n5\nMixedbread search, page text\n62.3\nSee the benchmark"
+  },
+  {
+    "href": "https://conare.ai/evals/vidore-six-languages",
+    "text": "ViDoRe v3, six languages\n65.4\nnDCG@10 · #1 of 7\n1\nconare-embed-1\n65.4\n2\nPerplexity pplx-embed-v2-late-9b, page images\n65.2\n3\nPerplexity pplx-embed-v2-late-9b, page text\n64.7\n4\nMixedbread search, page images\n62.5\n5\nMixedbread search, page text\n60.1\nSee the benchmark"
+  },
+  {
+    "href": "https://conare.ai/evals/vidore-reranking",
+    "text": "ViDoRe v3, reranking\n70.2\nnDCG@10 · #1 of 10\n1\nconare-rerank-1\n70.2\n2\nVoyage rerank-2.5\n68.5\n3\nVoyage rerank-2.5-lite\n67.4\n4\nzerank-2\n67.0\n5\nzerank-1\n66.7\nSee the benchmark"
+  },
+  {
+    "href": "https://conare.ai/evals/lmeb",
+    "text": "LMEB, memory retrieval\n75.0\nnDCG@10 · #1 of 106\n1\nconare-embed-1\n75.0\n2\nnvidia/Nemotron-3-Embed-8B\n72.5\n3\nBAAI/bge-multilingual-gemma2\n68.7\n4\nnvidia/Nemotron-3-Embed-1B\n68.7\n5\ntencent/KaLM-Embedding-Gemma3-12B\n68.4\nSee the benchmark"
+  },
+  {
+    "href": "https://conare.ai/evals/legal-cases",
+    "text": "Legal case search\n1.3%\n% ranked wrong, lower is better · #1 of 6\n1\nconare-rerank-1\n1.3%\n2\nClaude Opus 5.5\n2.5%\n3\nGPT-6 Sol\n7.6%\n4\nMixedbread mxbai-rerank-v3.1\n11.4%\n5\nContextual rerank-v2\n53.2%\nSee the benchmark"
+  },
+  {
+    "href": "https://conare.ai/evals/several-conditions",
+    "text": "Several conditions at once\n2.5%\n% ranked wrong, lower is better · #2 of 6, level with Claude Opus 5.5\n1\nClaude Opus 5.5\n1.1%\n2\nconare-rerank-1\n2.5%\n3\nGPT-6 Sol\n3.8%\n4\nMixedbread mxbai-rerank-v3.1\n16.7%\n5\nContextual rerank-v2\n50.0%\nSee the benchmark"
+  },
+  {
+    "href": "https://conare.ai/evals/vidore-embedding",
+    "text": "See the benchmark"
+  },
+  {
+    "href": "https://conare.ai/evals/several-conditions",
+    "text": "Several conditions at once"
+  }
+]

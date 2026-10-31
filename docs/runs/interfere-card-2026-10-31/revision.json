@@ -1,0 +1,23 @@
+{
+  "files": {
+    "interfere-preview.jsx": "b5aa56a3dc54d43fc62d903d6c5a3ee56ee01b1e329f36c387f91c0a7db0216d",
+    "interfere-preview.css": "d8e94ff790a767864708d381a8798b739a551f850ae8ac96ac4163ef25cf16d1",
+    "system-preview.jsx": "4b2e913fab2628c744935ba9c8ebbf531d64ec4f89f324d326f9ad1f4aebaffc",
+    "system-preview.css": "2266434d6e495a1608ea54e2b9acc590eee1acbe4b81a1d1922880c8b2d07496",
+    "system-preview-tokens.css": "898c6fad96fe8a5ee9ac72e16a113f28212bf8dd7a4554bbf075b09847dc358b"
+  },
+  "status": "Independent target QA passed300/360/600andcatalog",
+  "scope": "Authored Interfere system specimen only",
+  "specialists": {
+    "visual": "/root/visual_analysis",
+    "product": "/root/product_design",
+    "art": "/root/art_direction",
+    "independent_qa": "/root/independent_qa"
+  },
+  "concurrency": "Latest Signal Serif branch and scoped styles preserved; its changes are outside Interfere review",
+  "start_utc": "2026-10-30T22:31:55Z",
+  "deadline_utc": "2026-10-30T22:51:55Z",
+  "mode": "Original system expansion; source homepage unchanged",
+  "build": "passed in retained local runtime",
+  "result": "Typography pairing, numbered specimen groups, proportional sizing and bottom-anchored issue panel"
+}

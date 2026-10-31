@@ -1,0 +1,9 @@
+# Design system card element removal
+
+- Run: 2026-10-31, 04:57–05:17 IST budget. Scope: remove example element sections from all design system cards, keeping typography and color palettes.
+- Mode: existing system specimens. Source: user screenshot `Screenshot 2026-10-31 at 4.52.57 AM.png`, showing the Blueprint example controls.
+- Visual analyst `/root/visual_analysis_elements`, product designer `/root/product_design_elements`, and art director `/root/art_direction_elements` identified both renderers, the full component-example regions, the two-row layout, and accessible descriptions. Parent implemented. No new assets or font inferences.
+- Revision SHA-256: `system-preview.jsx` f2a001526e6365b3037586b4605f122e78f899c39ac44b0c7e8a735776d1004c; `system-preview.css` 606bc9eb7d15c286a873af48543cafb54f62c483982d878a2d2b624d0708fc27; `interfere-preview.jsx` 757fcddfca596172b540aba913bbae881b08875d599e2ad6464d15456146a8d8; `interfere-preview.css` 2cd91d73188770df2a74f78ef167d006590b4aed2b53f3c113e6bb68206162ed.
+- Captures: `design-library-no-elements-desktop.png` at 1440px and `design-library-no-elements-mobile.png` at 390px, rendered with matching source hashes using the isolated existing runtime and public assets.
+- Independent QA: `/root/qa_elements` inspected both captures and the four sources at the stated hashes. Passed: all seven cards omit example elements; typography and palettes remain visible, descriptions match, and no clipping or layout regression was apparent. No findings required correction.
+- Validation: project `npm run check` passed. Browser inspection found seven previews with palettes and zero element sections at both widths. Isolated production build passed with public asset copying disabled; asset URLs remain for runtime. The workspace installation's Autoprefixer entry point was missing in the preceding run.

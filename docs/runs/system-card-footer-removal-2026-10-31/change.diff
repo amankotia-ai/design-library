@@ -1,0 +1,11 @@
+--- before/system-browser.jsx
++++ after/system-browser.jsx
+@@ -32,7 +32,7 @@
+  const href=systemUrl(system);
+  return <article className="system-card">
+   <PagePreview pageId={pageFor(system)} name={system.name} systemId={system.id}/>
+-  <div className="system-card-body"><div className="card-meta"><span>{system.family}</span>{system.id!=='editorial-01'&&<span>{system.mode}</span>}</div><h2><a href={href}>{system.name}</a></h2><div className="card-palette" aria-label={`${system.name} palette`}>{system.swatches.map(([name,color])=><span key={name} style={{background:color}} title={`${name} ${color}`}/>)}<span className="palette-type">{system.typeLabel}</span></div><div className="card-bottom"><span>{partsFor(system).length} sections</span><a href={href}>Explore system <span aria-hidden="true">↗</span></a></div></div>
++  <div className="system-card-body"><div className="card-meta"><span>{system.family}</span>{system.id!=='editorial-01'&&<span>{system.mode}</span>}</div><h2><a href={href}>{system.name}</a></h2><div className="card-palette" aria-label={`${system.name} palette`}>{system.swatches.map(([name,color])=><span key={name} style={{background:color}} title={`${name} ${color}`}/>)}<span className="palette-type">{system.typeLabel}</span></div></div>
+  </article>;
+ }
+ 

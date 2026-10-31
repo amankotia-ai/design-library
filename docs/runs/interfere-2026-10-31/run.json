@@ -1,0 +1,48 @@
+{
+  "run": "interfere-2026-10-31",
+  "start_utc": "2026-10-30T22:11:24Z",
+  "deadline_utc": "2026-10-30T22:31:24Z",
+  "scope": "Interfere public homepage recreation + library system/page/11section integration",
+  "modes": {
+    "faithful": "Observed dark homepage layout, source typography/SVG/CSS and responsive geometry",
+    "expansion": "Library specimen and integration only"
+  },
+  "source": "https://interfere.com/",
+  "specialists": {
+    "visual": "/root/visual_analysis",
+    "product": "/root/product_design",
+    "art": "/root/art_direction",
+    "independent_qa": "/root/independent_qa"
+  },
+  "qa": "qa-final.md",
+  "revision": "qa-final-revision.json",
+  "static_revision": "final-static-revision.json",
+  "viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "source_heights": [
+    7286,
+    9089
+  ],
+  "delivered_heights": [
+    7286,
+    9089
+  ],
+  "geometry": "14visibleheadingrectangles match within0.01px in both viewports",
+  "limitations": [
+    "Static product demonstration and settled load animations",
+    "Avatar photos use original server-rendered initials fallback",
+    "Mobile menu icon and native disclosure panel styling adapted"
+  ],
+  "freebyrd": "index/thread/references returned no folder-specific context",
+  "runtime": "/tmp/design-library-pilot-runtime",
+  "preview": "http://127.0.0.1:5175/?panel=system&section=interfere-page",
+  "notes": "Cloud placeholder reads stalled and initially truncated runtime copy; final29staticfiles restored from stable fetched bytes using atomic replacements and verified. Earlier qa.md is superseded by qa-final.md."
+}

@@ -1,0 +1,10 @@
+# Product contract: baseline and wordmark distance
+
+Reviewer: `/root/typography_product`. Inspected current source, actual desktop logo crop from the preceding scale run, and live layout at 320/390/1440px. This is a recommendation before the correction, not final QA.
+
+- Retain the enlarged handwriting asset and its current dimensions. Increase the gap after the Serif name to 12px desktop and 10px mobile/narrow, without increasing the gap before the Serif name. The existing effective gaps are 8px at all three sizes because of negative image margins. Set the signature margin independently from the parent gap.
+- Current narrow brand is 269.66px within 272px usable width. Increasing only the signature gap by 2px produces 271.66px, leaving 0.34px. This fits the loaded font in Chromium but is an unnecessarily tight edge. Recommended minimal safeguard: under 380px only, change the Serif name from 22px to **21.5px**, keep the first gap at 8px, and make the signature gap 10px. That frees approximately 3.13px and leaves about 3.47px reserve while preserving signature size and the complete one-line brand. Prefer this slight narrow-only adjustment to squeezing the mark/name gap or shrinking the signature the user just enlarged.
+- Baseline alignment should use the visible letter body of the handwriting, not its full transparent image box or the lowest descender. A transform/relative offset on the signature can make the optical correction while retaining the existing line box and click target. Do not change mark or heading alignment to compensate.
+- The whole brand remains one home link with the accessible name `Design Library of Manks`; preserve image alt text and keyboard focus. Baseline and margin changes need no markup or accessibility changes.
+
+Final review should confirm the visible baseline at 1440/390/320px, effective post-name gaps of 12/10/10px, no horizontal overflow, and complete hit/focus coverage. If the narrow font adjustment is not used, record the 0.34px remaining margin and verify final loaded-font geometry explicitly.

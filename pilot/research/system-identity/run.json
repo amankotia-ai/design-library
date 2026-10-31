@@ -1,0 +1,24 @@
+{
+  "run_id": "system-identity-003",
+  "mode": "Library metadata and copy; component geometry unchanged",
+  "request": "Each design system needs a name and description",
+  "implementation_owner": "/root",
+  "agents": {
+    "visual_analysis": "/root/testimonial_visual",
+    "product_design": "/root/testimonial_product",
+    "art_direction": "/root/testimonial_art",
+    "independent_qa": "/root/quote_qa"
+  },
+  "hashes": {
+    "src/data.js": "e6af33c2b76f912c578b28e42e16126db59854ed116f841fd08e1ae9e081db7c",
+    "src/main.jsx": "29198c5f9300760ac66e76dbeadf7628c3d51d40b6c9ef2f7578ea030c9a6eed",
+    "scripts/check.mjs": "098b2dee9cbb4d2a937e8991e9d1babdfa87caca88b7a61dd3a4af197237e13b"
+  },
+  "evidence_directory": "evidence/system-identity",
+  "build": "passed",
+  "metadata_validation": "passed",
+  "review_status": "passed: scoped art review and independent QA",
+  "freebyrd": "index, thread, and references returned no folder-specific context",
+  "qa_checks": 37,
+  "qa_failed": 0
+}

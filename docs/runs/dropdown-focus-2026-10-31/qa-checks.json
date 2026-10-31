@@ -1,0 +1,11 @@
+{
+  "keyboardTabReachedSelect": true,
+  "focus": {
+    "outline": "none",
+    "border": "rgb(86, 86, 79)",
+    "shadow": "rgb(86, 86, 79) 0px 0px 0px 1px",
+    "bg": "rgba(0, 0, 0, 0)"
+  },
+  "filterResetPassed": true,
+  "hash": "347d958acaf0891e899ccc7219fb465fcbf3af0324f748c4fe0da01be0949108"
+}

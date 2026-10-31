@@ -1,0 +1,74 @@
+[
+  {
+    "width": 1440,
+    "result": {
+      "overflow": false,
+      "nameRight": 375.203125,
+      "signatureX": 387.203125,
+      "gap": 12,
+      "brandRight": 491.203125,
+      "signatureRight": 491.203125,
+      "navTop": 32.5,
+      "brandBottom": 70,
+      "viewport": 1440,
+      "imageLoaded": true,
+      "transform": "matrix(1, 0, 0, 1, 0, 2)",
+      "wordmarkFont": "\"Geist Serif\", Georgia, serif",
+      "href": "/"
+    }
+  },
+  {
+    "width": 768,
+    "result": {
+      "overflow": false,
+      "nameRight": 247.203125,
+      "signatureX": 259.203125,
+      "gap": 12,
+      "brandRight": 363.203125,
+      "signatureRight": 363.203125,
+      "navTop": 32.5,
+      "brandBottom": 70,
+      "viewport": 768,
+      "imageLoaded": true,
+      "transform": "matrix(1, 0, 0, 1, 0, 2)",
+      "wordmarkFont": "\"Geist Serif\", Georgia, serif",
+      "href": "/"
+    }
+  },
+  {
+    "width": 390,
+    "result": {
+      "overflow": false,
+      "nameRight": 216.171875,
+      "signatureX": 226.171875,
+      "gap": 10,
+      "brandRight": 322.171875,
+      "signatureRight": 322.171875,
+      "navTop": 79,
+      "brandBottom": 59,
+      "viewport": 390,
+      "imageLoaded": true,
+      "transform": "matrix(1, 0, 0, 1, 0, 1)",
+      "wordmarkFont": "\"Geist Serif\", Georgia, serif",
+      "href": "/"
+    }
+  },
+  {
+    "width": 320,
+    "result": {
+      "overflow": false,
+      "nameRight": 197.65625,
+      "signatureX": 207.65625,
+      "gap": 10,
+      "brandRight": 295.65625,
+      "signatureRight": 295.65625,
+      "navTop": 76,
+      "brandBottom": 56,
+      "viewport": 320,
+      "imageLoaded": true,
+      "transform": "matrix(1, 0, 0, 1, 0, 1)",
+      "wordmarkFont": "\"Geist Serif\", Georgia, serif",
+      "href": "/"
+    }
+  }
+]

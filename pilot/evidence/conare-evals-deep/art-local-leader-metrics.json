@@ -1,0 +1,330 @@
+{
+  "conare-embed-1": [
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-name",
+      "x": 0,
+      "y": 450,
+      "w": 0,
+      "h": 0,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "11px",
+      "line": "16.5px",
+      "parent": {
+        "tag": "LI",
+        "cls": "is-conare",
+        "x": 0,
+        "y": 450,
+        "w": 0,
+        "h": 0,
+        "html": "<li class=\"is-conare\"><span class=\"ce-rank\">1</span><span class=\"ce-bar-name\">conare-embed-1</span><span class=\"ce-bar-score\">67.0</span><span class=\"ce-track\"><i style=\"width: 83.75%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-name",
+      "x": 416,
+      "y": 729.984375,
+      "w": 363,
+      "h": 16.5,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "11px",
+      "line": "16.5px",
+      "parent": {
+        "tag": "LI",
+        "cls": "is-conare",
+        "x": 378,
+        "y": 719.984375,
+        "w": 524,
+        "h": 37.5,
+        "html": "<li class=\"is-conare\"><span class=\"ce-rank\">1</span><span class=\"ce-bar-name\">conare-embed-1</span><span class=\"ce-bar-score\">67.0</span><span class=\"ce-track\"><i style=\"width: 83.75%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-name",
+      "x": 92,
+      "y": 1578.46875,
+      "w": 274.328125,
+      "h": 18,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "12px",
+      "line": "18px",
+      "parent": {
+        "tag": "LI",
+        "cls": "is-conare",
+        "x": 68,
+        "y": 1573.46875,
+        "w": 348.328125,
+        "h": 43,
+        "html": "<li class=\"is-conare\"><span class=\"ce-rank\">1</span><span class=\"ce-bar-name\">conare-embed-1</span><span class=\"ce-bar-score\">67.0</span><span class=\"ce-track\"><i style=\"width: 83.75%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-name",
+      "x": 489.328125,
+      "y": 1578.46875,
+      "w": 274.328125,
+      "h": 18,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "12px",
+      "line": "18px",
+      "parent": {
+        "tag": "LI",
+        "cls": "is-conare",
+        "x": 465.328125,
+        "y": 1573.46875,
+        "w": 348.328125,
+        "h": 43,
+        "html": "<li class=\"is-conare\"><span class=\"ce-rank\">1</span><span class=\"ce-bar-name\">conare-embed-1</span><span class=\"ce-bar-score\">65.4</span><span class=\"ce-track\"><i style=\"width: 81.75%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-name",
+      "x": 92,
+      "y": 1999.359375,
+      "w": 274.328125,
+      "h": 18,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "12px",
+      "line": "18px",
+      "parent": {
+        "tag": "LI",
+        "cls": "is-conare",
+        "x": 68,
+        "y": 1994.359375,
+        "w": 348.328125,
+        "h": 43,
+        "html": "<li class=\"is-conare\"><span class=\"ce-rank\">1</span><span class=\"ce-bar-name\">conare-embed-1</span><span class=\"ce-bar-score\">75.0</span><span class=\"ce-track\"><i style=\"width: 93.75%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "x": 596.796875,
+      "y": 2895.21875,
+      "w": 453.1875,
+      "h": 16.5,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "11px",
+      "line": "16.5px",
+      "parent": {
+        "tag": "LI",
+        "cls": "",
+        "x": 588.796875,
+        "y": 2887.21875,
+        "w": 579.1875,
+        "h": 33.5,
+        "html": "<li><span>conare-embed-1</span><span>67.02</span><span>$0.10</span></li>"
+      }
+    }
+  ],
+  "67.0": [
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-score",
+      "x": 0,
+      "y": 450,
+      "w": 0,
+      "h": 0,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "11px",
+      "line": "16.5px",
+      "parent": {
+        "tag": "LI",
+        "cls": "is-conare",
+        "x": 0,
+        "y": 450,
+        "w": 0,
+        "h": 0,
+        "html": "<li class=\"is-conare\"><span class=\"ce-rank\">1</span><span class=\"ce-bar-name\">conare-embed-1</span><span class=\"ce-bar-score\">67.0</span><span class=\"ce-track\"><i style=\"width: 83.75%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-score",
+      "x": 840,
+      "y": 729.984375,
+      "w": 52,
+      "h": 16.5,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "11px",
+      "line": "16.5px",
+      "parent": {
+        "tag": "LI",
+        "cls": "is-conare",
+        "x": 378,
+        "y": 719.984375,
+        "w": 524,
+        "h": 37.5,
+        "html": "<li class=\"is-conare\"><span class=\"ce-rank\">1</span><span class=\"ce-bar-name\">conare-embed-1</span><span class=\"ce-bar-score\">67.0</span><span class=\"ce-track\"><i style=\"width: 83.75%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-score",
+      "x": 374.328125,
+      "y": 1578.46875,
+      "w": 42,
+      "h": 18,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "12px",
+      "line": "18px",
+      "parent": {
+        "tag": "LI",
+        "cls": "is-conare",
+        "x": 68,
+        "y": 1573.46875,
+        "w": 348.328125,
+        "h": 43,
+        "html": "<li class=\"is-conare\"><span class=\"ce-rank\">1</span><span class=\"ce-bar-name\">conare-embed-1</span><span class=\"ce-bar-score\">67.0</span><span class=\"ce-track\"><i style=\"width: 83.75%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-score",
+      "x": 1169,
+      "y": 1707.46875,
+      "w": 42,
+      "h": 18,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "12px",
+      "line": "18px",
+      "parent": {
+        "tag": "LI",
+        "cls": "",
+        "x": 862.65625,
+        "y": 1702.46875,
+        "w": 348.34375,
+        "h": 43,
+        "html": "<li class=\"\"><span class=\"ce-rank\">4</span><span class=\"ce-bar-name\">zerank-2</span><span class=\"ce-bar-score\">67.0</span><span class=\"ce-track\"><i style=\"width: 83.75%;\"></i></span></li>"
+      }
+    }
+  ],
+  "Perplexity pplx-embed-v2-late-9b, page images": [
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-name",
+      "x": 0,
+      "y": 450,
+      "w": 0,
+      "h": 0,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "11px",
+      "line": "16.5px",
+      "parent": {
+        "tag": "LI",
+        "cls": "",
+        "x": 0,
+        "y": 450,
+        "w": 0,
+        "h": 0,
+        "html": "<li class=\"\"><span class=\"ce-rank\">2</span><span class=\"ce-bar-name\">Perplexity pplx-embed-v2-late-9b, page images</span><span class=\"ce-bar-score\">66.5</span><span class=\"ce-track\"><i style=\"width: 83.125%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-name",
+      "x": 416,
+      "y": 767.484375,
+      "w": 363,
+      "h": 16.5,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "11px",
+      "line": "16.5px",
+      "parent": {
+        "tag": "LI",
+        "cls": "",
+        "x": 378,
+        "y": 757.484375,
+        "w": 524,
+        "h": 37.5,
+        "html": "<li class=\"\"><span class=\"ce-rank\">2</span><span class=\"ce-bar-name\">Perplexity pplx-embed-v2-late-9b, page images</span><span class=\"ce-bar-score\">66.5</span><span class=\"ce-track\"><i style=\"width: 83.125%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-name",
+      "x": 92,
+      "y": 1621.46875,
+      "w": 274.328125,
+      "h": 18,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "12px",
+      "line": "18px",
+      "parent": {
+        "tag": "LI",
+        "cls": "",
+        "x": 68,
+        "y": 1616.46875,
+        "w": 348.328125,
+        "h": 43,
+        "html": "<li class=\"\"><span class=\"ce-rank\">2</span><span class=\"ce-bar-name\">Perplexity pplx-embed-v2-late-9b, page images</span><span class=\"ce-bar-score\">66.5</span><span class=\"ce-track\"><i style=\"width: 83.125%;\"></i></span></li>"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "cls": "ce-bar-name",
+      "x": 489.328125,
+      "y": 1621.46875,
+      "w": 274.328125,
+      "h": 18,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "12px",
+      "line": "18px",
+      "parent": {
+        "tag": "LI",
+        "cls": "",
+        "x": 465.328125,
+        "y": 1616.46875,
+        "w": 348.328125,
+        "h": 43,
+        "html": "<li class=\"\"><span class=\"ce-rank\">2</span><span class=\"ce-bar-name\">Perplexity pplx-embed-v2-late-9b, page images</span><span class=\"ce-bar-score\">65.2</span><span class=\"ce-track\"><i style=\"width: 81.5%;\"></i></span></li>"
+      }
+    }
+  ],
+  "ViDoRe v3, embedding": [
+    {
+      "tag": "SPAN",
+      "cls": "ce-stat-title",
+      "x": 68,
+      "y": 384.90625,
+      "w": 249,
+      "h": 25,
+      "font": "\"Conare Inter\", sans-serif",
+      "size": "20px",
+      "line": "25px",
+      "parent": {
+        "tag": "BUTTON",
+        "cls": "ce-stat",
+        "x": 44,
+        "y": 283.796875,
+        "w": 298,
+        "h": 220,
+        "html": "<button class=\"ce-stat\" aria-pressed=\"true\"><span class=\"ce-pixels\" aria-hidden=\"true\"><i class=\"lit\"></i><i class=\"lit\"></i><i class=\"lit\"></i><i class=\"lit\"></i><i class=\"lit\"></i><i class=\"lit\"></i><i class=\"lit\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i></span><span class=\"ce-stat-title\">ViDoRe v3, embedding</span><strong>67.0</strong><small>nDCG@10. #1 of 9.</small></button>"
+      }
+    },
+    {
+      "tag": "H3",
+      "cls": "",
+      "x": 68,
+      "y": 1453.078125,
+      "w": 348.328125,
+      "h": 26,
+      "font": "\"Conare Display\", sans-serif",
+      "size": "20px",
+      "line": "26px",
+      "parent": {
+        "tag": "A",
+        "cls": "ce-directory-card",
+        "x": 44,
+        "y": 1429.078125,
+        "w": 397.328125,
+        "h": 420.890625,
+        "html": "<a class=\"ce-directory-card\" href=\"https://conare.ai/evals/vidore-embedding\"><h3>ViDoRe v3, embedding</h3><strong>67.0</strong><small>nDCG@10 · #1 of 9.</small><ol class=\"ce-bars compact\"><li class=\"is-conare\"><span class=\"ce-rank\">1</span><span class=\"ce-bar-name\">conare-embed-1</span><span class=\"ce-bar-score\">67.0</span><span class=\"ce-track\"><i style=\"width: 83.75%;\"></i></span></li><li class=\"\"><span class=\"ce-rank\">2</span><span class=\"ce-bar-name\">Perplexity pplx-embed-v2-late-9b, page images</span><span class=\"ce-bar-score\">66.5</span><span class=\"ce-track\"><i style=\"width: 83.125%;\"></i></span></li><li class=\"\"><span class=\"ce-rank\">3</span><span class=\"ce-bar-name\">Perplexity pplx-embed-v2-late-9b, page text</span><span class=\"ce-bar-score\">66.1</span><span class=\"ce-track\"><i style=\"width: 82.625%;\"></i></span></li><li class=\"\"><span class=\"ce-rank\">4</span><span class=\"ce-bar-name\">Mixedbread search, page images</span><span class=\"ce-bar-score\">64.2</span><span class=\"ce-tr"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "checks": [
+    "Default Sections, exact navigation, 18 section cards",
+    "Type/system filters, empty state, clear filters",
+    "Pages has 2, detail active parent, mobile preview, open target",
+    "Systems has 2, details, contextual reference attribution",
+    "Legacy URLs retained",
+    "320/390px catalogs and detail without document overflow",
+    "Keyboard links follow visual order",
+    "All 18 catalog images resolve; no page errors"
+  ],
+  "errors": []
+}

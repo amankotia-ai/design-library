@@ -1,0 +1,8 @@
+{
+  "checks": [
+    "sections:9999px radius,36px height,native select",
+    "pages:9999px radius,36px height,native select",
+    "sections&section=hero:9999px radius,36px height,native select"
+  ],
+  "hash": "7760193dcf30300af15024a29191d5c6ff5bb6b58e80692e3c8542ea3aaa5194"
+}

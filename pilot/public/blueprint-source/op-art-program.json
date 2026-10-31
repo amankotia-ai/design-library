@@ -1,0 +1,184 @@
+{
+  "key": "p:op-art-vibrations",
+  "name": "Op Art Vibrations",
+  "caption": "Animated 60s optical stripes, with a new variation in one click.",
+  "href": "/p/op-art-vibrations",
+  "spec": {
+    "code": "const FRAG = `#version 300 es\nprecision highp float;\nin vec2 uv;\nout vec4 outColor;\nuniform vec2 uRes;\nuniform float uPx, uTime, uSpacing, uRow, uThick, uTaper, uSpeed, uAniso;\nuniform vec2 uOff;\nuniform int uShape;\nuniform vec3 uA, uB;\n\nvoid main() {\n  vec2 f = gl_FragCoord.xy / uPx;\n  vec2 size = uRes / uPx;\n  vec2 c = size * (vec2(0.5) + uOff);\n  float x = f.x;\n  float y = size.y - f.y;\n  float dx = x - c.x;\n  float dy = (floor((y - c.y) / uRow) + 0.5) * uRow * uAniso;\n  float ax = abs(dx), ay = abs(dy);\n  float d;\n  if (uShape == 0) d = ax + ay;\n  else if (uShape == 1) d = length(vec2(dx, dy));\n  else if (uShape == 2) d = max(ax, ay);\n  else { float s = sqrt(ax) + sqrt(ay); d = s * s * 0.5; }\n  float phase = d / uSpacing - uTime * uSpeed;\n  float fr = fract(phase);\n  float u = clamp(f.x / size.x, 0.0, 1.0);\n  float duty = uThick * (1.0 - uTaper * 0.92 * u);\n  float aa = max(fwidth(phase), 0.001) * 0.75;\n  // stripe centered in the period\n  float t = abs(fr - 0.5);\n  float m = 1.0 - smoothstep(duty * 0.5 - aa, duty * 0.5 + aa, t);\n  // soften when stripes get sub-pixel to avoid moire noise\n  m = mix(m, duty, smoothstep(0.35, 1.0, aa * 2.0));\n  outColor = vec4(mix(uA, uB, m), 1.0);\n}`;\n\ndefineTool({\n  animated: true,\n  setup(ctx) {\n    ctx.state.prog = kit.gl.program(ctx.gl, FRAG);\n  },\n  render(ctx, p) {\n    const c = (hex) => kit.color.parse(hex).map((v) => v / 255);\n    const r = kit.rand(p.seed * 7 + 1);\n    const offx = (r() - 0.5) * 0.3, offy = (r() - 0.5) * 0.3;\n    const aniso = 0.8 + r() * 0.5;\n    const shapes = { diamond: 0, circle: 1, square: 2, star: 3 };\n    ctx.state.prog.draw({\n      uRes: [ctx.width, ctx.height],\n      uPx: ctx.px,\n      uTime: ctx.time,\n      uSpacing: p.spacing,\n      uRow: p.rowHeight,\n      uThick: p.thickness,\n      uTaper: p.taper,\n      uSpeed: p.speed,\n      uAniso: aniso,\n      uOff: [offx, offy],\n      uShape: shapes[p.shape] || 0,\n      uA: c(p.colorA),\n      uB: c(p.colorB),\n    });\n  },\n});",
+    "name": "Op Art Vibrations",
+    "presets": [
+      {
+        "name": "Classic yellow",
+        "values": {
+          "shape": "diamond",
+          "colorA": "#f4c80f",
+          "colorB": "#111111"
+        }
+      },
+      {
+        "name": "Red circles",
+        "values": {
+          "shape": "circle",
+          "colorA": "#f1e8d8",
+          "colorB": "#d62828",
+          "spacing": "22",
+          "rowHeight": "10"
+        }
+      },
+      {
+        "name": "Cobalt square",
+        "values": {
+          "shape": "square",
+          "taper": "0.6",
+          "colorA": "#f5f0e6",
+          "colorB": "#1d3fa8",
+          "spacing": "36"
+        }
+      },
+      {
+        "name": "Acid star",
+        "values": {
+          "shape": "star",
+          "colorA": "#1a1a1a",
+          "colorB": "#c6f432",
+          "spacing": "18",
+          "rowHeight": "8",
+          "thickness": "0.5"
+        }
+      }
+    ],
+    "animated": true,
+    "renderer": "webgl2",
+    "sections": [
+      {
+        "label": "Shape",
+        "controls": [
+          {
+            "key": "shape",
+            "type": "select",
+            "label": "Shape",
+            "default": "diamond",
+            "options": [
+              {
+                "label": "Diamond",
+                "value": "diamond"
+              },
+              {
+                "label": "Circle",
+                "value": "circle"
+              },
+              {
+                "label": "Square",
+                "value": "square"
+              },
+              {
+                "label": "Star",
+                "value": "star"
+              }
+            ]
+          },
+          {
+            "key": "spacing",
+            "max": 80,
+            "min": 8,
+            "step": 1,
+            "type": "slider",
+            "label": "Stripe spacing",
+            "default": 28
+          },
+          {
+            "key": "rowHeight",
+            "max": 60,
+            "min": 4,
+            "step": 1,
+            "type": "slider",
+            "label": "Band height",
+            "default": 16
+          }
+        ]
+      },
+      {
+        "label": "Stripes",
+        "controls": [
+          {
+            "key": "thickness",
+            "max": 0.9,
+            "min": 0.15,
+            "step": 0.01,
+            "type": "slider",
+            "label": "Thickness",
+            "default": 0.6
+          },
+          {
+            "key": "taper",
+            "max": 1,
+            "min": 0,
+            "step": 0.01,
+            "type": "slider",
+            "label": "Left-to-right taper",
+            "default": 0.8
+          },
+          {
+            "key": "speed",
+            "max": 1.5,
+            "min": 0,
+            "step": 0.01,
+            "type": "slider",
+            "label": "Drift speed",
+            "default": 0.25
+          }
+        ]
+      },
+      {
+        "label": "Colors",
+        "controls": [
+          {
+            "key": "colorA",
+            "type": "color",
+            "label": "Ground",
+            "default": "#f4c80f"
+          },
+          {
+            "key": "colorB",
+            "type": "color",
+            "label": "Stripe",
+            "default": "#111111"
+          }
+        ]
+      },
+      {
+        "label": "Variation",
+        "controls": [
+          {
+            "key": "seed",
+            "type": "seed",
+            "label": "Seed",
+            "default": 5
+          },
+          {
+            "key": "generate",
+            "type": "button",
+            "label": "Generate",
+            "action": "reseed"
+          }
+        ]
+      }
+    ],
+    "description": "Banded vertical stripes shifted row by row into concentric diamonds or circles, tapering left to right for a 60s optical vibration."
+  },
+  "start": {
+    "shape": "diamond",
+    "colorA": "#f4c80f",
+    "colorB": "#111111"
+  },
+  "animated": true,
+  "interactive": false,
+  "slug": "op-art-vibrations",
+  "prompt": "Animated 60s op art: vertical stripes shifted into concentric diamonds, thinning from left to right",
+  "reply": "Op Art Vibrations is ready: banded stripes shifted into diamonds or circles, with stripe spacing, band height, thickness, taper and speed, plus presets for Classic yellow, Red circles, Cobalt square and Acid star.",
+  "slide": {
+    "key": "thickness",
+    "by": -0.02
+  },
+  "late": true
+}

@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "class": "footer-grain pointer-events-none absolute inset-0 opacity-30",
+      "backgroundImage": "url(\"https://conare.ai/textures/grain.webp\")",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundSize": "12% auto",
+      "opacity": "0.3"
+    }
+  ],
+  [
+    {
+      "class": "footer-grain pointer-events-none absolute inset-0 opacity-30",
+      "backgroundImage": "url(\"https://conare.ai/textures/grain.webp\")",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundSize": "12% auto",
+      "opacity": "0.3"
+    }
+  ],
+  [
+    {
+      "class": "footer-grain pointer-events-none absolute inset-0 opacity-30",
+      "backgroundImage": "url(\"https://conare.ai/textures/grain.webp\")",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundSize": "12% auto",
+      "opacity": "0.3"
+    }
+  ],
+  [
+    {
+      "class": "footer-grain pointer-events-none absolute inset-0 opacity-30",
+      "backgroundImage": "url(\"https://conare.ai/textures/grain.webp\")",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundSize": "12% auto",
+      "opacity": "0.3"
+    }
+  ],
+  [
+    {
+      "class": "footer-grain absolute inset-0 opacity-30",
+      "backgroundImage": "url(\"https://conare.ai/textures/grain.webp\")",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundSize": "12% auto",
+      "opacity": "0.3"
+    },
+    {
+      "class": "absolute inset-0 bg-linear-to-b from-neutral-200 to-neutral-100",
+      "backgroundImage": "linear-gradient(in oklab, rgb(49, 48, 47) 0%, rgb(32, 31, 30) 100%)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundSize": "auto",
+      "opacity": "1"
+    }
+  ]
+]

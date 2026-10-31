@@ -1,0 +1,29 @@
+/* Desktop geometry is normalized from the supplied 4096 × 2460 reference. */
+.salesloft .sl-integrations{padding:0;position:relative;overflow:hidden;text-align:center}
+.salesloft .sl-integration-visual{position:relative;width:100%;aspect-ratio:1440/865}
+.salesloft .sl-curves{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.salesloft .sl-curves path{fill:none;stroke:#e2e2e2;stroke-width:1.2}
+.salesloft .sl-integration-title{position:absolute;z-index:1;top:36.05%;left:50%;transform:translateX(-50%);width:40%;max-width:none;margin:0!important;font-family:SalesSans,Arial,sans-serif;font-size:2vw!important;font-weight:400;letter-spacing:-.035em;line-height:1.27;text-wrap:initial}
+.salesloft .sl-integration-title span,.salesloft .sl-integration-title em{display:block;white-space:nowrap}
+.salesloft .sl-integration-title em{color:var(--sl-teal);font-weight:400}
+.salesloft .sl-apps{position:absolute;inset:0;display:block;pointer-events:none}
+.salesloft .sl-app{position:absolute;display:grid;place-items:center;width:5.49%;height:auto;aspect-ratio:1;border:1px solid #f0f0f0;border-radius:20%;background:#fff;box-shadow:0 9px 18px #00000017;transform:none!important}
+.salesloft .sl-app img{display:block;width:64%;height:64%;object-fit:contain}
+.salesloft .sl-stats{position:absolute;left:11.11%;top:66.82%;width:77.78%;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin:0}
+.salesloft .sl-stat{min-width:0;min-height:7.1vw;padding:0 1vw;border-right:1px solid #e2e2e2;font-size:1.2vw;line-height:1.42;color:#656565}
+.salesloft .sl-stat:last-child{border-right:0}
+.salesloft .sl-stat dt{font-size:2vw;line-height:1.2;color:var(--sl-teal);font-weight:400;margin:0 0 1vw;font-variant-numeric:tabular-nums}
+.salesloft .sl-stat dd{margin:0}
+@media(max-width:1250px){
+ .salesloft .sl-integrations{padding:80px 20px 70px}
+ .salesloft .sl-integration-visual{aspect-ratio:auto}
+ .salesloft .sl-curves{display:none}
+ .salesloft .sl-integration-title{position:static;transform:none;width:100%;font-size:27px!important;line-height:1.3;text-wrap:balance}
+ .salesloft .sl-integration-title span,.salesloft .sl-integration-title em{display:inline;white-space:normal}
+ .salesloft .sl-apps{position:static;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin:38px auto 0;max-width:370px}
+ .salesloft .sl-app{position:static;width:100%;max-width:64px;justify-self:center;border-radius:15px}
+ .salesloft .sl-stats{position:static;width:100%;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 0;margin:54px auto 0}
+ .salesloft .sl-stat{min-height:0;padding:0 12px;font-size:15px}
+ .salesloft .sl-stat:nth-child(2){border-right:0}
+ .salesloft .sl-stat dt{font-size:28px;margin-bottom:10px}
+}

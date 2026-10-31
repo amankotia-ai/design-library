@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "checks": [
+    "default labels inside controls",
+    "above labels visually hidden and accessible names retained",
+    "selected names/combined filtering preserved",
+    "clear reset preserved",
+    "Pages single filter",
+    "390px no overflow"
+  ],
+  "date": "2026-10-30T21:06:01.219Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "blueprint",
+  "url": "https://blueprint.page/",
+  "title": "Blueprint \u00b7 The fastest way to make a generative design tool",
+  "captured": "2026-10-30",
+  "source": "User-supplied public website; Freebyrd index/thread/references returned no folder-specific context.",
+  "rea": {
+    "repository": "https://github.com/morluto/rea",
+    "checkout": "/Users/abhishekmankotia/Documents/ChatGPT/Panorama/rea-reference",
+    "revision": "fb28ec1537e2d02aaca96325483c849c5c8ade6f",
+    "version": "6.4.0",
+    "evidence_ids": {
+      "rea-inspection": "ev_2724b364dc68d666c74e22d5688613c984e7b83dddd3d100f655ddbc35fe2f55",
+      "rea-screenshot": "ev_ece54c60806598980d30297945adb307f415a7cdf99a49ee0888ac4c742b53eb",
+      "final-hero": "ev_f1ef4585a37c114113bfd8c04559b247fa767c33b2919321e2ee76d4a865f4ff",
+      "final-page-mobile": "ev_d65cfeed11ed0d1aa6b5d225f1d121ebffed114bac0e4e77593fbe78ad970179",
+      "final-library-desktop": "ev_69c2b716e3b86768ecc9977155881cf45a91e4963d6d47a935e6c408eb251e2c"
+    }
+  },
+  "source_media": {
+    "desktop": {
+      "path": "public/references/blueprint/desktop.png",
+      "width": 1440,
+      "height": 857
+    },
+    "hero": {
+      "path": "public/references/blueprint/hero.png",
+      "crop": [
+        0,
+        0,
+        1440,
+        594
+      ],
+      "note": "Exact top594 PNG scanlines; excludes editor starting at y594."
+    }
+  },
+  "modes": {
+    "reproduction": "Source hero only at1440\u00d7594, source wording, measured composition; Inter, wordmark, and uniform grid approximations.",
+    "expansion": "Signal Workshop copy, SVG algorithm, behavior, mobile arrangements, feature, FAQ, footer and assembled page are original."
+  },
+  "unknowns": [
+    "Geist declared by source CSS; shipped local study uses Inter.",
+    "Source account, generation, pricing and export internals were not recovered.",
+    "Source animation captured at one instant; no animation recreated.",
+    "No source photos or application code reused in original expansion."
+  ],
+  "hashes": {
+    "public/references/blueprint/desktop.png": "d471878f0ce86307ff1d5cf55d571555aea2dfe99dfff9b4e4f7ba0e39701844",
+    "public/references/blueprint/hero.png": "4268846a1ddbbe13392fd57c9bbd042c868c96102ce77bbfb45ed3fe89c5fabd",
+    "public/evidence/blueprint-hero.png": "4b8a56d4fbcb93bf697c56a225a2d1c1e1b75dca04eaedc8ef188def45df8f8f"
+  }
+}

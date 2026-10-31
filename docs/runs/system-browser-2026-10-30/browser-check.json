@@ -1,0 +1,90 @@
+[
+  {
+    "name": "system-browser-home-desktop",
+    "errors": [],
+    "overflow": false,
+    "images": [
+      {
+        "src": "/assets/design-library-mark.svg",
+        "loaded": true
+      },
+      {
+        "src": "/previews/quiet-serif.png",
+        "loaded": true
+      },
+      {
+        "src": "/previews/cobalt-grid.png",
+        "loaded": true
+      },
+      {
+        "src": "/evidence/blueprint-full/editor.png",
+        "loaded": true
+      }
+    ],
+    "heading": [
+      "Choose the system.See how the parts connect."
+    ]
+  },
+  {
+    "name": "system-browser-home-mobile",
+    "errors": [],
+    "overflow": false,
+    "images": [
+      {
+        "src": "/assets/design-library-mark.svg",
+        "loaded": true
+      },
+      {
+        "src": "/previews/quiet-serif.png",
+        "loaded": true
+      },
+      {
+        "src": "/previews/cobalt-grid.png",
+        "loaded": true
+      },
+      {
+        "src": "/evidence/blueprint-full/editor.png",
+        "loaded": true
+      }
+    ],
+    "heading": [
+      "Choose the system.See how the parts connect."
+    ]
+  },
+  {
+    "name": "system-browser-detail-desktop",
+    "errors": [],
+    "overflow": false,
+    "images": [
+      {
+        "src": "/assets/design-library-mark.svg",
+        "loaded": true
+      },
+      {
+        "src": "/previews/cobalt-grid.png",
+        "loaded": true
+      }
+    ],
+    "heading": [
+      "Cobalt Grid"
+    ]
+  },
+  {
+    "name": "system-browser-detail-mobile",
+    "errors": [],
+    "overflow": false,
+    "images": [
+      {
+        "src": "/assets/design-library-mark.svg",
+        "loaded": true
+      },
+      {
+        "src": "/previews/quiet-serif.png",
+        "loaded": true
+      }
+    ],
+    "heading": [
+      "Quiet Serif"
+    ]
+  }
+]

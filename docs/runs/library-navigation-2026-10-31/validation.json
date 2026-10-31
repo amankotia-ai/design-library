@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "browserErrors": [],
+  "checks": [
+    "navigation labels and active parents",
+    "18 sections and 2 pages",
+    "type/system filters and URL reload",
+    "empty state clear action",
+    "all catalog images load",
+    "page desktop/mobile preview",
+    "system details and filtered references",
+    "legacy routes",
+    "source comparison",
+    "section-preserving system switch",
+    "320px/390px no overflow",
+    "keyboard navigation"
+  ],
+  "date": "2026-10-30T20:55:57.836Z"
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "index": 0,
+    "rows": [
+      {
+        "text": "1conare-embed-167.0",
+        "width": "0.83775"
+      },
+      {
+        "text": "2Perplexity pplx-embed-v2-late-9b, page images66.5",
+        "width": "0.8310000000000001"
+      },
+      {
+        "text": "3Perplexity pplx-embed-v2-late-9b, page text66.1",
+        "width": "0.8262499999999999"
+      },
+      {
+        "text": "4Mixedbread search, page images64.2",
+        "width": "0.8029999999999999"
+      },
+      {
+        "text": "5Mixedbread search, page text62.3",
+        "width": "0.778125"
+      },
+      {
+        "text": "6voyage-4-large60.6",
+        "width": "0.758"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "rows": [
+      {
+        "text": "1conare-rerank-170.2",
+        "width": "0.877"
+      },
+      {
+        "text": "2Voyage rerank-2.568.5",
+        "width": "0.8563750000000001"
+      },
+      {
+        "text": "3Voyage rerank-2.5-lite67.4",
+        "width": "0.842625"
+      },
+      {
+        "text": "4zerank-267.0",
+        "width": "0.837"
+      },
+      {
+        "text": "5zerank-166.7",
+        "width": "0.8342499999999999"
+      },
+      {
+        "text": "6Contextual ctxl-rerank 6B65.5",
+        "width": "0.818875"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "rows": [
+      {
+        "text": "1conare-rerank-11.3%",
+        "width": "0.018571428571428572"
+      },
+      {
+        "text": "2Claude Opus 5.52.5%",
+        "width": "0.03571428571428571"
+      },
+      {
+        "text": "3GPT-6 Sol7.6%",
+        "width": "0.10857142857142857"
+      },
+      {
+        "text": "4Mixedbread mxbai-rerank-v3.111.4%",
+        "width": "0.16285714285714287"
+      },
+      {
+        "text": "5Contextual rerank-v253.2%",
+        "width": "0.76"
+      },
+      {
+        "text": "6zerank-260.8%",
+        "width": "0.8685714285714285"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "rows": [
+      {
+        "text": "1Claude Opus 5.51.1%",
+        "width": "0.015714285714285715"
+      },
+      {
+        "text": "2conare-rerank-12.5%",
+        "width": "0.03571428571428571"
+      },
+      {
+        "text": "3GPT-6 Sol3.8%",
+        "width": "0.054285714285714284"
+      },
+      {
+        "text": "4Mixedbread mxbai-rerank-v3.116.7%",
+        "width": "0.23857142857142857"
+      },
+      {
+        "text": "5Contextual rerank-v250.0%",
+        "width": "0.7142857142857143"
+      },
+      {
+        "text": "6zerank-263.5%",
+        "width": "0.9071428571428571"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "rows": [
+      {
+        "text": "conare-embed-167.02$0.10"
+      },
+      {
+        "text": "Mixedbread62.25$1.50"
+      },
+      {
+        "text": "voyage-4-large60.64$0.12"
+      },
+      {
+        "text": "gemini-embedding-258.70$0.20"
+      },
+      {
+        "text": "Cohere embed-v4.056.63$0.12"
+      }
+    ]
+  }
+]

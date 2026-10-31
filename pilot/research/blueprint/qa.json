@@ -1,0 +1,184 @@
+{
+  "run_id": "blueprint-2026-10-30",
+  "reviewer": "/root/blueprint_qa",
+  "role": "Independent QA",
+  "status": "passed",
+  "scope": "Bounded Signal Workshop expansion and affected library navigation/comparison paths; no claim of pixel identity or recovered Blueprint application",
+  "checks": [
+    {
+      "id": "render_desktop",
+      "status": "passed",
+      "evidence": "1440\u00d7900 viewport; full page1440\u00d72940; actual final screenshot inspected."
+    },
+    {
+      "id": "render_mobile",
+      "status": "passed",
+      "evidence": "390\u00d7844 viewport; full page390\u00d73759; actual final screenshot inspected."
+    },
+    {
+      "id": "overflow_1440",
+      "status": "passed",
+      "evidence": "document scrollWidth1440 equals viewport1440."
+    },
+    {
+      "id": "overflow_768",
+      "status": "passed",
+      "evidence": "document scrollWidth768 equals viewport768; editor columns438/240."
+    },
+    {
+      "id": "overflow_390",
+      "status": "passed",
+      "evidence": "document scrollWidth390 equals viewport390; editor stacked320px; feature grid350px single column."
+    },
+    {
+      "id": "mobile_readability",
+      "status": "passed",
+      "evidence": "Actual mobile full-page image inspected: complete CTA labels, bounded artboard, reachable controls, FAQ/footer readable."
+    },
+    {
+      "id": "shape",
+      "status": "passed",
+      "evidence": "Native select changed Diamond\u2192Circle; artwork aria-label and SVG contents changed."
+    },
+    {
+      "id": "spacing",
+      "status": "passed",
+      "evidence": "Keyboard ArrowRight changed24\u219225px; output and SVG changed."
+    },
+    {
+      "id": "thickness",
+      "status": "passed",
+      "evidence": "Keyboard ArrowRight changed48\u219249%; output and SVG changed."
+    },
+    {
+      "id": "variation",
+      "status": "passed",
+      "evidence": "Generate changed005\u2192006 and artwork content."
+    },
+    {
+      "id": "paper_color",
+      "status": "passed",
+      "evidence": "Committed native color picker interaction: input and SVG ground both #ff0000."
+    },
+    {
+      "id": "ink_color",
+      "status": "passed",
+      "evidence": "Committed native color picker interaction: input and SVG group both #d01601."
+    },
+    {
+      "id": "reset",
+      "status": "passed",
+      "evidence": "Reset restored Diamond,24px,48%,seed005,#f4c80f/#111111 and status."
+    },
+    {
+      "id": "export",
+      "status": "passed",
+      "evidence": "Actual browser download signal-workshop-6.svg saved; inspected480\u00d7600 vector,961 rects,48691 bytes. Copy retained as qa-export.svg."
+    },
+    {
+      "id": "faq_keyboard",
+      "status": "passed",
+      "evidence": "Enter on native summary expanded first answer."
+    },
+    {
+      "id": "iframe_resize",
+      "status": "passed",
+      "evidence": "Embedded FAQ expansion grew iframe height2929\u21923018px; inner body2928.48\u21923017.57px."
+    },
+    {
+      "id": "system_selection",
+      "status": "passed",
+      "evidence": "Signal\u2192Quiet\u2192Signal selected respective assembled pages and filtered section menus."
+    },
+    {
+      "id": "system_metadata",
+      "status": "passed",
+      "evidence": "System view switches editorial serif/paper tokens to Signal blue/canvas/Inter and matching rules."
+    },
+    {
+      "id": "source_provenance",
+      "status": "passed",
+      "evidence": "Sources contains3 records including Blueprint link, dimensions1440\u00d7857, date and explicit limits."
+    },
+    {
+      "id": "hero_comparison",
+      "status": "passed",
+      "evidence": "Signal comparison loaded both images1440\u00d7594; Blueprint attribution and approximation caption."
+    },
+    {
+      "id": "comparison_overlay",
+      "status": "passed",
+      "evidence": "Overlay switch works; ArrowRight source opacity50\u219251; implementation opacity.49."
+    },
+    {
+      "id": "mobile_open",
+      "status": "passed",
+      "evidence": "Mobile Signal hero Open section points to original /?view=signal-hero without faithful flag."
+    },
+    {
+      "id": "standalone_hero",
+      "status": "passed",
+      "evidence": "Explore workshop from standalone hero navigates to /?view=signal-page#workshop with actual artwork."
+    },
+    {
+      "id": "standalone_footer",
+      "status": "passed",
+      "evidence": "Footer variation link navigates to /?view=signal-page#workshop."
+    },
+    {
+      "id": "preserved_hero",
+      "status": "passed",
+      "evidence": "Quiet Direction hero iframe renders; comparison images2030\u00d71128 load with Bernardo attribution."
+    },
+    {
+      "id": "preserved_quote",
+      "status": "passed",
+      "evidence": "Quiet Direction mobile quote route preserved; desktop comparison images1943\u00d7724 load."
+    },
+    {
+      "id": "reference_visual",
+      "status": "passed",
+      "evidence": "Inspected corrected exact source top594 crop and final source study; source wording/hierarchy/boundary preserved with disclosed font,wordmark,grid differences."
+    },
+    {
+      "id": "console",
+      "status": "passed",
+      "evidence": "CUA dev logs at final check returned no application error entries."
+    },
+    {
+      "id": "runtime_source",
+      "status": "passed",
+      "evidence": "All11 reviewed implementation/index files match preview runtime byte for byte."
+    }
+  ],
+  "check_count": 29,
+  "source_sha256": {
+    "src/blueprint.jsx": "1f4f5f5fad510ba92705880e84efd20b994f4a0ce4731746b1447b612194b985",
+    "src/blueprint.css": "3e09057e82287191c9a943ed6c92d5459614dcb6d8dc800912bb6eafb86894e4",
+    "src/blueprint-tokens.css": "f4077bad406bff9d51d556f8cfa555d737b72de46e4dd9948c761cb2eec0bb6d",
+    "src/main.jsx": "573c2f72bb63bf2c26729349a351961a34dab691d851354ffde14b6a97bef3c3",
+    "src/data.js": "61d3b44bd58b56c426691efca9bd742cc4f8c4d1cca47e3ac55975652f71564b",
+    "src/style.css": "b32ac9ae97545fd08060c56c685cf5282b7d5e3dbc8f23e60cd8532d804b2e85",
+    "src/tokens.css": "bf7494a52ba6c300483a860e5ba58571e571d3190df9594d5817473918183534",
+    "src/sections.jsx": "08a1c3a711d674a67f62e86537a1b7e9070c9afa87a19b2287ada68e5f6b4d2d",
+    "src/sections.css": "db77c7841748e42e7862b01462a9689b19a929eeafda2c299a85f4c623b92b69",
+    "src/quote.jsx": "3a4716585a95564ad258e3d6cd5328897697bfa89ae79b09508e659b525b6bff",
+    "index.html": "e39946aa9ae66344f375b7bf1bcee460234a15d368cf3025b4df47f99f2c101d"
+  },
+  "artifact_sha256": {
+    "evidence/blueprint/final-page-desktop.jpg": "4e5a5a74d4368cd121de794c33d3cf457438b31828a75e2340730e6dc9b031a5",
+    "evidence/blueprint/final-page-mobile.jpg": "ba876bbeeeb0080418c0a7e7ee39ca0d93c2f0e77a3d729515c380870b9094c4",
+    "evidence/blueprint/hero.png": "4b8a56d4fbcb93bf697c56a225a2d1c1e1b75dca04eaedc8ef188def45df8f8f",
+    "public/references/blueprint/hero.png": "4268846a1ddbbe13392fd57c9bbd042c868c96102ce77bbfb45ed3fe89c5fabd",
+    "public/references/blueprint/desktop.png": "d471878f0ce86307ff1d5cf55d571555aea2dfe99dfff9b4e4f7ba0e39701844",
+    "research/blueprint/qa-export.svg": "845f8f4f899817f9460977241f8d920b7ad61706b54e8db8980de690cea5865c"
+  },
+  "limitations": [
+    "Source Geist replaced by Inter; wordmark and grid fade differ from source and remain disclosed approximations.",
+    "Source application internals, animation, account flows and source mobile layout were not recovered.",
+    "Tested Chromium via CUA; no cross-browser/screen-reader audit or source-sized pixel-equivalence claim.",
+    "CUA programmatic fill on native color inputs changed the DOM input without committing React state; real native-picker keyboard commit was used to verify both color handlers.",
+    "Early parent parallel REA captures reported cleanup errors; final QA uses clean final REA hero and CUA full-page captures."
+  ],
+  "findings": []
+}
