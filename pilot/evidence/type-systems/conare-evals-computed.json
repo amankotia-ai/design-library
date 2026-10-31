@@ -1,0 +1,162 @@
+[
+  {
+    "text": "NEW",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "9px",
+    "line": "13.5px",
+    "weight": "700",
+    "tracking": "normal"
+  },
+  {
+    "text": "See the evals",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "12px",
+    "line": "18px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "Contact us",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "12px",
+    "line": "18px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "Dashboard",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "12px",
+    "line": "18px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "Benchmarks",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "10px",
+    "line": "10px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "Every benchmark, losses included.",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "14px",
+    "line": "21px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "67.0",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "36px",
+    "line": "41.4px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "nDCG@10. #1 of 9.",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "13px",
+    "line": "19.5px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "70.2",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "36px",
+    "line": "41.4px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "nDCG@10. #1 of 10.",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "13px",
+    "line": "19.5px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "1.3%",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "36px",
+    "line": "41.4px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "% ranked wrong, lower is better. #1 of 6.",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "13px",
+    "line": "19.5px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "2.5%",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "36px",
+    "line": "41.4px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "% ranked wrong, lower is better. #2 of 6, level with Claude Opus 5.5.",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "13px",
+    "line": "19.5px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "nDCG@10",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "9.6px",
+    "line": "14.4px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "Search over 19,252 business document pages with 2,419 questions in Eng",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "12px",
+    "line": "18px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "conare-embed-1",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "10px",
+    "line": "15px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "67.0",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "36px",
+    "line": "43.2px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "▪ #1 of 9",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "12px",
+    "line": "18px",
+    "weight": "400",
+    "tracking": "normal"
+  },
+  {
+    "text": "1",
+    "font": "\"Conare Inter\", sans-serif",
+    "size": "13px",
+    "line": "16px",
+    "weight": "400",
+    "tracking": "normal"
+  }
+]

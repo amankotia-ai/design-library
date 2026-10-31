@@ -1,0 +1,100 @@
+{
+  "run_id": "blueprint-2026-10-30",
+  "date": "2026-10-30",
+  "scope": "Add Signal Workshop as a second design system; preserve Quiet Direction and the library reading shell. Two systems, nine reusable sections, two assembled pages.",
+  "modes": {
+    "faithful": "Blueprint hero crop1440\u00d7594; Inter, wordmark and grid approximations disclosed.",
+    "expansion": "Signal Workshop hero adaptation, SVG workshop, features, FAQ, footer, page and mobile arrangements."
+  },
+  "viewports": [
+    1440,
+    768,
+    390
+  ],
+  "agents": [
+    {
+      "id": "/root/blueprint_visual",
+      "role": "Visual analysis",
+      "artifact": "visual-analysis.md"
+    },
+    {
+      "id": "/root/blueprint_product",
+      "role": "Product design/review",
+      "artifacts": [
+        "product-design.md",
+        "product-review.md"
+      ]
+    },
+    {
+      "id": "/root/blueprint_art",
+      "role": "Art direction/rendered review",
+      "artifacts": [
+        "art-direction.md",
+        "art-review.md"
+      ]
+    },
+    {
+      "id": "/root",
+      "role": "Implementation and coordination",
+      "artifacts": [
+        "extraction.md",
+        "provenance.json",
+        "run.json"
+      ]
+    },
+    {
+      "id": "/root/blueprint_qa",
+      "role": "Independent QA",
+      "artifacts": [
+        "qa.md",
+        "qa.json"
+      ]
+    }
+  ],
+  "source_hashes": {
+    "index.html": "e39946aa9ae66344f375b7bf1bcee460234a15d368cf3025b4df47f99f2c101d",
+    "src/main.jsx": "573c2f72bb63bf2c26729349a351961a34dab691d851354ffde14b6a97bef3c3",
+    "src/data.js": "61d3b44bd58b56c426691efca9bd742cc4f8c4d1cca47e3ac55975652f71564b",
+    "src/blueprint.jsx": "1f4f5f5fad510ba92705880e84efd20b994f4a0ce4731746b1447b612194b985",
+    "src/blueprint.css": "3e09057e82287191c9a943ed6c92d5459614dcb6d8dc800912bb6eafb86894e4",
+    "src/blueprint-tokens.css": "f4077bad406bff9d51d556f8cfa555d737b72de46e4dd9948c761cb2eec0bb6d",
+    "src/style.css": "b32ac9ae97545fd08060c56c685cf5282b7d5e3dbc8f23e60cd8532d804b2e85",
+    "src/sections.jsx": "08a1c3a711d674a67f62e86537a1b7e9070c9afa87a19b2287ada68e5f6b4d2d",
+    "src/quote.jsx": "3a4716585a95564ad258e3d6cd5328897697bfa89ae79b09508e659b525b6bff",
+    "src/tokens.css": "bf7494a52ba6c300483a860e5ba58571e571d3190df9594d5817473918183534",
+    "src/sections.css": "db77c7841748e42e7862b01462a9689b19a929eeafda2c299a85f4c623b92b69",
+    "scripts/check.mjs": "48417b48557f528350d6fbd9efc841ce38b1225eb2b64d870f3135dacec6f590"
+  },
+  "media_hashes": {
+    "public/references/blueprint/desktop.png": "d471878f0ce86307ff1d5cf55d571555aea2dfe99dfff9b4e4f7ba0e39701844",
+    "public/references/blueprint/hero.png": "4268846a1ddbbe13392fd57c9bbd042c868c96102ce77bbfb45ed3fe89c5fabd",
+    "public/evidence/blueprint-hero.png": "4b8a56d4fbcb93bf697c56a225a2d1c1e1b75dca04eaedc8ef188def45df8f8f",
+    "evidence/blueprint/final-page-desktop.jpg": "4e5a5a74d4368cd121de794c33d3cf457438b31828a75e2340730e6dc9b031a5",
+    "evidence/blueprint/final-page-mobile.jpg": "ba876bbeeeb0080418c0a7e7ee39ca0d93c2f0e77a3d729515c380870b9094c4",
+    "evidence/blueprint/hero.png": "4b8a56d4fbcb93bf697c56a225a2d1c1e1b75dca04eaedc8ef188def45df8f8f"
+  },
+  "checks": {
+    "npm_run_check": "passed",
+    "npm_run_build": "passed",
+    "independent_qa": "passed29 scoped checks; qa.json ties review to source and final artifacts",
+    "art_review": "passed final visual scope; corrected source crop and natural-bound final images inspected",
+    "product_review": "passed screenshot/source scope; runtime evidence attributed to independent QA"
+  },
+  "limitations": [
+    "Geist replaced by local Inter; source wordmark and uniform SVG grid are approximations.",
+    "Source app, animation internals, accounts, pricing and AI generation not recovered.",
+    "Mobile layouts, controls and SVG artwork are original expansions.",
+    "Early concurrent REA captures failed cleanup; their partial artifacts are historical only. Clean final REA and CUA captures identified separately.",
+    "Local-only library. No public deployment and no reusable skill installation in this run."
+  ],
+  "qa_report": "qa.json",
+  "qa_reviewed_hashes_match": true,
+  "status": "passed within documented scope",
+  "review_report_hashes": {
+    "qa.json": "39005565732f36a38e9cae8248270ac6f3f103175a0e557cd14c405d4be5362f",
+    "qa.md": "cb8ef55e78be2e8dad6a4490af2be427c8c7d97245f6016e46d1d2255d07202a",
+    "art-review.md": "f21229fdda16a7680c8f8d1b14fcbb27971c19d9357f39393a1013f1d4e46d2f",
+    "product-review.md": "f74f701d204c42d3c22707613e7fddcfd838454c2a4b0061f950348fd46fe76a"
+  },
+  "later_revision_note": "Collection selector styles changed after this run. This report remains evidence for its recorded source hashes. See research/selector-fix/run.json for the superseding scoped control/shell review."
+}

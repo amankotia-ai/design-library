@@ -1,0 +1,3707 @@
+{
+  "url": "https://steel.dev/",
+  "body": {
+    "tag": "BODY",
+    "cls": "flex min-h-dvh flex-col",
+    "text": "ANNOUNCING A NEW FACE FOR OUR BRAND\nBROWSER INFRA\nPRICING\nRESOURCES\nDOCS\n(OPENS IN A NEW TAB)\nSTEEL BROWSER ON GITHUB,\n7.9K\nSTARS (OPENS IN A NEW TAB)",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 13900.4375
+    },
+    "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+    "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+    "fontSize": "16px",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgb(253, 253, 252)",
+    "border": "0px solid rgb(0, 0, 0)",
+    "padding": "0px"
+  },
+  "elements": [
+    {
+      "tag": "A",
+      "cls": "announce absolute inset-x-0 top-0 z-50 flex h-[var(--announce-h)] items-center justify-center gap-1.5 bg-[var(--steel-blue-500)] px-4 font-mono text-[12px] leading-4 font-[440] text-[#ffffff] uppercase",
+      "text": "ANNOUNCING A NEW FACE FOR OUR BRAND",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 36
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(5, 165, 255)",
+      "border": "0px solid rgb(255, 255, 255)",
+      "padding": "0px 16px"
+    },
+    {
+      "tag": "HEADER",
+      "cls": "relative font-sans",
+      "text": "BROWSER INFRA\nPRICING\nRESOURCES\nDOCS\n(OPENS IN A NEW TAB)\nSTEEL BROWSER ON GITHUB,\n7.9K\nSTARS (OPENS IN A NEW TAB)",
+      "rect": {
+        "x": 0,
+        "y": 36,
+        "width": 1440,
+        "height": 72
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-ink-fade flex shrink-0 text-[var(--nav-ink)]",
+      "text": "",
+      "rect": {
+        "x": 80,
+        "y": 59.203125,
+        "width": 112.84375,
+        "height": 25.59375
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.24px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "NAV",
+      "cls": "nav-links -mb-0.5 mt-0.5 flex flex-wrap items-center gap-x-0 gap-y-1 max-md:hidden",
+      "text": "BROWSER INFRA\nPRICING\nRESOURCES\nDOCS\n(OPENS IN A NEW TAB)",
+      "rect": {
+        "x": 216.84375,
+        "y": 58,
+        "width": 376.265625,
+        "height": 32
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-ink-fade flex h-8 items-center rounded-[var(--radius-button)] px-3 font-mono text-[12px] leading-4 uppercase whitespace-nowrap text-[var(--nav-text)]",
+      "text": "BROWSER INFRA",
+      "rect": {
+        "x": 216.84375,
+        "y": 58,
+        "width": 123.0625,
+        "height": 32
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-ink-fade flex h-8 items-center rounded-[var(--radius-button)] px-3 font-mono text-[12px] leading-4 uppercase whitespace-nowrap text-[var(--nav-text-muted)] hover:text-[var(--nav-text)]",
+      "text": "PRICING",
+      "rect": {
+        "x": 339.90625,
+        "y": 58,
+        "width": 77.34375,
+        "height": 32
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "color(srgb 0 0 0 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.7)",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "nav-ink-fade flex h-8 items-center rounded-[var(--radius-button)] px-3 font-mono text-[12px] leading-4 uppercase whitespace-nowrap gap-[0.3em] text-[var(--nav-text-muted)] hover:text-[var(--nav-text)]",
+      "text": "RESOURCES",
+      "rect": {
+        "x": 417.25,
+        "y": 58,
+        "width": 106.984375,
+        "height": 32
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "color(srgb 0 0 0 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.7)",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] ",
+      "text": "",
+      "rect": {
+        "x": 80,
+        "y": 136,
+        "width": 58.359375,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] ",
+      "text": "",
+      "rect": {
+        "x": 80,
+        "y": 186,
+        "width": 50.390625,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] ",
+      "text": "",
+      "rect": {
+        "x": 80,
+        "y": 236,
+        "width": 120.515625,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] ",
+      "text": "",
+      "rect": {
+        "x": 80,
+        "y": 286,
+        "width": 145.0625,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] ",
+      "text": "",
+      "rect": {
+        "x": 273.0625,
+        "y": 136,
+        "width": 166.421875,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] nav-out gap-[0.25em]",
+      "text": "",
+      "rect": {
+        "x": 273.0625,
+        "y": 186,
+        "width": 165.453125,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] nav-out gap-[0.25em]",
+      "text": "",
+      "rect": {
+        "x": 273.0625,
+        "y": 236,
+        "width": 100.546875,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] nav-out gap-[0.25em]",
+      "text": "",
+      "rect": {
+        "x": 273.0625,
+        "y": 286,
+        "width": 135.453125,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] nav-out gap-[0.25em]",
+      "text": "",
+      "rect": {
+        "x": 487.484375,
+        "y": 136,
+        "width": 94.078125,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "inline-flex items-center py-1 font-sans text-[24px] leading-[1.25] font-[360] text-[var(--text)] nav-out gap-[0.25em]",
+      "text": "",
+      "rect": {
+        "x": 487.484375,
+        "y": 186,
+        "width": 110.109375,
+        "height": 38
+      },
+      "font": "24px / 30px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "30px",
+      "letterSpacing": "0.36px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "4px 0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-out gap-[0.3em] nav-ink-fade flex h-8 items-center rounded-[var(--radius-button)] px-3 font-mono text-[12px] leading-4 uppercase whitespace-nowrap text-[var(--nav-text-muted)] hover:text-[var(--nav-text)]",
+      "text": "DOCS\n(OPENS IN A NEW TAB)",
+      "rect": {
+        "x": 524.234375,
+        "y": 58,
+        "width": 68.875,
+        "height": 32
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "color(srgb 0 0 0 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.7)",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-ink-fade flex h-8 items-center rounded-[var(--radius-button)] px-3 font-mono text-[12px] leading-4 uppercase whitespace-nowrap nav-github gap-[calc(0.45em+2px)] text-[var(--nav-text)] max-[1200px]:hidden",
+      "text": "STEEL BROWSER ON GITHUB,\n7.9K\nSTARS (OPENS IN A NEW TAB)",
+      "rect": {
+        "x": 1014.71875,
+        "y": 58,
+        "width": 77.875,
+        "height": 32
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full border-[0.5px] border-[var(--button-edge)] bg-[var(--button-secondary)] text-[var(--brand-ink)] shadow-[0_1px_2px_0_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_12%,transparent),0_0_0_1px_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_8%,transparent)] hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))] h-8 pe-[7px]",
+      "text": "",
+      "rect": {
+        "x": 1109.59375,
+        "y": 58,
+        "width": 144.0625,
+        "height": 32
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgb(253, 253, 252)",
+      "border": "0px solid rgb(218, 217, 214)",
+      "padding": "0px 7px 0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full border-[0.5px] border-[var(--button-edge)] bg-[var(--button-secondary)] text-[var(--brand-ink)] shadow-[0_1px_2px_0_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_12%,transparent),0_0_0_1px_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_8%,transparent)] hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))] ms-2 h-8 pe-[7px]",
+      "text": "Log inL",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgb(253, 253, 252)",
+      "border": "0px solid rgb(218, 217, 214)",
+      "padding": "0px 7px 0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full bg-[var(--button-primary)] text-[var(--tint-bg)] hover:bg-[color-mix(in_srgb,var(--button-primary)_88%,var(--tint-bg))] ms-2 h-8 pe-[7px]",
+      "text": "",
+      "rect": {
+        "x": 1261.65625,
+        "y": 58,
+        "width": 98.34375,
+        "height": 32
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(0, 0, 0)",
+      "border": "0px solid rgb(255, 255, 255)",
+      "padding": "0px 7px 0px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "nav-burger nav-ink-fade relative -me-1.5 ms-auto size-8 text-[var(--nav-ink)] md:hidden",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.24px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full border-[0.5px] border-[var(--button-edge)] bg-[var(--button-secondary)] text-[var(--brand-ink)] shadow-[0_1px_2px_0_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_12%,transparent),0_0_0_1px_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_8%,transparent)] hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))] h-8 pe-[7px]",
+      "text": "CONTACT SALES\nC",
+      "rect": {
+        "x": 1109.59375,
+        "y": 58,
+        "width": 144.0625,
+        "height": 32
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgb(253, 253, 252)",
+      "border": "0px solid rgb(218, 217, 214)",
+      "padding": "0px 7px 0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full border-[0.5px] border-[var(--button-edge)] bg-[var(--button-secondary)] text-[var(--brand-ink)] shadow-[0_1px_2px_0_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_12%,transparent),0_0_0_1px_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_8%,transparent)] hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))] ms-2 h-8 pe-[7px]",
+      "text": "Log inL",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgb(253, 253, 252)",
+      "border": "0px solid rgb(218, 217, 214)",
+      "padding": "0px 7px 0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full bg-[var(--button-primary)] text-[var(--tint-bg)] hover:bg-[color-mix(in_srgb,var(--button-primary)_88%,var(--tint-bg))] ms-2 h-8 pe-[7px]",
+      "text": "SIGN IN\nS",
+      "rect": {
+        "x": 1261.65625,
+        "y": 58,
+        "width": 98.34375,
+        "height": 32
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(0, 0, 0)",
+      "border": "0px solid rgb(255, 255, 255)",
+      "padding": "0px 7px 0px 12px"
+    },
+    {
+      "tag": "NAV",
+      "cls": "nav-links layout-grid pt-[calc(6rem+var(--announce-h))] pb-6",
+      "text": "Browser infraPricingResourcesFAQsBlogChangelogBrand assetsPartner with usLeaderboard (opens in a new tab)GitHub (opens in a new tab)Cookbook (opens in",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "132px 24px 24px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-menu-row col-span-full flex h-12 items-center font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "Browser infra",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-menu-row col-span-full flex h-12 items-center font-sans text-[20px] leading-6 font-[360] text-[var(--text-muted)]",
+      "text": "Pricing",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(99, 99, 94)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(99, 99, 94)",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "nav-menu-row flex h-12 items-center gap-[0.3em] font-sans text-[20px] leading-6 font-[360] text-[var(--text-muted)]",
+      "text": "Resources",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(99, 99, 94)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(99, 99, 94)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "FAQs",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "Blog",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "Changelog",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "Brand assets",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "Partner with us",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "Leaderboard (opens in a new tab)",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "GitHub (opens in a new tab)",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "Cookbook (opens in a new tab)",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "Status (opens in a new tab)",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "flex h-11 items-center gap-[0.25em] font-sans text-[20px] leading-6 font-[360] text-[var(--text)]",
+      "text": "Careers (opens in a new tab)",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-out gap-[0.3em] nav-menu-row col-span-full flex h-12 items-center font-sans text-[20px] leading-6 font-[360] text-[var(--text-muted)]",
+      "text": "Docs (opens in a new tab)",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "20px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.3px",
+      "color": "rgb(99, 99, 94)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(99, 99, 94)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full border-[0.5px] border-[var(--button-edge)] bg-[var(--button-secondary)] text-[var(--brand-ink)] shadow-[0_1px_2px_0_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_12%,transparent),0_0_0_1px_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_8%,transparent)] hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))] h-10 w-full",
+      "text": "Contact SalesRequest a demo",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgb(255, 255, 255)",
+      "border": "0px solid rgb(218, 217, 214)",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full border-[0.5px] border-[var(--button-edge)] bg-[var(--button-secondary)] text-[var(--brand-ink)] shadow-[0_1px_2px_0_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_12%,transparent),0_0_0_1px_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_8%,transparent)] hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))] h-10 w-full",
+      "text": "Log in",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgb(255, 255, 255)",
+      "border": "0px solid rgb(218, 217, 214)",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full bg-[var(--button-primary)] text-[var(--tint-bg)] hover:bg-[color-mix(in_srgb,var(--button-primary)_88%,var(--tint-bg))] h-10 w-full",
+      "text": "Sign inGet started",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(0, 0, 0)",
+      "border": "0px solid rgb(255, 255, 255)",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "relative isolate bg-[var(--hero-bg)] max-md:flex max-md:h-auto! max-md:flex-col",
+      "text": "Give your AI agents\na browser\nthat works.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 500
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgb(215, 240, 255)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H1",
+      "cls": "pointer-events-auto font-sans max-md:max-w-none! max-md:text-[length:var(--hero-title-size-phone,40px)]! -ms-3",
+      "text": "Give your AI agents\na browser\nthat works.",
+      "rect": {
+        "x": 68,
+        "y": 278.21875,
+        "width": 1292,
+        "height": 181.78125
+      },
+      "font": "60px / 60.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "60px",
+      "lineHeight": "60.6px",
+      "letterSpacing": "-1.2px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "MAIN",
+      "cls": "flex-1",
+      "text": "Steel is an API that lets you control fleets of browsers.\nSpin up thousands of sessions on the web.\nSTART FOR FREE\nS\nCOPY\nCOPIED\n AGENT PROMPT\nRESEARC",
+      "rect": {
+        "x": 0,
+        "y": 500,
+        "width": 1440,
+        "height": 12604.15625
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "layout-grid relative mt-24 max-md:mt-5",
+      "text": "Steel is an API that lets you control fleets of browsers.\nSpin up thousands of sessions on the web.\nSTART FOR FREE\nS\nCOPY\nCOPIED\n AGENT PROMPT\nRESEARC",
+      "rect": {
+        "x": 56,
+        "y": 600,
+        "width": 1328,
+        "height": 802.375
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px 24px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360] [text-wrap:pretty] md:max-w-[680px]",
+      "text": "Steel is an API that lets you control fleets of browsers.\nSpin up thousands of sessions on the web.",
+      "rect": {
+        "x": 80,
+        "y": 600,
+        "width": 546.21875,
+        "height": 62.375
+      },
+      "font": "24px / 31.2px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "24px",
+      "lineHeight": "31.2px",
+      "letterSpacing": "-0.48px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full bg-[var(--button-primary)] text-[var(--tint-bg)] hover:bg-[color-mix(in_srgb,var(--button-primary)_88%,var(--tint-bg))] h-9 pe-[9px]",
+      "text": "START FOR FREE\nS",
+      "rect": {
+        "x": 928.28125,
+        "y": 626.5625,
+        "width": 153.6875,
+        "height": 36
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(253, 253, 252)",
+      "background": "rgb(0, 0, 0)",
+      "border": "0px solid rgb(253, 253, 252)",
+      "padding": "0px 9px 0px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full h-full cursor-pointer gap-2 rounded-r-none bg-transparent max-md:w-auto! max-md:flex-1 hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))]",
+      "text": "COPY\nCOPIED\n AGENT PROMPT",
+      "rect": {
+        "x": 1093.96875,
+        "y": 626.5625,
+        "width": 229.03125,
+        "height": 36
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "grid aspect-square h-full shrink-0 cursor-pointer place-items-center rounded-r-[var(--radius-button)] transition-colors duration-150 ease-out focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--line-hover)] hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))]",
+      "text": "",
+      "rect": {
+        "x": 1324,
+        "y": 626.5625,
+        "width": 36,
+        "height": 36
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Search the web for this week's biggest AI agent launches and summarize each one.",
+      "rect": {
+        "x": 217.59375,
+        "y": 973.03125,
+        "width": 1,
+        "height": 268.625
+      },
+      "font": "12px / 19.2px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "19.2px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Starting browser session ready",
+      "rect": {
+        "x": 217.59375,
+        "y": 1241.65625,
+        "width": 1,
+        "height": 76.75
+      },
+      "font": "12px / 19.2px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "19.2px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "steelnews.com/latest 200",
+      "rect": {
+        "x": 217.59375,
+        "y": 1318.40625,
+        "width": 1,
+        "height": 38.375
+      },
+      "font": "12px / 19.2px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "19.2px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "steelagents.com/launches 200",
+      "rect": {
+        "x": 217.59375,
+        "y": 1356.78125,
+        "width": 1,
+        "height": 38.375
+      },
+      "font": "12px / 19.2px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "19.2px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Extracted 14 launches",
+      "rect": {
+        "x": 217.59375,
+        "y": 1395.15625,
+        "width": 1,
+        "height": 57.5625
+      },
+      "font": "12px / 19.2px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "19.2px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Wrote summary.md 4.2 KB",
+      "rect": {
+        "x": 217.59375,
+        "y": 1452.71875,
+        "width": 1,
+        "height": 76.75
+      },
+      "font": "12px / 19.2px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "19.2px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-center text-[16px] leading-[24px] tracking-[0.01em] text-[var(--text)]",
+      "text": "Loved by 30,000+ engineers at",
+      "rect": {
+        "x": 80,
+        "y": 1440.375,
+        "width": 1280,
+        "height": 24
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "0.16px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "mt-32 max-md:mt-12",
+      "text": "Steel runs millions of browser sessions every week.\nEvery one a real browser, started in under a second and released when the work is done, at whateve",
+      "rect": {
+        "x": 0,
+        "y": 1900.375,
+        "width": 1440,
+        "height": 850.265625
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360] text-pretty md:mx-auto md:max-w-[752px] md:text-center",
+      "text": "Steel runs millions of browser sessions every week.\nEvery one a real browser, started in under a second and released when the work is done, at whateve",
+      "rect": {
+        "x": 344,
+        "y": 1900.375,
+        "width": 752,
+        "height": 109.171875
+      },
+      "font": "28px / 36.4px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "28px",
+      "lineHeight": "36.4px",
+      "letterSpacing": "-0.56px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "cls": "font-sans text-[length:var(--stats-figure-size,48px)] leading-none max-md:text-[28px] font-[360] text-[var(--text)] tabular-nums",
+      "text": "1,500,000+",
+      "rect": {
+        "x": 188.9375,
+        "y": 2657.046875,
+        "width": 207.765625,
+        "height": 40
+      },
+      "font": "",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "40px",
+      "letterSpacing": "-0.8px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "cls": "font-sans text-[length:var(--stats-figure-size,48px)] leading-none max-md:text-[28px] font-[360] text-[var(--text)] tabular-nums",
+      "text": "35,000,000+",
+      "rect": {
+        "x": 603.609375,
+        "y": 2657.046875,
+        "width": 231.765625,
+        "height": 40
+      },
+      "font": "",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "40px",
+      "letterSpacing": "-0.8px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "cls": "font-sans text-[length:var(--stats-figure-size,48px)] leading-none max-md:text-[28px] font-[360] text-[var(--text)] tabular-nums",
+      "text": "4 Trillion+",
+      "rect": {
+        "x": 1063.171875,
+        "y": 2657.046875,
+        "width": 166.96875,
+        "height": 40
+      },
+      "font": "",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "40px",
+      "letterSpacing": "-0.8px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "relative mt-32 max-md:mt-12 md:h-[var(--use-cases-h)] md:overflow-hidden",
+      "text": "What people build on Steel\n\nFrom scrape jobs at scale to agents that work the web on their own, teams run whatever needs a real browser on Steel.\n\nAI ",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 1440,
+        "height": 1000
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgb(199, 153, 212)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "cls": "font-sans text-[40px] leading-[1.05] max-md:text-[32px] font-[360]",
+      "text": "What people build on Steel",
+      "rect": {
+        "x": 372.359375,
+        "y": 3001.25,
+        "width": 695.28125,
+        "height": 60.59375
+      },
+      "font": "60px / 60.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "60px",
+      "lineHeight": "60.6px",
+      "letterSpacing": "-1.2px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mx-auto max-w-[30rem] text-[16px] leading-[1.6] font-description max-md:mx-0 mt-3",
+      "text": "From scrape jobs at scale to agents that work the web on their own, teams run whatever needs a real browser on Steel.",
+      "rect": {
+        "x": 480,
+        "y": 3073.84375,
+        "width": 480,
+        "height": 51.1875
+      },
+      "font": "16px / 25.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "25.6px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "AI Agents",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 196.09375,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "Foundational Model Training",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 533.171875,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "AI Shopping Assistants",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 436.84375,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "Web Scraping",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 277,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "RPA Software",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 267.890625,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "Sales Automation",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 337.734375,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "QA Software",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 248.046875,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "Customer Service Agents",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 478.96875,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "Deep Research",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 300.609375,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "Price Monitoring",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 321.09375,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "Form Filling",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 232.375,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "group absolute top-0 left-0 cursor-default opacity-0 rounded-[var(--radius-button)] px-[0.3em] py-[0.06em] leading-[1.15] whitespace-nowrap data-[hot]:z-10 font-sans",
+      "text": "Travel Booking",
+      "rect": {
+        "x": 0,
+        "y": 2850.640625,
+        "width": 287.640625,
+        "height": 50.78125
+      },
+      "font": "40px / 46px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "46px",
+      "letterSpacing": "normal",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "2.4px 12px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "AI Agents",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Give agents a real browser to navigate, click and type through the web, then hand back what they found.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "Foundational Model Training",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Gather fresh, clean web data at scale to train and evaluate models.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "AI Shopping Assistants",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Search stores, compare prices and fill a cart on a shopper's behalf.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "Web Scraping",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Pull structured data from any site, logins and JavaScript included, without running a fleet of your own.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "RPA Software",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Automate the clicks and forms people repeat every day in web apps with no API.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "Sales Automation",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Research accounts, enrich leads and keep the CRM current, straight from the source.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "QA Software",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Run end-to-end tests in real browsers and catch what breaks before your users do.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "Customer Service Agents",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Resolve tickets end to end: look up orders, update accounts and follow up in the tools support already uses.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "Deep Research",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Read dozens of sources in parallel and come back with an answer and its citations.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "Price Monitoring",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Track prices and stock across retailers, on a schedule or the moment they change.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "Form Filling",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Complete applications, sign-ups and checkouts from the data you already have.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "text-(length:--text-term) leading-[1.05] tracking-[-0.02em] font-sans",
+      "text": "Travel Booking",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "18px / 18.9px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "18.9px",
+      "letterSpacing": "-0.36px",
+      "color": "rgb(76, 26, 93)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(76, 26, 93)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-2 font-sans text-[14px] leading-[1.5]",
+      "text": "Search flights and hotels across sites and book the one that fits.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0.298039 0.101961 0.364706 / 0.7)",
+      "padding": "0px"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "mt-32 max-md:mt-12 max-md:[--block-gap:32px]",
+      "text": "AI Agents were never meant to browse the web.\nSteel enables your Agents to browse like humans.\nControl and start sessions with Sessions API\nA real bro",
+      "rect": {
+        "x": 0,
+        "y": 3950.640625,
+        "width": 1440,
+        "height": 3059
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "cls": "font-sans text-[40px] leading-[1.05] font-[360] text-balance text-[var(--text)] max-md:text-[32px]",
+      "text": "AI Agents were never meant to browse the web.\nSteel enables your Agents to browse like humans.",
+      "rect": {
+        "x": 80,
+        "y": 3950.640625,
+        "width": 1280,
+        "height": 84
+      },
+      "font": "40px / 42px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "42px",
+      "letterSpacing": "-0.8px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "Control and start sessions with Sessions API\nA real browser, one API call.",
+      "rect": {
+        "x": 80,
+        "y": 4098.640625,
+        "width": 510,
+        "height": 67.59375
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "A fresh browser ready before your agent asks twice.",
+      "rect": {
+        "x": 80,
+        "y": 4228.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Point your Playwright, Puppeteer or Selenium script at Steel and it runs.",
+      "rect": {
+        "x": 347,
+        "y": 4228.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Pick up with the same cookies, tabs and state.",
+      "rect": {
+        "x": 80,
+        "y": 4324.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-login inline-flex items-center gap-[0.4em] font-mono text-[12px] leading-4 font-[440] text-[var(--arrow-ink,var(--text))] uppercase",
+      "text": "READ SESSIONS API DOCS",
+      "rect": {
+        "x": 80,
+        "y": 4398.234375,
+        "width": 178.6875,
+        "height": 16
+      },
+      "font": "420 12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "World-class observability\nKnow how every session is doing, at all times.",
+      "rect": {
+        "x": 850,
+        "y": 4709.640625,
+        "width": 510,
+        "height": 67.59375
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Every run as plain steps, for people and agents.",
+      "rect": {
+        "x": 850,
+        "y": 4839.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Watch a run visually, or read it back as text.",
+      "rect": {
+        "x": 1117,
+        "y": 4839.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "View session recordings in full fidelity.",
+      "rect": {
+        "x": 850,
+        "y": 4935.234375,
+        "width": 243,
+        "height": 21
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-login inline-flex items-center gap-[0.4em] font-mono text-[12px] leading-4 font-[440] text-[var(--arrow-ink,var(--text))] uppercase",
+      "text": "READ TRACES DOCS",
+      "rect": {
+        "x": 850,
+        "y": 4988.234375,
+        "width": 134.046875,
+        "height": 16
+      },
+      "font": "420 12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "Profiles that persist\nConsistent profiles across thousands of runs.",
+      "rect": {
+        "x": 80,
+        "y": 5320.640625,
+        "width": 510,
+        "height": 67.59375
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Each agent signs in as itself, run after run.",
+      "rect": {
+        "x": 80,
+        "y": 5450.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Logins and history carry over between runs.",
+      "rect": {
+        "x": 347,
+        "y": 5450.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-login inline-flex items-center gap-[0.4em] font-mono text-[12px] leading-4 font-[440] text-[var(--arrow-ink,var(--text))] uppercase",
+      "text": "READ PROFILES DOCS",
+      "rect": {
+        "x": 80,
+        "y": 5524.234375,
+        "width": 148.9375,
+        "height": 16
+      },
+      "font": "420 12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "Pick up whenever needed\nHelp your agent whenever it's stuck.",
+      "rect": {
+        "x": 850,
+        "y": 5931.640625,
+        "width": 510,
+        "height": 67.59375
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Every session recorded at full resolution.",
+      "rect": {
+        "x": 850,
+        "y": 6061.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Step in for 2FA, payments or anything unsure.",
+      "rect": {
+        "x": 1117,
+        "y": 6061.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Hand control back and the run carries on.",
+      "rect": {
+        "x": 850,
+        "y": 6157.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Play a run back once it is done.",
+      "rect": {
+        "x": 1117,
+        "y": 6157.234375,
+        "width": 243,
+        "height": 21
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-login inline-flex items-center gap-[0.4em] font-mono text-[12px] leading-4 font-[440] text-[var(--arrow-ink,var(--text))] uppercase",
+      "text": "READ HUMAN-IN-THE-LOOP DOCS",
+      "rect": {
+        "x": 850,
+        "y": 6231.234375,
+        "width": 215.890625,
+        "height": 16
+      },
+      "font": "420 12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "Run Steel from your CLI\nCloud browsers, one command away.",
+      "rect": {
+        "x": 80,
+        "y": 6542.640625,
+        "width": 510,
+        "height": 67.59375
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Start, steer and stop cloud browsers from a shell.",
+      "rect": {
+        "x": 80,
+        "y": 6672.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Stealth sessions behind proxies, CAPTCHAs solved.",
+      "rect": {
+        "x": 347,
+        "y": 6672.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Captured as evidence of every run you make.",
+      "rect": {
+        "x": 80,
+        "y": 6768.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "The same commands, for agents, via the skill.",
+      "rect": {
+        "x": 347,
+        "y": 6768.234375,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "relative grid aspect-square h-full shrink-0 place-items-center rounded-r-[var(--radius-button)] transition-colors duration-150 ease-out hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))]",
+      "text": "",
+      "rect": {
+        "x": 427.34375,
+        "y": 6842.234375,
+        "width": 40,
+        "height": 40
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "bg-[var(--surface)] py-[100px] max-md:mt-16 max-md:py-16",
+      "text": "Build with SDKs for your stack and the agents you already use\n\nUse Steel's Python and Node.js SDKs or its REST API in the stack you have, or connect P",
+      "rect": {
+        "x": 0,
+        "y": 7109.640625,
+        "width": 1440,
+        "height": 667
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgb(241, 240, 239)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "100px 0px"
+    },
+    {
+      "tag": "H2",
+      "cls": "text-[40px] leading-[1.05] text-balance text-[var(--text)] max-md:text-[32px]",
+      "text": "Build with SDKs for your stack and the agents you already use",
+      "rect": {
+        "x": 80,
+        "y": 7209.640625,
+        "width": 510,
+        "height": 126
+      },
+      "font": "40px / 42px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "42px",
+      "letterSpacing": "-0.8px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-5 max-w-[30em] text-[16px] leading-[1.6] text-[var(--text-muted)]",
+      "text": "Use Steel's Python and Node.js SDKs or its REST API in the stack you have, or connect Playwright, Puppeteer or Selenium directly, no agent needed. Cod",
+      "rect": {
+        "x": 80,
+        "y": 7355.640625,
+        "width": 480,
+        "height": 76.78125
+      },
+      "font": "16px / 25.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "25.6px",
+      "letterSpacing": "normal",
+      "color": "rgb(99, 99, 94)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(99, 99, 94)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-login inline-flex items-center gap-[0.4em] font-mono text-[12px] leading-4 font-[440] text-[var(--arrow-ink,var(--text))] uppercase",
+      "text": "READ DOCS",
+      "rect": {
+        "x": 80,
+        "y": 7470.421875,
+        "width": 81.96875,
+        "height": 16
+      },
+      "font": "420 12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "relative isolate mt-32 overflow-hidden py-28 max-md:mt-12 max-md:py-12 md:flex md:min-h-screen md:flex-col md:justify-center",
+      "text": "Enterprise-ready\nScale & Security\nThousands of daily browser sessions, secure and encrypted to HIPAA standards.\n1,000+ concurrent sessions\nHigher rate",
+      "rect": {
+        "x": 0,
+        "y": 7776.640625,
+        "width": 1440,
+        "height": 693.984375
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(253, 253, 252)",
+      "background": "rgb(20, 20, 20)",
+      "border": "0px solid rgb(253, 253, 252)",
+      "padding": "100px 0px"
+    },
+    {
+      "tag": "H2",
+      "cls": "font-sans text-[40px] leading-[1.05] max-md:text-[32px] font-[360]",
+      "text": "Enterprise-ready",
+      "rect": {
+        "x": 80,
+        "y": 7876.640625,
+        "width": 1280,
+        "height": 60.59375
+      },
+      "font": "60px / 60.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "60px",
+      "lineHeight": "60.6px",
+      "letterSpacing": "-1.2px",
+      "color": "rgb(253, 253, 252)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(253, 253, 252)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "Scale & Security\nThousands of daily browser sessions, secure and encrypted to HIPAA standards.",
+      "rect": {
+        "x": 80,
+        "y": 7985.234375,
+        "width": 628,
+        "height": 101.390625
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(253, 253, 252)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(253, 253, 252)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "Self-Hosting\nRun Steel in your own cloud or host it yourself, keeping your data inside your network.",
+      "rect": {
+        "x": 732,
+        "y": 7985.234375,
+        "width": 628,
+        "height": 101.390625
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(253, 253, 252)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(253, 253, 252)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full border-[0.5px] border-[var(--button-edge)] bg-[var(--button-secondary)] text-[var(--brand-ink)] shadow-[0_1px_2px_0_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_12%,transparent),0_0_0_1px_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_8%,transparent)] hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))] h-9 pe-[9px]",
+      "text": "CONTACT SALES\nC",
+      "rect": {
+        "x": 80,
+        "y": 8334.625,
+        "width": 146.0625,
+        "height": 36
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(20, 20, 20)",
+      "background": "rgb(253, 253, 252)",
+      "border": "0px solid rgb(218, 217, 214)",
+      "padding": "0px 9px 0px 12px"
+    },
+    {
+      "tag": "A",
+      "cls": "steel-button inline-flex items-center justify-center rounded-[var(--radius-button)] px-3 text-[12px] leading-4 font-mono font-[440] uppercase whitespace-nowrap transition-colors duration-150 ease-out max-md:w-full border-[0.5px] border-[var(--button-edge)] bg-[var(--button-secondary)] text-[var(--brand-ink)] shadow-[0_1px_2px_0_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_12%,transparent),0_0_0_1px_color-mix(in_srgb,color-mix(in_oklab,var(--button-secondary)_45%,var(--brand-ink))_8%,transparent)] hover:bg-[color-mix(in_srgb,var(--button-secondary)_88%,var(--brand-ink))] h-9 pe-[9px]",
+      "text": "VIEW PRICING\nP",
+      "rect": {
+        "x": 242.0625,
+        "y": 8334.625,
+        "width": 138.453125,
+        "height": 36
+      },
+      "font": "12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "0.18px",
+      "color": "rgb(253, 253, 252)",
+      "background": "color(srgb 0.224627 0.224627 0.224)",
+      "border": "0px solid rgb(218, 217, 214)",
+      "padding": "0px 9px 0px 12px"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "mt-32 max-md:mt-12",
+      "text": "Keep browsing unblocked.\nLet Steel solve the CAPTCHAs.\nReal fingerprints, fresh every session.\nStealth Browser & CAPTCHA solving\nReduce bot detection ",
+      "rect": {
+        "x": 0,
+        "y": 8570.625,
+        "width": 1440,
+        "height": 1879
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H2",
+      "cls": "col-span-full font-sans text-[40px] leading-[1.05] max-md:text-[32px] font-[360] text-[var(--text)]",
+      "text": "Keep browsing unblocked.\nLet Steel solve the CAPTCHAs.\nReal fingerprints, fresh every session.",
+      "rect": {
+        "x": 80,
+        "y": 8570.625,
+        "width": 1280,
+        "height": 126
+      },
+      "font": "40px / 42px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "42px",
+      "letterSpacing": "-0.8px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "Stealth Browser & CAPTCHA solving\nReduce bot detection and solve CAPTCHAs as your agents browse.",
+      "rect": {
+        "x": 80,
+        "y": 8760.625,
+        "width": 510,
+        "height": 101.390625
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "A fresh, real fingerprint for every session.",
+      "rect": {
+        "x": 80,
+        "y": 8924.015625,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Pointer paths with a person's curves and pauses.",
+      "rect": {
+        "x": 347,
+        "y": 8924.015625,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Solved on its own, or by a person when needed.",
+      "rect": {
+        "x": 80,
+        "y": 9020.015625,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "A browser that reads as a person's, not a bot's.",
+      "rect": {
+        "x": 347,
+        "y": 9020.015625,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-login inline-flex items-center gap-[0.4em] font-mono text-[12px] leading-4 font-[440] text-[var(--arrow-ink,var(--text))] uppercase",
+      "text": "READ STEALTH DOCS",
+      "rect": {
+        "x": 80,
+        "y": 9094.015625,
+        "width": 141.5,
+        "height": 16
+      },
+      "font": "420 12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "Residential proxies\nFrom any country, down to the city.",
+      "rect": {
+        "x": 850,
+        "y": 9371.625,
+        "width": 510,
+        "height": 67.59375
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Home connections, or fast datacenter ones.",
+      "rect": {
+        "x": 850,
+        "y": 9501.21875,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Browse from the country, region or city you pick.",
+      "rect": {
+        "x": 1117,
+        "y": 9501.21875,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "An address of its own for each agent.",
+      "rect": {
+        "x": 850,
+        "y": 9597.21875,
+        "width": 243,
+        "height": 21
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "A new IP each request, or one for the whole run.",
+      "rect": {
+        "x": 1117,
+        "y": 9597.21875,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-login inline-flex items-center gap-[0.4em] font-mono text-[12px] leading-4 font-[440] text-[var(--arrow-ink,var(--text))] uppercase",
+      "text": "READ PROXIES DOCS",
+      "rect": {
+        "x": 850,
+        "y": 9671.21875,
+        "width": 141.5,
+        "height": 16
+      },
+      "font": "420 12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "font-sans text-[24px] leading-[1.3] font-[360]",
+      "text": "Steel skills\nMake browsing easier, out of the box.",
+      "rect": {
+        "x": 80,
+        "y": 9982.625,
+        "width": 510,
+        "height": 67.59375
+      },
+      "font": "26px / 33.8px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "26px",
+      "lineHeight": "33.8px",
+      "letterSpacing": "-0.52px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Claude Code, Codex or anything that runs commands.",
+      "rect": {
+        "x": 80,
+        "y": 10112.21875,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Skills for getting around, and for fixing runs.",
+      "rect": {
+        "x": 347,
+        "y": 10112.21875,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "P",
+      "cls": "mt-1.5 line-clamp-2 text-[14px] leading-[1.5] font-description text-[color-mix(in_srgb,currentColor_60%,transparent)]",
+      "text": "Turn a run you repeat into a skill to call again.",
+      "rect": {
+        "x": 80,
+        "y": 10208.21875,
+        "width": 243,
+        "height": 42
+      },
+      "font": "14px / 21px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-login inline-flex items-center gap-[0.4em] font-mono text-[12px] leading-4 font-[440] text-[var(--arrow-ink,var(--text))] uppercase",
+      "text": "VIEW SKILLS STEEL OFFERS",
+      "rect": {
+        "x": 80,
+        "y": 10282.21875,
+        "width": 193.5625,
+        "height": 16
+      },
+      "font": "420 12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "mb-16 text-[var(--text)] max-md:mb-12",
+      "text": "FAQ\nVIEW ALL FAQS\nWhat is Steel and what does it do?\n\nSteel is cloud browser infrastructure for AI agents. It gives agents isolated cloud browser sess",
+      "rect": {
+        "x": 0,
+        "y": 10549.625,
+        "width": 1440,
+        "height": 956
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgb(241, 240, 239)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "100px 0px"
+    },
+    {
+      "tag": "H2",
+      "cls": "font-sans text-[40px] leading-[1.05] font-[360] text-balance max-md:text-[32px]",
+      "text": "FAQ",
+      "rect": {
+        "x": 80,
+        "y": 10649.625,
+        "width": 72.609375,
+        "height": 42
+      },
+      "font": "40px / 42px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "40px",
+      "lineHeight": "42px",
+      "letterSpacing": "-0.8px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "A",
+      "cls": "nav-login inline-flex shrink-0 items-center gap-[0.4em] font-mono text-[12px] leading-4 font-[440] text-[var(--text)] uppercase mb-1.5 max-md:hidden",
+      "text": "VIEW ALL FAQS",
+      "rect": {
+        "x": 1248.265625,
+        "y": 10669.625,
+        "width": 111.734375,
+        "height": 16
+      },
+      "font": "420 12px / 16px schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontFamily": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "H3",
+      "cls": "",
+      "text": "What is Steel and what does it do?",
+      "rect": {
+        "x": 80,
+        "y": 10740.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "-0.32px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "flex w-full cursor-pointer items-center justify-between gap-6 py-6 text-left font-sans text-[length:var(--faq-question-size,20px)] leading-[1.4] tracking-[-0.02em] max-md:text-[16px]",
+      "text": "What is Steel and what does it do?",
+      "rect": {
+        "x": 80,
+        "y": 10740.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "20px / 28px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "28px",
+      "letterSpacing": "-0.4px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "24px 0px"
+    },
+    {
+      "tag": "P",
+      "cls": "max-w-[44rem] pb-6 text-[16px] leading-[1.6] font-description",
+      "text": "Steel is cloud browser infrastructure for AI agents. It gives agents isolated cloud browser sessions with built-in anti-bot stealth, CAPTCHA solving a",
+      "rect": {
+        "x": 80,
+        "y": 10816.625,
+        "width": 704,
+        "height": 75.1875
+      },
+      "font": "16px / 25.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "25.6px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px 0px 24px"
+    },
+    {
+      "tag": "H3",
+      "cls": "",
+      "text": "Can Steel bypass CAPTCHAs?",
+      "rect": {
+        "x": 80,
+        "y": 10817.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "-0.32px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "flex w-full cursor-pointer items-center justify-between gap-6 py-6 text-left font-sans text-[length:var(--faq-question-size,20px)] leading-[1.4] tracking-[-0.02em] max-md:text-[16px]",
+      "text": "Can Steel bypass CAPTCHAs?",
+      "rect": {
+        "x": 80,
+        "y": 10817.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "20px / 28px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "28px",
+      "letterSpacing": "-0.4px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "24px 0px"
+    },
+    {
+      "tag": "P",
+      "cls": "max-w-[44rem] pb-6 text-[16px] leading-[1.6] font-description",
+      "text": "Yes, on Steel Cloud. With CAPTCHA solving on, a session detects and solves CAPTCHAs as your agent browses, including Cloudflare Turnstile, PerimeterX ",
+      "rect": {
+        "x": 80,
+        "y": 10893.625,
+        "width": 704,
+        "height": 126.375
+      },
+      "font": "16px / 25.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "25.6px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px 0px 24px"
+    },
+    {
+      "tag": "H3",
+      "cls": "",
+      "text": "Is Steel open source?",
+      "rect": {
+        "x": 80,
+        "y": 10894.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "-0.32px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "flex w-full cursor-pointer items-center justify-between gap-6 py-6 text-left font-sans text-[length:var(--faq-question-size,20px)] leading-[1.4] tracking-[-0.02em] max-md:text-[16px]",
+      "text": "Is Steel open source?",
+      "rect": {
+        "x": 80,
+        "y": 10894.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "20px / 28px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "28px",
+      "letterSpacing": "-0.4px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "24px 0px"
+    },
+    {
+      "tag": "P",
+      "cls": "max-w-[44rem] pb-6 text-[16px] leading-[1.6] font-description",
+      "text": "Yes. Steel Browser is the open-source server on GitHub that you can host yourself. Steel Cloud is the managed version, adding scale, stealth, proxies ",
+      "rect": {
+        "x": 80,
+        "y": 10970.625,
+        "width": 704,
+        "height": 75.1875
+      },
+      "font": "16px / 25.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "25.6px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px 0px 24px"
+    },
+    {
+      "tag": "H3",
+      "cls": "",
+      "text": "Can I use Steel with Playwright, Puppeteer or Selenium?",
+      "rect": {
+        "x": 80,
+        "y": 10971.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "-0.32px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "flex w-full cursor-pointer items-center justify-between gap-6 py-6 text-left font-sans text-[length:var(--faq-question-size,20px)] leading-[1.4] tracking-[-0.02em] max-md:text-[16px]",
+      "text": "Can I use Steel with Playwright, Puppeteer or Selenium?",
+      "rect": {
+        "x": 80,
+        "y": 10971.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "20px / 28px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "28px",
+      "letterSpacing": "-0.4px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "24px 0px"
+    },
+    {
+      "tag": "P",
+      "cls": "max-w-[44rem] pb-6 text-[16px] leading-[1.6] font-description",
+      "text": "Yes. Steel works with Playwright, Puppeteer, Selenium and its own Node and Python SDKs. You connect over a standard CDP WebSocket URL, so any CDP-comp",
+      "rect": {
+        "x": 80,
+        "y": 11047.625,
+        "width": 704,
+        "height": 75.1875
+      },
+      "font": "16px / 25.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "25.6px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px 0px 24px"
+    },
+    {
+      "tag": "H3",
+      "cls": "",
+      "text": "How fast does Steel start a browser session?",
+      "rect": {
+        "x": 80,
+        "y": 11048.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "-0.32px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "flex w-full cursor-pointer items-center justify-between gap-6 py-6 text-left font-sans text-[length:var(--faq-question-size,20px)] leading-[1.4] tracking-[-0.02em] max-md:text-[16px]",
+      "text": "How fast does Steel start a browser session?",
+      "rect": {
+        "x": 80,
+        "y": 11048.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "20px / 28px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "28px",
+      "letterSpacing": "-0.4px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "24px 0px"
+    },
+    {
+      "tag": "P",
+      "cls": "max-w-[44rem] pb-6 text-[16px] leading-[1.6] font-description",
+      "text": "Under a second on average, with no cold-start penalty. Each session launches into its own isolated Chromium in the cloud, with its proxy, cookies and ",
+      "rect": {
+        "x": 80,
+        "y": 11124.625,
+        "width": 704,
+        "height": 75.1875
+      },
+      "font": "16px / 25.6px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "25.6px",
+      "letterSpacing": "normal",
+      "color": "color(srgb 0 0 0 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid color(srgb 0 0 0 / 0.6)",
+      "padding": "0px 0px 24px"
+    },
+    {
+      "tag": "H3",
+      "cls": "",
+      "text": "Does Steel support human-in-the-loop workflows and reusing logins?",
+      "rect": {
+        "x": 80,
+        "y": 11125.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "16px / 24px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "letterSpacing": "-0.32px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "flex w-full cursor-pointer items-center justify-between gap-6 py-6 text-left font-sans text-[length:var(--faq-question-size,20px)] leading-[1.4] tracking-[-0.02em] max-md:text-[16px]",
+      "text": "Does Steel support human-in-the-loop workflows and reusing logins?",
+      "rect": {
+        "x": 80,
+        "y": 11125.625,
+        "width": 1280,
+        "height": 76
+      },
+      "font": "20px / 28px schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontFamily": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "20px",
+      "lineHeight": "28px",
+      "letterSpacing": "-0.4px",
+      "color": "rgb(0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "padding": "24px 0px"
+    }
+  ],
+  "stylesheets": [
+    "https://steel.dev/_next/static/immutable/chunks/1umdi2dx1t-h_.css",
+    "https://steel.dev/_next/static/immutable/chunks/30ww5eimvst_6.css",
+    "https://steel.dev/_next/static/immutable/chunks/2x1q8tvvjj48n.css",
+    "https://steel.dev/_next/static/immutable/chunks/1s-2wz-kk8t3i.css"
+  ],
+  "images": [
+    {
+      "src": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26MacIntel%26127%261440%261000%2611%2624%261440%261000%260%26na%261&eci=3&event=%7B%7D&event_id=8ecb471d-c020-46ed-b119-0e04852868c2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d1107dcf-f6c8-4665-a1a0-651480518640&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.4%2CHeadlessChrome%2F156.0.8078.4&tw_ch_pv=26.0.0&tw_document_href=https%3A%2F%2Fsteel.dev%2F&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793398254007-29705996&tw_session_start=1&twpid=tw.1793398254007.576965538167549706&txn_id=qew0v&type=javascript&version=2.4.12",
+      "alt": "",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%26Google%20Inc.%26MacIntel%26127%261440%261000%2611%2624%261440%261000%260%26na%261&eci=3&event=%7B%7D&event_id=8ecb471d-c020-46ed-b119-0e04852868c2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d1107dcf-f6c8-4665-a1a0-651480518640&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.4%2CHeadlessChrome%2F156.0.8078.4&tw_ch_pv=26.0.0&tw_document_href=https%3A%2F%2Fsteel.dev%2F&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793398254007-29705996&tw_session_start=1&twpid=tw.1793398254007.576965538167549706&txn_id=qew0v&type=javascript&version=2.4.12",
+      "alt": "",
+      "w": 1,
+      "h": 1
+    }
+  ],
+  "fonts": [
+    {
+      "family": "schengenA",
+      "weight": "200 1000",
+      "status": "loaded"
+    },
+    {
+      "family": "schengenA Fallback",
+      "weight": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "schengenLine",
+      "weight": "200 1000",
+      "status": "unloaded"
+    },
+    {
+      "family": "schengenLine Fallback",
+      "weight": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "schengenAMono",
+      "weight": "200 1000",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+[
+  {
+    "section": 0,
+    "h1": [
+      {
+        "text": "Everything your agent needs to know. Everything your agent needs to know.",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "48px",
+        "line": "52.8px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h2": [],
+    "h3": [],
+    "p": [
+      {
+        "text": "SEARCH ACROSS 100M+ DOCUMENTS",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Conare finds the right answer in any data you bring, for your agents and the products you build on t",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Preparing the Northwind close plan",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "15px",
+        "line": "20px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Searching 6,240,000 documents 3 of 6,240,000 documents",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "button": [
+      {
+        "text": "Sales",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "13px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Finance",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "13px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Engineering",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "13px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Support",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "13px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "code": []
+  },
+  {
+    "section": 1,
+    "h1": [],
+    "h2": [
+      {
+        "text": "Connect the apps your team already uses.",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "32px",
+        "line": "38.4px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h3": [],
+    "p": [
+      {
+        "text": "INTEGRATIONS",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "button": [],
+    "code": []
+  },
+  {
+    "section": 2,
+    "h1": [],
+    "h2": [
+      {
+        "text": "Add a document. Query it.",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "32px",
+        "line": "36.8px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Connect",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Sync",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Retrieve",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Deliver",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "p": [
+      {
+        "text": "HOW IT WORKS",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Conare chunks, embeds and indexes on write, keeps your data updated in real time, and reranks every ",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "See it on your own data.",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Add our refund and shipping policies to docs",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "button": [],
+    "code": []
+  },
+  {
+    "section": 3,
+    "h1": [],
+    "h2": [
+      {
+        "text": "Everything retrieval needs, behind one key.",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "32px",
+        "line": "36.8px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Search",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Sync",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Parse",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Embed",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "p": [
+      {
+        "text": "PRODUCTS",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Why did checkout break?",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Filter Team payments Top 5 Vector and keyword",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "EU checkout broke after a key rotation. 0.91",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "button": [],
+    "code": []
+  },
+  {
+    "section": 4,
+    "h1": [],
+    "h2": [
+      {
+        "text": "Enterprise-grade security and compliance",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "32px",
+        "line": "36.8px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h3": [],
+    "p": [
+      {
+        "text": "GDPR CERTIFIED",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Personal data handled to the EU's data protection rules, with data-subject rights honored.",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "14px",
+        "line": "22px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "SOC 2 Type I COMPLIANT",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "An independent audit of how our security controls are designed.",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "14px",
+        "line": "22px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "button": [],
+    "code": []
+  },
+  {
+    "section": 5,
+    "h1": [],
+    "h2": [
+      {
+        "text": "Reads every file in full.",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "32px",
+        "line": "36.8px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h3": [],
+    "p": [
+      {
+        "text": "PARSE",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Spreadsheets, workbooks and PDFs, every row and cell, ready for your agents to search.",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "EXCEL · SPY HOLDINGS, 15 OCT 2026",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "11px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "uppercase"
+      },
+      {
+        "text": "A 608-row spreadsheet",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "28px",
+        "line": "36px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "button": [],
+    "code": []
+  },
+  {
+    "section": 6,
+    "h1": [],
+    "h2": [
+      {
+        "text": "Accuracy you can check.",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "32px",
+        "line": "36.8px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h3": [
+      {
+        "text": "ViDoRe v3, embedding",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "ViDoRe v3, reranking",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Legal case search",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Several conditions at once",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "p": [
+      {
+        "text": "BENCHMARKS",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Every benchmark, losses included.",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "67.0",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "36px",
+        "line": "36px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "nDCG@10. #1 of 9.",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "14px",
+        "line": "20px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "button": [],
+    "code": []
+  },
+  {
+    "section": 7,
+    "h1": [],
+    "h2": [
+      {
+        "text": "Most accurate, and the cheapest.",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "32px",
+        "line": "36.8px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h3": [],
+    "p": [
+      {
+        "text": "PRICE VS ACCURACY",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "On ViDoRe v3, conare-embed-1 scores higher than every embedding API on this chart and costs less per",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "conare-embed-1",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "nDCG@10 67.02",
+        "font": "Geist, ui-sans-serif, system-ui, sans-serif",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "button": [],
+    "code": []
+  },
+  {
+    "section": 8,
+    "h1": [],
+    "h2": [
+      {
+        "text": "Frequently asked questions",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "32px",
+        "line": "38.4px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h3": [],
+    "p": [
+      {
+        "text": "FAQ",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "How do I get started?",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Conare is invite-only for now. Book a demo: we set up your organization with you, and your team then",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "16px",
+        "line": "26px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "button": [
+      {
+        "text": "How do I get started?",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Which part should I use?",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Is my data used to train models?",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      },
+      {
+        "text": "Where is my data processed?",
+        "font": "Geist, ui-sans-serif, sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "code": []
+  },
+  {
+    "section": 9,
+    "h1": [],
+    "h2": [
+      {
+        "text": "See it on your own data.",
+        "font": "\"Faculty Glyphic\", \"Iowan Old Style\", Georgia, serif",
+        "size": "48px",
+        "line": "52.8px",
+        "weight": "400",
+        "transform": "none"
+      }
+    ],
+    "h3": [],
+    "p": [],
+    "button": [],
+    "code": []
+  }
+]

@@ -1,0 +1,1569 @@
+{
+  "editorial-01": {
+    "h1": [
+      {
+        "text": "Strong Form, Quiet Direction",
+        "font": "Editorial, Georgia, serif",
+        "size": "62.5px",
+        "line": "60px",
+        "weight": "200",
+        "stretch": "62.5%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "h2": [
+      {
+        "text": "A few ways of looking.",
+        "font": "Editorial, Georgia, serif",
+        "size": "64.8px",
+        "line": "64.8px",
+        "weight": "200",
+        "stretch": "62.5%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Somewhere, slowly.",
+        "font": "Editorial, Georgia, serif",
+        "size": "47.52px",
+        "line": "47.52px",
+        "weight": "200",
+        "stretch": "62.5%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "An eye for the space between.",
+        "font": "Editorial, Georgia, serif",
+        "size": "66.24px",
+        "line": "66.24px",
+        "weight": "200",
+        "stretch": "62.5%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "A material memory.",
+        "font": "Editorial, Georgia, serif",
+        "size": "64.8px",
+        "line": "64.8px",
+        "weight": "200",
+        "stretch": "62.5%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Observe",
+        "font": "General, Arial, sans-serif",
+        "size": "16px",
+        "line": "26.4px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Compose",
+        "font": "General, Arial, sans-serif",
+        "size": "16px",
+        "line": "26.4px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Refine",
+        "font": "General, Arial, sans-serif",
+        "size": "16px",
+        "line": "26.4px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Window, still",
+        "font": "General, Arial, sans-serif",
+        "size": "14px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "p": [
+      {
+        "text": "Work shaped by light, body language, and the space between gesture and pose, focusing on quiet movem",
+        "font": "General, Arial, sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "300",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "01 / Selected observations",
+        "font": "General, Arial, sans-serif",
+        "size": "12px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Places, surfaces, people. Independent studies, 2026.",
+        "font": "General, Arial, sans-serif",
+        "size": "12px",
+        "line": "20px",
+        "weight": "300",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "02 / Field journal",
+        "font": "General, Arial, sans-serif",
+        "size": "12px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "button": [
+      {
+        "text": "01 Window, still ↗",
+        "font": "General, Arial, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "02 The coastal journal",
+        "font": "General, Arial, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "03 A material memory",
+        "font": "General, Arial, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "04 On presence",
+        "font": "General, Arial, sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "code": [],
+    "small": [],
+    "label": []
+  },
+  "blueprint-source": {
+    "h1": [
+      {
+        "text": "The fastest way to make a generative design tool.",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "76px",
+        "line": "74.48px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-3.42px"
+      }
+    ],
+    "h2": [
+      {
+        "text": "Made with Blueprint.",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "44px",
+        "line": "46.2px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.54px"
+      },
+      {
+        "text": "Same prompt. One is ready to send.",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "44px",
+        "line": "46.2px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.54px"
+      },
+      {
+        "text": "Everything after the first prompt.",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "44px",
+        "line": "46.2px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.54px"
+      },
+      {
+        "text": "Start free. Upgrade when it works.",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "44px",
+        "line": "46.2px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.54px"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Send a link, not a file.",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "15px",
+        "line": "normal",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.15px"
+      },
+      {
+        "text": "Keeps working when you leave.",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "15px",
+        "line": "normal",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.15px"
+      },
+      {
+        "text": "Controls that stay put.",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "15px",
+        "line": "normal",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.15px"
+      },
+      {
+        "text": "Export at print size.",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "15px",
+        "line": "normal",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.15px"
+      }
+    ],
+    "p": [
+      {
+        "text": "Halftone, dither and texture generators that work on the first try, with presets, high-res export an",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "18px",
+        "line": "27.9px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "20 free credits · No credit card",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "13px",
+        "line": "normal",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Animated 60s op art: vertical stripes shifted into concentric diamonds, thinning from left to right",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "14px",
+        "line": "21px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Op Art Vibrations is ready: banded stripes shifted into diamonds or circles, with stripe spacing, ba",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "14px",
+        "line": "21px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "button": [
+      {
+        "text": "Presets",
+        "font": "system-ui, -apple-system, \"SF Pro Display\", sans-serif",
+        "size": "14px",
+        "line": "normal",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Classic yellow",
+        "font": "system-ui, -apple-system, \"SF Pro Display\", sans-serif",
+        "size": "13px",
+        "line": "13px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Red circles",
+        "font": "system-ui, -apple-system, \"SF Pro Display\", sans-serif",
+        "size": "13px",
+        "line": "13px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Cobalt square",
+        "font": "system-ui, -apple-system, \"SF Pro Display\", sans-serif",
+        "size": "13px",
+        "line": "13px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "code": [],
+    "small": [
+      {
+        "text": "/month first month",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "14px",
+        "line": "14px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "/month first month",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "14px",
+        "line": "14px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "/month first month",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "14px",
+        "line": "14px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "label": [
+      {
+        "text": "Describe your own tool",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "14px",
+        "line": "normal",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Describe the tool you need",
+        "font": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "size": "14px",
+        "line": "normal",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ]
+  },
+  "salesloft": {
+    "h1": [
+      {
+        "text": "Know which deals to close next.",
+        "font": "SalesSerif, Georgia, serif",
+        "size": "72px",
+        "line": "76.32px",
+        "weight": "450",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-3.24px"
+      }
+    ],
+    "h2": [
+      {
+        "text": "Never start with an empty pipeline again",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "42px",
+        "line": "44.52px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.47px"
+      },
+      {
+        "text": "Know which deals need you today",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "42px",
+        "line": "44.52px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.47px"
+      },
+      {
+        "text": "Salesloft automatically connects every tool your reps touch, and every signal your CRM needs, turnin",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "28.8px",
+        "line": "36.576px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.008px"
+      },
+      {
+        "text": "Ready to know which deals close next?",
+        "font": "SalesSerif, Georgia, serif",
+        "size": "58px",
+        "line": "61.48px",
+        "weight": "450",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-2.61px"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Got it. Found 4 deals at risk.",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "p": [
+      {
+        "text": "Your reps waste hours guessing which deals matter. Salesloft's AI agents show you exactly where to f",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Teams already closing deals with Salesloft",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "16px",
+        "line": "22.4px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "You're not chasing leads anymore. You're working a list that's already ranked by who's most likely t",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "18px",
+        "line": "27.9px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "No activity in 6 days",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "13px",
+        "line": "18.2px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "button": [],
+    "code": [],
+    "small": [
+      {
+        "text": "Runs weekdays - 7:00 AM",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "10.4px",
+        "line": "14.56px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "84K · Enterprise plan",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "10.4px",
+        "line": "14.56px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "ⓘ Last updated · 2 min ago",
+        "font": "SalesSans, Arial, sans-serif",
+        "size": "10.4px",
+        "line": "14.56px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "label": []
+  },
+  "interfere": {
+    "h1": [
+      {
+        "text": "Ship software that never breaks",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "56px",
+        "line": "56px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.56px"
+      }
+    ],
+    "h2": [
+      {
+        "text": "Interfere empowers engineers, product managers and designers with real-time understanding of previou",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Interfere finds issues in your app, understands what's happening, and owns resolution from first sig",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "28px",
+        "line": "36px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.28px"
+      },
+      {
+        "text": "Learn about issues before your customers do",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "28px",
+        "line": "36px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.28px"
+      },
+      {
+        "text": "Understand what's going wrong",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "28px",
+        "line": "36px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.28px"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Broken password reset link",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "24px",
+        "line": "32px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.24px"
+      },
+      {
+        "text": "Learn about issues before your customers do",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Understand what's going wrong",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Fix problems with confidence",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "15px",
+        "line": "24px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "p": [
+      {
+        "text": "Inbox",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Broken password reset link",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "#120",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Users are unable to complete password resets after clicking reset links generated in production.",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "button": [
+      {
+        "text": "Subscribed",
+        "font": "InterVariable, \"InterVariable Fallback\", sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "code": [],
+    "small": [],
+    "label": []
+  },
+  "steel-source": {
+    "h1": [
+      {
+        "text": "Browser Infrastructure for AI Agents",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "60px",
+        "line": "60.6px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.2px"
+      }
+    ],
+    "h2": [
+      {
+        "text": "1,500,000+",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "40px",
+        "line": "40px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.8px"
+      },
+      {
+        "text": "35,000,000+",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "40px",
+        "line": "40px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.8px"
+      },
+      {
+        "text": "4 Trillion+",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "40px",
+        "line": "40px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.8px"
+      },
+      {
+        "text": "What people build on Steel",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "60px",
+        "line": "60.6px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.2px"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Steel is an API that lets you control fleets of browsers. Spin up thousands of sessions on the web.",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "24px",
+        "line": "31.2px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.48px"
+      },
+      {
+        "text": "Steel runs millions of browser sessions every week. Every one a real browser, started in under a sec",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "28px",
+        "line": "36.4px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.56px"
+      },
+      {
+        "text": "Control and start sessions with Sessions API A real browser, one API call.",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "26px",
+        "line": "33.8px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.52px"
+      },
+      {
+        "text": "World-class observability Know how every session is doing, at all times.",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "26px",
+        "line": "33.8px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.52px"
+      }
+    ],
+    "p": [
+      {
+        "text": "Search the web for this week's biggest AI agent launches and summarize each one.",
+        "font": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+        "size": "12px",
+        "line": "19.2px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Starting browser session ready",
+        "font": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+        "size": "12px",
+        "line": "19.2px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "steelnews.com/latest 200",
+        "font": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+        "size": "12px",
+        "line": "19.2px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "steelagents.com/launches 200",
+        "font": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+        "size": "12px",
+        "line": "19.2px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "button": [
+      {
+        "text": "RESOURCES",
+        "font": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "uppercase",
+        "letter": "0.18px"
+      },
+      {
+        "text": "COPY COPIED AGENT PROMPT",
+        "font": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "uppercase",
+        "letter": "0.18px"
+      },
+      {
+        "text": "Cookie settings",
+        "font": "schengenA, \"schengenA Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+        "size": "14px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "code": [
+      {
+        "text": "$ curl -fsS https://setup.steel.dev | sh",
+        "font": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+        "size": "13px",
+        "line": "16px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "$ npm install -g @steel-dev/cli added 1 package in 2s $ steel login Logged in to Steel $ steel brows",
+        "font": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+        "size": "12px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "$ curl -fsS https://setup.steel.dev | sh Installed the Steel CLI $ steel browser navigate https://ne",
+        "font": "schengenAMono, ui-monospace, SFMono-Regular, Menlo, Consolas, \"Liberation Mono\", monospace",
+        "size": "12px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "small": [],
+    "label": []
+  },
+  "conversion": {
+    "h1": [
+      {
+        "text": "The agentic marketing automation platform",
+        "font": "Family, Georgia, serif",
+        "size": "64px",
+        "line": "67.2px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-2.24px"
+      }
+    ],
+    "h2": [
+      {
+        "text": "Trusted by marketing teams that move fast",
+        "font": "Family, Georgia, serif",
+        "size": "40px",
+        "line": "44px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.4px"
+      },
+      {
+        "text": "Enterprise ready and secure",
+        "font": "Family, Georgia, serif",
+        "size": "48px",
+        "line": "52.8px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.68px"
+      },
+      {
+        "text": "Relevant resources",
+        "font": "Family, Georgia, serif",
+        "size": "40px",
+        "line": "44px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.4px"
+      },
+      {
+        "text": "See what AI-native marketing looks like",
+        "font": "Family, Georgia, serif",
+        "size": "40px",
+        "line": "44px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.4px"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Access Control & Compliance",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "18px",
+        "line": "24.3px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Custom Business Models",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "18px",
+        "line": "24.3px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Sync Logs & Auditing",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "18px",
+        "line": "24.3px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Introducing Conversion Agents",
+        "font": "Family, Georgia, serif",
+        "size": "22px",
+        "line": "28.16px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.44px"
+      }
+    ],
+    "p": [
+      {
+        "text": "Built for MOps teams replacing Marketo, Pardot, and HubSpot. Unify CRM and warehouse data, hand the ",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "18px",
+        "line": "27px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Used by MOps teams replacing Marketo, Pardot, and HubSpot.",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "12px",
+        "line": "18px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "SOC 2 Type II, GDPR, SSO, and role-based access come standard. Every object you model and every reco",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "16px",
+        "line": "25.6px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "SOC 2 Type II and GDPR with SSO, SAML, and role-based permissions so every teammate sees exactly wha",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "14px",
+        "line": "22.4px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "button": [],
+    "code": [],
+    "small": [
+      {
+        "text": "Marketing Operations Manager, People Data Labs",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "11.6667px",
+        "line": "normal",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "2s",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "12px",
+        "line": "normal",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "4s",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "12px",
+        "line": "normal",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "7s",
+        "font": "Lausanne, Arial, sans-serif",
+        "size": "12px",
+        "line": "normal",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "label": []
+  },
+  "plasticity": {
+    "h1": [
+      {
+        "text": "Powerful solid and surface modeling, no subscription",
+        "font": "fkGrotesk, \"fkGrotesk Fallback\", ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "size": "60px",
+        "line": "60px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "h2": [
+      {
+        "text": "Why Plasticity",
+        "font": "fkGrotesk, \"fkGrotesk Fallback\", ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "size": "36px",
+        "line": "40px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "For Enterprise",
+        "font": "fkGrotesk, \"fkGrotesk Fallback\", ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "size": "24px",
+        "line": "32px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "capitalize",
+        "letter": "normal"
+      },
+      {
+        "text": "Check Out The Community",
+        "font": "fkGrotesk, \"fkGrotesk Fallback\", ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "size": "24px",
+        "line": "32px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "capitalize",
+        "letter": "normal"
+      },
+      {
+        "text": "No Subscription Model",
+        "font": "fkGrotesk, \"fkGrotesk Fallback\", ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "size": "24px",
+        "line": "32px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "capitalize",
+        "letter": "normal"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Boolean Precision",
+        "font": "fkGrotesk, \"fkGrotesk Fallback\", ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "size": "30px",
+        "line": "36px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "capitalize",
+        "letter": "normal"
+      },
+      {
+        "text": "XNURBS Surface Blending",
+        "font": "fkGrotesk, \"fkGrotesk Fallback\", ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "size": "30px",
+        "line": "36px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "capitalize",
+        "letter": "normal"
+      },
+      {
+        "text": "Fillets And Edge Control",
+        "font": "fkGrotesk, \"fkGrotesk Fallback\", ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "size": "30px",
+        "line": "36px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "capitalize",
+        "letter": "normal"
+      },
+      {
+        "text": "Dimensions And Precision",
+        "font": "fkGrotesk, \"fkGrotesk Fallback\", ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+        "size": "30px",
+        "line": "36px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "capitalize",
+        "letter": "normal"
+      }
+    ],
+    "p": [
+      {
+        "text": "A workflow optimized for creativity, unparalleled fillets, sophisticated surface modeling, and the m",
+        "font": "matter, \"matter Fallback\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "14px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "TRY IT FOR FREE FOR 30 DAYS",
+        "font": "auxMono, \"auxMono Fallback\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "size": "12px",
+        "line": "16px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "uppercase",
+        "letter": "-1.44px"
+      },
+      {
+        "text": "No other CAD software gives you this much power at this price.",
+        "font": "matter, \"matter Fallback\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "36px",
+        "line": "40px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "From vehicle design to industrial design to video game art, Plasticity gives you the tools to create",
+        "font": "matter, \"matter Fallback\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "size": "14px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "button": [
+      {
+        "text": "DIRECT EDITING",
+        "font": "auxMono, \"auxMono Fallback\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "size": "12px",
+        "line": "16px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "uppercase",
+        "letter": "-1.44px"
+      },
+      {
+        "text": "DIMENSIONING",
+        "font": "auxMono, \"auxMono Fallback\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "size": "12px",
+        "line": "16px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "uppercase",
+        "letter": "-1.44px"
+      },
+      {
+        "text": "SURFACING",
+        "font": "auxMono, \"auxMono Fallback\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "size": "12px",
+        "line": "16px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "uppercase",
+        "letter": "-1.44px"
+      },
+      {
+        "text": "MATERIALS",
+        "font": "auxMono, \"auxMono Fallback\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "size": "12px",
+        "line": "16px",
+        "weight": "500",
+        "stretch": "100%",
+        "transform": "uppercase",
+        "letter": "-1.44px"
+      }
+    ],
+    "code": [],
+    "small": [],
+    "label": []
+  },
+  "mnh": {
+    "h1": [
+      {
+        "text": "We partner with founders pushing the boundaries of technologies",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "48px",
+        "line": "48px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1.6px"
+      }
+    ],
+    "h2": [
+      {
+        "text": "Portfolio Highlights",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "24px",
+        "line": "24px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Content",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "24px",
+        "line": "24px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Silicon Valley & New York",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "32px",
+        "line": "32px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1px"
+      }
+    ],
+    "h3": [
+      {
+        "text": "CoreWeave",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "32px",
+        "line": "32px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1px"
+      },
+      {
+        "text": "Mistral AI",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "32px",
+        "line": "32px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1px"
+      },
+      {
+        "text": "Gori AI",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "32px",
+        "line": "32px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1px"
+      },
+      {
+        "text": "Joby Aviation",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "32px",
+        "line": "32px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-1px"
+      }
+    ],
+    "p": [
+      {
+        "text": "Millennium New Horizons is designed to back the next generation of entrepreneurs building emerging t",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "20px",
+        "line": "27px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Our expansive network of global enterprises and strategic investors makes us the ideal capital and c",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "20px",
+        "line": "28px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "CoreWeave is a accelerated cloud provider, delivering a massive scale of GPUs on top of the industry",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "20px",
+        "line": "27px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Mistral AI is the leading LLM company out of Europe founded by ex DeepMind engineers.",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "20px",
+        "line": "27px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "button": [
+      {
+        "text": "Menu",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "18px",
+        "line": "29.7px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "code": [],
+    "small": [
+      {
+        "text": "Invested in 2023",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "13px",
+        "line": "21.45px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Invested in 2023",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "13px",
+        "line": "21.45px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Invested in 2023",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "13px",
+        "line": "21.45px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "Invested in 2020 ● IPO in 2021",
+        "font": "\"MNH Lausanne\", Arial, sans-serif",
+        "size": "13px",
+        "line": "21.45px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "label": []
+  },
+  "conare": {
+    "h1": [],
+    "h2": [],
+    "h3": [
+      {
+        "text": "Product",
+        "font": "\"Conare Geist\", ui-sans-serif, sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.13px"
+      },
+      {
+        "text": "Developers",
+        "font": "\"Conare Geist\", ui-sans-serif, sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.13px"
+      },
+      {
+        "text": "Resources",
+        "font": "\"Conare Geist\", ui-sans-serif, sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.13px"
+      },
+      {
+        "text": "Company",
+        "font": "\"Conare Geist\", ui-sans-serif, sans-serif",
+        "size": "13px",
+        "line": "20px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "-0.13px"
+      }
+    ],
+    "p": [
+      {
+        "text": "Search any data you bring. Get the right answer.",
+        "font": "\"Conare Display\", sans-serif",
+        "size": "16px",
+        "line": "24px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "button": [
+      {
+        "text": "Product",
+        "font": "\"Conare Geist\", sans-serif",
+        "size": "14px",
+        "line": "14px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      },
+      {
+        "text": "↑",
+        "font": "\"Conare Geist\", sans-serif",
+        "size": "12px",
+        "line": "12px",
+        "weight": "400",
+        "stretch": "100%",
+        "transform": "none",
+        "letter": "normal"
+      }
+    ],
+    "code": [],
+    "small": [],
+    "label": []
+  }
+}

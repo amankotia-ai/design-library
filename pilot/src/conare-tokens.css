@@ -1,3 +1,3 @@
 @font-face{font-family:Conare Inter;src:url('/assets/conare/bffe2946cafe6f85.woff2')}@font-face{font-family:Conare Display;src:url('/assets/conare/9b3bc9523f468eda.woff2')}@font-face{font-family:Conare Geist;src:url('/assets/conare/1599d1d300b409c0.woff2')}
-.conare{--co-paper:#fefefe;--co-ink:#020202;--co-red:#ea3325;--co-rule:#d6d6d6;--co-muted:#777;--co-dark:#201f1e;--co-display:'Conare Display',sans-serif;--co-body:'Conare Inter',sans-serif}
+.conare{--co-paper:var(--preview-paper,#fefefe);--co-ink:var(--preview-ink,#020202);--co-red:var(--preview-accent,#ea3325);--co-rule:var(--preview-rule,#d6d6d6);--co-muted:#777;--co-dark:#201f1e;--co-display:'Conare Display',sans-serif;--co-body:'Conare Inter',sans-serif}
 @font-face{font-family:Conare Geist;src:url('/assets/conare/f5df848dfe3be226.woff2');font-weight:500}

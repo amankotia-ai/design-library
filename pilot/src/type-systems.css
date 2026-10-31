@@ -1,0 +1,33 @@
+@font-face{font-family:TypeEditorial;src:url('/assets/fonts/noto-serif-display-variable.woff2') format('woff2');font-weight:100 900;font-stretch:62.5% 100%;font-display:swap}
+@font-face{font-family:TypeGeneral;src:url('/assets/fonts/general-sans-variable.woff2') format('woff2');font-weight:200 700;font-display:swap}
+@font-face{font-family:TypeBlueprint;src:url('/blueprint-source/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:TypeBlueprintMono;src:url('/blueprint-source/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:TypeSalesSerif;src:url('/assets/fonts/noto-serif-display-variable.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:TypeSalesSans;src:url('/assets/fonts/general-sans-variable.woff2') format('woff2');font-weight:200 700;font-display:swap}
+@font-face{font-family:TypeInterfere;src:url('/interfere/assets/8d5fd9f89e9e12.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:TypeHeldane;src:url('/interfere/assets/405969baf295e1.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:TypeBerkeley;src:url('/interfere/assets/e88ab71d4f3835.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:TypeSteel;src:url('/steel-source/assets/_next/static/immutable/media/ABCSchengenA_Variable-s.p.3nb4eiitxra8w.woff2') format('woff2');font-weight:200 1000;font-display:swap}
+@font-face{font-family:TypeSteelMono;src:url('/steel-source/assets/_next/static/immutable/media/ABCSchengenAMono_Variable.p.1vh0uvnfona6i.woff2') format('woff2');font-weight:200 1000;font-display:swap}
+@font-face{font-family:TypeConversionSerif;src:url('/assets/conversion/3d8beb7664b1e798.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:TypeConversionSans;src:url('/assets/conversion/c9b20c723b357560.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:TypeConversionSans;src:url('/assets/conversion/ac71634f7dcefd58.woff2') format('woff2');font-weight:500;font-display:swap}
+@font-face{font-family:TypePlasticity;src:url('/plasticity/fonts/377f7c9f68703899-s.p.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:TypeMatter;src:url('/plasticity/fonts/d0e830052aa0660a-s.p.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:TypeAux;src:url('/plasticity/fonts/4a5d5d8a36383f38-s.p.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:TypeMnh;src:url('/assets/mnh/17.otf') format('opentype');font-weight:400;font-display:swap}
+@font-face{font-family:TypeMnh;src:url('/assets/mnh/18.otf') format('opentype');font-weight:300;font-display:swap}
+@font-face{font-family:TypeConareInter;src:url('/assets/conare/bffe2946cafe6f85.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:TypeConareDisplay;src:url('/assets/conare/9b3bc9523f468eda.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:TypeConareGeist;src:url('/assets/conare/1599d1d300b409c0.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:TypeConareGeist;src:url('/assets/conare/f5df848dfe3be226.woff2') format('woff2');font-weight:500;font-display:swap}
+.type-system{margin-top:40px}
+.library .system-detail .type-system-title{font:500 12px/20px var(--library-font-body);color:var(--library-muted);margin:0 0 8px}
+.library .system-detail .type-system-intro,.library .system-detail .type-system-note{font:400 12px/20px var(--library-font-body);color:var(--library-muted);margin:0}
+.type-system-list{list-style:none;margin:12px 0 0;padding:0}
+.type-system-item{padding:20px 0;border-top:1px dashed var(--library-rule);min-width:0}
+.type-system-meta{display:flex;justify-content:space-between;gap:8px 20px;flex-wrap:wrap;font:400 11px/16px var(--library-font-body);color:var(--library-muted);font-variant-numeric:tabular-nums}
+.type-system-meta strong{font-weight:500;color:var(--library-ink)}
+.type-system-sample{margin:12px 0 0;font-family:var(--type-family),sans-serif;font-size:var(--type-size);line-height:var(--type-leading);font-weight:var(--type-weight);font-stretch:var(--type-stretch,normal);letter-spacing:var(--type-tracking,normal);overflow-wrap:anywhere;color:var(--library-ink)}
+.library .system-detail .type-system-note{margin-top:4px}
+@media(max-width:700px){.type-system-sample{font-size:min(var(--type-size),11vw)}}

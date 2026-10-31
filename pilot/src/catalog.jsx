@@ -2,10 +2,11 @@ import React,{useState} from 'react';
 import {sections,systems,comparisons} from './data';
 import {PageCard} from './page-browser';
 import {pageShells} from './page-shells';
+import {PreviewImage} from './library-loading';
+import {isPage} from './library-routing';
 
 const types={'conare-evals-header':'Navigation','conare-evals-hero':'Metrics','conare-evals-directory':'Metrics','conare-evals-price':'Comparisons','conare-evals-losses':'Comparisons','conare-evals-method':'Editorial','conare-evals-closing':'Calls to action','conare-evals-footer':'Footers','conare-header':'Navigation','conare-hero':'Heroes','conare-integrations':'Integrations','conare-workflow':'Features','conare-products':'Features','conare-security':'Trust','conare-parse':'Product demos','conare-benchmarks':'Metrics','conare-price':'Comparisons','conare-faq':'FAQs','conare-footer':'Footers','mnh-header':'Navigation','mnh-hero':'Heroes','mnh-portfolio':'Projects','mnh-content':'Editorial','mnh-about':'Features','mnh-footer':'Footers','conversion-header':'Navigation','conversion-hero':'Heroes','conversion-logos':'Social proof','conversion-agents':'Product demos','conversion-context':'Features','conversion-platform':'Features','conversion-testimonial':'Testimonials','conversion-security':'Trust','conversion-resources':'Editorial','conversion-closing':'Calls to action','conversion-footer':'Footers',"steel-header":"Navigation","steel-hero":"Heroes","steel-demo":"Product demos","steel-customers":"Social proof","steel-stats":"Metrics","steel-use-cases":"Applications","steel-features":"Features","steel-integrations":"Integrations","steel-enterprise":"Features","steel-stealth":"Features","steel-faq":"FAQs","steel-blog":"Editorial","steel-cta":"Calls to action","steel-footer":"Footers",'interfere-header':'Navigation','interfere-hero':'Heroes','interfere-trust':'Social proof','interfere-overview':'Features','interfere-testimonial':'Testimonials','interfere-monitoring':'Features','interfere-triage':'Features','interfere-resolution':'Features','interfere-security':'Trust','interfere-releases':'Changelog','interfere-footer':'Footers','salesloft-header':'Navigation','salesloft-hero':'Heroes','salesloft-pipeline':'Features','salesloft-risk':'Features','salesloft-integrations':'Integrations','salesloft-footer':'Footers',hero:'Heroes',feature:'Features',quote:'Testimonials',footer:'Footers','image-index':'Galleries','project-detail':'Projects','split-material':'Features','image-rail':'Galleries','blueprint-header':'Navigation','blueprint-hero':'Heroes','blueprint-editor':'Product demos','blueprint-examples':'Galleries','blueprint-compare':'Comparisons','blueprint-features':'Features','blueprint-pricing':'Pricing','blueprint-faq':'FAQs','blueprint-prompt':'Calls to action','blueprint-footer':'Footers'};
 Object.assign(types,Object.fromEntries([['header','Navigation'],['hero','Heroes'],['downloads','Calls to action'],['features','Features'],['feature-1','Features'],['feature-2','Features'],['feature-3','Features'],['feature-4','Features'],['feature-5','Features'],['why','Features'],['pricing','Pricing'],['creativity','Features'],['testimonials','Testimonials'],['faq','FAQs'],['footer','Footers']].map(([id,type])=>['plasticity-'+id,type])));
-export const isPage=section=>section.id.endsWith('page');
 const thumbnail=section=>section.id.startsWith('conare-evals-')?`/previews/conare-evals/${section.id.slice(13)}.png`:section.id.startsWith('conare-')?`/previews/conare/${section.id.slice(7)}.png`:section.id.startsWith('mnh-')?`/previews/mnh/${section.id.slice(4)}.png`:section.id.startsWith('plasticity-')?`/previews/plasticity/${section.id.slice(11)}.png`:section.id.startsWith('conversion-')?`/previews/conversion/${section.id.slice(11)}.png`:section.id.startsWith('steel-')?`/evidence/steel/${section.id.slice(6)}.png`:section.id.startsWith('interfere-')?`/previews/interfere/${section.id.replace('interfere-','')}.png`:section.systemId==='salesloft'?`/previews/${section.id}.png`:['hero','feature','footer','page'].includes(section.id)?`/previews/library/${section.id}.png`:section.id==='blueprint-page'?'/previews/library/blueprint-page.png':comparisons[section.id]?.implementation||`/previews/editorial/${section.id}.png`;
 
 export function Catalog({pages=false}){
@@ -20,7 +21,7 @@ export function Catalog({pages=false}){
   const next=new URLSearchParams({panel:pages?'pages':'sections'});
   if(!pages&&nextSystem!=='all')next.set('system',nextSystem);
   if(nextType!=='all')next.set('type',nextType);
-  history.replaceState(null,'',`/?${next}`);
+  history.replaceState(history.state,'',`/?${next}`);
  };
  return <main className="asset-catalog">
   <div className="catalog-heading"><h1>{pages?'Pages':'Sections'}</h1>
@@ -34,7 +35,7 @@ export function Catalog({pages=false}){
    const detail=`/?panel=${pages?'pages':'sections'}&section=${section.id}`;
    const name=pages?`${system.name} page`:section.name;
    return <article className="system-card asset-card" key={section.id}>
-    <a className="asset-preview" href={detail} tabIndex={-1} aria-hidden="true"><img src={thumbnail(section)} alt="" loading="lazy"/></a>
+    <a className="asset-preview" href={detail} tabIndex={-1} aria-hidden="true"><PreviewImage src={thumbnail(section)}/></a>
     <div className="system-card-body"><div className="card-meta"><span>{system.name}</span></div><h2><a href={detail}>{name}</a></h2><p className="asset-layout">{section.layout}</p></div>
    </article>;
   })}</div>):<div className="catalog-empty"><h2>No {pages?'pages':'sections'} match these filters.</h2><button onClick={()=>update('all','all')}>Clear filters</button></div>}

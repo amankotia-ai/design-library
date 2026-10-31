@@ -1,0 +1,5 @@
+# Delivery verification
+
+The Salesloft-specific registry check passed: named system, assembled page, six sections, rendered preview and both comparison images exist. The Vite production build passed from a local runtime snapshot. The independent QA record is `qa.md`; its follow-up confirms the added internal Salesloft mode field does not change the reviewed rendering. Later registry adjustments concerned other concurrently integrated systems and do not change the Salesloft components.
+
+The project-wide `npm run check` was run in the isolated runtime with the prior research/media inputs mounted. It advanced through registry links and Blueprint evidence, then stopped at `plasticity.mode`, a missing field in another concurrently integrated collection. It is not recorded as passed. The desktop and mobile preview captures are in `evidence/salesloft/`; the source-sized hero pair is available through the library Compare control. REA's successful controlled-browser capture and its limitations are recorded in `rea.md` and `rea-final.json`.

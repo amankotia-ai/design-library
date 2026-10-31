@@ -1,0 +1,3 @@
+# REA capture
+
+REA 6.4.0 `capture-browser-scenario` ran against the isolated local preview at 1440 × 900. The successful evidence wrapper is `rea-final.json`, evidence ID `ev_5350f72c2bd69977b6109cccf3218389140ee31f670674430111b42014d20582`. The controlled browser run completed, retained a screenshot and URL, and recorded zero page-error events. The supplied reference is raster media, so this is an observation of the reconstruction, not recovery of original source code or behavior. The existing checkout was unresponsive during command loading; a temporary npm installation of the same version under `/tmp/rea-clean` provided the successful run without changing that checkout.

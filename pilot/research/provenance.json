@@ -1,0 +1,77 @@
+{
+  "run_id": "pilot-001",
+  "references": [
+    {
+      "id": "21",
+      "author": "Bernardo Lickfold",
+      "source_url": "https://x.com/berlickfold/status/2021190651505680513",
+      "caption": "grid vs final result",
+      "preserved_original": "public/references/21-final.jpg",
+      "sha256": "b7e77e8d2740e39dee731859e1eebbf27a87dddb84ef5a5644f489f964af32cb"
+    },
+    {
+      "id": "17",
+      "author": "Bernardo Lickfold",
+      "source_url": "https://x.com/berlickfold/status/2028922909201195269",
+      "caption": "Testimonial card",
+      "preserved_original": "public/references/17-testimonial.jpg",
+      "sha256": "142b73379e8950e9ace95edc5ead36346dd66c39a9d135c600599973c9fa21c1"
+    }
+  ],
+  "connected_context": "2026-10-30: Freebyrd index, thread (design library UI references and next steps), and references (website UI sections typography landing pages pricing features, pictures=true) each returned: Freebyrd has nothing to share about this folder.",
+  "derivatives": [
+    {
+      "path": "assets/campaign.webp",
+      "source": "21-final.jpg",
+      "crop_xyxy": [
+        1189,
+        786,
+        2190,
+        1914
+      ]
+    },
+    {
+      "path": "assets/portrait.webp",
+      "source": "21-final.jpg",
+      "crop_xyxy": [
+        188,
+        1504,
+        494,
+        1886
+      ]
+    },
+    {
+      "path": "assets/practice.webp",
+      "source": "17-testimonial.jpg",
+      "crop_xyxy": [
+        550,
+        518,
+        1129,
+        1242
+      ]
+    },
+    {
+      "path": "references/quote-source.png",
+      "source": "17-testimonial.jpg",
+      "crop_xyxy": [
+        551,
+        518,
+        2494,
+        1242
+      ],
+      "sha256": "cd982e4c38a9e89ec1e91112b4ff16225ae4fb9da94d080427f3943c55b64eb3"
+    },
+    {
+      "path": "assets/quote-portrait.png",
+      "source": "17-testimonial.jpg",
+      "crop_xyxy": [
+        551,
+        518,
+        1130,
+        1242
+      ],
+      "sha256": "a71fa5bd248efd5b12abf2d197679ca825a1f5dbff8080a2f9c6c1d54656d75b"
+    }
+  ],
+  "rights": "Private reference study. No publication rights established."
+}
