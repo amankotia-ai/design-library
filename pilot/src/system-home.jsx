@@ -1,9 +1,10 @@
 import React from 'react';
 import {systems,sections} from './data';
 import {SystemPreview} from './system-preview';
+import {withBase} from './base.js';
 
 const pageFor = system => sections.find(section => section.systemId === system.id && section.id.endsWith('page')).id;
-const systemUrl = system => `/?panel=system&section=${pageFor(system)}`;
+const systemUrl = system => withBase(`/?panel=system&section=${pageFor(system)}`);
 
 export function SystemCard({system}){
  const href=systemUrl(system);

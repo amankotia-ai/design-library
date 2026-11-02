@@ -4,10 +4,11 @@ import {SourcePricing,SourceFAQ,SourceFinal,SourceFooter} from './blueprint-fait
 import {SourceEditor} from './blueprint-faithful-editor';
 import {SourceFinalTexture} from './blueprint-faithful-texture';
 import sourceStyles from './blueprint-source-styles.json';
+import {withBase} from './base.js';
 
 export function BlueprintStudy({view='blueprint-page'}){
  const embedded=typeof location!=='undefined'&&new URLSearchParams(location.search).get('embed')==='1';const page=view==='blueprint-page';const hero=view==='blueprint-hero';
- return <>{sourceStyles.map(href=><link key={href} rel="stylesheet" href={href}/>)}<div data-source-embed={embedded?'':undefined} className={`site landing bp-faithful ${page?'':'bp-standalone'} bp-source-view-${view.replace('blueprint-','')}`}>
+ return <>{sourceStyles.map(href=><link key={href} rel="stylesheet" href={withBase(href)}/>)}<div data-source-embed={embedded?'':undefined} className={`site landing bp-faithful ${page?'':'bp-standalone'} bp-source-view-${view.replace('blueprint-','')}`}>
  {(page||hero||view==='blueprint-header')&&<SourceHeader standalone={view==='blueprint-header'}/>}
  {view!=='blueprint-header'&&<main>
  {(page||hero)&&<SourceHero/>}

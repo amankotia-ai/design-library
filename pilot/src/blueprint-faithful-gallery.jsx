@@ -1,14 +1,15 @@
 import {useEffect} from 'react';
+import {withBase} from './base.js';
 
 let programsRequest;
 const resourceCache=new Map();
-const resourceUrl=value=>value?.startsWith('/landing/')?'/blueprint-source'+value:value;
+const resourceUrl=value=>value?.startsWith('/landing/')?withBase('/blueprint-source'+value):value;
 const FONT_FILES={
- 'g:jetbrains-mono':{path:'/blueprint-source/api/fonts/google/ofl/jetbrainsmono/JetBrainsMono%5Bwght%5D.ttf',family:'JetBrains Mono',weight:[100,800]},
- 'g:space-grotesk':{path:'/blueprint-source/api/fonts/google/ofl/spacegrotesk/SpaceGrotesk%5Bwght%5D.ttf',family:'Space Grotesk',weight:[300,700]},
+ 'g:jetbrains-mono':{path:withBase('/blueprint-source/api/fonts/google/ofl/jetbrainsmono/JetBrainsMono%5Bwght%5D.ttf'),family:'JetBrains Mono',weight:[100,800]},
+ 'g:space-grotesk':{path:withBase('/blueprint-source/api/fonts/google/ofl/spacegrotesk/SpaceGrotesk%5Bwght%5D.ttf'),family:'Space Grotesk',weight:[300,700]},
 };
 function programs(){
- if(!programsRequest)programsRequest=fetch('/blueprint-source/gallery-programs.json').then(r=>{if(!r.ok)throw Error('Source preview programs are unavailable.');return r.json()}).catch(error=>{programsRequest=null;throw error});
+ if(!programsRequest)programsRequest=fetch(withBase('/blueprint-source/gallery-programs.json')).then(r=>{if(!r.ok)throw Error('Source preview programs are unavailable.');return r.json()}).catch(error=>{programsRequest=null;throw error});
  return programsRequest;
 }
 function resource(url){
@@ -74,7 +75,7 @@ export function useSourceGalleryPreviews(hostRef){
    try{
     const list=await programs();if(disposed||!state.hovered||!state.visible)return;
     state.program=list.find(p=>p.name===state.name);if(!state.program)throw Error('The source program for this example was not recovered.');if(reduced.matches&&!state.program.interactive){state.thumb.dataset.previewState='idle';return}
-    const layer=document.createElement('div'),inner=document.createElement('div'),frame=document.createElement('iframe');layer.className='frame-fit thumb-live';inner.className='frame-fit-inner';frame.className='tool-frame';frame.title=state.name+' live preview';frame.tabIndex=-1;frame.setAttribute('sandbox','allow-scripts');frame.referrerPolicy='no-referrer';frame.style.pointerEvents='none';frame.src='/blueprint-source/op-art.html';
+    const layer=document.createElement('div'),inner=document.createElement('div'),frame=document.createElement('iframe');layer.className='frame-fit thumb-live';inner.className='frame-fit-inner';frame.className='tool-frame';frame.title=state.name+' live preview';frame.tabIndex=-1;frame.setAttribute('sandbox','allow-scripts');frame.referrerPolicy='no-referrer';frame.style.pointerEvents='none';frame.src=withBase('/blueprint-source/op-art.html');
     state.layer=layer;state.inner=inner;state.frame=frame;state.initialized=false;state.rendered=false;state.generation++;state.thumb.toggleAttribute('data-interactive',Boolean(state.program.interactive));inner.append(frame);layer.append(inner);state.thumb.append(layer);ownedWindows.set(frame.contentWindow,state);fit(state);frame.addEventListener('load',()=>initialize(state),{once:true});
     state.timer=setTimeout(()=>{if(state.frame&&!state.rendered)fail(state,Error('The source renderer did not acknowledge a completed frame.'))},10000);
    }catch(error){fail(state,error)}finally{state.loading=false}

@@ -1,9 +1,10 @@
 import React,{useLayoutEffect,useRef,useState} from 'react';
+import {withBase} from './base.js';
 
 export function ConversionStudy({view='conversion-page'}){
  const frame=useRef(null);const observer=useRef(null);const [height,setHeight]=useState(900);
  useLayoutEffect(()=>()=>observer.current?.disconnect(),[]);
  const loaded=()=>{const doc=frame.current.contentDocument;doc.documentElement.style.overscrollBehaviorY='auto';doc.body.style.overscrollBehaviorY='auto';const measure=()=>{const app=doc.getElementById('app');const panels=[...doc.querySelectorAll('.cn-dropdown[open] > .cn-panel, .cn-mobile[open] > .cn-mobile-panel')];setHeight(Math.ceil(Math.max(app.getBoundingClientRect().height,...panels.map(panel=>panel.getBoundingClientRect().bottom+doc.documentElement.scrollTop+16))))};doc.fonts.ready.then(()=>{observer.current?.disconnect();observer.current=new ResizeObserver(measure);observer.current.observe(doc.body);doc.querySelectorAll('.cn-panel,.cn-mobile-panel').forEach(panel=>observer.current.observe(panel));doc.addEventListener('toggle',measure,true);measure()})};
- return <iframe ref={frame} onLoad={loaded} title={`Conversion ${view.replace('conversion-','')}`} src={`/conversion/index.html?part=${view.replace('conversion-','')}`} style={{display:'block',width:'100%',height,border:0,background:'#faf9f7'}}/>;
+ return <iframe ref={frame} onLoad={loaded} title={`Conversion ${view.replace('conversion-','')}`} src={withBase(`/conversion/index.html?part=${view.replace('conversion-','')}`)} style={{display:'block',width:'100%',height,border:0,background:'#faf9f7'}}/>;
 }
 export function ConversionNotes(){return <section className="article-section"><h2>Conversion: reference and limits</h2><p>The public homepage was inspected at desktop and mobile widths. Source fonts, logos, textures, video previews and platform illustration markup are retained locally. Platform demonstrations and security visuals show settled states. The closing canvas and privacy control are adaptations; agent messaging and the original application backend are not recreated.</p><p><a href="https://conversion.ai/" target="_blank" rel="noreferrer">View Conversion ↗</a> · Reference captures and asset provenance are retained with the project.</p></section>}

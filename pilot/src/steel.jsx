@@ -1,6 +1,8 @@
 import React,{useLayoutEffect,useRef,useState} from 'react';
-import source from './steel-source-parts.json';
-import mobileSource from './steel-mobile-parts.json';
+import sourceParts from './steel-source-parts.json';
+import mobileParts from './steel-mobile-parts.json';
+import {rebase,withBase} from './base.js';
+const source=rebase(sourceParts),mobileSource=rebase(mobileParts);
 
 // Source DOM is split into portable section fragments; fonts, tokens, and media stay shared.
 const styleObject=text=>Object.fromEntries((text||'').split(';').filter(Boolean).map(x=>{const i=x.indexOf(':');const key=x.slice(0,i).trim();return[key.startsWith('--')?key:key.replace(/-([a-z])/g,(_,c)=>c.toUpperCase()),x.slice(i+1).trim()]}));
@@ -42,9 +44,9 @@ export function SteelStudy({view='steel-page'}){
   document.documentElement.dataset.steelStudy='';
   if(new URLSearchParams(location.search).has('embed'))document.documentElement.dataset.steelEmbed='';
   document.body.className=source.body.class.join(' ');document.body.setAttribute('data-pastel-dark','');
-  const link=document.createElement('link');link.rel='stylesheet';link.href='/steel-source/source.css';link.onload=()=>setReady(true);document.head.append(link);
-  const tokens=document.createElement('link');tokens.rel='stylesheet';tokens.href='/steel-source/tokens.css';document.head.append(tokens);
-  const local=document.createElement('link');local.rel='stylesheet';local.href='/steel-source/layout.css';document.head.append(local);
+  const link=document.createElement('link');link.rel='stylesheet';link.href=withBase('/steel-source/source.css');link.onload=()=>setReady(true);document.head.append(link);
+  const tokens=document.createElement('link');tokens.rel='stylesheet';tokens.href=withBase('/steel-source/tokens.css');document.head.append(tokens);
+  const local=document.createElement('link');local.rel='stylesheet';local.href=withBase('/steel-source/layout.css');document.head.append(local);
   document.title='Steel — Design Library';
   const sizing=new ResizeObserver(()=>{setMobile(innerWidth<768);parent.postMessage({type:'steel-preview-height',height:document.body.scrollHeight},location.origin)});sizing.observe(document.body);
   return()=>sizing.disconnect();

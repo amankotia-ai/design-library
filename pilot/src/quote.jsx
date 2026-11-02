@@ -1,6 +1,7 @@
 import React from 'react';
 import {cn} from './utils';
 import {quoteContent,quoteReferenceContent} from './data';
+import {withBase} from './base.js';
 
 export function Quote({content,faithful=false,layout='portrait',id='perspective'}){
  const value=content||(faithful?quoteReferenceContent:quoteContent);
@@ -14,4 +15,4 @@ export function Quote({content,faithful=false,layout='portrait',id='perspective'
  </section>;
 }
 
-export function QuoteStudy(){return <main className="section-canvas"><Quote faithful/><aside className="study-disclosure">Reference reproduction / Bernardo Lickfold. Source quotation and names are reproduced as design-study content, not a verified endorsement. Fonts are substitutes. <a href="/?panel=sources">Source & limitations</a></aside></main>}
+export function QuoteStudy(){return <main className="section-canvas"><Quote faithful/><aside className="study-disclosure">Reference reproduction / Bernardo Lickfold. Source quotation and names are reproduced as design-study content, not a verified endorsement. Fonts are substitutes. <a href={withBase('/?panel=sources')}>Source & limitations</a></aside></main>}

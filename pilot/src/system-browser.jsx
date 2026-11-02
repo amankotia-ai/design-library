@@ -6,9 +6,10 @@ import {systemAnalysis} from './system-analysis';
 import {applyPreviewPalette} from './preview-palette';
 import './type-systems.css';
 import {PreviewSkeleton} from './library-loading';
+import {withBase} from './base.js';
 
 const pageFor = system => sections.find(section => section.systemId === system.id && section.id.endsWith('page')).id;
-const systemUrl = system => `/?panel=system&section=${pageFor(system)}`;
+const systemUrl = system => withBase(`/?panel=system&section=${pageFor(system)}`);
 const signalDefaults=Object.fromEntries(systemAnalysis.conare.palette.map(({name,value})=>[name,value]));
 
 export function PagePreview({pageId,name,systemId,interactive=false,palette}){
@@ -37,7 +38,7 @@ export function PagePreview({pageId,name,systemId,interactive=false,palette}){
    {!error&&<PreviewSkeleton revealing={loaded}/>}
    {interactive&&!loaded&&!error&&<span className="sr-only" role="status">Loading page preview</span>}
    {error&&<span className="preview-frame-error" role={interactive?"status":undefined}>Preview unavailable</span>}
-   {size.scale>0&&<iframe ref={frame} className={loaded?'preview-loaded':'preview-loading'} src={interactive&&pageId==='interfere-page'?'/interfere/page.html':interactive&&pageId==='conversion-page'?'/conversion/index.html?part=page':`/?view=${pageId}&embed=1${interactive&&systemId==='conare'?'&livePalette=1':''}`} title={`${name} page preview`} {...(!interactive?{inert:true,'aria-hidden':true,tabIndex:-1}:{inert:!loaded||undefined})} onError={()=>setError(true)} onLoad={e=>{const doc=e.currentTarget.contentDocument;if(!doc?.documentElement||!doc.body){setError(true);return}setError(false);setLoaded(true);if(paletteRef.current)applyPreviewPalette(doc,paletteRef.current,signalDefaults);if(interactive){doc.documentElement.style.overscrollBehaviorY='none';doc.body.style.overscrollBehaviorY='none'}}} loading="lazy" width="1440" height={size.height} style={{height:size.height,transform:`scale(${size.scale})`}}/>}
+   {size.scale>0&&<iframe ref={frame} className={loaded?'preview-loaded':'preview-loading'} src={interactive&&pageId==='interfere-page'?withBase('/interfere/page.html'):interactive&&pageId==='conversion-page'?withBase('/conversion/index.html?part=page'):withBase(`/?view=${pageId}&embed=1${interactive&&systemId==='conare'?'&livePalette=1':''}`)} title={`${name} page preview`} {...(!interactive?{inert:true,'aria-hidden':true,tabIndex:-1}:{inert:!loaded||undefined})} onError={()=>setError(true)} onLoad={e=>{const doc=e.currentTarget.contentDocument;if(!doc?.documentElement||!doc.body){setError(true);return}setError(false);setLoaded(true);if(paletteRef.current)applyPreviewPalette(doc,paletteRef.current,signalDefaults);if(interactive){doc.documentElement.style.overscrollBehaviorY='none';doc.body.style.overscrollBehaviorY='none'}}} loading="lazy" width="1440" height={size.height} style={{height:size.height,transform:`scale(${size.scale})`}}/>}
   </div>
  </div>
 }
@@ -109,7 +110,7 @@ export function SystemPanel({system}){
  const topics=[['overview','Overview'],['foundations','Foundations'],['patterns','Patterns'],['references','References']];
  return <main className="system-panel panel-heading system-detail">
   <div className="system-detail-intro">
-   <div className="detail-utility"><a className="back-to-systems" href="/?panel=systems">← All systems</a><button className="layout-grid-toggle" type="button" aria-pressed={showLayoutGrid} onClick={()=>setShowLayoutGrid(value=>!value)}>Grid</button></div>
+   <div className="detail-utility"><a className="back-to-systems" href={withBase('/?panel=systems')}>← All systems</a><button className="layout-grid-toggle" type="button" aria-pressed={showLayoutGrid} onClick={()=>setShowLayoutGrid(value=>!value)}>Grid</button></div>
    <h1>{system.name}</h1>
    <p className="system-signature">{system.signature}</p>
    <p className="system-description">{system.description}</p>
@@ -133,7 +134,7 @@ export function SystemPanel({system}){
    </section>
    <section className="detail-row" aria-labelledby="system-explore">
     <h2 id="system-explore" className="detail-label">Explore</h2>
-    <div className="detail-content"><a className="study-link" href={`/?panel=sections&system=${encodeURIComponent(system.id)}`}>Explore sections ↗</a><a className="study-link" href={`/?panel=pages&section=${pageFor(system)}`}>Preview the assembled page ↗</a></div>
+    <div className="detail-content"><a className="study-link" href={withBase(`/?panel=sections&system=${encodeURIComponent(system.id)}`)}>Explore sections ↗</a><a className="study-link" href={withBase(`/?panel=pages&section=${pageFor(system)}`)}>Preview the assembled page ↗</a></div>
    </section>
    </div>
    <div className="detail-topic-panel" id="topic-panel-foundations" role="region" aria-labelledby="topic-foundations" hidden={topic!=='foundations'}>
@@ -153,13 +154,13 @@ export function SystemPanel({system}){
    <div className="detail-topic-panel" id="topic-panel-patterns" role="region" aria-labelledby="topic-patterns" hidden={topic!=='patterns'}>
    <section className="detail-row" aria-labelledby="system-patterns">
     <h2 id="system-patterns" className="detail-label">How the language works</h2>
-    <div className="detail-content">{analysis?.patterns?<div className="system-patterns">{analysis.patterns.map(({title,body,image,alt,caption,portrait})=><article className="system-pattern" key={title}><h3>{title}</h3><p>{body}</p><figure className={portrait?"system-pattern-portrait":undefined}><img src={image} alt={alt} loading="lazy"/><figcaption>{caption}</figcaption></figure></article>)}</div>:<><ol className="detail-principles">{insight.principles.map(([title,body],i)=><li key={title}><span className="detail-number">{String(i+1).padStart(2,'0')}</span><div><h3>{title}</h3><p>{body}</p></div></li>)}</ol>{system.id==='editorial-01'&&<a className="study-link" href="/?panel=library&section=hero">Explore the adaptation & reveal its grid ↗</a>}</>}</div>
+    <div className="detail-content">{analysis?.patterns?<div className="system-patterns">{analysis.patterns.map(({title,body,image,alt,caption,portrait})=><article className="system-pattern" key={title}><h3>{title}</h3><p>{body}</p><figure className={portrait?"system-pattern-portrait":undefined}><img src={image} alt={alt} loading="lazy"/><figcaption>{caption}</figcaption></figure></article>)}</div>:<><ol className="detail-principles">{insight.principles.map(([title,body],i)=><li key={title}><span className="detail-number">{String(i+1).padStart(2,'0')}</span><div><h3>{title}</h3><p>{body}</p></div></li>)}</ol>{system.id==='editorial-01'&&<a className="study-link" href={withBase('/?panel=library&section=hero')}>Explore the adaptation & reveal its grid ↗</a>}</>}</div>
    </section>
    </div>
    <div className="detail-topic-panel" id="topic-panel-references" role="region" aria-labelledby="topic-references" hidden={topic!=='references'}>
    <section className="detail-row detail-evidence" aria-labelledby="system-evidence">
     <h2 id="system-evidence" className="detail-label">References & attribution</h2>
-    <div className="detail-content"><p>{insight.evidence}</p><p>{insight.relationship}</p>{analysis?.references&&<ul className="system-references">{analysis.references.map(ref=><li key={ref.name}><a href={ref.url} target="_blank" rel="noreferrer">{ref.name} ↗</a><a href={ref.capture} target="_blank" rel="noreferrer">View capture ↗</a></li>)}</ul>}<a className="study-link" href={`/?panel=sources&section=${pageFor(system)}`}>View all references ↗</a></div>
+    <div className="detail-content"><p>{insight.evidence}</p><p>{insight.relationship}</p>{analysis?.references&&<ul className="system-references">{analysis.references.map(ref=><li key={ref.name}><a href={ref.url} target="_blank" rel="noreferrer">{ref.name} ↗</a><a href={ref.capture} target="_blank" rel="noreferrer">View capture ↗</a></li>)}</ul>}<a className="study-link" href={withBase(`/?panel=sources&section=${pageFor(system)}`)}>View all references ↗</a></div>
    </section>
    </div>
   </div>

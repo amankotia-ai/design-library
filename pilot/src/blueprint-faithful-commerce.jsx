@@ -1,6 +1,8 @@
 import {SourceFaqItems} from './blueprint-faithful-motion';
 import React,{useState,useEffect,useRef} from 'react';
-import parts from './blueprint-source-parts.json';
+import sourceParts from './blueprint-source-parts.json';
+import {rebase,withBase} from './base.js';
+const parts=rebase(sourceParts);
 
 // Source markup is retained as declarative section content. React owns the visible
 // controls and state; no source application bundle, account code or analytics runs.
@@ -14,7 +16,7 @@ function elementByClass(html,tag,className){
 }
 function inner(html){return html.slice(html.indexOf('>')+1,html.lastIndexOf('</'))}
 function contents(html,tag,className){return inner(elementByClass(html,tag,className))}
-function pageLinks(html,pageHref){return clean(html).replace(/href="([^"]*)"/g,(_,href)=>{let url=href;if(href==='https://blueprint.page/welcome')url=pageHref;else if(href.startsWith('https://blueprint.page/welcome#'))url=pageHref+href.slice('https://blueprint.page/welcome'.length);else if(href==='/welcome')url=pageHref;else if(href.startsWith('/welcome#'))url=pageHref+href.slice(8);else if(href.startsWith('/')&&!href.startsWith('//')&&!href.startsWith('/?view='))url='https://blueprint.page'+href;return 'href="'+url+'"'})}
+function pageLinks(html,pageHref){return clean(html).replace(/href="([^"]*)"/g,(_,href)=>{let url=href;if(href==='https://blueprint.page/welcome')url=pageHref;else if(href.startsWith('https://blueprint.page/welcome#'))url=pageHref+href.slice('https://blueprint.page/welcome'.length);else if(href==='/welcome')url=pageHref;else if(href.startsWith('/welcome#'))url=pageHref+href.slice(8);else if(href.startsWith('/')&&!href.startsWith('//')&&!href.startsWith(withBase('/?view=')))url='https://blueprint.page'+href;return 'href="'+url+'"'})}
 function Markup({html,onClick}){return <div style={{display:'contents'}} onClick={onClick} dangerouslySetInnerHTML={{__html:html}}/>}
 const compareChevron=<svg viewBox="0 0 16 16" width="12" height="12" aria-hidden="true"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"/></svg>;
 
@@ -22,8 +24,8 @@ export function SourcePricing(){
  const [period,setPeriod]=useState('year');const [expanded,setExpanded]=useState(false);
  const source=clean(period==='month'?(parts.pricingMonthly||parts.pricing):parts.pricing);
  const header=contents(source,'div','s-head');
- const plans=pageLinks(contents(source,'div','plans'),'/?view=blueprint-page');
- const free=pageLinks(contents(source,'div','plan-free'),'/?view=blueprint-page');
+ const plans=pageLinks(contents(source,'div','plans'),withBase('/?view=blueprint-page'));
+ const free=pageLinks(contents(source,'div','plan-free'),withBase('/?view=blueprint-page'));
  const facts=contents(source,'ul','pricing-facts');
  const comparison=contents(contents(source,'div','pricing-compare'),'div','pc-body');
  return <section className="l-section" id="pricing"><div className="l-wrap">
@@ -36,7 +38,7 @@ export function SourcePricing(){
    <div className="plans" dangerouslySetInnerHTML={{__html:plans}}/>
    <div className="plan-free" dangerouslySetInnerHTML={{__html:free}}/>
    <div className="pricing-meta"><ul className="pricing-facts" dangerouslySetInnerHTML={{__html:facts}}/><button type="button" className="pricing-compare-btn" aria-expanded={expanded} aria-controls="compare-plans" onClick={()=>setExpanded(v=>!v)}>{expanded?'Hide comparison':'Compare all plans'}{compareChevron}</button></div>
-   <div className="pricing-compare" id="compare-plans" data-open={expanded?'':undefined} inert={!expanded}><div><div className="pc-body" dangerouslySetInnerHTML={{__html:pageLinks(comparison,'/?view=blueprint-page')}}/></div></div>
+   <div className="pricing-compare" id="compare-plans" data-open={expanded?'':undefined} inert={!expanded}><div><div className="pc-body" dangerouslySetInnerHTML={{__html:pageLinks(comparison,withBase('/?view=blueprint-page'))}}/></div></div>
   </div>
  </div></section>
 }
@@ -60,7 +62,7 @@ export function SourceFinal({examplePrompt=parts.finalPrompt||''}){
  return <section className="l-final" aria-labelledby="final-title"><div className="ft" aria-hidden="true"><canvas className="ft-canvas"/></div><div className="l-wrap"><div className="final-stage"><div className="final-card"><h2 id="final-title">What tool do you need?</h2><p className="l-final-sub">Describe it in a sentence. Your first tool is free.</p><form ref={ref} className="cta-form" aria-busy={sending} action="https://blueprint.page/new" method="get" onSubmit={e=>{if(sending||!valid)e.preventDefault();else setSending(true)}}><label className="sr-only" htmlFor="cta-prompt">Describe the tool you need</label><input type="hidden" name="prompt" value={prompt}/><div className="cta-box"><textarea id="cta-prompt" rows="2" maxLength="500" readOnly={sending} aria-live="off" aria-describedby={ghost?'cta-hint':undefined} value={displayed} placeholder={ghost?undefined:'Describe the tool you need…'} onFocus={()=>{setFocused(true);if(ghost)setClock(c=>({...c,shown:sample.length}))}} onBlur={()=>setFocused(false)} onChange={e=>setUser(e.target.value)} onKeyDown={e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();if(valid)e.currentTarget.form?.requestSubmit()}}}/><button type="submit" className="cta-send" aria-label={sending?'Creating your tool':'Create the tool'} disabled={!valid} data-sending={sending||undefined}>{sending?<span className="send-spinner" aria-hidden="true"/>:<svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d="M8 13V3M3.5 7.5L8 3l4.5 4.5"/></svg>}</button></div>{ghost&&<p id="cta-hint" className="sr-only">The field shows example requests. Send one as it is, or type your own.</p>}<p className="cta-status" aria-live="polite">{sending?'Creating your tool…':''}</p></form></div></div></div></section>
 }
 
-export function SourceFooter({pageHref='/?view=blueprint-page',onFeedback}){
+export function SourceFooter({pageHref=withBase('/?view=blueprint-page'),onFeedback}){
  function handleClick(event){const button=event.target.closest?.('button.sf-link');if(!button)return;if(onFeedback){onFeedback();return}location.href='https://blueprint.page/support'}
  return <footer className="sf" onClick={handleClick} dangerouslySetInnerHTML={{__html:inner(pageLinks(parts.footer,pageHref))}}/>;
 }

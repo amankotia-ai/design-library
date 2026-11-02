@@ -64,4 +64,4 @@ The detailed Conare evaluations fidelity correction, including the shared Produc
 
 ## GitHub Pages deployment
 
-The site is built from `pilot/` and published at https://amankotia-ai.github.io/ by `.github/workflows/pages.yml`. Pushes to `main` run `npm ci`, build the Vite app, and deploy `pilot/dist` through GitHub Pages. The site uses root-relative URLs and is configured for the account's root Pages domain.
+The site is built from `pilot/` by `.github/workflows/pages.yml`. Pushes to `main` run `npm ci`, build the Vite app, and deploy `pilot/dist` through GitHub Pages. It is served from the `/design-library/` subpath (https://amankotia-ai.github.io/design-library/ once the repository is named `design-library`). `pilot/vite.config.js` sets that `base`; app code resolves public paths and in-app links with `withBase` and `rebase` from `pilot/src/base.js`, and files inside `pilot/public/` reference each other with relative paths. See `docs/runs/2026-11-02-subpath-base.md`.

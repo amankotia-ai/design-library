@@ -1,7 +1,8 @@
 import React,{useState} from 'react';
 import './mnh-tokens.css';
 import './mnh.css';
-const asset=(id,ext)=>`/assets/mnh/${id}.${ext}`;
+import {withBase} from './base.js';
+const asset=(id,ext)=>withBase(`/assets/mnh/${id}.${ext}`);
 const source='https://www.mnh.vc';
 const portfolio=[
  ['CoreWeave','AI/ML','Active',"CoreWeave is a accelerated cloud provider, delivering a massive scale of GPUs on top of the industry's fastest and most flexible infrastructure.",'2023','',asset(2,'jpeg'),'https://www.coreweave.com/'],

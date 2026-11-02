@@ -5,7 +5,7 @@ import {pageShells} from '../src/page-shells.js';
 
 const require=createRequire(import.meta.url);
 const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'/Users/abhishekmankotia/.codex/skills/product-screen-compositions/node_modules/playwright');
-const base=process.env.PREVIEW_URL||'http://127.0.0.1:5175';
+const base=process.env.PREVIEW_URL||'http://127.0.0.1:5175/design-library';
 const output=new URL('../public/previews/pages/',import.meta.url);
 fs.mkdirSync(output,{recursive:true});
 const browser=await chromium.launch({headless:true});

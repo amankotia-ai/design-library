@@ -1,4 +1,4 @@
-const asset='/assets/conversion/';
+const asset='../assets/conversion/';
 const button=(text='Book a demo',outline=false,href='https://conversion.ai/demo/')=>`<a class="cv-button ${outline?'cv-outline':''}" href="${href}" target="_blank" rel="noreferrer">${text} ↗</a>`;
 const nav=window.conversionNav;
 const hero=`<section class="cv-hero"><h1><span>The agentic marketing</span><br>automation platform</h1><p>Built for MOps teams replacing Marketo, Pardot, and HubSpot. Unify CRM and warehouse data, hand the repetitive work to AI agents, and ship campaigns in hours instead of weeks.</p>${button()}</section><div class="cv-product"><video class="cv-loop" muted loop playsinline preload="none" poster="${asset}438d335a57e82a34.webp" aria-label="Conversion product demo showing an agent building a campaign"><source src="${asset}agents-demo.mp4" type="video/mp4"></video></div>`;

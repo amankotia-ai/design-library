@@ -1,12 +1,14 @@
 import {SourceFeatureMosaic} from './blueprint-faithful-motion';
 import React,{useLayoutEffect,useMemo,useRef} from 'react';
-import parts from './blueprint-source-parts.json';
+import sourceParts from './blueprint-source-parts.json';
 import {useSourceGalleryPreviews} from './blueprint-faithful-gallery';
+import {rebase,withBase} from './base.js';
+const parts=rebase(sourceParts);
 
 // reference reconstruction markup and public assets are preserved with attribution in the
 // intake manifest. These functions retain reusable section boundaries while the
 // reconstructed page supplies local behavior rather than the source Next app.
-const defaultPageHref='/?view=blueprint-page';
+const defaultPageHref=withBase('/?view=blueprint-page');
 function safeMarkup(html){return html.replace(/action="javascript:[^"]*"/g,'action="https://blueprint.page/login"')}
 function followSectionLink(event,pageHref){
  const anchor=event.target.closest?.('a[href]');if(!anchor)return;

@@ -1,5 +1,7 @@
 import React,{useEffect,useMemo,useRef} from 'react';
-import parts from './blueprint-source-parts.json';
+import sourceParts from './blueprint-source-parts.json';
+import {rebase,withBase} from './base.js';
+const parts=rebase(sourceParts);
 
 // The source's declarative editor chrome is kept intact. This adapter reconnects
 // its native controls to the recovered, sandboxed public rendering bridge.
@@ -44,7 +46,7 @@ export function SourceEditor({allowSvgSnapshot=false}){
   if(allowSvgSnapshot){const row=document.createElement('div');row.className='xp-line';row.innerHTML='<span class="xp-name">SVG</span><span class="xp-px">Raster snapshot</span><button class="xp-act" type="button" aria-label="Download SVG snapshot" title="Download SVG snapshot">↓</button>';editor.querySelector('.export .xp')?.append(row);on(row.querySelector('button'),'click',()=>exportImage('svg'))}
   const form=editor.querySelector('form.composer'),prompt=form?.querySelector('textarea');if(form){form.action='https://blueprint.page/new';form.target='_blank';on(prompt,'input',()=>{form.querySelector('button.send').disabled=!prompt.value.trim()})}
   const controller=new AbortController();
-  fetch('/blueprint-source/op-art-program.json',{signal:controller.signal}).then(r=>{if(!r.ok)throw Error('The source program could not load.');return r.json()}).then(data=>{
+  fetch(withBase('/blueprint-source/op-art-program.json'),{signal:controller.signal}).then(r=>{if(!r.ok)throw Error('The source program could not load.');return r.json()}).then(data=>{
    if(disposed)return;program=data;for(const section of program.spec.sections)for(const c of section.controls)if(c.default!==undefined)params[c.key]=c.default;Object.assign(params,program.start,{thickness:.4});
    const controls=program.spec.sections.flatMap(s=>s.controls);
    for(const visual of [...editor.querySelectorAll('.dialkit-slider[aria-label]')]){const control=controls.find(c=>c.label===visual.getAttribute('aria-label'));if(!control)continue;const input=document.createElement('input');input.type='range';input.min=control.min??0;input.max=control.max??9999;input.step=control.step??1;input.setAttribute('aria-label',control.label);Object.assign(input.style,{position:'absolute',inset:'0',width:'100%',height:'100%',margin:'0',opacity:'0',cursor:'ew-resize'});visual.style.position='relative';visual.removeAttribute('role');visual.removeAttribute('tabindex');for(const a of ['aria-label','aria-valuemin','aria-valuemax','aria-valuenow','aria-valuetext'])visual.removeAttribute(a);visual.append(input);focusRing(input);ranges.set(control.key,{input,visual,control});on(input,'input',()=>setParams({[control.key]:Number(input.value)}));}
