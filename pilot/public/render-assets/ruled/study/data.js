@@ -1,0 +1,1138 @@
+const references = [
+  {
+    "id": "2115056287679680754",
+    "text": "Mobile product page for D&D",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2115056270713470976",
+        "url": "https://pbs.twimg.com/media/HVoweN_WwAA17OM.jpg?name=orig",
+        "width": 2160,
+        "height": 2160,
+        "local": "assets/ref-01-1.webp"
+      }
+    ],
+    "date": "Tue Oct 27 12:21:29 +0000 2026",
+    "number": 1,
+    "title": "The product, then the detail",
+    "kind": "mobile",
+    "recipe": "product",
+    "summary": "A full-height fashion image gives way to compact product information.",
+    "observation": "The header aligns menu, wordmark and cart across one row. The gallery stays almost edge-to-edge; title, size options and disclosures share its left edge.",
+    "transfer": "Use a large gallery, a narrow information stack, and a full-width purchase action. On desktop, place details beside the gallery.",
+    "url": "https://x.com/berlickfold/status/2115056287679680754",
+    "gridStudy": false
+  },
+  {
+    "id": "2066995304939868611",
+    "text": "mobile screens",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2066994979415670784",
+        "url": "https://pbs.twimg.com/media/HK9w-3yWQAAYMgD.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-02-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2066994979382214656",
+        "url": "https://pbs.twimg.com/media/HK9w-3qXwAAtz7F.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-02-2.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2066994979403104256",
+        "url": "https://pbs.twimg.com/media/HK9w-3vWgAA7Yb_.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-02-3.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2066994979390599168",
+        "url": "https://pbs.twimg.com/media/HK9w-3sXsAA3l6s.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-02-4.webp"
+      }
+    ],
+    "date": "Tue Jun 16 21:24:18 +0000 2026",
+    "number": 2,
+    "title": "Four mobile archetypes",
+    "kind": "mobile",
+    "recipe": "index",
+    "summary": "Commerce, type, portraiture and an image index share a restrained frame.",
+    "observation": "The four screens vary their content dramatically while keeping tiny utility headers and consistent outer edges. The image index uses two columns and captions below.",
+    "transfer": "Keep the frame stable. Change the main composition to suit the content rather than forcing every screen into the same template.",
+    "url": "https://x.com/berlickfold/status/2066995304939868611",
+    "gridStudy": false
+  },
+  {
+    "id": "2065123510649840058",
+    "text": "continuing to hit the claude 4.8 token limit exploring the project modal.",
+    "media": [
+      {
+        "id": "2065123409080541184",
+        "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/3038x2160/OMQG71TijXMOOQED.mp4?tag=27",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2065123409080541184/img/X6GlXyPI7Af3cLSc.jpg",
+        "duration": 7.32,
+        "width": 3044,
+        "height": 2164,
+        "format": "video/mp4",
+        "type": "video",
+        "formats": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/pl/7PNQOUzAkNb35x7K.m3u8?tag=27",
+            "container": "m3u8"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/378x270/FVuhgzQ2ZosbOoWp.mp4?tag=27",
+            "bitrate": 256000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/506x360/MOkWxtyg9WkvxQJm.mp4?tag=27",
+            "bitrate": 832000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/1012x720/SLA2NknmnYVdVudT.mp4?tag=27",
+            "bitrate": 2176000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/1518x1080/i8LkTkFq0xjHS5JC.mp4?tag=27",
+            "bitrate": 10368000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/3038x2160/OMQG71TijXMOOQED.mp4?tag=27",
+            "bitrate": 25128000,
+            "container": "mp4",
+            "codec": "h264"
+          }
+        ],
+        "publisher": null,
+        "variants": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/pl/7PNQOUzAkNb35x7K.m3u8?tag=27",
+            "bitrate": 0,
+            "content_type": "application/x-mpegURL"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/378x270/FVuhgzQ2ZosbOoWp.mp4?tag=27",
+            "bitrate": 256000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/506x360/MOkWxtyg9WkvxQJm.mp4?tag=27",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/1012x720/SLA2NknmnYVdVudT.mp4?tag=27",
+            "bitrate": 2176000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/1518x1080/i8LkTkFq0xjHS5JC.mp4?tag=27",
+            "bitrate": 10368000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2065123409080541184/vid/avc1/3038x2160/OMQG71TijXMOOQED.mp4?tag=27",
+            "bitrate": 25128000,
+            "content_type": "video/mp4"
+          }
+        ],
+        "local": "assets/ref-03-1.webp",
+        "video": "assets/video-3.mp4"
+      }
+    ],
+    "date": "Thu Jun 11 17:26:27 +0000 2026",
+    "number": 3,
+    "title": "An index becomes a project",
+    "kind": "desktop",
+    "recipe": "index",
+    "summary": "A wide image catalogue opens into a narrow project panel.",
+    "observation": "The video moves from a multi-column image index to a central detail surface while the surrounding index fades. The panel carries copy, metadata and images in sequence.",
+    "transfer": "Use an index for scanning and a focused detail view for reading. Keep the underlying context visible without competing with the open project.",
+    "url": "https://x.com/berlickfold/status/2065123510649840058",
+    "gridStudy": false
+  },
+  {
+    "id": "2060045411218292827",
+    "text": "shots in a real layout.\n\nworkflow:\nFlora → Figma → Jitter",
+    "media": [
+      {
+        "id": "2060045001443188738",
+        "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/1730x1730/gQ7oJmxqjrVrHNdf.mp4?tag=27",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2060045001443188738/img/cSHkc-1fdLZ8xtde.jpg",
+        "duration": 3.972,
+        "width": 1730,
+        "height": 1730,
+        "format": "video/mp4",
+        "type": "video",
+        "formats": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/pl/babtcj3Ed6Br6ksb.m3u8?tag=27",
+            "container": "m3u8"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/320x320/2LTZFliZmzWHsT2d.mp4?tag=27",
+            "bitrate": 432000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/540x540/WaUzXRo_VwXgTOfM.mp4?tag=27",
+            "bitrate": 832000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/720x720/AlkfFLeEjwM5X6_n.mp4?tag=27",
+            "bitrate": 1280000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/1080x1080/09kMjzHGBUoHjsei.mp4?tag=27",
+            "bitrate": 8768000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/1730x1730/gQ7oJmxqjrVrHNdf.mp4?tag=27",
+            "bitrate": 25128000,
+            "container": "mp4",
+            "codec": "h264"
+          }
+        ],
+        "publisher": null,
+        "variants": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/pl/babtcj3Ed6Br6ksb.m3u8?tag=27",
+            "bitrate": 0,
+            "content_type": "application/x-mpegURL"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/320x320/2LTZFliZmzWHsT2d.mp4?tag=27",
+            "bitrate": 432000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/540x540/WaUzXRo_VwXgTOfM.mp4?tag=27",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/720x720/AlkfFLeEjwM5X6_n.mp4?tag=27",
+            "bitrate": 1280000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/1080x1080/09kMjzHGBUoHjsei.mp4?tag=27",
+            "bitrate": 8768000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2060045001443188738/vid/avc1/1730x1730/gQ7oJmxqjrVrHNdf.mp4?tag=27",
+            "bitrate": 25128000,
+            "content_type": "video/mp4"
+          }
+        ],
+        "local": "assets/ref-04-1.webp",
+        "video": "assets/video-4.mp4"
+      }
+    ],
+    "date": "Thu May 28 17:07:54 +0000 2026",
+    "number": 4,
+    "title": "A quiet product sequence",
+    "kind": "mobile",
+    "recipe": "product",
+    "summary": "Flat lay, full figure, and close crop occupy the same image window.",
+    "observation": "The video changes the product image while the text, size row and dark bottom action remain stable. The visual rhythm comes from image continuity.",
+    "transfer": "Keep the product structure steady while customers explore different image scales. Avoid moving the purchase action with every image.",
+    "url": "https://x.com/berlickfold/status/2060045411218292827",
+    "gridStudy": false
+  },
+  {
+    "id": "2058538679258198499",
+    "text": "weekly recap",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2058538551759753216",
+        "url": "https://pbs.twimg.com/media/HJFl5_4WUAAG1AM.jpg?name=orig",
+        "width": 2880,
+        "height": 1855,
+        "local": "assets/ref-05-1.webp"
+      },
+      {
+        "id": "2058538551772319744",
+        "url": "https://video.twimg.com/amplify_video/2058538551772319744/vid/avc1/2482x1374/-5ctfpKWfBMVIF_2.mp4?tag=27",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2058538551772319744/img/YBa7I6S-GzUUGgl2.jpg",
+        "duration": 9.469,
+        "width": 2482,
+        "height": 1374,
+        "format": "video/mp4",
+        "type": "video",
+        "formats": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/pl/kFtpKEESf22fc9NN.m3u8?tag=27",
+            "container": "m3u8"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/vid/avc1/486x270/a7-oLyYAf5tXSNJl.mp4?tag=27",
+            "bitrate": 256000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/vid/avc1/650x360/vBHbkBXYqaQTc-0g.mp4?tag=27",
+            "bitrate": 832000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/vid/avc1/1300x720/LUTqVZb12QwK4gUB.mp4?tag=27",
+            "bitrate": 2176000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/vid/avc1/2482x1374/-5ctfpKWfBMVIF_2.mp4?tag=27",
+            "bitrate": 10368000,
+            "container": "mp4",
+            "codec": "h264"
+          }
+        ],
+        "publisher": null,
+        "variants": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/pl/kFtpKEESf22fc9NN.m3u8?tag=27",
+            "bitrate": 0,
+            "content_type": "application/x-mpegURL"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/vid/avc1/486x270/a7-oLyYAf5tXSNJl.mp4?tag=27",
+            "bitrate": 256000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/vid/avc1/650x360/vBHbkBXYqaQTc-0g.mp4?tag=27",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/vid/avc1/1300x720/LUTqVZb12QwK4gUB.mp4?tag=27",
+            "bitrate": 2176000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2058538551772319744/vid/avc1/2482x1374/-5ctfpKWfBMVIF_2.mp4?tag=27",
+            "bitrate": 10368000,
+            "content_type": "video/mp4"
+          }
+        ],
+        "local": "assets/ref-05-2.webp",
+        "video": "assets/video-5.mp4"
+      },
+      {
+        "type": "photo",
+        "id": "2058538551696826368",
+        "url": "https://pbs.twimg.com/media/HJFl5_pWIAA8_jO.jpg?name=orig",
+        "width": 4096,
+        "height": 2276,
+        "local": "assets/ref-05-3.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2058538551705272320",
+        "url": "https://pbs.twimg.com/media/HJFl5_rXAAALWMm.jpg?name=orig",
+        "width": 2880,
+        "height": 1600,
+        "local": "assets/ref-05-4.webp"
+      }
+    ],
+    "date": "Sun May 24 13:20:41 +0000 2026",
+    "number": 5,
+    "title": "One week, several scales",
+    "kind": "mixed",
+    "recipe": "campaign",
+    "summary": "An index modal, dark campaign, fashion hero and product page.",
+    "observation": "The collection moves between near-white editorial space and an almost black artifact campaign. The fashion product gallery uses equal image cells above an offset details block.",
+    "transfer": "Share edge alignment and hierarchy across a collection; let image subject and surface determine the mood.",
+    "url": "https://x.com/berlickfold/status/2058538679258198499",
+    "gridStudy": false
+  },
+  {
+    "id": "2058135931123568998",
+    "text": "mobile layouts",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2058135681336020992",
+        "url": "https://pbs.twimg.com/media/HI_3f2mXEAAGd-3.jpg?name=orig",
+        "width": 2160,
+        "height": 2160,
+        "local": "assets/ref-06-1.webp"
+      }
+    ],
+    "date": "Sat May 23 10:40:18 +0000 2026",
+    "number": 6,
+    "title": "Campaign into commerce",
+    "kind": "mobile",
+    "recipe": "product",
+    "summary": "An image-led collection page pairs with a restrained product screen.",
+    "observation": "A close portrait fills most of the campaign viewport. Its small label sits at the lower edge; the product screen switches to a neutral flat lay and compact copy.",
+    "transfer": "Let campaign and product pages play different roles. Carry typography and outer margins between them.",
+    "url": "https://x.com/berlickfold/status/2058135931123568998",
+    "gridStudy": false
+  },
+  {
+    "id": "2055682704847327527",
+    "text": "Mobile screens",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2055682554548633601",
+        "url": "https://pbs.twimg.com/media/HIdAZFLWwAEz-8v.jpg?name=orig",
+        "width": 2160,
+        "height": 2160,
+        "local": "assets/ref-07-1.webp"
+      }
+    ],
+    "date": "Sat May 16 16:12:04 +0000 2026",
+    "number": 7,
+    "title": "Catalogue and project panel",
+    "kind": "mobile",
+    "recipe": "index",
+    "summary": "A two-column catalogue is paired with an open project detail.",
+    "observation": "Even at mobile width the catalogue retains pairs of portrait images. The project panel uses a paragraph, a short metadata table, then stacked project imagery.",
+    "transfer": "Preserve two columns when thumbnails are the primary browsing task. Switch to a single reading sequence inside a project.",
+    "url": "https://x.com/berlickfold/status/2055682704847327527",
+    "gridStudy": false
+  },
+  {
+    "id": "2052771347961426131",
+    "text": "Desktop version.",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2052771317624053768",
+        "url": "https://pbs.twimg.com/media/HHzooygXoAg-Zkb.jpg?name=orig",
+        "width": 3044,
+        "height": 2164,
+        "local": "assets/ref-08-1.webp"
+      }
+    ],
+    "date": "Fri May 08 15:23:22 +0000 2026",
+    "number": 8,
+    "title": "Portraits on a long rail",
+    "kind": "desktop",
+    "recipe": "editorial",
+    "summary": "A narrow text column sits beside a large portrait and detail crops.",
+    "observation": "The paragraph and metadata form a left-hand rail. A face, hands and partial torso align on the same top and bottom edges with very small seams between them.",
+    "transfer": "Use a 4/8 desktop split as a starting point. Keep related photos on a common height and crop instead of adding different card treatments.",
+    "url": "https://x.com/berlickfold/status/2052771347961426131",
+    "gridStudy": false
+  },
+  {
+    "id": "2049876087589536097",
+    "text": "mobile layout",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2049876077175070720",
+        "url": "https://pbs.twimg.com/media/HHKfbnWXYAA_MEy.jpg?name=orig",
+        "width": 2048,
+        "height": 2048,
+        "local": "assets/ref-09-1.webp"
+      }
+    ],
+    "date": "Thu Apr 30 15:38:38 +0000 2026",
+    "number": 9,
+    "title": "The deliberate offset",
+    "kind": "mobile",
+    "recipe": "editorial",
+    "summary": "A paragraph begins away from the left edge, with a detail image below.",
+    "observation": "The logo anchors the top-left corner. The paragraph occupies the right side of the page; an intentional empty band separates it from a smaller image at the bottom.",
+    "transfer": "Reserve the first column as breathing room. Keep useful reading width and let the image form a second, quieter anchor.",
+    "url": "https://x.com/berlickfold/status/2049876087589536097",
+    "gridStudy": false
+  },
+  {
+    "id": "2050639736264421598",
+    "text": "Mobile collection",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2050639730442731520",
+        "url": "https://pbs.twimg.com/media/HHVV-FdXgAAISyF.jpg?name=orig",
+        "width": 1024,
+        "height": 1024,
+        "local": "assets/ref-10-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2050639730467840000",
+        "url": "https://pbs.twimg.com/media/HHVV-FjWoAAZMm9.jpg?name=orig",
+        "width": 1024,
+        "height": 1024,
+        "local": "assets/ref-10-2.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2050639730551701504",
+        "url": "https://pbs.twimg.com/media/HHVV-F3WQAAHDI0.jpg?name=orig",
+        "width": 1024,
+        "height": 1024,
+        "local": "assets/ref-10-3.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2050639730451034112",
+        "url": "https://pbs.twimg.com/media/HHVV-FfWMAAhwEB.jpg?name=orig",
+        "width": 1024,
+        "height": 1024,
+        "local": "assets/ref-10-4.webp"
+      }
+    ],
+    "date": "Sat May 02 18:13:06 +0000 2026",
+    "number": 10,
+    "title": "Four voices, one frame",
+    "kind": "mobile",
+    "recipe": "editorial",
+    "summary": "Travel, a helmet study, portrait detail and fragrance in mobile form.",
+    "observation": "The travel page pairs two landscape crops above text and metadata. The helmet page starts with an oversized image; the portrait page starts with offset text; the fragrance page includes a thumbnail rail.",
+    "transfer": "Choose image-first, text-first or image-pair based on the story. Consistent edges can connect very different subject matter.",
+    "url": "https://x.com/berlickfold/status/2050639736264421598",
+    "gridStudy": false
+  },
+  {
+    "id": "2050308042336399812",
+    "text": "The grid.",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2050308036703449089",
+        "url": "https://pbs.twimg.com/media/HHQoS9_WcAEerir.jpg?name=orig",
+        "width": 2048,
+        "height": 2048,
+        "local": "assets/ref-11-1.webp"
+      }
+    ],
+    "date": "Fri May 01 20:15:04 +0000 2026",
+    "number": 11,
+    "title": "The grid made visible",
+    "kind": "mobile",
+    "recipe": "editorial",
+    "summary": "A four-column overlay explains the asymmetric mobile composition.",
+    "observation": "Four vertical columns are visibly marked. The paragraph begins at the second column and spans the remaining three. Horizontal guides frame the header, middle division and lower page.",
+    "transfer": "Start with four columns on mobile. Use a one-column offset for short text. Our pixel margins and gutters are inferred demo choices, not measured source CSS.",
+    "url": "https://x.com/berlickfold/status/2050308042336399812",
+    "gridStudy": true
+  },
+  {
+    "id": "2048107111779905861",
+    "text": "desktop layout",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2048107097108475904",
+        "url": "https://pbs.twimg.com/media/HGxWjbEbcAA3dHU.jpg?name=orig",
+        "width": 3044,
+        "height": 2164,
+        "local": "assets/ref-12-1.webp"
+      }
+    ],
+    "date": "Sat Apr 25 18:29:22 +0000 2026",
+    "number": 12,
+    "title": "An image holds half the page",
+    "kind": "desktop",
+    "recipe": "campaign",
+    "summary": "A small text block balances a large helmet portrait.",
+    "observation": "The helmet photograph occupies the right-hand portion, with the subject turned inward. Small navigation and a compact text block leave much of the left side open.",
+    "transfer": "Give the image a decisive area rather than surrounding it with equal cards. Align a small text anchor to the opposite half.",
+    "url": "https://x.com/berlickfold/status/2048107111779905861",
+    "gridStudy": false
+  },
+  {
+    "id": "2047746191664746724",
+    "text": "Ending the day with a mobile layout exploration!",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2047745309971718144",
+        "url": "https://pbs.twimg.com/media/HGsNgo9WIAAabXA.jpg?name=orig",
+        "width": 2160,
+        "height": 2160,
+        "local": "assets/ref-13-1.webp"
+      }
+    ],
+    "date": "Fri Apr 24 18:35:12 +0000 2026",
+    "number": 13,
+    "title": "The mobile order changes",
+    "kind": "mobile",
+    "recipe": "campaign",
+    "summary": "The helmet portrait moves above a narrow block of project copy.",
+    "observation": "The desktop side-by-side hierarchy becomes a vertical sequence: header, large image, signature mark, then text. A small vertical annotation occupies the lower right edge.",
+    "transfer": "Recompose for a narrow viewport. Put the strongest visual first, then make the supporting text comfortable to read.",
+    "url": "https://x.com/berlickfold/status/2047746191664746724",
+    "gridStudy": false
+  },
+  {
+    "id": "2041500182718615586",
+    "text": "Favorites from March",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2041500144861171712",
+        "url": "https://pbs.twimg.com/media/HFTdkL9b0AA8nqz.jpg?name=orig",
+        "width": 4096,
+        "height": 2368,
+        "local": "assets/ref-14-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2041500144852697089",
+        "url": "https://pbs.twimg.com/media/HFTdkL7agAEEXHd.jpg?name=orig",
+        "width": 4096,
+        "height": 2368,
+        "local": "assets/ref-14-2.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2041500145276379136",
+        "url": "https://pbs.twimg.com/media/HFTdkNgbYAAa40D.jpg?name=orig",
+        "width": 4096,
+        "height": 2368,
+        "local": "assets/ref-14-3.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2041500144701452288",
+        "url": "https://pbs.twimg.com/media/HFTdkLXWsAAXLXz.jpg?name=orig",
+        "width": 4096,
+        "height": 2368,
+        "local": "assets/ref-14-4.webp"
+      }
+    ],
+    "date": "Tue Apr 07 12:55:47 +0000 2026",
+    "number": 14,
+    "title": "A collection of compositions",
+    "kind": "mixed",
+    "recipe": "campaign",
+    "summary": "Travel, landscapes, island screens and architecture share image-led layouts.",
+    "observation": "A travel photo carries a white caption panel at the lower edge. Another project combines a narrow information rail with landscape panels; mobile island screens give photography most of the available area.",
+    "transfer": "Use inset labels when an image needs to remain immersive. Move supporting information into its own rail when reading becomes the main task.",
+    "url": "https://x.com/berlickfold/status/2041500182718615586",
+    "gridStudy": false
+  },
+  {
+    "id": "2036083290709299473",
+    "text": "Desktop explorations for project pages.\nReally enjoying working with grids, strong imagery, and plenty of whitespace.",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2036083188058243072",
+        "url": "https://pbs.twimg.com/media/HEGe3zVbQAAoZtH.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-15-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2036083188087566336",
+        "url": "https://pbs.twimg.com/media/HEGe3zcasAAhPpb.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-15-2.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2036083187961454592",
+        "url": "https://pbs.twimg.com/media/HEGe3y-WYAAXtpq.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-15-3.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2036083188582191104",
+        "url": "https://pbs.twimg.com/media/HEGe31SWEAAjLlv.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-15-4.webp"
+      }
+    ],
+    "date": "Mon Mar 23 14:10:59 +0000 2026",
+    "number": 15,
+    "title": "The desktop foundations",
+    "kind": "desktop",
+    "recipe": "editorial",
+    "summary": "Four project pages explore broad imagery and small information rails.",
+    "observation": "The fragrance page uses a wide hero with thumbnails and text below. Landscape panels share a narrow left rail. A still-life pair is staggered; a beauty page gives a portrait the right half.",
+    "transfer": "Treat desktop as a set of unequal spans. Establish one strong image area and align secondary text, captions and metadata to its edges.",
+    "url": "https://x.com/berlickfold/status/2036083290709299473",
+    "gridStudy": false
+  },
+  {
+    "id": "2033943094652019066",
+    "text": "One of my favorite parts of the design process: building the grid.\n\nStructure first, then visuals. It’s where things start to make sense before the visuals take over.",
+    "date": "Tue Mar 17 16:26:37 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2033942983540670465",
+        "url": "https://pbs.twimg.com/media/HDoEXgNXAAEXNhc.jpg?name=orig",
+        "width": 2160,
+        "height": 2700,
+        "local": "assets/ref-16-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2033942983654182921",
+        "url": "https://pbs.twimg.com/media/HDoEXgobEAkNmD6.jpg?name=orig",
+        "width": 2160,
+        "height": 2700,
+        "local": "assets/ref-16-2.webp"
+      }
+    ],
+    "number": 16,
+    "title": "Structure before imagery",
+    "kind": "mixed",
+    "recipe": "editorial",
+    "summary": "Grid overlays and finished landscapes reveal the same underlying frame.",
+    "observation": "The desktop version reserves a narrow information rail beside tall photo panels. The mobile example keeps a photo pair above the copy and metadata, preserving their shared edges.",
+    "transfer": "Lay out the empty regions first. Lock the header, information rail and photo bounds before choosing imagery.",
+    "url": "https://x.com/berlickfold/status/2033943094652019066",
+    "gridStudy": true
+  },
+  {
+    "id": "2028922909201195269",
+    "text": "Testimonial card",
+    "date": "Tue Mar 03 19:58:11 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2028922804821716992",
+        "url": "https://pbs.twimg.com/media/HCguipIWcAAYn-s.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-17-1.webp"
+      }
+    ],
+    "number": 17,
+    "title": "A portrait and a pull quote",
+    "kind": "desktop",
+    "recipe": "split",
+    "summary": "A portrait and a large serif quotation share a simple horizontal surface.",
+    "observation": "The portrait occupies the left portion. The quote sits in a wider pale field with a small attribution below, held inside a larger margin.",
+    "transfer": "Give the portrait and the quote distinct spans. A material note can use this same structure without needing a testimonial.",
+    "url": "https://x.com/berlickfold/status/2028922909201195269",
+    "gridStudy": false
+  },
+  {
+    "id": "2029203543375147094",
+    "text": "project page exploration",
+    "date": "Wed Mar 04 14:33:20 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2029203530192474112",
+        "url": "https://pbs.twimg.com/media/HCkt3AoXUAA4FxO.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-18-1.webp"
+      }
+    ],
+    "number": 18,
+    "title": "A staggered image pair",
+    "kind": "desktop",
+    "recipe": "editorial",
+    "summary": "A narrow project rail balances two photographs with different heights.",
+    "observation": "The photographs begin along one top edge, but one continues further downward. Project description and metadata stay in a separate left rail.",
+    "transfer": "Vary image height while keeping a shared top edge. Preserve an independent reading rail instead of scattering captions between images.",
+    "url": "https://x.com/berlickfold/status/2029203543375147094",
+    "gridStudy": false
+  },
+  {
+    "id": "2023004279846674929",
+    "text": "Weekly recap",
+    "date": "Sun Feb 15 11:59:40 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2023004255448088576",
+        "url": "https://pbs.twimg.com/media/HBMnpukWQAALf4o.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-19-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2023004255599415296",
+        "url": "https://pbs.twimg.com/media/HBMnpvIbUAAQV20.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-19-2.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2023004255603589120",
+        "url": "https://pbs.twimg.com/media/HBMnpvJbAAAx_r1.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-19-3.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2023004255599427584",
+        "url": "https://pbs.twimg.com/media/HBMnpvIbgAARwIG.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-19-4.webp"
+      }
+    ],
+    "number": 19,
+    "title": "From cinema to product",
+    "kind": "mixed",
+    "recipe": "split",
+    "summary": "A cinematic hero, beauty split, fragrance page and three mobile crops.",
+    "observation": "The collection includes immersive photography with a thumbnail row, an asymmetric portrait page, compact product information and a sequence of narrow desert photographs.",
+    "transfer": "Choose a framing strategy per task. Keep image sequence, page navigation and supporting copy aligned even when the subject changes.",
+    "url": "https://x.com/berlickfold/status/2023004279846674929",
+    "gridStudy": false
+  },
+  {
+    "id": "2022717956019622143",
+    "text": "desktop vs mobile",
+    "date": "Sat Feb 14 17:01:55 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2022717876428509188",
+        "url": "https://pbs.twimg.com/media/HBIjMRlakAQCt4w.jpg?name=orig",
+        "width": 2160,
+        "height": 2700,
+        "local": "assets/ref-20-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2022717876415901696",
+        "url": "https://pbs.twimg.com/media/HBIjMRiaMAAoqo0.jpg?name=orig",
+        "width": 2160,
+        "height": 2700,
+        "local": "assets/ref-20-2.webp"
+      }
+    ],
+    "number": 20,
+    "title": "A fragrance page recomposed",
+    "kind": "mixed",
+    "recipe": "product",
+    "summary": "The same fragrance study appears as a desktop banner and a mobile stack.",
+    "observation": "Desktop spreads the photograph horizontally and aligns thumbnails and copy beneath it. Mobile uses a tall photograph, a thumbnail rail, then text.",
+    "transfer": "Change the crop and reading order at the breakpoint. Preserve the relationship between the gallery, thumbnail strip and description.",
+    "url": "https://x.com/berlickfold/status/2022717956019622143",
+    "gridStudy": false
+  },
+  {
+    "id": "2021190651505680513",
+    "text": "grid vs final result",
+    "date": "Tue Feb 10 11:52:57 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2021190556957990913",
+        "url": "https://pbs.twimg.com/media/HAy2GlLa4AE5fP3.png?name=orig",
+        "width": 2350,
+        "height": 2700,
+        "local": "assets/ref-21-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2021190557004070912",
+        "url": "https://pbs.twimg.com/media/HAy2GlWaAAAwt9E.jpg?name=orig",
+        "width": 2350,
+        "height": 2700,
+        "local": "assets/ref-21-2.webp"
+      }
+    ],
+    "number": 21,
+    "title": "The split, before and after",
+    "kind": "desktop",
+    "recipe": "split",
+    "summary": "An explicit grid underpins a large title, small image and dominant portrait.",
+    "observation": "The overlay reveals vertical divisions and three horizontal bands on the left. The finished right-hand photo fills a much larger uninterrupted region; the small supporting image aligns with the lower text block.",
+    "transfer": "Design major regions before details. Use one dominant image and let a smaller image echo the text alignment.",
+    "url": "https://x.com/berlickfold/status/2021190651505680513",
+    "gridStudy": true
+  },
+  {
+    "id": "2019820455486693593",
+    "text": "All about grids.",
+    "date": "Fri Feb 06 17:08:17 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2019820439913025537",
+        "url": "https://pbs.twimg.com/media/HAfX_RcW0AE1JR5.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-22-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2019820439934009344",
+        "url": "https://pbs.twimg.com/media/HAfX_RhXAAAW_ok.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-22-2.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2019820439850102784",
+        "url": "https://pbs.twimg.com/media/HAfX_RNWsAAegbg.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-22-3.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2019820439841759233",
+        "url": "https://pbs.twimg.com/media/HAfX_RLXYAEDZXm.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-22-4.webp"
+      }
+    ],
+    "number": 22,
+    "title": "Four grids, four hierarchies",
+    "kind": "desktop",
+    "recipe": "split",
+    "summary": "Software, project, gallery and restaurant layouts expose their structure.",
+    "observation": "Each overlay uses common column guides, but horizontal divisions vary. Some reserve the upper band for text; others dedicate almost the whole upper region to photography.",
+    "transfer": "Columns alone are not a layout. Specify the horizontal bands and the spans occupied by headline, copy, metadata and images.",
+    "url": "https://x.com/berlickfold/status/2019820455486693593",
+    "gridStudy": true
+  },
+  {
+    "id": "2019020426375266668",
+    "text": "the grid behind the layout.",
+    "date": "Wed Feb 04 12:09:15 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2019020364269895680",
+        "url": "https://pbs.twimg.com/media/HAUAUvaWQAAppcK.png?name=orig",
+        "width": 2350,
+        "height": 2700,
+        "local": "assets/ref-23-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2019020364131467265",
+        "url": "https://pbs.twimg.com/media/HAUAUu5WAAEALvF.jpg?name=orig",
+        "width": 2350,
+        "height": 2700,
+        "local": "assets/ref-23-2.webp"
+      }
+    ],
+    "number": 23,
+    "title": "A shared horizontal hinge",
+    "kind": "desktop",
+    "recipe": "split",
+    "summary": "Restaurant imagery and a large title meet at one horizontal division.",
+    "observation": "A deep blank upper band separates navigation from the main content. The headline and small food image begin on the same line as the large room photograph. Short copy sits just above that line on the right.",
+    "transfer": "Use a horizontal anchor as deliberately as a column edge. Align the beginning of the title and images while allowing supporting copy to sit above.",
+    "url": "https://x.com/berlickfold/status/2019020426375266668",
+    "gridStudy": true
+  },
+  {
+    "id": "2013958765813325902",
+    "text": "mobile",
+    "date": "Wed Jan 21 12:56:01 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2013958739217223680",
+        "url": "https://pbs.twimg.com/media/G_MEzYtWEAAMps-.jpg?name=orig",
+        "width": 2160,
+        "height": 2160,
+        "local": "assets/ref-24-1.webp"
+      }
+    ],
+    "number": 24,
+    "title": "Type over a destination",
+    "kind": "mobile",
+    "recipe": "campaign",
+    "summary": "An immersive travel photograph holds a headline and short supporting text.",
+    "observation": "A white utility header leads into a tall dark photograph. The headline spans more width than the paragraph below, which begins further to the right.",
+    "transfer": "Use a readable area of the image for text. Keep the headline broad and the supporting copy narrow without losing contrast.",
+    "url": "https://x.com/berlickfold/status/2013958765813325902",
+    "gridStudy": false
+  },
+  {
+    "id": "2011842245591183446",
+    "text": "desktop vs mobile",
+    "date": "Thu Jan 15 16:45:44 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2011842123209805828",
+        "url": "https://pbs.twimg.com/media/G-t_wHoWkAQpUZ6.jpg?name=orig",
+        "width": 2160,
+        "height": 2700,
+        "local": "assets/ref-25-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "2011842127966453762",
+        "url": "https://pbs.twimg.com/media/G-t_wZWbQAILaty.jpg?name=orig",
+        "width": 2160,
+        "height": 2700,
+        "local": "assets/ref-25-2.webp"
+      }
+    ],
+    "number": 25,
+    "title": "A headline changes sides",
+    "kind": "mixed",
+    "recipe": "split",
+    "summary": "A software hero pairs an open text area with a warm landscape photograph.",
+    "observation": "Desktop places the headline and short copy in the upper right while identity sits left. Mobile brings the headline into the reading sequence above the landscape image.",
+    "transfer": "Reorder regions for the smaller screen. Keep the image as a strong closing block rather than compressing the desktop whitespace.",
+    "url": "https://x.com/berlickfold/status/2011842245591183446",
+    "gridStudy": false
+  },
+  {
+    "id": "2010681228484088172",
+    "text": "Mobile version.",
+    "date": "Mon Jan 12 11:52:16 +0000 2026",
+    "media": [
+      {
+        "type": "photo",
+        "id": "2010681192203292672",
+        "url": "https://pbs.twimg.com/media/G-df5CnWEAAYzGL.jpg?name=orig",
+        "width": 2160,
+        "height": 2160,
+        "local": "assets/ref-26-1.webp"
+      }
+    ],
+    "number": 26,
+    "title": "A portrait as the surface",
+    "kind": "mobile",
+    "recipe": "campaign",
+    "summary": "A monochrome portrait carries a short title and compact navigation.",
+    "observation": "The utility header appears in a white inset near the top. A bold title overlays the face, while small actions occupy the lower part of the full-height image.",
+    "transfer": "Treat the photograph as the page surface. Test text contrast at its actual placement and keep the utility elements compact.",
+    "url": "https://x.com/berlickfold/status/2010681228484088172",
+    "gridStudy": false
+  },
+  {
+    "id": "1984954455230382282",
+    "text": "Creative Recap.",
+    "date": "Sun Nov 02 12:03:15 +0000 2025",
+    "media": [
+      {
+        "type": "photo",
+        "id": "1984954326607880192",
+        "url": "https://pbs.twimg.com/media/G4v5cXzWYAAVvkp.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-27-1.webp"
+      },
+      {
+        "type": "photo",
+        "id": "1984954326620463105",
+        "url": "https://pbs.twimg.com/media/G4v5cX2WYAEPJRQ.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-27-2.webp"
+      },
+      {
+        "type": "photo",
+        "id": "1984954326603743233",
+        "url": "https://pbs.twimg.com/media/G4v5cXyXQAEckpf.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-27-3.webp"
+      },
+      {
+        "type": "photo",
+        "id": "1984954326704402432",
+        "url": "https://pbs.twimg.com/media/G4v5cYKXMAAOmu8.jpg?name=orig",
+        "width": 3044,
+        "height": 1760,
+        "local": "assets/ref-27-4.webp"
+      }
+    ],
+    "number": 27,
+    "title": "Several ways to make space",
+    "kind": "mixed",
+    "recipe": "rail",
+    "summary": "Sports imagery, a catalogue panel, structural overlays and responsive heroes.",
+    "observation": "A sports study places one tall image beside a smaller crop. A catalogue opens a narrow side panel. Grid diagrams expose a large photo area and a separate information zone; another hero is shown at two viewport widths.",
+    "transfer": "Use a large region for the primary task and a smaller region for context. A text index can sit beside a compact image rail even on mobile.",
+    "url": "https://x.com/berlickfold/status/1984954455230382282",
+    "gridStudy": true
+  },
+  {
+    "id": "1982774125291864301",
+    "text": "Man, I love doing this.",
+    "date": "Mon Oct 27 11:39:24 +0000 2025",
+    "media": [
+      {
+        "type": "photo",
+        "id": "1982774085072347136",
+        "url": "https://pbs.twimg.com/media/G4Q6hnKWYAArc14.png?name=orig",
+        "width": 3240,
+        "height": 4050,
+        "local": "assets/ref-28-1.webp"
+      }
+    ],
+    "number": 28,
+    "title": "Two page skeletons",
+    "kind": "desktop",
+    "recipe": "editorial",
+    "summary": "Two overlays compare an image-first page with a project detail page.",
+    "observation": "The upper skeleton reserves a very large image region and places thumbnails below it, beside a short sentence. The lower skeleton moves description and metadata to a left rail beside an image area.",
+    "transfer": "Choose the skeleton by task: image browsing benefits from a thumbnail strip; project reading benefits from a dedicated information rail.",
+    "url": "https://x.com/berlickfold/status/1982774125291864301",
+    "gridStudy": true
+  },
+  {
+    "id": "1921501628307222909",
+    "text": "Sunday kick-off with the mobile version!",
+    "date": "Sun May 11 09:44:22 +0000 2025",
+    "media": [
+      {
+        "type": "photo",
+        "id": "1921501573777088512",
+        "url": "https://pbs.twimg.com/media/GqqLgDRWYAAhOqj.jpg?name=orig",
+        "width": 2160,
+        "height": 2161,
+        "local": "assets/ref-29-1.webp"
+      }
+    ],
+    "number": 29,
+    "title": "Images beside an index",
+    "kind": "mobile",
+    "recipe": "rail",
+    "summary": "A narrow portrait rail runs alongside a numbered text index on mobile.",
+    "observation": "A large blank band follows the header. Below it, stacked portraits occupy the left side while a numbered list occupies the right. One list item is darker to show the active project.",
+    "transfer": "Keep two different information types side by side when their relationship matters. Let the active index entry identify the selected image.",
+    "url": "https://x.com/berlickfold/status/1921501628307222909",
+    "gridStudy": false
+  }
+];

@@ -1,0 +1,8 @@
+{
+  "version": 1, "name": "quiet-feature", "status": "draft",
+  "canvas": {"width":3840,"height":2160,"designWidth":1920,"designHeight":1080},
+  "background":"@colors.stage",
+  "layers":[
+    {"id":"feature","type":"image","role":"screen","src":"@assets.feature","x":640,"y":260,"w":640,"h":560,"radius":24,"fit":"contain"}
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "mode": "built-in image_gen",
+  "status": "complete",
+  "plates": [
+    {
+      "id": "wellspin-profile",
+      "source_url": "https://x.com/byamine__/status/2115562188169416712",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115562188169416712/original-01.jpg",
+      "reference_dimensions": [
+        1080,
+        1350
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all logos, wordmarks, the giant spiral cover artwork, profile copy, statistics, link symbols, verification badge and Follow lettering. Leave the profile card's cover uniformly black, avatar tile blank black, lower body blank pale white, and existing button blank white. Preserve exact card silhouette, cover/body division, avatar overlap, radii, spacing, portrait crop and gray background.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1080 by 1350); do not put it into a contact sheet or add borders.",
+      "plate": "plates/wellspin-profile.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-c15a31f6-b329-4fbd-80a3-a1d429847e41.png",
+      "generated_dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "bdd0a2e323f57c7956060408eb52e89642945038e654bcef409aaa3bea237742",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0003566333808844302
+    },
+    {
+      "id": "wellspin-dock-detail",
+      "source_url": "https://x.com/byamine__/status/2115562188169416712",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115562188169416712/original-02.png",
+      "reference_dimensions": [
+        1080,
+        1350
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove only the black spiral logo from the white rounded app tile, leaving it completely blank white. Preserve the device's black corner border, gray screen, frosted dock, tile dimensions and radii, subtle highlights, intentional off-frame crop and all large empty regions.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1080 by 1350); do not put it into a contact sheet or add borders.",
+      "plate": "plates/wellspin-dock-detail.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-f7cd50fe-b923-41f1-852a-1853a226e10f.png",
+      "generated_dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "97b8e0defd74f84cd1345f1aa12df72f69a301ab35f6854d3518aedbc65c5f1f",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0003566333808844302
+    },
+    {
+      "id": "wellspin-address-detail",
+      "source_url": "https://x.com/byamine__/status/2115562188169416712",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115562188169416712/original-03.png",
+      "reference_dimensions": [
+        1080,
+        1350
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove the black spiral favicon and ALL domain/URL text from the inset address field. Leave the address field fully blank pale gray. Preserve both nested rounded rectangles, thin border, shadows, gray portrait background, original scale and exact off-right crop.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1080 by 1350); do not put it into a contact sheet or add borders.",
+      "plate": "plates/wellspin-address-detail.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-d6da4392-0243-4b66-bb8b-4db0cb4c5158.png",
+      "generated_dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "49a9656caabf5d5ad53dd200679887c06336e7deffe9cf6a8d8c5b001adb4994",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0003566333808844302
+    },
+    {
+      "id": "wellspin-clear-card",
+      "source_url": "https://x.com/byamine__/status/2115562188169416712",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115562188169416712/original-04.jpg",
+      "reference_dimensions": [
+        1080,
+        1350
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove only the central black spiral logo and tiny printed barcode/lettering from the clear acrylic card. Preserve the transparent card, its fine physical circuit/embossed traces and edge details, same hand and fingers, grip, skin texture, card tilt, faint reflections, light gray backdrop and exact portrait crop. The card must remain transparent, not become opaque white.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1080 by 1350); do not put it into a contact sheet or add borders.",
+      "plate": "plates/wellspin-clear-card.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-ee65c936-a663-412a-9725-a3d8e559aaba.png",
+      "generated_dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "cabf02b89fbd8d93d4d5d51682d89053d998abf0c59d49f39bb333621e2b52ed",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0003566333808844302
+    },
+    {
+      "id": "wesoft-brand-cards",
+      "source_url": "https://x.com/byamine__/status/2106028908718268731",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2106028908718268731/original-01.jpg",
+      "reference_dimensions": [
+        4096,
+        2293
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Turn both portrait brand cards into completely blank faces: left plain off-white, right plain near-black. Remove all headings, repeated gradient bars, footer wordmarks, URL text and capsule outlines. Preserve the exact equal card sizes, side-by-side positions, aligned tops/bottoms, narrow gap and broad pale gray margins.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (4096 by 2293); do not put it into a contact sheet or add borders.",
+      "plate": "plates/wesoft-brand-cards.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-3386020d-b246-4af3-9a41-7bc95ff88d61.png",
+      "generated_dimensions": [
+        1676,
+        938
+      ],
+      "sha256": "7e554a42ba18aa2f30588c85e1f5c01724c752a433a8385d26bf32d8965b7ce4",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0002654834088484659
+    },
+    {
+      "id": "solyt-social-triptych",
+      "source_url": "https://x.com/byamine__/status/2095481978095075762",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2095481978095075762/original-01.jpg",
+      "reference_dimensions": [
+        4096,
+        2304
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Blank the three post artwork areas. Left body uniformly yellow, middle uniformly warm cream, right uniformly sky blue. Remove all titles, logos, small copy, statistic, sun/ray artwork, white inline icon pills and the photograph from the post bodies. Keep the three equal card silhouettes, gray backdrop, exact alignment/gutters, dark bottom action strips and their small generic outline UI controls. Do not add labels or replacement imagery.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (4096 by 2304); do not put it into a contact sheet or add borders.",
+      "plate": "plates/solyt-social-triptych.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-abca8f74-3676-4695-8217-958de470bd0a.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "bcc961ae64884ede70d83fd21a2607debfccf53376c7c7229efaa64b1380f3e4",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-cups",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-00.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all brand wordmarks, tiny text, and blue/green/yellow printed packaging designs from all three cup exteriors. Make all cup exteriors unprinted matte white following their existing shading. Keep all three cups in the same positions, coffee drinks and foam patterns, rims, tapered shapes, shadows, studio wall and ledge, light direction and crop.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-cups.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-9a4f50e2-104a-43f3-b52e-ee8ae8b48644.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "fac53afb3051e751e32a190c6535e25d52041f412a448bb06819dd4536289424",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-overlapping-cards",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-01.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all logos and fine printed text from every sheet. Replace the green/blue/peach gradient artwork on each visible card with a blank warm off-white paper face with its existing natural light and contact shadows. Keep the exact overlapping rotated card silhouettes, edge crops, stacking order, white triangular negative-space gaps and top-down composition.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-overlapping-cards.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-e23b0338-c18d-44f2-9c46-280fd6dbb40e.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "cbf983baea20efe617a762075773c782ccb8cbd8b6e0bf7e5b0c4b2572b0bc30",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-small-kit",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-02.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove ALL branding, wordmarks, text, thin printed rules and gradient artwork from the shopping bag, standing pouch, two coffee cups, flat foreground item and tray. Leave those application faces unprinted white with natural existing material shading. Keep every package, handles, lids, tray, pouch folds, scale, overlap, perspective, tabletop, dark diagonal background and cast shadows exactly.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-small-kit.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-05c138c2-fc27-4c84-b254-a2f5ffae9367.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "d5f381ed5894913b8ae006286d95879bf176b0dfe67ae15c032a6b7b7d3a37ca",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-sachet-grid",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-03.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all lettering, small type, logos and colorful gradient artwork from all six sachet faces. Make the six packages blank warm-white unprinted paper/foil retaining subtle material texture and folds. Preserve the exact three-column two-row grid, equal sizes, spacing, broad margins, consistent bottom/right shadows and original camera.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-sachet-grid.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-5b199534-8897-4490-81b0-6d5cd65663c7.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "0678dd9ba52a9d910dc42c593d2399655a3ef83873ca5796ed16d91038ebe910",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-open-box",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-04.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove every printed logo, text and colorful gradient design from the open box and sachet stack. Make the exterior carton and sachet faces blank unprinted off-white. Preserve the original dark blue interior and inner lid material as physical substrate, visible parallel dividers, lid angle, box geometry, nearby sachet stack, all overlaps and hard shadows, white diagonal tabletop and dark background.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-open-box.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-b1aa46ab-b58e-426e-9885-6d962e2dcc46.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "21b6b463d16ec317fcfe42cdd816b54b63597f190e3a0cfaf44a76d4bd863763",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-shopping-bags",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-05.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all wordmarks, logos, small text and printed color strips from both shopping bags. Keep the left bag's pale paper substrate and right bag's dark near-black substrate fully blank. Preserve both handles, gussets, scale, overlap, three-quarter perspective, paper texture, shadows, studio wall/tabletop and exact crop.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-shopping-bags.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-7729e33e-15a4-42e7-b142-3b4bdefab81b.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "c1a38823823f01df238610d1d13a97102d79f79d0d7ffafa39507b1b3afb4705",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-cube-cluster",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-06.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all lettering, logos and colorful gradient printed artwork from all four cube cartons. Make the cartons blank unprinted off-white, preserving their natural light differences across top/front/side faces and faint material texture. Preserve all four cube positions, same sizes, compact cluster, occlusion, edges, ground plane, camera elevation and hard shadows.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-cube-cluster.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-efaf01a3-a523-4a17-8dc5-4b4fd9acf11b.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "98ae011fa4406703f1e4c6ae8e7fa790635018fbf19f96e69399cf8b6ce12da5",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-complete-kit",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-07.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove every brand mark, letter, small copy, printed rule and colorful gradient artwork from every object in this packaging assortment. Leave white cups/pouches/cartons/bags unprinted white, dark bags unprinted dark, and clear cups transparent with no printing. Preserve every object, straws, handles, folds, tray, all positions, scale, overlap, intentional foreground crops, diagonal tabletop boundary, lighting and cast shadows.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-complete-kit.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-819d6462-9984-4b7f-a2b2-b0f073342032.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "606302cd7a255b6415efb6bcf86fcf58f1808f96113058c4799eeacaba8c2276",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-brand-tiles",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-08.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove every wordmark, slogan and small text from every mosaic tile. Also replace the small printed multicolor gradient tile with a blank pale off-white tile. Preserve the other existing solid yellow, cyan, peach, charcoal, pale white, dark teal and green tile colors, exact unequal spans, radii if present, narrow pale gutters, overall rectangular bounds and empty surrounding background. All tile faces empty.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-brand-tiles.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-3c667176-4d66-4872-bca8-f65ed05c8173.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "77cfba1b33b3e7a997648f146452df85025947e7b2a99eb510b57e2bc02b9667",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-pouches",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-09.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all wordmarks, small copy, icons, colorful rectangular labels and all remaining printing from all four standing pouches. Make all four pouch surfaces unprinted warm white with natural shading and paper/film texture. Preserve folds, gussets, closed tops, exact positions, depth arrangement, perspective, overlap, side/foreground crops, ground and shadows.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-pouches.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-2586ff29-c3ef-4823-b8d5-fed523c921a0.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "efcfb073b00da28fe5bee2bd7f7acaaadd69f53b30ba1cbf05727daa5f8357b8",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "variety-social-grid",
+      "source_url": "https://x.com/byamine__/status/2094423678444322996",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2094423678444322996/frame-10.png",
+      "reference_dimensions": [
+        1920,
+        1080
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Make all six social-post bodies blank off-white placeholders. Remove brand names, account names, logos, text, gradient artwork, photographs, lifestyle people, coffee imagery and diagrams from inside the cards only. Preserve the exact six-card layout including deliberate empty grid positions and gaps, each card shape, black account header strips with blank small avatar tiles, three-dot menus, bottom black action strips and generic outline controls, gray outer background. Do not regularize the card positions.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1920 by 1080); do not put it into a contact sheet or add borders.",
+      "plate": "plates/variety-social-grid.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-6af1e952-bd51-46d2-9242-f01d75fc6870.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "5753ebbd90a472f685185f6e5f88001c4044444ab8cdcb7ebdc64da79920d9e7",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "strivenet-held-profile",
+      "source_url": "https://x.com/byamine__/status/2076770555496157395",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2076770555496157395/original-01.jpg",
+      "reference_dimensions": [
+        3840,
+        2160
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all logo/wordmark artwork, every profile label and copy, follow lettering, verification mark, tiny avatar design and cyan/orange cover graphic from the held profile slab. Leave its cover plain pale warm gray, avatar tile plain dark, lower profile body plain black and pill blank dark. Preserve the unusual thick rectangular slab geometry rather than turning it into a phone, edge thickness, same dark hand/fingers and grip, saturated orange background/light, exact scale, tilt, shadows and landscape crop.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (3840 by 2160); do not put it into a contact sheet or add borders.",
+      "plate": "plates/strivenet-held-profile.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-0b01f131-df54-4e86-ad36-8cb2fa96cc09.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "8f022b78d9ce4e7a6e5a805524806fd0b27d1e18b1039bba84cc61f74ba8fd1f",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "strivenet-posters",
+      "source_url": "https://x.com/byamine__/status/2076770555496157395",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2076770555496157395/original-02.jpg",
+      "reference_dimensions": [
+        3840,
+        2160
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Blank all three poster faces to their base substrates: left solid vivid orange-red, middle clean white, right solid black. Remove every word, repeated wordmark, thin guide line, footer logo, elliptical athlete/photo slices, running photograph and all graphic artwork. Keep the exact equal poster sizes, horizontal positions, common top/bottom edges, gaps and pale gray outer background.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (3840 by 2160); do not put it into a contact sheet or add borders.",
+      "plate": "plates/strivenet-posters.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-8490be9b-b53b-4db9-b4d7-7d12620a584b.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "6678affd93c6b1b0b8fe71f835a165657894497a68b738a7dc2faacc93fac6ba",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "strivenet-color-matrix",
+      "source_url": "https://x.com/byamine__/status/2076770555496157395",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2076770555496157395/original-03.png",
+      "reference_dimensions": [
+        3840,
+        2160
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all centered circles and split semicircle graphics from the fifteen color cells. Reconstruct each cell's original uniform solid background color behind the removed circle. Preserve the exact full-bleed five-column three-row grid, cell boundaries, color order and original aspect ratio. Empty colored cells only; no symbols or text.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (3840 by 2160); do not put it into a contact sheet or add borders.",
+      "plate": "plates/strivenet-color-matrix.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-58216b69-2229-4024-acab-9d981a9a390a.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "269d093f27e7d6748242bd5237f6db2dd7b828878eba96fe9f4ffac92469b500",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "strivenet-apparel",
+      "source_url": "https://x.com/byamine__/status/2076770555496157395",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2076770555496157395/original-04.jpg",
+      "reference_dimensions": [
+        3840,
+        2160
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all branding only: the pale symbol on the orange cap, tiny shirt wordmark, pale shorts symbol and vertical shorts wordmark. Restore continuous original cloth texture and shading where removed. Preserve both photographed subjects, hand touching brim, dark face silhouette, cap seams, perforated shorts mesh, folds, orange and cyan backgrounds, exact split diptych boundary and tight crops.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (3840 by 2160); do not put it into a contact sheet or add borders.",
+      "plate": "plates/strivenet-apparel.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-7833bdae-28d3-4ff4-99a6-a114b580f50b.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "47d57ce1cda892aaa72044c8b48400af4bc867c281e1dbd3d4f361ebfcd62c0d",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0005313496280551222
+    },
+    {
+      "id": "cispy-board",
+      "source_url": "https://x.com/tanvironik94/status/2115785510962729249",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115785510962729249/original-01.jpg",
+      "reference_dimensions": [
+        4096,
+        2731
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Turn every branded application in all eight panels into an empty mockup while preserving the complete board composition. Remove ALL Cispy logos, contact copy and text from stacked translucent cards, phone, facade sign, business card, wall display, poster bank, tote and tablet. Remove screen UI/artwork/abstract ring and architectural poster imagery from the phone, wall display, tablet and three poster faces; leave those display/poster surfaces blank in their original pale or dark substrate tones. Preserve all eight panel bounds/radii, dark gutters, unequal panel sizes, hardware, hands/person, fabric, architecture, concrete, plinth, light, shadows, crops and perspectives. No added placeholder labels.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (4096 by 2731); do not put it into a contact sheet or add borders.",
+      "plate": "plates/cispy-board.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-2d445c55-a119-474b-8285-2d732c79c4a7.png",
+      "generated_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "edb3d59345d3a374f586d2cc3e0312309612770a4ef27a4f5e3e82c17d018192",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0001220703125
+    },
+    {
+      "id": "cispy-stacked-cards",
+      "source_url": "https://x.com/tanvironik94/status/2115785510962729249",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115785510962729249/cispy-stacked-cards.png",
+      "reference_dimensions": [
+        1754,
+        775
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all logo marks, brand names, contact details, headings and small lettering from every visible face and exposed edge of the stacked translucent business cards. Leave all faces/edges blank, preserving their translucent pale material, thickness, bevels, reflections, exact diagonal crop, positions and gray-blue studio light.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1754 by 775); do not put it into a contact sheet or add borders.",
+      "plate": "plates/cispy-stacked-cards.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-81315e90-1b52-46fa-a7f8-da0c38068162.png",
+      "generated_dimensions": [
+        1886,
+        834
+      ],
+      "sha256": "32c44590702350d974203499072e282e7625e435d280d877e297549e30a8278d",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0008107539054275081
+    },
+    {
+      "id": "cispy-held-phone",
+      "source_url": "https://x.com/tanvironik94/status/2115785510962729249",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115785510962729249/cispy-held-phone.png",
+      "reference_dimensions": [
+        845,
+        775
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Make the entire phone display a clean blank dark slate surface, removing logo, architectural/abstract screen imagery, status/interface text, buttons and all other artwork. Preserve phone frame and hardware, same hand/fingers/grip, skin detail, perspective, phone position, dark background, light and shadows and exact crop.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (845 by 775); do not put it into a contact sheet or add borders.",
+      "plate": "plates/cispy-held-phone.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-5f0d1d66-5b43-4150-a2c9-048410ab917e.png",
+      "generated_dimensions": [
+        1309,
+        1201
+      ],
+      "sha256": "300ff63e2ef1c17334f77109d6d15df337e4624e71030f8174daa2e080f7c09d",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0003645876956580585
+    },
+    {
+      "id": "cispy-facade-sign",
+      "source_url": "https://x.com/tanvironik94/status/2115785510962729249",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115785510962729249/cispy-facade-sign.png",
+      "reference_dimensions": [
+        1234,
+        1448
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all logos, company wordmarks, telephone/contact copy and tiny text from the large dark facade sign. Leave the sign blank dark charcoal with the same existing material, gradient of light and shadow. Preserve all building architecture, window frames, facade edges, diagonal sunlight, sign dimensions and perspective, brackets and portrait crop.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1234 by 1448); do not put it into a contact sheet or add borders.",
+      "plate": "plates/cispy-facade-sign.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-72308a68-51a9-4484-a52b-afdad61d6027.png",
+      "generated_dimensions": [
+        1158,
+        1359
+      ],
+      "sha256": "da0b9de334f6477e3ec911240bdc04e36f23a28ff9d7d34fb766bc1200d515f9",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.00013237877503124995
+    },
+    {
+      "id": "cispy-business-card",
+      "source_url": "https://x.com/tanvironik94/status/2115785510962729249",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115785510962729249/cispy-business-card.png",
+      "reference_dimensions": [
+        1094,
+        854
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove ALL name, role, contact details and logo artwork from the pale blue-gray business card. Restore a completely unprinted card surface with matching paper texture and subtle lighting. Preserve its exact angle, shape and thickness, blocks underneath, unsupported corner, shadows, muted blue-gray palette and crop.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1094 by 854); do not put it into a contact sheet or add borders.",
+      "plate": "plates/cispy-business-card.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-9aa8ce41-f877-4373-ace2-1810da96b5b0.png",
+      "generated_dimensions": [
+        1420,
+        1108
+      ],
+      "sha256": "5d3da1353b21d7d524c9288f49ff949960dededb8d2f732e7429769a62427707",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.00043558893604100923
+    },
+    {
+      "id": "cispy-wall-display",
+      "source_url": "https://x.com/tanvironik94/status/2115785510962729249",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115785510962729249/cispy-wall-display.png",
+      "reference_dimensions": [
+        1507,
+        854
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove ALL logos, headings, contact copy and pale diagonal graphic from the wall-mounted display. Leave its entire interior screen/print blank pale blue-gray with subtle existing illumination. Preserve black display frame, position/scale, concrete wall seams and texture, ceiling recess, dark room, floor, perspective, light and shadows.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1507 by 854); do not put it into a contact sheet or add borders.",
+      "plate": "plates/cispy-wall-display.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-da4ca110-d463-44c0-b617-42897f0147f7.png",
+      "generated_dimensions": [
+        1666,
+        944
+      ],
+      "sha256": "dbfb221196a7008a46ee4f442d7002fd195f1c2fa9ddedc81a971dc28ae0df0b",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.00010965775533389177
+    },
+    {
+      "id": "cispy-poster-bank",
+      "source_url": "https://x.com/tanvironik94/status/2115785510962729249",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115785510962729249/cispy-poster-bank.png",
+      "reference_dimensions": [
+        1754,
+        832
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove all text, logos, contact copy, abstract sculptural ring and photographic/architectural artwork from all three tall posters. Leave three blank dark muted blue-gray poster faces with existing natural illumination differences. Preserve their metal frames, architectural bays, mesh surfaces, equal spacing, window/background details, sunlight and shadows, exact wide crop.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1754 by 832); do not put it into a contact sheet or add borders.",
+      "plate": "plates/cispy-poster-bank.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-67e6d766-5075-46d0-9ba5-c34f59d9d8eb.png",
+      "generated_dimensions": [
+        1821,
+        864
+      ],
+      "sha256": "1b060f9f2a3659751e1f7607a25db24a507858f7f1fb28fef909710f97c236de",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0002533890789307991
+    },
+    {
+      "id": "cispy-tote",
+      "source_url": "https://x.com/tanvironik94/status/2115785510962729249",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115785510962729249/cispy-tote.png",
+      "reference_dimensions": [
+        845,
+        832
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove ALL logos, large low wordmark and small upper contact/site text from the charcoal tote bag. Restore continuous unprinted charcoal fabric matching folds, seams and natural light. Preserve same cropped person, shirt, jeans, hand and arm, bag shape, handles, fabric texture, background, crop and light exactly.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (845 by 832); do not put it into a contact sheet or add borders.",
+      "plate": "plates/cispy-tote.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-0b6aa1dd-52cd-4522-98ce-375594181f5e.png",
+      "generated_dimensions": [
+        1268,
+        1241
+      ],
+      "sha256": "a1b02fc17009a295712d5324b365be2e9d72929205f5f1e74500f4423fde9ed3",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0060373148205541405
+    },
+    {
+      "id": "cispy-tablet",
+      "source_url": "https://x.com/tanvironik94/status/2115785510962729249",
+      "reference_path": "/Users/abhishekmankotia/.codex/skills/product-renders/assets/original-references/2115785510962729249/cispy-tablet.png",
+      "reference_dimensions": [
+        1234,
+        1082
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: empty product/brand showcase plate for adding custom artwork in Blender\nInput image 1: edit target, original composition.\nPrimary request: Remove every logo, browser text, UI/control symbol, URL, heading, central ring graphic, button and all other screen artwork from the tablet display, leaving a completely blank pale blue-gray screen. Preserve the device frame, keyboard, hinge/base, tablet tilt, screen curvature, stone plinth, background negative space, daylight, shadows and exact crop.\nConstraints: Recreate this exact still composition as closely as possible, changing only the specified applied branding/artwork. Preserve camera, object layout, perspective, materials, lighting, negative space and crop. No replacement content, words, dummy labels, watermark or new props. Output ONE image with the SAME ASPECT RATIO as the source (1234 by 1082); do not put it into a contact sheet or add borders.",
+      "plate": "plates/cispy-tablet.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-48ac2816-9d74-403e-bf13-30b9e8ca9dea.png",
+      "generated_dimensions": [
+        1339,
+        1174
+      ],
+      "sha256": "4f0bffdf42c3fb85a2b155dc79b5f029ea32cf883ad317a3617cfc2d950b3179",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 5.6601846048609517e-05
+    }
+  ],
+  "plate_count": 30,
+  "checks": {
+    "all_files_decode": true,
+    "source_aspect_ratio_tolerance": "under 1% relative difference",
+    "visual_review": "all 30 plates reviewed in batches",
+    "text_scan": "Apple Vision OCR on all 30; only generic social-control icon shapes detected on two UI plates",
+    "blender_library": "30 scenes rendered and framing checked; explicit horizontal camera fit; native detailed poster test mean RGB difference 0.166/255 with nearest image sampling and box pixel filter"
+  },
+  "blender_file": "expanded-plates.blend"
+}

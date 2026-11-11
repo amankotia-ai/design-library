@@ -1,0 +1,59 @@
+{
+  "brand": "ARCO \u2014 fictional technology workspace concept",
+  "tagline": "Good work, together.",
+  "scope": "Four requested photographed applications with exact artwork and preserved scene geometry",
+  "photographic_detail": "Native1536x1024 phone;1672x941 otherthree; no4K claim",
+  "method": "Built-in imagegen first passes, then deterministic source-artwork mapping and physical masks after independent review",
+  "files": [
+    {
+      "id": "01-phone",
+      "file": "delivery/01-phone.png",
+      "accepted_candidate": "candidates/01-phone-exact-v2.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "4e552453bfa61467ccd8d2b1f97725b4d362eb1c40bfc97d05c3e391ef9b6de0",
+      "qa": "independent pass"
+    },
+    {
+      "id": "02-auditorium",
+      "file": "delivery/02-auditorium.png",
+      "accepted_candidate": "candidates/02-auditorium-exact-v3.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "fe22d0783ccd14039f08792c5407928e9db4fdaf85f1889a77fb095c3c22b086",
+      "qa": "independent pass"
+    },
+    {
+      "id": "03-social-cards",
+      "file": "delivery/03-social-cards.png",
+      "accepted_candidate": "candidates/03-social-cards-exact-v2.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "d121d29705a2f2e2e0020eeca0c575033a8590f91c2af26607fcc25234da08e4",
+      "qa": "independent pass"
+    },
+    {
+      "id": "04-laptop-sticker",
+      "file": "delivery/04-laptop-sticker.png",
+      "accepted_candidate": "candidates/04-laptop-sticker-exact-v2.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "46331831076c7955cbbe4a6fb6442a0c54f3aced208f43f3b36e4e5a46b13d2b",
+      "qa": "independent pass"
+    }
+  ],
+  "assets": "assets/",
+  "rebuild": [
+    "python create_assets.py",
+    "python compose_exact.py"
+  ],
+  "qa_reports": "qa/"
+}

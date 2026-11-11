@@ -1,0 +1,25 @@
+{
+  "license": "https://unsplash.com/license",
+  "assets": [
+    {
+      "file": "forest-2.jpg",
+      "author": "Sebastian Unrau",
+      "page": "https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw",
+      "download": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=max&w=6000&q=95",
+      "dimensions": [
+        6000,
+        4000
+      ]
+    },
+    {
+      "file": "coast.jpg",
+      "author": "Daniel Akselrod",
+      "page": "https://unsplash.com/photos/grassy-cliff-overlooking-a-calm-ocean-at-sunset-thc9qSpsuFI",
+      "download": "https://images.unsplash.com/photo-1771387925506-1eacc7523f89?auto=format&fit=max&w=6000&q=95",
+      "dimensions": [
+        4128,
+        6192
+      ]
+    }
+  ]
+}

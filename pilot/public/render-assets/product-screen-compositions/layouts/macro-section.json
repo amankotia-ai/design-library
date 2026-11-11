@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "name": "macro-section",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2087494072999280783"
+  ],
+  "family": "macro-section",
+  "captureContract": "Adaptation of enlarged settings/authorization excerpt. Capture a genuine1400x1000region, enlarge with sufficient density, deliberately crop right/bottom. Keep heading and complete relevant controls. No invented laptop/browser chrome.",
+  "geometryStatus": "Parameterized starting geometry, not a measured faithful reproduction or user-approved export. Refit slots to actual source aspect ratio and protected regions.",
+  "layers": [
+    {
+      "id": "macro-detail",
+      "type": "image",
+      "src": "@assets.screen",
+      "x": 160,
+      "y": 120,
+      "w": 2200,
+      "h": 1571.428571,
+      "fit": "contain",
+      "role": "screen",
+      "allowCanvasCrop": true,
+      "radius": 36,
+      "requireAspectMatch": true
+    }
+  ]
+}

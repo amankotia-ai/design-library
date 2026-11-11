@@ -1,0 +1,240 @@
+{
+  "colors": "sRGB hex values; RGB PNG exports",
+  "assets": [
+    {
+      "path": "inputs/original-06-stacked-landscape-cards-blank.png",
+      "sha256": "dd4b01eec86d0309752987ed1da41a2501d737bc70ed9a6f7338e95d8db42f66",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/original-06-stacked-landscape-cards-original.png",
+      "sha256": "658d426d16b2475cbab18fb39caea5813730fa15a9705ed5db1ffc4f605efb23",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/original-06-stacked-landscape-cards-prior.png",
+      "sha256": "f1b0ba4b1c12c8d71a61343f1b9e147d56303f9710bc8e34f78740fd5cac7274",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/original-13-logo-and-profile-panels-blank.png",
+      "sha256": "6c57c0256a2c8ca6e567ce44aa31968cb0041ad6788367356e6945149f00cbb6",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/original-13-logo-and-profile-panels-original.png",
+      "sha256": "262299f967d249340c158b2ff78ea335e20b3d424fc4079e838dc76594e604ae",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/original-13-logo-and-profile-panels-prior.png",
+      "sha256": "3b3c3318267db3a1002660edca8ae3642677186677cb8e1c965caca8529fb74a",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/strivenet-held-profile-blank.png",
+      "sha256": "8f022b78d9ce4e7a6e5a805524806fd0b27d1e18b1039bba84cc61f74ba8fd1f",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/strivenet-held-profile-original.jpg",
+      "sha256": "ae197f05f76cb693592e5b8c0f5e7cdb8e1c067fb5fc7fc919a09dbd1a228a86",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/strivenet-held-profile-prior.png",
+      "sha256": "830702449db6c44b406311e11e5ec6cd318a18ab136ed32e7ace288706f57cbf",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/variety-pouches-blank.png",
+      "sha256": "efcfb073b00da28fe5bee2bd7f7acaaadd69f53b30ba1cbf05727daa5f8357b8",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/variety-pouches-original.png",
+      "sha256": "4394ed501dbf794ba9307caa5e8b0f0dd520642eae0fcbfec1b5f56b68a785ce",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/variety-pouches-prior.png",
+      "sha256": "59fe1c88e76aced73e240ad4ac8ebf55220f390c050eae439db8ee555269f01f",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/variety-sachet-grid-blank.png",
+      "sha256": "0678dd9ba52a9d910dc42c593d2399655a3ef83873ca5796ed16d91038ebe910",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/variety-sachet-grid-original.png",
+      "sha256": "64ab505dcc102d91aeb8db462eb2e0e3f23516b1b5aca702e75db9d3fba82f65",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "inputs/variety-sachet-grid-prior.png",
+      "sha256": "85395a6401c89a66c13a3aa9860bd0f18bf9fb32e6b7bb4059540c56cca88a77",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "role": "copied blank/original/prior visual reference; prior art is never consumed by renderer"
+    },
+    {
+      "path": "assets/aster-mark.svg",
+      "sha256": "59124505285d2056f8718a36d4d837bccb594b38dfbfdbbfd016e688a72f7e1d",
+      "role": "original brand identity/source metadata"
+    },
+    {
+      "path": "assets/avatar-cream-hires.png",
+      "sha256": "f1adeb07b4cc2e79ca059e26c8cde81bcb54050226a0d9a75b9bd6021532bc90",
+      "dimensions": [
+        2400,
+        2400
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    },
+    {
+      "path": "assets/avatar-pine-hires.png",
+      "sha256": "96a1e3a9c4e4171f13079c3392cf0b30aa7cc003860da13868602b0da4acad23",
+      "dimensions": [
+        2400,
+        2400
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    },
+    {
+      "path": "assets/brand-cover-hires.png",
+      "sha256": "dbebfdae7aed48a9459e1f364bd9f49a550cc94067b07e4d02d0a4958394838c",
+      "dimensions": [
+        4800,
+        2700
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    },
+    {
+      "path": "assets/brand.json",
+      "sha256": "c9902966f966d790fe1bb11418158a7710e31ab5bbfdb46e8a8d4e361a1bb2ce",
+      "role": "original brand identity/source metadata"
+    },
+    {
+      "path": "assets/held-profile-front-hires.png",
+      "sha256": "511913994a1286350b7846552018e07b4eb7028c0b45bc60500077d532ef8391",
+      "dimensions": [
+        2400,
+        4800
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    },
+    {
+      "path": "assets/label-after-hires.png",
+      "sha256": "dca694678733b01c75447d17fdd9d99566077a3931e4b51bd4a0af480c8a79d4",
+      "dimensions": [
+        3000,
+        3900
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    },
+    {
+      "path": "assets/label-daily-hires.png",
+      "sha256": "10ded12e3521906780d937b5d736253a48bf9c70e7962b172e74a778adfc11c9",
+      "dimensions": [
+        3000,
+        3900
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    },
+    {
+      "path": "assets/label-slow-hires.png",
+      "sha256": "9c0f8342db78427fbc85e51a7d195be0a9736e9cc12aee6cbb7aae2a71ef7305",
+      "dimensions": [
+        3000,
+        3900
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    },
+    {
+      "path": "assets/sachet-after-hires.png",
+      "sha256": "6e0370487fd85d25ced09d920aa6f8a06f3fd7077bd6a95f390a8c2be7559c61",
+      "dimensions": [
+        3000,
+        3000
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    },
+    {
+      "path": "assets/sachet-daily-hires.png",
+      "sha256": "4b652c4cc41ba6f8750219eaee90a68a85f55e866f81b88da3a71e58796dcc3a",
+      "dimensions": [
+        3000,
+        3000
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    },
+    {
+      "path": "assets/sachet-slow-hires.png",
+      "sha256": "bf4b694c36aa879950ee23cd85cd4fde544f51cd953f4bad645e217d6adc4665",
+      "dimensions": [
+        3000,
+        3000
+      ],
+      "role": "newly rendered high-resolution reusable artwork"
+    }
+  ]
+}

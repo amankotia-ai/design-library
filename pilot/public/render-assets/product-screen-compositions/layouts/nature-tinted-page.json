@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "name": "nature-tinted-page",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2085028175357333601"
+  ],
+  "family": "nature-tinted-page",
+  "captureContract": "Approximate Nachi4:3page relation adapted to16:9canvas. Thin perimeter only; UI is fully opaque. Suggested frameTint rgba(230,240,215,0.38), art-directed from background/brand; alpha is not measured from source.",
+  "geometryStatus": "Parameterized starting geometry, not a measured faithful reproduction or user-approved export. Refit slots to actual source aspect ratio and protected regions.",
+  "layers": [
+    {
+      "id": "background",
+      "type": "image",
+      "src": "@assets.background",
+      "x": 0,
+      "y": 0,
+      "w": 1920,
+      "h": 1080,
+      "fit": "cover"
+    },
+    {
+      "id": "translucent-perimeter",
+      "type": "shape",
+      "x": 410,
+      "y": 126.82,
+      "w": 1100,
+      "h": 826.36,
+      "background": "@colors.frameTint"
+    },
+    {
+      "id": "opaque-page",
+      "type": "image",
+      "src": "@assets.screen",
+      "x": 420,
+      "y": 136.82,
+      "w": 1080,
+      "h": 806.36,
+      "fit": "contain",
+      "role": "screen",
+      "requireAspectMatch": true
+    }
+  ]
+}

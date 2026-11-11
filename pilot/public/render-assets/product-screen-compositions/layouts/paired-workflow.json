@@ -1,0 +1,9 @@
+{
+  "version": 1, "name": "paired-workflow", "status": "draft",
+  "canvas": {"width":3840,"height":2160,"designWidth":1920,"designHeight":1080},
+  "background":"@colors.stage",
+  "layers":[
+    {"id":"before","type":"image","role":"screen","src":"@assets.feature","x":245,"y":210,"w":640,"h":560,"radius":24,"fit":"contain"},
+    {"id":"after","type":"image","role":"screen","src":"@assets.result","x":1035,"y":310,"w":640,"h":560,"radius":24,"fit":"contain"}
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "brand": "ASTER & OAK (fictional design study)",
+  "export_dimensions": [
+    3840,
+    2160
+  ],
+  "qa_status": "All5 independent full/native-pixel reviews passed",
+  "graphics": "Freshly rendered exact type, logos and print/profile artwork; flat studies fully rebuilt geometry",
+  "photography": "Pouch/sachet/hand blanks resampled from1672x941; no recovered or newly captured4K photo detail",
+  "source_replay": "Both photographic and flat representative rerenders decode pixel-identically",
+  "files": [
+    {
+      "id": "variety-pouches",
+      "file": "delivery/01-pouches-4k.png",
+      "candidate": "finals/variety-pouches-4k-v1.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "75715cad345b4189e8ffaa1b2177f97159051b86f86908640ff1dbb05ee4f795",
+      "qa_status": "pass",
+      "photo_detail_limit": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "original-06-stacked-landscape-cards",
+      "file": "delivery/02-stacked-cards-4k.png",
+      "candidate": "finals/original-06-stacked-landscape-cards-4k-v1.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "d3156d68b7e6f7cfb6de44c0ce3406aab5fe715f3ae596ea61a7461abdb7ca6e",
+      "qa_status": "pass",
+      "photo_detail_limit": null
+    },
+    {
+      "id": "variety-sachet-grid",
+      "file": "delivery/03-sachets-4k.png",
+      "candidate": "finals/variety-sachet-grid-4k-v1.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "b5c530bf4312594d87a2ddd07f347eee3e610fd7aea7104c8e5ed9e118f717f0",
+      "qa_status": "pass",
+      "photo_detail_limit": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "original-13-logo-and-profile-panels",
+      "file": "delivery/04-logo-profile-panels-4k.png",
+      "candidate": "finals/original-13-logo-and-profile-panels-4k-v1.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "221a7ef821ff7b889c950b5b6490025c47e38cc23128e4bdf97bdfc7d6c92358",
+      "qa_status": "pass",
+      "photo_detail_limit": null
+    },
+    {
+      "id": "strivenet-held-profile",
+      "file": "delivery/05-held-profile-4k.png",
+      "candidate": "finals/strivenet-held-profile-4k-v1.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "9020dce1a339d6462b281b8b98e2e93213e586632bb5a33d143a011454e66dec",
+      "qa_status": "pass",
+      "photo_detail_limit": [
+        1672,
+        941
+      ]
+    }
+  ]
+}

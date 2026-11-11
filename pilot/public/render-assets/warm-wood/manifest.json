@@ -1,0 +1,85 @@
+{
+  "mode": "built-in image_gen",
+  "status": "independent blank-plate composition and cleanliness QA passed",
+  "source_url": "https://x.com/VadimCarazan/status/2114623816072568925",
+  "plates": [
+    {
+      "id": "vadim-phone-desk",
+      "source_url": "https://x.com/VadimCarazan/status/2114623816072568925",
+      "reference_path": "originals/original-01.jpg",
+      "reference_dimensions": [
+        4096,
+        2731
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: reusable blank product-render plate\nInput image 1: edit target, original photographic showcase.\nPrimary request: Replace only the entire active phone display with a clean blank very pale warm gray screen, preserving the black dynamic island/notch and physical bezel. Remove every app icon, social UI, logo, typography and graphic inside the display. The screen must be an empty asset placeholder.\nPreserve the original camera, full canvas aspect ratio, crop, object positions and proportions, wood grain, furniture, shadows, reflections, illumination and photographic texture. Change only the stated application surface. Keep the empty replacement correctly seated on the original surface with matching perspective and gentle existing illumination. No placeholder text, guides, labels, new logos, watermarks or added props. This is an empty template for later Blender artwork placement, not a redesign.",
+      "plate": "plates/vadim-phone-desk.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-0402fdd4-ac12-4973-96bc-13d8e73433d2.png",
+      "generated_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "67ea6b6e94ec8fd4e3846e6cb00df019ec5639be3ba60b100cb9445c2d7ba5bb",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0001220703125
+    },
+    {
+      "id": "vadim-auditorium-display",
+      "source_url": "https://x.com/VadimCarazan/status/2114623816072568925",
+      "reference_path": "originals/original-02.jpg",
+      "reference_dimensions": [
+        3000,
+        1688
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: reusable blank product-render plate\nInput image 1: edit target, original photographic showcase.\nPrimary request: Replace only the content inside the large dark green framed auditorium wall display with a uniform neutral pale warm gray blank panel. Remove all green brand artwork, photo, words and logo from within that panel. Keep the dark thin frame, exactly its original perspective and position.\nPreserve the original camera, full canvas aspect ratio, crop, object positions and proportions, wood grain, furniture, shadows, reflections, illumination and photographic texture. Change only the stated application surface. Keep the empty replacement correctly seated on the original surface with matching perspective and gentle existing illumination. No placeholder text, guides, labels, new logos, watermarks or added props. This is an empty template for later Blender artwork placement, not a redesign.",
+      "plate": "plates/vadim-auditorium-display.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-8731bab7-c65d-4d6c-b661-f9d0688125ff.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "337ea173a0c488f255def2e624bbacffc1701b848e7aaaf4d1a93275fae84095",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0002352107686858229
+    },
+    {
+      "id": "vadim-five-social-cards",
+      "source_url": "https://x.com/VadimCarazan/status/2114623816072568925",
+      "reference_path": "originals/original-03.jpg",
+      "reference_dimensions": [
+        3000,
+        1688
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: reusable blank product-render plate\nInput image 1: edit target, original photographic showcase.\nPrimary request: Turn the five social post cards into empty asset placeholders. Preserve all five equal outer white card shapes in their exact locations and sizes, gaps, subtle corners and shadows on the same beige backdrop. Clear every portrait, word, logo, pattern, colored artwork, avatar and UI icon inside each card; all five cards should be completely blank warm white paper-like rectangles. Do not change their size or arrangement.\nPreserve the original camera, full canvas aspect ratio, crop, object positions and proportions, wood grain, furniture, shadows, reflections, illumination and photographic texture. Change only the stated application surface. Keep the empty replacement correctly seated on the original surface with matching perspective and gentle existing illumination. No placeholder text, guides, labels, new logos, watermarks or added props. This is an empty template for later Blender artwork placement, not a redesign.",
+      "plate": "plates/vadim-five-social-cards.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-d8f3f61f-718a-4358-b3c3-1f3646b1ff61.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "167d005b44f58e1676b33d0e3ca8c4ddc5c0d9504f54c27e1ced0f6b4e4d83f5",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0002352107686858229
+    },
+    {
+      "id": "vadim-laptop-sticker",
+      "source_url": "https://x.com/VadimCarazan/status/2114623816072568925",
+      "reference_path": "originals/original-04.jpg",
+      "reference_dimensions": [
+        3000,
+        1688
+      ],
+      "prompt": "Use case: precise-object-edit\nAsset type: reusable blank product-render plate\nInput image 1: edit target, original photographic showcase.\nPrimary request: Replace only the green printed face of the small rectangular laptop sticker with a blank warm white face. Keep the sticker's exact outer shape, position, perspective, white border, surface contact and soft edge shadow. Remove all green and graphic stripes. Everything else remains as photographed.\nPreserve the original camera, full canvas aspect ratio, crop, object positions and proportions, wood grain, furniture, shadows, reflections, illumination and photographic texture. Change only the stated application surface. Keep the empty replacement correctly seated on the original surface with matching perspective and gentle existing illumination. No placeholder text, guides, labels, new logos, watermarks or added props. This is an empty template for later Blender artwork placement, not a redesign.",
+      "plate": "plates/vadim-laptop-sticker.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-3a8594ad-5298-40e3-a12a-3dc31874d845.png",
+      "generated_dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "4db7f07b6250798890cddbbd4de447ae3c217da11a102858468001b8a02a04c8",
+      "is_blank_plate": true,
+      "aspect_ratio_relative_error": 0.0002352107686858229
+    }
+  ],
+  "qa_report": "qa/independent-final-report.json",
+  "blender_note": "Four baked-photo scenes with eight transparent guide UV quads. Guides require exact per-surface masks for full bleed; populated artwork must receive its own finishing QA."
+}

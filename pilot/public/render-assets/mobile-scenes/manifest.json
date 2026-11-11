@@ -1,0 +1,1203 @@
+{
+  "template_count": 7,
+  "source": "Seven user-provided attachments, copied and hashed in inputs.json",
+  "mode": "Built-in imagegen donors plus native exact-photograph surface compositing",
+  "templates": [
+    {
+      "id": "01-metallic-icon-macro",
+      "title": "Metallic app-icon macro",
+      "source_kind": "user_attachment",
+      "original_size": [
+        1200,
+        1433
+      ],
+      "generated_donor_size": [
+        1148,
+        1370
+      ],
+      "blank": "templates/01-metallic-icon-macro/blank.png",
+      "original": "reference/01-metallic-icon-macro.png",
+      "slots": [
+        {
+          "name": "metallic-logo",
+          "mask": "masks/metallic-logo.png",
+          "quad": [
+            [
+              544.7319933445041,
+              702.6797959428286
+            ],
+            [
+              929.3662998749106,
+              700.2983664773556
+            ],
+            [
+              1036.8051624199618,
+              1053.1826908118048
+            ],
+            [
+              650.4752692811082,
+              1056.2703364363983
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "relative",
+          "notes": "Transparent brand mark recommended; radial brushed silver is the baked substrate. Full opaque art inherits its relative highlights."
+        },
+        {
+          "name": "cropped-blue-icon",
+          "mask": "masks/cropped-blue-icon.png",
+          "quad": [
+            [
+              722.7319933445041,
+              1288.6797959428286
+            ],
+            [
+              1107.3662998749105,
+              1286.2983664773556
+            ],
+            [
+              1214.8051624199618,
+              1639.1826908118048
+            ],
+            [
+              828.4752692811082,
+              1642.2703364363983
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "relative",
+          "notes": "Full virtual icon extends below canvas. Visible mask is exact; unseen extent is an extrapolated placement guide."
+        },
+        {
+          "name": "cropped-white-icon",
+          "mask": "masks/cropped-white-icon.png",
+          "quad": [
+            [
+              1124.7319933445042,
+              702.6797959428286
+            ],
+            [
+              1509.3662998749105,
+              700.2983664773556
+            ],
+            [
+              1616.8051624199618,
+              1053.1826908118048
+            ],
+            [
+              1230.4752692811082,
+              1056.2703364363983
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "relative",
+          "notes": "Partly off-canvas virtual icon; original blank white substrate is retained."
+        },
+        {
+          "name": "status-time",
+          "mask": "masks/status-time.png",
+          "quad": [
+            [
+              570,
+              330
+            ],
+            [
+              840,
+              330
+            ],
+            [
+              862,
+              425
+            ],
+            [
+              592,
+              425
+            ]
+          ],
+          "artwork_size": [
+            1000,
+            350
+          ],
+          "lighting": "none",
+          "notes": "Optional digital text on black glass; source wording is cleared, not hardware."
+        },
+        {
+          "name": "app-label",
+          "mask": "masks/app-label.png",
+          "quad": [
+            [
+              710,
+              1080
+            ],
+            [
+              1010,
+              1080
+            ],
+            [
+              1033,
+              1172
+            ],
+            [
+              733,
+              1172
+            ]
+          ],
+          "artwork_size": [
+            1600,
+            450
+          ],
+          "lighting": "none",
+          "notes": "Optional digital text on black glass; source wording is cleared, not hardware."
+        }
+      ],
+      "replacement_union": "templates/01-metallic-icon-macro/replacement-union.png",
+      "max_change_outside_2px_mask_aa": 0,
+      "sha256": "0adbb75c7a7211cc62c7722d886bf59b45ffab190e0a7682796eb70f58da7989",
+      "type": "Fixed-camera image-based composition, no recovered subject geometry",
+      "method": "Built-in imagegen cleanup donors; native surface masks and exact original photographic content outside declared replacement regions.",
+      "metal_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 266,
+          "rms": 0.2766832019535427
+        },
+        {
+          "edge": 1,
+          "inliers": 240,
+          "rms": 0.2963713126601922
+        },
+        {
+          "edge": 2,
+          "inliers": 265,
+          "rms": 0.3249266887622811
+        },
+        {
+          "edge": 3,
+          "inliers": 240,
+          "rms": 0.2977662768709875
+        }
+      ],
+      "generated_metal_quad": [
+        [
+          521.0425795333992,
+          671.6035858270396
+        ],
+        [
+          888.7788401659379,
+          668.9486232658882
+        ],
+        [
+          991.5041189254422,
+          1006.7035062621525
+        ],
+        [
+          622.6296331543497,
+          1009.5370187964372
+        ]
+      ],
+      "generated_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 258,
+          "rms": 0.33706758950776483
+        },
+        {
+          "edge": 1,
+          "inliers": 230,
+          "rms": 0.3017484489196957
+        },
+        {
+          "edge": 2,
+          "inliers": 248,
+          "rms": 0.3019457182879526
+        },
+        {
+          "edge": 3,
+          "inliers": 229,
+          "rms": 0.29705923231723724
+        }
+      ],
+      "macro_note": "Silver primary face, partial blue/white tiles, clock/name fields are independent roles. Physical phone rim/button/grain remain original."
+    },
+    {
+      "id": "02-dark-ticket-phone",
+      "title": "Ticket phone on dark surface",
+      "source_kind": "user_attachment",
+      "original_size": [
+        1200,
+        1600
+      ],
+      "generated_donor_size": [
+        1086,
+        1448
+      ],
+      "blank": "templates/02-dark-ticket-phone/blank.png",
+      "original": "reference/02-dark-ticket-phone.png",
+      "slots": [
+        {
+          "name": "screen",
+          "mask": "masks/screen.png",
+          "quad": [
+            [
+              118.05612018358933,
+              361.9388446223094
+            ],
+            [
+              621.2300564568018,
+              243.14197455869183
+            ],
+            [
+              1124.3332340185345,
+              1095.510209120945
+            ],
+            [
+              591.3566132130671,
+              1242.3742708459777
+            ]
+          ],
+          "artwork_size": [
+            1170,
+            2532
+          ],
+          "lighting": "relative",
+          "notes": "Physical island and foreground finger boundaries retained. Full portrait UI, no duplicate device frame or camera cutout."
+        }
+      ],
+      "replacement_union": "templates/02-dark-ticket-phone/replacement-union.png",
+      "max_change_outside_2px_mask_aa": 0,
+      "sha256": "ec6fd75813b63b77189f98b89ba461140d3338832221471b5f42f46f12e72883",
+      "type": "Fixed-camera image-based composition, no recovered subject geometry",
+      "method": "Built-in imagegen cleanup donors; native surface masks and exact original photographic content outside declared replacement regions.",
+      "screen_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 362,
+          "rms": 0.3065679037306144
+        },
+        {
+          "edge": 1,
+          "inliers": 606,
+          "rms": 0.2752693048710543
+        },
+        {
+          "edge": 2,
+          "inliers": 365,
+          "rms": 0.2971810749084338
+        },
+        {
+          "edge": 3,
+          "inliers": 633,
+          "rms": 0.26681688152039995
+        }
+      ],
+      "generated_screen_quad": [
+        [
+          107.29688519587029,
+          326.5716149097995
+        ],
+        [
+          562.4313864790635,
+          219.25992250926168
+        ],
+        [
+          1016.2496077259684,
+          991.3704638584096
+        ],
+        [
+          534.575529692733,
+          1124.1156291920224
+        ]
+      ],
+      "generated_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 332,
+          "rms": 0.3074990186863107
+        },
+        {
+          "edge": 1,
+          "inliers": 549,
+          "rms": 0.26230302619720364
+        },
+        {
+          "edge": 2,
+          "inliers": 337,
+          "rms": 0.3048992158242163
+        },
+        {
+          "edge": 3,
+          "inliers": 573,
+          "rms": 0.2743067156094537
+        }
+      ],
+      "physical_island": "physical-island.png",
+      "material_note": "A smooth donor-screen field is fitted from empty neutral display pixels, so donor hardware cannot ghost into the original mask."
+    },
+    {
+      "id": "03-calendar-handheld",
+      "title": "Straight handheld calendar phone",
+      "source_kind": "user_attachment",
+      "original_size": [
+        680,
+        680
+      ],
+      "generated_donor_size": [
+        1254,
+        1254
+      ],
+      "blank": "templates/03-calendar-handheld/blank.png",
+      "original": "reference/03-calendar-handheld.png",
+      "slots": [
+        {
+          "name": "screen",
+          "mask": "masks/screen.png",
+          "quad": [
+            [
+              218.0,
+              80.0
+            ],
+            [
+              460.0,
+              80.0
+            ],
+            [
+              460.0,
+              606.0
+            ],
+            [
+              218.0,
+              606.0
+            ]
+          ],
+          "artwork_size": [
+            1170,
+            2532
+          ],
+          "lighting": "relative",
+          "notes": "Physical island and foreground finger boundaries retained. Full portrait UI, no duplicate device frame or camera cutout."
+        }
+      ],
+      "replacement_union": "templates/03-calendar-handheld/replacement-union.png",
+      "max_change_outside_2px_mask_aa": 0,
+      "sha256": "c51f70e5a855a3bc15b1bda1fe6d0cffdcde79e4f2595d5d8a5a3d52628c655a",
+      "type": "Fixed-camera image-based composition, no recovered subject geometry",
+      "method": "Built-in imagegen cleanup donors; native surface masks and exact original photographic content outside declared replacement regions.",
+      "screen_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 178,
+          "rms": 0.0
+        },
+        {
+          "edge": 1,
+          "inliers": 381,
+          "rms": 0.0
+        },
+        {
+          "edge": 2,
+          "inliers": 178,
+          "rms": 0.0
+        },
+        {
+          "edge": 3,
+          "inliers": 381,
+          "rms": 0.0
+        }
+      ],
+      "generated_screen_quad": [
+        [
+          403.0,
+          147.3978668533411
+        ],
+        [
+          850.1277724846035,
+          146.22700738028493
+        ],
+        [
+          848.5460157797218,
+          1118.0
+        ],
+        [
+          403.0,
+          1118.0
+        ]
+      ],
+      "generated_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 297,
+          "rms": 0.2730778922343956
+        },
+        {
+          "edge": 1,
+          "inliers": 570,
+          "rms": 0.3643389438879108
+        },
+        {
+          "edge": 2,
+          "inliers": 322,
+          "rms": 0.0
+        },
+        {
+          "edge": 3,
+          "inliers": 704,
+          "rms": 0.0
+        }
+      ],
+      "physical_island": "physical-island.png",
+      "material_note": "A smooth donor-screen field is fitted from empty neutral display pixels, so donor hardware cannot ghost into the original mask."
+    },
+    {
+      "id": "04-music-campaign",
+      "title": "Music campaign with eight art cards",
+      "source_kind": "user_attachment",
+      "original_size": [
+        1054,
+        1405
+      ],
+      "generated_donor_size": [
+        1086,
+        1448
+      ],
+      "blank": "templates/04-music-campaign/blank.png",
+      "original": "reference/04-music-campaign.png",
+      "slots": [
+        {
+          "name": "screen",
+          "mask": "masks/screen.png",
+          "quad": [
+            [
+              387.5,
+              516.5
+            ],
+            [
+              666.5,
+              516.5
+            ],
+            [
+              666.5,
+              1120.5
+            ],
+            [
+              387.5,
+              1120.5
+            ]
+          ],
+          "artwork_size": [
+            1170,
+            2532
+          ],
+          "lighting": "relative",
+          "notes": "Replace wallpaper and UI as one portrait asset; retain real island."
+        },
+        {
+          "name": "art-card-01",
+          "mask": "masks/art-card-01.png",
+          "quad": [
+            [
+              -48.5,
+              583.5
+            ],
+            [
+              147.5,
+              583.5
+            ],
+            [
+              147.5,
+              777.5
+            ],
+            [
+              -48.5,
+              777.5
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "none",
+          "notes": "Original card crop/position retained. Native source card is square; partly clipped at canvas where applicable."
+        },
+        {
+          "name": "art-card-02",
+          "mask": "masks/art-card-02.png",
+          "quad": [
+            [
+              164.5,
+              583.5
+            ],
+            [
+              359.5,
+              583.5
+            ],
+            [
+              359.5,
+              777.5
+            ],
+            [
+              164.5,
+              777.5
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "none",
+          "notes": "Original card crop/position retained. Native source card is square; partly clipped at canvas where applicable."
+        },
+        {
+          "name": "art-card-03",
+          "mask": "masks/art-card-03.png",
+          "quad": [
+            [
+              694.5,
+              583.5
+            ],
+            [
+              889.5,
+              583.5
+            ],
+            [
+              889.5,
+              777.5
+            ],
+            [
+              694.5,
+              777.5
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "none",
+          "notes": "Original card crop/position retained. Native source card is square; partly clipped at canvas where applicable."
+        },
+        {
+          "name": "art-card-04",
+          "mask": "masks/art-card-04.png",
+          "quad": [
+            [
+              906.5,
+              583.5
+            ],
+            [
+              1101.5,
+              583.5
+            ],
+            [
+              1101.5,
+              777.5
+            ],
+            [
+              906.5,
+              777.5
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "none",
+          "notes": "Original card crop/position retained. Native source card is square; partly clipped at canvas where applicable."
+        },
+        {
+          "name": "art-card-05",
+          "mask": "masks/art-card-05.png",
+          "quad": [
+            [
+              -48.5,
+              794.5
+            ],
+            [
+              147.5,
+              794.5
+            ],
+            [
+              147.5,
+              988.5
+            ],
+            [
+              -48.5,
+              988.5
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "none",
+          "notes": "Original card crop/position retained. Native source card is square; partly clipped at canvas where applicable."
+        },
+        {
+          "name": "art-card-06",
+          "mask": "masks/art-card-06.png",
+          "quad": [
+            [
+              164.5,
+              794.5
+            ],
+            [
+              359.5,
+              794.5
+            ],
+            [
+              359.5,
+              988.5
+            ],
+            [
+              164.5,
+              988.5
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "none",
+          "notes": "Original card crop/position retained. Native source card is square; partly clipped at canvas where applicable."
+        },
+        {
+          "name": "art-card-07",
+          "mask": "masks/art-card-07.png",
+          "quad": [
+            [
+              694.5,
+              794.5
+            ],
+            [
+              889.5,
+              794.5
+            ],
+            [
+              889.5,
+              988.5
+            ],
+            [
+              694.5,
+              988.5
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "none",
+          "notes": "Original card crop/position retained. Native source card is square; partly clipped at canvas where applicable."
+        },
+        {
+          "name": "art-card-08",
+          "mask": "masks/art-card-08.png",
+          "quad": [
+            [
+              906.5,
+              794.5
+            ],
+            [
+              1101.5,
+              794.5
+            ],
+            [
+              1101.5,
+              988.5
+            ],
+            [
+              906.5,
+              988.5
+            ]
+          ],
+          "artwork_size": [
+            1024,
+            1024
+          ],
+          "lighting": "none",
+          "notes": "Original card crop/position retained. Native source card is square; partly clipped at canvas where applicable."
+        },
+        {
+          "name": "brand-signature",
+          "mask": "masks/brand-signature.png",
+          "quad": [
+            [
+              400,
+              145
+            ],
+            [
+              655,
+              145
+            ],
+            [
+              655,
+              230
+            ],
+            [
+              400,
+              230
+            ]
+          ],
+          "artwork_size": [
+            1600,
+            500
+          ],
+          "lighting": "none",
+          "notes": "Transparent campaign graphic/text slot; create truthful brand copy, do not inherit the original promotion/terms."
+        },
+        {
+          "name": "headline",
+          "mask": "masks/headline.png",
+          "quad": [
+            [
+              215,
+              250
+            ],
+            [
+              840,
+              250
+            ],
+            [
+              840,
+              415
+            ],
+            [
+              215,
+              415
+            ]
+          ],
+          "artwork_size": [
+            2200,
+            650
+          ],
+          "lighting": "none",
+          "notes": "Transparent campaign graphic/text slot; create truthful brand copy, do not inherit the original promotion/terms."
+        },
+        {
+          "name": "footer-copy",
+          "mask": "masks/footer-copy.png",
+          "quad": [
+            [
+              200,
+              1210
+            ],
+            [
+              855,
+              1210
+            ],
+            [
+              855,
+              1365
+            ],
+            [
+              200,
+              1365
+            ]
+          ],
+          "artwork_size": [
+            2200,
+            500
+          ],
+          "lighting": "none",
+          "notes": "Transparent campaign graphic/text slot; create truthful brand copy, do not inherit the original promotion/terms."
+        }
+      ],
+      "replacement_union": "templates/04-music-campaign/replacement-union.png",
+      "max_change_outside_2px_mask_aa": 0,
+      "sha256": "28908ea433a0b848646d1737320b9b8f790a8e548f32c54f55e068c8d051c675",
+      "type": "Fixed-camera image-based composition, no recovered subject geometry",
+      "method": "Built-in imagegen cleanup donors; native surface masks and exact original photographic content outside declared replacement regions.",
+      "campaign_note": "8 separate card faces,1 phone screen, independent brand/headline/footer fields; no source offer or music branding retained. Cards are planar campaign graphics, not recovered album objects.",
+      "generated_screen_quad": [
+        [
+          399.0,
+          532.0
+        ],
+        [
+          685.0,
+          532.0
+        ],
+        [
+          685.0,
+          1153.0
+        ],
+        [
+          399.0,
+          1153.0
+        ]
+      ],
+      "generated_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 200,
+          "rms": 0.0
+        },
+        {
+          "edge": 1,
+          "inliers": 448,
+          "rms": 0.0
+        },
+        {
+          "edge": 2,
+          "inliers": 207,
+          "rms": 0.0
+        },
+        {
+          "edge": 3,
+          "inliers": 448,
+          "rms": 0.0
+        }
+      ],
+      "physical_island": "physical-island.png"
+    },
+    {
+      "id": "05-person-forward-phone",
+      "title": "Forward phone with person",
+      "source_kind": "user_attachment",
+      "original_size": [
+        1199,
+        898
+      ],
+      "generated_donor_size": [
+        1449,
+        1085
+      ],
+      "blank": "templates/05-person-forward-phone/blank.png",
+      "original": "reference/05-person-forward-phone.png",
+      "slots": [
+        {
+          "name": "screen",
+          "mask": "masks/screen.png",
+          "quad": [
+            [
+              597.3261415133651,
+              56.61231161842194
+            ],
+            [
+              809.6545814200056,
+              222.56139343757414
+            ],
+            [
+              457.0375191718215,
+              675.0932053762508
+            ],
+            [
+              249.1178262240981,
+              515.6406120958218
+            ]
+          ],
+          "artwork_size": [
+            1170,
+            2532
+          ],
+          "lighting": "relative",
+          "notes": "Physical island and foreground finger boundaries retained. Full portrait UI, no duplicate device frame or camera cutout."
+        }
+      ],
+      "replacement_union": "templates/05-person-forward-phone/replacement-union.png",
+      "max_change_outside_2px_mask_aa": 0,
+      "sha256": "89064323d8aa4e81a564b9285eb07702775a61f7b8bc2b985077fcbf63cf98fe",
+      "type": "Fixed-camera image-based composition, no recovered subject geometry",
+      "method": "Built-in imagegen cleanup donors; native surface masks and exact original photographic content outside declared replacement regions.",
+      "screen_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 160,
+          "rms": 0.25666296008026906
+        },
+        {
+          "edge": 1,
+          "inliers": 331,
+          "rms": 0.2356345113381105
+        },
+        {
+          "edge": 2,
+          "inliers": 152,
+          "rms": 0.24762371156618307
+        },
+        {
+          "edge": 3,
+          "inliers": 245,
+          "rms": 0.3027162725220687
+        }
+      ],
+      "generated_screen_quad": [
+        [
+          721.8482400159077,
+          68.37077689964057
+        ],
+        [
+          978.1853905940704,
+          268.7075170968338
+        ],
+        [
+          552.4925387441826,
+          815.7642355573386
+        ],
+        [
+          301.28537133482854,
+          622.9842483673691
+        ]
+      ],
+      "generated_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 194,
+          "rms": 0.2750571208229382
+        },
+        {
+          "edge": 1,
+          "inliers": 399,
+          "rms": 0.25162343255512076
+        },
+        {
+          "edge": 2,
+          "inliers": 185,
+          "rms": 0.26756308865602546
+        },
+        {
+          "edge": 3,
+          "inliers": 296,
+          "rms": 0.31340319820469853
+        }
+      ],
+      "physical_island": "physical-island.png",
+      "material_note": "A smooth donor-screen field is fitted from empty neutral display pixels, so donor hardware cannot ghost into the original mask."
+    },
+    {
+      "id": "06-pov-handheld-phone",
+      "title": "Top-down first-person handheld phone",
+      "source_kind": "user_attachment",
+      "original_size": [
+        1199,
+        898
+      ],
+      "generated_donor_size": [
+        1449,
+        1085
+      ],
+      "blank": "templates/06-pov-handheld-phone/blank.png",
+      "original": "reference/06-pov-handheld-phone.png",
+      "slots": [
+        {
+          "name": "screen",
+          "mask": "masks/screen.png",
+          "quad": [
+            [
+              479.0,
+              85.0
+            ],
+            [
+              720.337717816378,
+              85.0
+            ],
+            [
+              719.3756111561471,
+              598.0
+            ],
+            [
+              479.0,
+              598.0
+            ]
+          ],
+          "artwork_size": [
+            1170,
+            2532
+          ],
+          "lighting": "relative",
+          "notes": "Physical island and foreground finger boundaries retained. Full portrait UI, no duplicate device frame or camera cutout."
+        }
+      ],
+      "replacement_union": "templates/06-pov-handheld-phone/replacement-union.png",
+      "max_change_outside_2px_mask_aa": 0,
+      "sha256": "674b7806f8b6e248e739b9d9863467fffec459d406db0ef282fdfd7819d6cfd8",
+      "type": "Fixed-camera image-based composition, no recovered subject geometry",
+      "method": "Built-in imagegen cleanup donors; native surface masks and exact original photographic content outside declared replacement regions.",
+      "screen_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 176,
+          "rms": 0.0
+        },
+        {
+          "edge": 1,
+          "inliers": 346,
+          "rms": 0.265318983360001
+        },
+        {
+          "edge": 2,
+          "inliers": 176,
+          "rms": 0.0
+        },
+        {
+          "edge": 3,
+          "inliers": 374,
+          "rms": 0.0
+        }
+      ],
+      "generated_screen_quad": [
+        [
+          579.0,
+          103.0
+        ],
+        [
+          869.0,
+          103.0
+        ],
+        [
+          869.0,
+          722.0
+        ],
+        [
+          579.0,
+          722.0
+        ]
+      ],
+      "generated_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 213,
+          "rms": 0.0
+        },
+        {
+          "edge": 1,
+          "inliers": 451,
+          "rms": 0.0
+        },
+        {
+          "edge": 2,
+          "inliers": 213,
+          "rms": 0.0
+        },
+        {
+          "edge": 3,
+          "inliers": 451,
+          "rms": 0.0
+        }
+      ],
+      "physical_island": "physical-island.png",
+      "material_note": "A smooth donor-screen field is fitted from empty neutral display pixels, so donor hardware cannot ghost into the original mask."
+    },
+    {
+      "id": "07-low-angle-person-phone",
+      "title": "Low-angle phone with person",
+      "source_kind": "user_attachment",
+      "original_size": [
+        1199,
+        898
+      ],
+      "generated_donor_size": [
+        1449,
+        1085
+      ],
+      "blank": "templates/07-low-angle-person-phone/blank.png",
+      "original": "reference/07-low-angle-person-phone.png",
+      "slots": [
+        {
+          "name": "screen",
+          "mask": "masks/screen.png",
+          "quad": [
+            [
+              172.87899482669258,
+              267.5681688336743
+            ],
+            [
+              450.0832340177017,
+              130.37904845084478
+            ],
+            [
+              717.8409068514746,
+              693.5787289832997
+            ],
+            [
+              472.8933178826147,
+              813.2714905795434
+            ]
+          ],
+          "artwork_size": [
+            1170,
+            2532
+          ],
+          "lighting": "relative",
+          "notes": "Physical island and foreground finger boundaries retained. Full portrait UI, no duplicate device frame or camera cutout."
+        }
+      ],
+      "replacement_union": "templates/07-low-angle-person-phone/replacement-union.png",
+      "max_change_outside_2px_mask_aa": 0,
+      "sha256": "f035ef092fde3320675f9606d99029aa51549a793f14fd215d231f3bca65916a",
+      "type": "Fixed-camera image-based composition, no recovered subject geometry",
+      "method": "Built-in imagegen cleanup donors; native surface masks and exact original photographic content outside declared replacement regions.",
+      "screen_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 196,
+          "rms": 0.2726512015541879
+        },
+        {
+          "edge": 1,
+          "inliers": 389,
+          "rms": 0.26641494977770874
+        },
+        {
+          "edge": 2,
+          "inliers": 183,
+          "rms": 0.2993611493471275
+        },
+        {
+          "edge": 3,
+          "inliers": 380,
+          "rms": 0.283135848956212
+        }
+      ],
+      "generated_screen_quad": [
+        [
+          208.45546472754654,
+          323.58097844295406
+        ],
+        [
+          543.636123613399,
+          157.84124583859517
+        ],
+        [
+          866.0192782348976,
+          836.7306534687998
+        ],
+        [
+          571.6460169899786,
+          982.0527322956178
+        ]
+      ],
+      "generated_edge_fit": [
+        {
+          "edge": 0,
+          "inliers": 236,
+          "rms": 0.2690100808528724
+        },
+        {
+          "edge": 1,
+          "inliers": 462,
+          "rms": 0.35077669701820774
+        },
+        {
+          "edge": 2,
+          "inliers": 221,
+          "rms": 0.290064580744524
+        },
+        {
+          "edge": 3,
+          "inliers": 433,
+          "rms": 0.3733127253792793
+        }
+      ],
+      "physical_island": "physical-island.png",
+      "material_note": "A smooth donor-screen field is fitted from empty neutral display pixels, so donor hardware cannot ghost into the original mask."
+    }
+  ],
+  "placement_review_required": "Every blank and every populated test-chart scene must be independently reviewed; future supplied artwork still needs its own finishing check."
+}

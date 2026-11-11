@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "name": "brand-product-board",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2073534690242310301"
+  ],
+  "family": "brand-product-board",
+  "captureContract": "Brand/product evidence board with purposeful quadrants. Diagram and illustration are actual supplied or original brand assets, not random ornaments. Context photo masks the component right edge by layer order; protect focal content. This is a board, not a product window.",
+  "geometryStatus": "Parameterized starting geometry, not a measured faithful reproduction or user-approved export. Refit slots to actual source aspect ratio and protected regions.",
+  "layers": [
+    {
+      "id": "identity-field",
+      "type": "shape",
+      "x": 0,
+      "y": 0,
+      "w": 960,
+      "h": 1080,
+      "background": "@colors.ink"
+    },
+    {
+      "id": "brand-mark",
+      "type": "image",
+      "src": "@assets.logo",
+      "x": 280,
+      "y": 330,
+      "w": 400,
+      "h": 400,
+      "fit": "contain"
+    },
+    {
+      "id": "brand-diagram",
+      "type": "image",
+      "src": "@assets.diagram",
+      "x": 960,
+      "y": 0,
+      "w": 480,
+      "h": 540,
+      "fit": "cover"
+    },
+    {
+      "id": "editorial-art",
+      "type": "image",
+      "src": "@assets.illustration",
+      "x": 1440,
+      "y": 0,
+      "w": 480,
+      "h": 540,
+      "fit": "cover"
+    },
+    {
+      "id": "feature-field",
+      "type": "shape",
+      "x": 960,
+      "y": 540,
+      "w": 480,
+      "h": 540,
+      "background": "@colors.accent"
+    },
+    {
+      "id": "component-detail",
+      "type": "image",
+      "src": "@assets.feature",
+      "x": 1020,
+      "y": 640,
+      "w": 700,
+      "h": 410,
+      "fit": "contain",
+      "role": "screen",
+      "rotate": 5,
+      "allowCanvasCrop": true,
+      "radius": 18,
+      "requireAspectMatch": true
+    },
+    {
+      "id": "context-photo",
+      "type": "image",
+      "src": "@assets.context",
+      "x": 1440,
+      "y": 540,
+      "w": 480,
+      "h": 540,
+      "fit": "cover"
+    }
+  ]
+}

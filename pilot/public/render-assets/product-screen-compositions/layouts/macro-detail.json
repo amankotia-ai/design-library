@@ -1,0 +1,8 @@
+{
+  "version": 1, "name": "macro-detail", "status": "draft",
+  "canvas": {"width":3840,"height":2160,"designWidth":1920,"designHeight":1080},
+  "background":"@colors.stage",
+  "layers":[
+    {"id":"screen","type":"image","role":"screen","src":"@assets.screen","x":340,"y":125,"w":1740,"h":1140,"radius":18,"fit":"contain","rotate":7,"allowCanvasCrop":true,"shadow":"0 16px 50px #0000000c"}
+  ]
+}

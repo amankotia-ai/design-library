@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "name": "tall-page-section",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2072326360560009351",
+    "2073534690242310301"
+  ],
+  "family": "tall-page-section",
+  "captureContract": "Capture a real1240x1000page/section state or adjust geometry to source ratio. Near-square page without OS/browser chrome; native website copy/media remain inside the exact capture. Tall means content-driven, not a stretched desktop screenshot.",
+  "geometryStatus": "Parameterized starting geometry, not a measured faithful reproduction or user-approved export. Refit slots to actual source aspect ratio and protected regions.",
+  "layers": [
+    {
+      "id": "page-section",
+      "type": "image",
+      "src": "@assets.screen",
+      "x": 340,
+      "y": 40,
+      "w": 1240,
+      "h": 1000,
+      "fit": "contain",
+      "role": "screen",
+      "requireAspectMatch": true
+    }
+  ]
+}

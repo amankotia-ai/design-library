@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "name": "layered-component-context",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2072326360560009351",
+    "2073534690242310301"
+  ],
+  "family": "layered-component-context",
+  "captureContract": "Large opaque focal component with quiet offset related captures behind it, following Riley layering. Example slots assume1.216:1sources. Refit each slot to its real ratio. Supporting captures may be partly obscured/de-emphasized, never artificial reflections; keep complete focal evidence opaque and protected. Do not invent context UI or add arbitrary card stacks.",
+  "geometryStatus": "Starting adaptation. Refit to real capture ratio/protected regions; not a measured faithful reproduction or approved export.",
+  "layers": [
+    {
+      "id": "back-context",
+      "type": "image",
+      "src": "@assets.contextBack",
+      "x": 450,
+      "y": 335,
+      "w": 880,
+      "h": 723.684211,
+      "fit": "contain",
+      "role": "screen",
+      "opacity": 0.1,
+      "radius": 18,
+      "requireAspectMatch": true
+    },
+    {
+      "id": "near-context",
+      "type": "image",
+      "src": "@assets.contextNear",
+      "x": 505,
+      "y": 260,
+      "w": 880,
+      "h": 723.684211,
+      "fit": "contain",
+      "role": "screen",
+      "opacity": 0.2,
+      "radius": 18,
+      "requireAspectMatch": true
+    },
+    {
+      "id": "focal-component",
+      "type": "image",
+      "src": "@assets.feature",
+      "x": 600,
+      "y": 160,
+      "w": 880,
+      "h": 723.684211,
+      "fit": "contain",
+      "role": "screen",
+      "radius": 18,
+      "requireAspectMatch": true
+    }
+  ]
+}

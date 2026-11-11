@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "name": "editorial-illustrated-feature",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2083898301892776429"
+  ],
+  "family": "editorial-illustrated-feature",
+  "captureContract": "Inferred product-showcase adaptation of favourite tactile editorial illustration. Original artwork with coherent grain, layered forms and meaningful metaphor; reserve quieter region for exact UI. Do not copy Union mark, animals or actual artwork.",
+  "geometryStatus": "Parameterized starting geometry, not a measured faithful reproduction or user-approved export. Refit slots to actual source aspect ratio and protected regions.",
+  "layers": [
+    {
+      "id": "background",
+      "type": "image",
+      "src": "@assets.background",
+      "x": 0,
+      "y": 0,
+      "w": 1920,
+      "h": 1080,
+      "fit": "cover"
+    },
+    {
+      "id": "feature",
+      "type": "image",
+      "src": "@assets.feature",
+      "x": 600,
+      "y": 100,
+      "w": 720,
+      "h": 880,
+      "fit": "contain",
+      "role": "screen",
+      "radius": 18,
+      "requireAspectMatch": true
+    }
+  ]
+}

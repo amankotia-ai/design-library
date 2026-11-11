@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Viewport and shot geometry</title>
+<style>
+* { box-sizing: border-box; }
+body {
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: clamp(20px, 4vw, 56px);
+  background: #f4f4ee;
+  color: #20352d;
+  font: 15px/1.6 system-ui, sans-serif;
+}
+h1, h2, h3 { line-height: 1.25; text-wrap: balance; }
+h1 { margin: 0 0 12px; font-size: clamp(26px, 4vw, 42px); }
+h2 { margin: 0 0 6px; font-size: 19px; }
+h3 { margin: 0 0 10px; font-size: 17px; }
+p { text-wrap: pretty; }
+.intro { color: #526459; margin: 0 0 32px; }
+.cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+.kind { font-size: 11px; color: #526459; margin-bottom: 12px; }
+.canvas {
+  width: 100%;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  border: 1px solid #abb8aa;
+  background: #c8d8cc;
+  container-type: inline-size;
+}
+.stage { position: relative; width: 100%; height: 100%; overflow: hidden; }
+.screen, .frame, .slotlabel { position: absolute; }
+.screen { background: white; border: 1px solid #d3dcd0; }
+.frame { background: #9bb58b99; }
+.slotlabel { text-align: center; font-size: 2.3cqw; line-height: 1.5; color: #2f453b; }
+.slotlabel span { display: block; font-size: 1.5cqw; }
+.metrics { margin-top: 10px; font-size: 14px; font-variant-numeric: tabular-nums; }
+.method {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px 40px;
+  margin-top: 36px;
+  padding-top: 24px;
+  border-top: 1px solid #cfd8cb;
+}
+.method p { margin: 0 0 12px; color: #526459; }
+.formula { font-weight: 600; }
+.note { margin-top: 16px; color: #526459; font-size: 13px; }
+@media (max-width: 780px) {
+  .cards, .method { grid-template-columns: 1fr; }
+  .cards { gap: 32px; }
+}
+</style>
+</head>
+<body><h1>Viewport and shot geometry</h1><p class="intro">Choose the actual capture and shot width first. Position and visible background follow from the calculation.</p><main class="cards"><article><h2>Wide app window</h2><div class="kind">wide-app-window · USED IN CORRECTED EXAMPLE</div><div class="canvas"><div class="stage"><div class="frame" style="left:8.4791667%;top:3.5185185%;width:83.041667%;height:92.962963%;border-radius:1.25cqw"></div><div class="screen" style="left:9%;top:4.4444444%;width:82%;height:91.111111%;border-radius:0.72916667cqw"></div><div class="slotlabel" style="left:9%;top:42.592593%;width:82%"><b>Real desktop viewport</b><span>1440 × 900 CSS capture</span></div></div></div><div class="metrics"><b>82.0% UI width</b> · 22.8% background area<br>1440 × 900 parent viewport<br>Whole app view, all edges visible</div></article><article><h2>Full app window</h2><div class="kind">full-app-window · PLANNED CAPTURE</div><div class="canvas"><div class="stage"><div class="screen" style="left:4%;top:4%;width:92%;height:92%;border-radius:0.625cqw"></div><div class="slotlabel" style="left:4%;top:42.592593%;width:92%"><b>Real desktop viewport</b><span>1536 × 864 CSS capture</span></div></div></div><div class="metrics"><b>92.0% UI width</b> · 15.4% background area<br>1536 × 864 parent viewport<br>Capture required before export</div></article><article><h2>App content close-up</h2><div class="kind">app-content-macro · USED IN CORRECTED EXAMPLE</div><div class="canvas"><div class="stage"><div class="screen" style="left:-15.627778%;top:4%;width:112%;height:116.42469%;border-radius:0.9375cqw"></div><div class="slotlabel" style="left:0%;top:44.592593%;width:96.372222%"><b>Enlarged desktop content</b><span>1440 × 842 CSS capture</span></div></div></div><div class="metrics"><b>112.0% UI width</b> · 7.5% background area<br>1440 × 900 parent viewport<br>DOM region from the same desktop view</div></article></main><section class="method"><div><h3>One calculation drives the map and export</h3><p class="formula">UI width = canvas width × shot width fraction<br>UI height = UI width × capture height ÷ capture width</p><p>Whole-window shots must fit without shrinking below their width policy. A component capture does not become an app viewport.</p></div><div><h3>Close-up placement protects the real content</h3><p>Start at the declared anchor; solve the permitted position from the heading, chart and account evidence. Stop when those constraints cannot fit.</p><p>The close-up anchors to protected content. Artwork survives in the resulting margins; it does not dictate a narrow side placement.</p></div></section><p class="note">Default export 3840 × 2160. Width policies are configurable starting presets, not universal rules. Actual viewport/layout, protected content and visual balance still need inspection. Corrected example backgrounds reuse the prior Codex images, enlarged from 1672 × 941.</p></body>
+</html>

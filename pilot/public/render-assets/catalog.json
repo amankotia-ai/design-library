@@ -1,0 +1,999 @@
+{
+  "title": "Skill collection items",
+  "sourceProject": "Render Assets",
+  "importedAt": "2026-11-11",
+  "entries": [
+    {
+      "id": "arco",
+      "title": "ARCO",
+      "category": "Brand showcases",
+      "summary": "A technology workspace identity across a phone, auditorium, social cards and laptop sticker.",
+      "note": "Fictional brand. Fixed-camera artwork compositions; phone is 1536 × 1024, other scenes are 1672 × 941.",
+      "sourcePath": "output/arco-tech-brand",
+      "images": [
+        {
+          "src": "/render-assets/arco/01.jpg",
+          "title": "01 Phone",
+          "width": 1536,
+          "height": 1024,
+          "original": "01-phone.png"
+        },
+        {
+          "src": "/render-assets/arco/02.jpg",
+          "title": "02 Auditorium",
+          "width": 1672,
+          "height": 941,
+          "original": "02-auditorium.png"
+        },
+        {
+          "src": "/render-assets/arco/03.jpg",
+          "title": "03 Social Cards",
+          "width": 1672,
+          "height": 941,
+          "original": "03-social-cards.png"
+        },
+        {
+          "src": "/render-assets/arco/04.jpg",
+          "title": "04 Laptop Sticker",
+          "width": 1672,
+          "height": 941,
+          "original": "04-laptop-sticker.png"
+        }
+      ],
+      "preview": "/render-assets/arco/01.jpg",
+      "previewFit": "cover",
+      "readme": "/render-assets/arco/README.md",
+      "downloadLabel": "Download source pack",
+      "download": "/render-assets/arco/download.zip",
+      "downloadBytes": 23457285
+    },
+    {
+      "id": "aster-oak",
+      "title": "ASTER & OAK",
+      "category": "Brand showcases",
+      "summary": "Five coordinated packaging, print and profile compositions in warm cream and green.",
+      "note": "3840 × 2160 exports. Photographic blanks were enlarged from 1672 × 941; this does not add native photographic detail. Fictional brand.",
+      "sourcePath": "output/aster-and-oak-4k",
+      "images": [
+        {
+          "src": "/render-assets/aster-oak/01.jpg",
+          "title": "01 Pouches 4K",
+          "width": 3840,
+          "height": 2160,
+          "original": "01-pouches-4k.png"
+        },
+        {
+          "src": "/render-assets/aster-oak/02.jpg",
+          "title": "02 Stacked Cards 4K",
+          "width": 3840,
+          "height": 2160,
+          "original": "02-stacked-cards-4k.png"
+        },
+        {
+          "src": "/render-assets/aster-oak/03.jpg",
+          "title": "03 Sachets 4K",
+          "width": 3840,
+          "height": 2160,
+          "original": "03-sachets-4k.png"
+        },
+        {
+          "src": "/render-assets/aster-oak/04.jpg",
+          "title": "04 Logo Profile Panels 4K",
+          "width": 3840,
+          "height": 2160,
+          "original": "04-logo-profile-panels-4k.png"
+        },
+        {
+          "src": "/render-assets/aster-oak/05.jpg",
+          "title": "05 Held Profile 4K",
+          "width": 3840,
+          "height": 2160,
+          "original": "05-held-profile-4k.png"
+        }
+      ],
+      "preview": "/render-assets/aster-oak/01.jpg",
+      "previewFit": "cover",
+      "readme": "/render-assets/aster-oak/README.md",
+      "downloadLabel": "Download source pack",
+      "download": "/render-assets/aster-oak/download.zip",
+      "downloadBytes": 38360684
+    },
+    {
+      "id": "sidequest",
+      "title": "Sidequest",
+      "category": "Brand showcases",
+      "summary": "Two complete neighborhood-adventure app screens in handheld phone scenes.",
+      "note": "Fictional app and demo content. Fixed-camera photographs with editable screen artwork, masks and a packed Blender source.",
+      "sourcePath": "output/sidequest-app-mockups",
+      "images": [
+        {
+          "src": "/render-assets/sidequest/01.jpg",
+          "title": "Sidequest Explore Forward",
+          "width": 1449,
+          "height": 1085,
+          "original": "sidequest-explore-forward.png"
+        },
+        {
+          "src": "/render-assets/sidequest/02.jpg",
+          "title": "Sidequest Route Pov",
+          "width": 1449,
+          "height": 1085,
+          "original": "sidequest-route-pov.png"
+        }
+      ],
+      "preview": "/render-assets/sidequest/01.jpg",
+      "previewFit": "cover",
+      "previewPosition": "center 25%",
+      "readme": "/render-assets/sidequest/README.md",
+      "downloadLabel": "Download source pack",
+      "download": "/render-assets/sidequest/download.zip",
+      "downloadBytes": 19144510
+    },
+    {
+      "id": "product-screens",
+      "title": "Relay & Morrow",
+      "category": "Product screens",
+      "summary": "Ten product compositions: close-ups, atmospheric heroes, quiet features and paired workflows.",
+      "note": "Illustrative product fixtures. Image packs retain original exports and self-contained HTML compositions. Prior review records are historical evidence.",
+      "sourcePath": "output/product-screen-system",
+      "images": [
+        {
+          "src": "/render-assets/product-screens/01.jpg",
+          "title": "Morrow Atmospheric Hero",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        },
+        {
+          "src": "/render-assets/product-screens/02.jpg",
+          "title": "Morrow Macro Closeup",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        },
+        {
+          "src": "/render-assets/product-screens/03.jpg",
+          "title": "Morrow Macro Detail",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        },
+        {
+          "src": "/render-assets/product-screens/04.jpg",
+          "title": "Morrow Paired Workflow",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        },
+        {
+          "src": "/render-assets/product-screens/05.jpg",
+          "title": "Morrow Quiet Feature",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        },
+        {
+          "src": "/render-assets/product-screens/06.jpg",
+          "title": "Relay Atmospheric Hero",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        },
+        {
+          "src": "/render-assets/product-screens/07.jpg",
+          "title": "Relay Macro Closeup",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        },
+        {
+          "src": "/render-assets/product-screens/08.jpg",
+          "title": "Relay Macro Detail",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        },
+        {
+          "src": "/render-assets/product-screens/09.jpg",
+          "title": "Relay Paired Workflow",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        },
+        {
+          "src": "/render-assets/product-screens/10.jpg",
+          "title": "Relay Quiet Feature",
+          "width": 3840,
+          "height": 2160,
+          "original": "render.png"
+        }
+      ],
+      "preview": "/render-assets/product-screens/cover.jpg",
+      "downloadLabel": "Download image pack",
+      "download": "/render-assets/product-screens/download.zip",
+      "downloadBytes": 19139451
+    },
+    {
+      "id": "relay-five-shots",
+      "title": "Relay / Five compositions",
+      "category": "Product screens",
+      "summary": "One product expressed through a macro, quiet feature, atmosphere, workflow and editorial layout.",
+      "note": "Fictional product. Final exports are archived; earlier render iterations remain in the source project.",
+      "sourcePath": "output/five-shot-proof",
+      "images": [
+        {
+          "src": "/render-assets/relay-five-shots/01.jpg",
+          "title": "01 Operational Closeup",
+          "width": 3840,
+          "height": 2160,
+          "original": "01-operational-closeup.png"
+        },
+        {
+          "src": "/render-assets/relay-five-shots/02.jpg",
+          "title": "02 Quiet Feature",
+          "width": 3840,
+          "height": 2160,
+          "original": "02-quiet-feature.png"
+        },
+        {
+          "src": "/render-assets/relay-five-shots/03.jpg",
+          "title": "03 Dark Feature Study",
+          "width": 3840,
+          "height": 2160,
+          "original": "03-dark-feature-study.png"
+        },
+        {
+          "src": "/render-assets/relay-five-shots/04.jpg",
+          "title": "04 Graphic Workflow",
+          "width": 3840,
+          "height": 2160,
+          "original": "04-graphic-workflow.png"
+        },
+        {
+          "src": "/render-assets/relay-five-shots/05.jpg",
+          "title": "05 Product Mosaic",
+          "width": 3840,
+          "height": 2160,
+          "original": "05-product-mosaic.png"
+        }
+      ],
+      "preview": "/render-assets/relay-five-shots/cover.jpg",
+      "downloadLabel": "Download image pack",
+      "download": "/render-assets/relay-five-shots/download.zip",
+      "downloadBytes": 1570083
+    },
+    {
+      "id": "relay-nature",
+      "title": "Relay / Forest & coast",
+      "category": "Product screens",
+      "summary": "Opaque interface panels framed against misty forest and golden coastal photography.",
+      "note": "Photography: Sebastian Unrau and Daniel Akselrod on Unsplash. Credits and license links are retained in the project notes. Fictional UI.",
+      "sourcePath": "output/nature-shots",
+      "images": [
+        {
+          "src": "/render-assets/relay-nature/01.jpg",
+          "title": "06 Misty Forest",
+          "width": 3840,
+          "height": 2160,
+          "original": "06-misty-forest.png"
+        },
+        {
+          "src": "/render-assets/relay-nature/02.jpg",
+          "title": "07 Golden Coast",
+          "width": 3840,
+          "height": 2160,
+          "original": "07-golden-coast.png"
+        }
+      ],
+      "preview": "/render-assets/relay-nature/cover.jpg",
+      "readme": "/render-assets/relay-nature/README.md",
+      "downloadLabel": "Download image pack",
+      "download": "/render-assets/relay-nature/download.zip",
+      "downloadBytes": 12731892
+    },
+    {
+      "id": "relay-illustrated",
+      "title": "Relay / Illustrated landscapes",
+      "category": "Product screens",
+      "summary": "Two compositions with painted meadow and editorial canopy backgrounds.",
+      "note": "3840 × 2160 exports with generated 1672 × 941 backgrounds enlarged about 2.3×. Fictional Relay UI is composited separately.",
+      "sourcePath": "output/preference-examples",
+      "images": [
+        {
+          "src": "/render-assets/relay-illustrated/01.jpg",
+          "title": "01 Painted Meadow",
+          "width": 3840,
+          "height": 2160,
+          "original": "01-painted-meadow.png"
+        },
+        {
+          "src": "/render-assets/relay-illustrated/02.jpg",
+          "title": "02 Editorial Canopy",
+          "width": 3840,
+          "height": 2160,
+          "original": "02-editorial-canopy.png"
+        }
+      ],
+      "preview": "/render-assets/relay-illustrated/cover.jpg",
+      "readme": "/render-assets/relay-illustrated/README.md",
+      "downloadLabel": "Download image pack",
+      "download": "/render-assets/relay-illustrated/download.zip",
+      "downloadBytes": 14129031
+    },
+    {
+      "id": "relay-viewport",
+      "title": "Relay / Wide view & detail",
+      "category": "Product screens",
+      "summary": "A complete application viewport paired with a protected content close-up.",
+      "note": "The wide view and close-up use two real captures of the fictional Relay interface. The map also records a planned full-window capture. Each view has its own crop and density rules.",
+      "sourcePath": "output/viewport-correction",
+      "images": [
+        {
+          "src": "/render-assets/relay-viewport/01.jpg",
+          "title": "01 Wide App",
+          "width": 3840,
+          "height": 2160,
+          "original": "01-wide-app.png"
+        },
+        {
+          "src": "/render-assets/relay-viewport/02.jpg",
+          "title": "02 Content Macro",
+          "width": 3840,
+          "height": 2160,
+          "original": "02-content-macro.png"
+        },
+        {
+          "src": "/render-assets/relay-viewport/03.jpg",
+          "title": "Shot Map",
+          "width": 3840,
+          "height": 2160,
+          "original": "shot-map.png"
+        }
+      ],
+      "preview": "/render-assets/relay-viewport/cover.jpg",
+      "readme": "/render-assets/relay-viewport/README.md",
+      "downloadLabel": "Download image pack",
+      "download": "/render-assets/relay-viewport/download.zip",
+      "downloadBytes": 5214114,
+      "study": "/render-assets/relay-viewport/shot-map.html",
+      "studyLabel": "Open shot geometry map"
+    },
+    {
+      "id": "coffee",
+      "title": "Field & Daybreak",
+      "category": "Brand showcases",
+      "summary": "Two coffee-cup identities applied to one shared photographic scene.",
+      "note": "Version 2 source pack includes replaceable artwork and saved Blender scenes. Photographic cup geometry and camera are fixed.",
+      "sourcePath": "output/coffee-cup-examples-v2",
+      "images": [
+        {
+          "src": "/render-assets/coffee/01.jpg",
+          "title": "Field Example",
+          "width": 1672,
+          "height": 941,
+          "original": "field-example.png"
+        },
+        {
+          "src": "/render-assets/coffee/02.jpg",
+          "title": "Daybreak Example",
+          "width": 1672,
+          "height": 941,
+          "original": "daybreak-example.png"
+        }
+      ],
+      "preview": "/render-assets/coffee/01.jpg",
+      "previewFit": "cover",
+      "readme": "/render-assets/coffee/README.md",
+      "downloadLabel": "Download source pack",
+      "download": "/render-assets/coffee/download.zip",
+      "downloadBytes": 22637446
+    },
+    {
+      "id": "grove",
+      "title": "Grove tote",
+      "category": "Brand showcases",
+      "summary": "A simple botanical identity placed on a natural canvas tote.",
+      "note": "Generated photographic brand example. The download contains final images, not a recovered editable 3D scene.",
+      "sourcePath": "output/grove-tote-logo",
+      "images": [
+        {
+          "src": "/render-assets/grove/01.jpg",
+          "title": "Grove Tote",
+          "width": 1672,
+          "height": 941,
+          "original": "grove-tote.png"
+        },
+        {
+          "src": "/render-assets/grove/02.jpg",
+          "title": "Logo Detail",
+          "width": 355,
+          "height": 265,
+          "original": "logo-detail.png"
+        }
+      ],
+      "preview": "/render-assets/grove/01.jpg",
+      "previewFit": "cover",
+      "downloadLabel": "Download image pack",
+      "download": "/render-assets/grove/download.zip",
+      "downloadBytes": 2220554
+    },
+    {
+      "id": "showcase-templates",
+      "title": "Presentation templates",
+      "category": "Mockup templates",
+      "summary": "Fourteen blank scenes for devices, apparel, cards and brand presentations.",
+      "note": "Photographic scenes are fixed-camera 2.5D plates. The source pack also contains separately authored editable 3D stages.",
+      "sourcePath": "output/showcases",
+      "images": [
+        {
+          "src": "/render-assets/showcase-templates/01.jpg",
+          "title": "01 Gradient Title",
+          "width": 1672,
+          "height": 941,
+          "original": "01-gradient-title.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/02.jpg",
+          "title": "02 Logo Scale And Dock",
+          "width": 1672,
+          "height": 941,
+          "original": "02-logo-scale-and-dock.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/03.jpg",
+          "title": "03 Metal Display Closeup",
+          "width": 1672,
+          "height": 941,
+          "original": "03-metal-display-closeup.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/04.jpg",
+          "title": "04 Fleece Jacket",
+          "width": 1672,
+          "height": 941,
+          "original": "04-fleece-jacket.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/05.jpg",
+          "title": "05 Browser Closeup",
+          "width": 1672,
+          "height": 941,
+          "original": "05-browser-closeup.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/06.jpg",
+          "title": "06 Stacked Landscape Cards",
+          "width": 1672,
+          "height": 941,
+          "original": "06-stacked-landscape-cards.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/07.jpg",
+          "title": "07 Mint Border Title",
+          "width": 1672,
+          "height": 941,
+          "original": "07-mint-border-title.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/08.jpg",
+          "title": "08 Profile And Logo Scale",
+          "width": 1672,
+          "height": 941,
+          "original": "08-profile-and-logo-scale.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/09.jpg",
+          "title": "09 Metal Lanyard Badge",
+          "width": 1672,
+          "height": 941,
+          "original": "09-metal-lanyard-badge.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/10.jpg",
+          "title": "10 Handheld Tablet",
+          "width": 1672,
+          "height": 941,
+          "original": "10-handheld-tablet.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/11.jpg",
+          "title": "11 Three Social Posts",
+          "width": 1672,
+          "height": 941,
+          "original": "11-three-social-posts.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/12.jpg",
+          "title": "12 Three App Dock",
+          "width": 1672,
+          "height": 941,
+          "original": "12-three-app-dock.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/13.jpg",
+          "title": "13 Logo And Profile Panels",
+          "width": 1672,
+          "height": 941,
+          "original": "13-logo-and-profile-panels.png"
+        },
+        {
+          "src": "/render-assets/showcase-templates/14.jpg",
+          "title": "14 Gradient Partnership Card",
+          "width": 1672,
+          "height": 941,
+          "original": "14-gradient-partnership-card.png"
+        }
+      ],
+      "preview": "/render-assets/showcase-templates/cover.jpg",
+      "readme": "/render-assets/showcase-templates/README.md",
+      "downloadLabel": "Download source pack",
+      "download": "/render-assets/showcase-templates/download.zip",
+      "downloadBytes": 29984645
+    },
+    {
+      "id": "expanded-templates",
+      "title": "Brand & packaging templates",
+      "category": "Mockup templates",
+      "summary": "Thirty blank scenes for packaging, retail, print, social cards, and devices.",
+      "note": "Generated photographic plates with fixed cameras and packed Blender scenes. The artwork overlay spans the canvas. Fit local decals separately when needed.",
+      "sourcePath": "output/expanded-showcases",
+      "images": [
+        {
+          "src": "/render-assets/expanded-templates/01.jpg",
+          "title": "Cispy board",
+          "width": 1536,
+          "height": 1024,
+          "original": "cispy-board.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/02.jpg",
+          "title": "Cispy business card",
+          "width": 1420,
+          "height": 1108,
+          "original": "cispy-business-card.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/03.jpg",
+          "title": "Cispy facade sign",
+          "width": 1158,
+          "height": 1359,
+          "original": "cispy-facade-sign.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/04.jpg",
+          "title": "Cispy held phone",
+          "width": 1309,
+          "height": 1201,
+          "original": "cispy-held-phone.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/05.jpg",
+          "title": "Cispy poster bank",
+          "width": 1821,
+          "height": 864,
+          "original": "cispy-poster-bank.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/06.jpg",
+          "title": "Cispy stacked cards",
+          "width": 1886,
+          "height": 834,
+          "original": "cispy-stacked-cards.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/07.jpg",
+          "title": "Cispy tablet",
+          "width": 1339,
+          "height": 1174,
+          "original": "cispy-tablet.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/08.jpg",
+          "title": "Cispy tote",
+          "width": 1268,
+          "height": 1241,
+          "original": "cispy-tote.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/09.jpg",
+          "title": "Cispy wall display",
+          "width": 1666,
+          "height": 944,
+          "original": "cispy-wall-display.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/10.jpg",
+          "title": "Solyt social triptych",
+          "width": 1672,
+          "height": 941,
+          "original": "solyt-social-triptych.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/11.jpg",
+          "title": "Strivenet apparel",
+          "width": 1672,
+          "height": 941,
+          "original": "strivenet-apparel.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/12.jpg",
+          "title": "Strivenet color matrix",
+          "width": 1672,
+          "height": 941,
+          "original": "strivenet-color-matrix.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/13.jpg",
+          "title": "Strivenet held profile",
+          "width": 1672,
+          "height": 941,
+          "original": "strivenet-held-profile.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/14.jpg",
+          "title": "Strivenet posters",
+          "width": 1672,
+          "height": 941,
+          "original": "strivenet-posters.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/15.jpg",
+          "title": "Variety brand tiles",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-brand-tiles.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/16.jpg",
+          "title": "Variety complete kit",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-complete-kit.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/17.jpg",
+          "title": "Variety cube cluster",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-cube-cluster.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/18.jpg",
+          "title": "Variety cups",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-cups.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/19.jpg",
+          "title": "Variety open box",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-open-box.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/20.jpg",
+          "title": "Variety overlapping cards",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-overlapping-cards.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/21.jpg",
+          "title": "Variety pouches",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-pouches.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/22.jpg",
+          "title": "Variety sachet grid",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-sachet-grid.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/23.jpg",
+          "title": "Variety shopping bags",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-shopping-bags.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/24.jpg",
+          "title": "Variety small kit",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-small-kit.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/25.jpg",
+          "title": "Variety social grid",
+          "width": 1672,
+          "height": 941,
+          "original": "variety-social-grid.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/26.jpg",
+          "title": "Wellspin address detail",
+          "width": 1122,
+          "height": 1402,
+          "original": "wellspin-address-detail.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/27.jpg",
+          "title": "Wellspin clear card",
+          "width": 1122,
+          "height": 1402,
+          "original": "wellspin-clear-card.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/28.jpg",
+          "title": "Wellspin dock detail",
+          "width": 1122,
+          "height": 1402,
+          "original": "wellspin-dock-detail.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/29.jpg",
+          "title": "Wellspin profile",
+          "width": 1122,
+          "height": 1402,
+          "original": "wellspin-profile.png"
+        },
+        {
+          "src": "/render-assets/expanded-templates/30.jpg",
+          "title": "Wesoft brand cards",
+          "width": 1676,
+          "height": 938,
+          "original": "wesoft-brand-cards.png"
+        }
+      ],
+      "preview": "/render-assets/expanded-templates/cover.jpg",
+      "download": "/render-assets/expanded-templates/download.zip",
+      "downloadLabel": "Download source pack",
+      "downloadBytes": 85651195,
+      "readme": "/render-assets/expanded-templates/README.md"
+    },
+    {
+      "id": "oak-retail",
+      "title": "Oak retail scenes",
+      "category": "Mockup templates",
+      "summary": "Five scenes in warm oak and limestone, from a desktop display to a canvas tote and entrance glass.",
+      "note": "Generated fixed-camera plates with fitted artwork guides. The included notes credit Vadim Carazan as a material and lighting reference.",
+      "sourcePath": "output/oak-retail-extension",
+      "images": [
+        {
+          "src": "/render-assets/oak-retail/01.jpg",
+          "title": "Canvas tote on an oak peg",
+          "width": 1672,
+          "height": 941,
+          "original": "oak-canvas-tote.png"
+        },
+        {
+          "src": "/render-assets/oak-retail/02.jpg",
+          "title": "Desktop display on an oak island",
+          "width": 1672,
+          "height": 941,
+          "original": "oak-desktop-display.png"
+        },
+        {
+          "src": "/render-assets/oak-retail/03.jpg",
+          "title": "Frosted decal at the entrance",
+          "width": 1672,
+          "height": 941,
+          "original": "oak-entrance-glass.png"
+        },
+        {
+          "src": "/render-assets/oak-retail/04.jpg",
+          "title": "Presentation box on a retail bench",
+          "width": 1672,
+          "height": 941,
+          "original": "oak-presentation-box.png"
+        },
+        {
+          "src": "/render-assets/oak-retail/05.jpg",
+          "title": "Stationery on oak",
+          "width": 1672,
+          "height": 941,
+          "original": "oak-stationery-flatlay.png"
+        }
+      ],
+      "preview": "/render-assets/oak-retail/cover.jpg",
+      "download": "/render-assets/oak-retail/download.zip",
+      "downloadLabel": "Download source pack",
+      "downloadBytes": 34919115,
+      "readme": "/render-assets/oak-retail/composition-notes.md"
+    },
+    {
+      "id": "warm-wood",
+      "title": "Warm wood scenes",
+      "category": "Mockup templates",
+      "summary": "Four sunlit applications for a desk phone, auditorium, social cards, and laptop sticker.",
+      "note": "Fixed-camera blank templates used by the ARCO examples. The source pack retains its reference images and composition notes.",
+      "sourcePath": "output/vadim-showcases",
+      "images": [
+        {
+          "src": "/render-assets/warm-wood/01.jpg",
+          "title": "Auditorium display",
+          "width": 1672,
+          "height": 941,
+          "original": "vadim-auditorium-display.png"
+        },
+        {
+          "src": "/render-assets/warm-wood/02.jpg",
+          "title": "Five social cards",
+          "width": 1672,
+          "height": 941,
+          "original": "vadim-five-social-cards.png"
+        },
+        {
+          "src": "/render-assets/warm-wood/03.jpg",
+          "title": "Laptop sticker",
+          "width": 1672,
+          "height": 941,
+          "original": "vadim-laptop-sticker.png"
+        },
+        {
+          "src": "/render-assets/warm-wood/04.jpg",
+          "title": "Phone desk",
+          "width": 1536,
+          "height": 1024,
+          "original": "vadim-phone-desk.png"
+        }
+      ],
+      "preview": "/render-assets/warm-wood/cover.jpg",
+      "download": "/render-assets/warm-wood/download.zip",
+      "downloadLabel": "Download source pack",
+      "downloadBytes": 16416792,
+      "readme": "/render-assets/warm-wood/composition-notes.md"
+    },
+    {
+      "id": "mobile-scenes",
+      "title": "Mobile scene templates",
+      "category": "Mockup templates",
+      "summary": "Seven mobile and campaign scenes, including handheld, first-person, and app-icon applications.",
+      "note": "Fixed-camera image compositions with placement surfaces and masks. People, hands, hardware, and photographic lighting are baked into the plates.",
+      "sourcePath": "output/mobile-reference-pack",
+      "images": [
+        {
+          "src": "/render-assets/mobile-scenes/01.jpg",
+          "title": "Metallic app-icon macro",
+          "width": 1200,
+          "height": 1433,
+          "original": "blank.png"
+        },
+        {
+          "src": "/render-assets/mobile-scenes/02.jpg",
+          "title": "Ticket phone on dark surface",
+          "width": 1200,
+          "height": 1600,
+          "original": "blank.png"
+        },
+        {
+          "src": "/render-assets/mobile-scenes/03.jpg",
+          "title": "Straight handheld calendar phone",
+          "width": 680,
+          "height": 680,
+          "original": "blank.png"
+        },
+        {
+          "src": "/render-assets/mobile-scenes/04.jpg",
+          "title": "Music campaign with eight art cards",
+          "width": 1054,
+          "height": 1405,
+          "original": "blank.png"
+        },
+        {
+          "src": "/render-assets/mobile-scenes/05.jpg",
+          "title": "Forward phone with person",
+          "width": 1199,
+          "height": 898,
+          "original": "blank.png"
+        },
+        {
+          "src": "/render-assets/mobile-scenes/06.jpg",
+          "title": "Top-down first-person handheld phone",
+          "width": 1199,
+          "height": 898,
+          "original": "blank.png"
+        },
+        {
+          "src": "/render-assets/mobile-scenes/07.jpg",
+          "title": "Low-angle phone with person",
+          "width": 1199,
+          "height": 898,
+          "original": "blank.png"
+        }
+      ],
+      "preview": "/render-assets/mobile-scenes/cover.jpg",
+      "download": "/render-assets/mobile-scenes/download.zip",
+      "downloadLabel": "Download source pack",
+      "downloadBytes": 46711844,
+      "readme": "/render-assets/mobile-scenes/README.md"
+    },
+    {
+      "id": "dark-wood-mobile",
+      "title": "Dark wood phone",
+      "category": "Mockup templates",
+      "summary": "A phone on dark wood with a fitted display mask, light, and placement guide.",
+      "note": "The camera and hardware are fixed. The pack includes a Blender scene and fitted artwork surface for replacing the display.",
+      "sourcePath": "output/uds-mobile-template",
+      "images": [
+        {
+          "src": "/render-assets/dark-wood-mobile/01.jpg",
+          "title": "Blank mobile",
+          "width": 1200,
+          "height": 1600,
+          "original": "blank-mobile.png"
+        },
+        {
+          "src": "/render-assets/dark-wood-mobile/02.jpg",
+          "title": "Screen placement guide",
+          "width": 1200,
+          "height": 1600,
+          "original": "screen-placement-guide.jpg"
+        }
+      ],
+      "preview": "/render-assets/dark-wood-mobile/cover.jpg",
+      "download": "/render-assets/dark-wood-mobile/download.zip",
+      "downloadLabel": "Download source pack",
+      "downloadBytes": 39480483,
+      "readme": "/render-assets/dark-wood-mobile/composition-notes.md"
+    },
+    {
+      "id": "ruled",
+      "title": "Ruled",
+      "category": "Grid & layout",
+      "summary": "An interactive grid study with six configurable layouts, reference comparisons, and HTML export.",
+      "note": "The study draws on 29 attributed Bernardo Lickfold posts. Demo measurements and responsive layouts are proposed adaptations.",
+      "sourcePath": "grid-study/dist",
+      "images": [
+        {
+          "title": "Grid study preview",
+          "src": "/render-assets/ruled/01.jpg",
+          "width": 626,
+          "height": 504,
+          "original": "free-serif-corrected.png"
+        }
+      ],
+      "preview": "/render-assets/ruled/cover.jpg",
+      "downloadLabel": "Download study files",
+      "download": "/render-assets/ruled/download.zip",
+      "downloadBytes": 7604325,
+      "study": "/render-assets/ruled/study/index.html",
+      "readme": "/render-assets/ruled/README.md",
+      "studyLabel": "Open grid playground"
+    },
+    {
+      "id": "composition-atlas",
+      "title": "Composition Atlas",
+      "category": "Grid & layout",
+      "summary": "Twelve layout maps for framing product screens, illustration, and brand artwork.",
+      "note": "The pack contains the original atlas, corrected portrait example, and twelve editable geometry definitions.",
+      "sourcePath": "output/art-direction-calibration",
+      "images": [
+        {
+          "title": "Template atlas",
+          "src": "/render-assets/composition-atlas/01.jpg",
+          "width": 3840,
+          "height": 2160,
+          "original": "template-atlas.png"
+        },
+        {
+          "title": "Corrected portrait card",
+          "src": "/render-assets/composition-atlas/02.jpg",
+          "width": 865,
+          "height": 610,
+          "original": "portrait-card-corrected.png"
+        }
+      ],
+      "preview": "/render-assets/composition-atlas/cover.jpg",
+      "downloadLabel": "Download atlas and layouts",
+      "download": "/render-assets/composition-atlas/download.zip",
+      "downloadBytes": 5106806,
+      "study": "/render-assets/composition-atlas/study.html",
+      "studyLabel": "Open composition atlas"
+    }
+  ]
+}

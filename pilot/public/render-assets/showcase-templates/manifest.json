@@ -1,0 +1,104 @@
+{
+  "source_url": "https://x.com/byamine__/status/2115903370506723494",
+  "mode": "built-in image_gen",
+  "layouts": [
+    {
+      "id": "01-gradient-title",
+      "reference": "reference/frames/00-gradient.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-e8b08ede-f524-462d-85ab-430de5bd5816.png",
+      "plate": "plates/01-gradient-title.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: blank render showcase / Blender compositing plate\nInput image: edit target, source video frame\nPrimary request: Remove only the large white 'wesoft' wordmark. Reconstruct the underlying orange-to-cream gradient and stepped translucent rectangular motif cleanly. Keep the entire abstract background, exact crop and colors unchanged; leave the center empty for a future logo.\nConstraints: Match this reference as closely as possible; change only the specified branding/artwork. No replacement logo, no text, no placeholder label, no watermark. Output one landscape 16:9 image, full bleed."
+    },
+    {
+      "id": "02-logo-scale-and-dock",
+      "reference": "reference/frames/cut-01.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-ac10dc98-a26c-496e-8712-71440cb62e73.png",
+      "plate": "plates/02-logo-scale-and-dock.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: blank render showcase / Blender compositing plate\nInput image: edit target, source video frame\nPrimary request: Remove all four navy logos on the left and their 40px/80px/160px/320px text labels; keep the thin four horizontal divider lines on the pale blue panel. On the right, remove the blue smiling face artwork and navy logo, leaving the existing rounded square icon tiles completely blank ivory. Keep dock geometry, cropped third tile, split composition, lighting and gradient backdrop unchanged.\nConstraints: Match this reference as closely as possible; change only the specified branding/artwork. No replacement logo, no text, no placeholder label, no watermark. Output one landscape 16:9 image, full bleed."
+    },
+    {
+      "id": "03-metal-display-closeup",
+      "reference": "reference/frames/cut-02.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-fd133c80-ab93-4590-956c-3c2aace7e6a1.png",
+      "plate": "plates/03-metal-display-closeup.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: blank render showcase / Blender compositing plate\nInput image: edit target, source video frame\nPrimary request: Remove only the black geometric logo from the white display face. Leave an entirely blank white insert for later artwork. Preserve the brushed aluminum rounded frame, black inset rim, machined rear bracket, braided cable, black background, perspective, highlights, exact camera crop and all material details.\nConstraints: Match this reference as closely as possible; change only the specified branding/artwork. No replacement logo, no text, no placeholder label, no watermark. Output one landscape 16:9 image, full bleed."
+    },
+    {
+      "id": "04-fleece-jacket",
+      "reference": "reference/frames/cut-03.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-1a958bae-277a-4192-9ddd-770e751ea0c0.png",
+      "plate": "plates/04-fleece-jacket.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty brand showcase plate for Blender\nInput image: edit target, source frame\nPrimary request: Remove the entire white embroidered 'wellspin' wordmark, symbol and registration mark from the black fleece jacket back. Restore continuous natural black fleece pile matching its surrounding fabric, wrinkles, seam details, shading. Preserve person, glasses, pose, hair, jacket silhouette, gray background, exact camera crop. Leave the jacket back blank.\nConstraints: Change only specified content, match reference composition and lighting. No replacement artwork, no text, no placeholder labels, no watermark. One full bleed landscape 16:9 image."
+    },
+    {
+      "id": "05-browser-closeup",
+      "reference": "reference/frames/cut-04.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-1382cc92-c57d-45b1-bbfe-f8a198b7baee.png",
+      "plate": "plates/05-browser-closeup.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty brand showcase plate for Blender\nInput image: edit target, source frame\nPrimary request: Remove the green emblem from the black favicon tile, remove the whole browser tab title text and address-bar domain text. Keep the black blank favicon tile, red yellow green window buttons, back forward reload controls, white rounded browser chrome, light gray address field, gray background and exact very close cropped composition unchanged. No other text or symbols besides the browser controls.\nConstraints: Change only specified content, match reference composition and lighting. No replacement artwork, no text, no placeholder labels, no watermark. One full bleed landscape 16:9 image."
+    },
+    {
+      "id": "06-stacked-landscape-cards",
+      "reference": "reference/frames/cut-05.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-baca7f16-549a-4485-aaca-ddde925e9b09.png",
+      "plate": "plates/06-stacked-landscape-cards.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty brand showcase plate for Blender\nInput image: edit target, source frame\nPrimary request: Make both stacked landscape presentation cards completely blank dark near-black faces. Remove all orange gradient artwork and the small top gradient strip as well as all copy, URL text and capsule outline. Retain exact two card silhouettes, proportions, overlap, gray background, framing, and flat matte material. These are empty surfaces for adding replacement brand assets in Blender.\nConstraints: Change only specified content, match reference composition and lighting. No replacement artwork, no text, no placeholder labels, no watermark. One full bleed landscape 16:9 image."
+    },
+    {
+      "id": "07-mint-border-title",
+      "reference": "reference/frames/cut-06.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-77c25432-e7db-4460-9e4f-c93aba5f3cdc.png",
+      "plate": "plates/07-mint-border-title.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty render showcase plate for Blender\nInput image: edit target, source video frame\nPrimary request: Remove the entire large mint green BRANDUO wordmark and its central stacked symbol. Leave the center and bottom clean solid black. Preserve the narrow repeated mint green diagonal edge stripes at far left and right exactly. Full bleed original crop.\nConstraints: Change only described content; closely match exact reference arrangement, lighting and materials. No replacement graphics, no words, no placeholder labels, no watermark. Single full bleed landscape 16:9 image."
+    },
+    {
+      "id": "08-profile-and-logo-scale",
+      "reference": "reference/frames/cut-07.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-e0ccb454-7887-481e-a923-c7f1ff0ef523.png",
+      "plate": "plates/08-profile-and-logo-scale.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty render showcase plate for Blender\nInput image: edit target, source video frame\nPrimary request: Blank all artwork and text: on the left profile card remove header wordmark AND its large gray spiral graphic leaving a uniform black header, remove avatar logo leaving black avatar tile, remove all profile text, checkmark, link icon and follow text leaving clean white lower body and an empty white pill button. On the right remove four black logos and all px labels, keep thin gray dividers on the white panel. Preserve split layout, card geometry, avatar overlap, gray backdrop and proportions.\nConstraints: Change only described content; closely match exact reference arrangement, lighting and materials. No replacement graphics, no words, no placeholder labels, no watermark. Single full bleed landscape 16:9 image."
+    },
+    {
+      "id": "09-metal-lanyard-badge",
+      "reference": "reference/frames/cut-08.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-799a2318-572b-4199-b257-1dece8d390d0.png",
+      "plate": "plates/09-metal-lanyard-badge.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty render showcase plate for Blender\nInput image: edit target, source video frame\nPrimary request: Remove only black geometric logo, Steven Cole name and FOUNDER job title from the badge insert. Leave the paper insert completely blank white. Preserve brushed dark chrome badge frame, corner screws, black woven strap, oblong attachment slot, shadowing, pale gray backdrop and exact front three-quarter composition.\nConstraints: Change only described content; closely match exact reference arrangement, lighting and materials. No replacement graphics, no words, no placeholder labels, no watermark. Single full bleed landscape 16:9 image."
+    },
+    {
+      "id": "10-handheld-tablet",
+      "reference": "reference/frames/cut-09.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-eb50e05e-5a20-4df4-af15-ffa31d9e1c28.png",
+      "plate": "plates/10-handheld-tablet.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty render showcase plate for Blender\nInput image: edit target, source video frame\nPrimary request: Remove ALL screen content: black large wordmark, all headings, navigation, email and social text, all green side stripes and tiny bottom symbol. Leave the screen uniformly warm off-white, empty for a future full screen design. Preserve the hands, device frame, screen edge curvature, perspective, shadows, skin texture, background and camera crop exactly.\nConstraints: Change only described content; closely match exact reference arrangement, lighting and materials. No replacement graphics, no words, no placeholder labels, no watermark. Single full bleed landscape 16:9 image."
+    },
+    {
+      "id": "11-three-social-posts",
+      "reference": "reference/frames/cut-10.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-297331e7-db4c-4b7c-915d-b9a8891471f8.png",
+      "plate": "plates/11-three-social-posts.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty brand showcase plate for Blender compositing\nInput image: edit target, source video frame\nPrimary request: Turn the three social-post mockups into blank templates. Keep three rectangular white social cards and white header bars with gray three-dot menus. Remove avatar artwork and account names from each header, leave pale gray empty avatar tiles. Remove all post text, pills and gradient artwork from all three bodies. Left body clean off-white, middle and right bodies clean black. Keep exact positions, sizes, spacing, gray backdrop and framing.\nConstraints: Preserve reference composition and materials closely; remove specified branding only. No replacement graphics, words, labels or watermark. One landscape full bleed 16:9 output."
+    },
+    {
+      "id": "12-three-app-dock",
+      "reference": "reference/frames/cut-11.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-4b06d110-8b76-495c-8d77-f88ec31ecbab.png",
+      "plate": "plates/12-three-app-dock.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty brand showcase plate for Blender compositing\nInput image: edit target, source video frame\nPrimary request: Remove ALL graphics from the three rounded square app tiles, including the smiling blue face, center geometric logo and right compass. All three tiles should be blank pale ivory/light gray surfaces following existing light and shaded bevels. Preserve the center tile's larger size, side tile sizes, frosted translucent rounded dock tray, blue-gray gradient background, exact placement, edge highlights and composition.\nConstraints: Preserve reference composition and materials closely; remove specified branding only. No replacement graphics, words, labels or watermark. One landscape full bleed 16:9 output."
+    },
+    {
+      "id": "13-logo-and-profile-panels",
+      "reference": "reference/frames/cut-12.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-295b89e5-bf25-40aa-bbf4-7dc40e3c5e44.png",
+      "plate": "plates/13-logo-and-profile-panels.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty brand showcase plate for Blender compositing\nInput image: edit target, source video frame\nPrimary request: Make this a blank showcase template. Remove white symbol and copyright mark from the large left black rounded panel. On right, retain outer gray rounded panel and small profile card, but remove ALL profile text, checkmarks, link, avatar symbol and header graphic/slogan, leaving a black header and white lower body, empty gray round avatar with white rim, and empty cyan follow pill. Preserve all panel sizes, positions, radii, white gutters and exact crop.\nConstraints: Preserve reference composition and materials closely; remove specified branding only. No replacement graphics, words, labels or watermark. One landscape full bleed 16:9 output."
+    },
+    {
+      "id": "14-gradient-partnership-card",
+      "reference": "reference/frames/cut-13.png",
+      "generated_source": "/Users/abhishekmankotia/.codex/generated_images/01a18991-4297-75e0-9931-edfcaa2d49c3/exec-3b08d448-0dd4-4064-b5c5-7beecb8893ae.png",
+      "plate": "plates/14-gradient-partnership-card.png",
+      "prompt": "Use case: precise-object-edit\nAsset type: empty brand showcase plate for Blender compositing\nInput image: edit target, source video frame\nPrimary request: Remove all central white wordmarks and the multiplication sign: wesoft, x and ANTHROPIC. Reconstruct their underlying gradient smoothly. Keep the orange-black-cream gradient, symmetrical stepped translucent squares, fine edges, inset rectangular artwork and pale gray outer border exactly. Leave the middle empty for later partner assets.\nConstraints: Preserve reference composition and materials closely; remove specified branding only. No replacement graphics, words, labels or watermark. One landscape full bleed 16:9 output."
+    }
+  ]
+}

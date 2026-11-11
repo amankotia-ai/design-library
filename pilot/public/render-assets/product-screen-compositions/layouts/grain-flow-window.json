@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "name": "grain-flow-window",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2087153513495425228"
+  ],
+  "family": "grain-flow-window",
+  "captureContract": "Blue/mint grain-flow is a separate abstract family, not nature. Real UI section uses near-square capture; lower final crop is60logical pixels at bottom. Protected content must survive; resize/reframe for actual capture ratio.",
+  "geometryStatus": "Parameterized starting geometry, not a measured faithful reproduction or user-approved export. Refit slots to actual source aspect ratio and protected regions.",
+  "layers": [
+    {
+      "id": "background",
+      "type": "image",
+      "src": "@assets.background",
+      "x": 0,
+      "y": 0,
+      "w": 1920,
+      "h": 1080,
+      "fit": "cover"
+    },
+    {
+      "id": "product-section",
+      "type": "image",
+      "src": "@assets.screen",
+      "x": 200,
+      "y": 100,
+      "w": 1520,
+      "h": 1040,
+      "fit": "contain",
+      "role": "screen",
+      "allowCanvasCrop": true,
+      "requireAspectMatch": true
+    }
+  ]
+}

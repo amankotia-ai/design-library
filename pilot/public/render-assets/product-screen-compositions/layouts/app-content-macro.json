@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "name": "app-content-macro",
+  "templateId": "app-content-macro",
+  "shotPreset": "app-content-macro",
+  "status": "capture-and-calculation-required",
+  "requiresLayoutCalculation": true,
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "#eeefea",
+  "capturePlan": {
+    "starterCssViewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "captureKinds": [
+      "viewport",
+      "element"
+    ],
+    "note": "Starting viewport to inspect in the actual product, not a claim of supported app layout. Macro may capture a real DOM region from that viewport. Calculate geometry from measured capture evidence before export."
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "image",
+      "src": "@assets.background",
+      "x": 0,
+      "y": 0,
+      "w": 1920,
+      "h": 1080,
+      "fit": "cover"
+    },
+    {
+      "id": "ui",
+      "type": "image",
+      "role": "screen",
+      "src": "@assets.screen",
+      "x": -115.20000000000005,
+      "y": -132.0,
+      "w": 2150.4,
+      "h": 1344.0,
+      "fit": "contain",
+      "radius": 18,
+      "requireAspectMatch": true
+    }
+  ]
+}

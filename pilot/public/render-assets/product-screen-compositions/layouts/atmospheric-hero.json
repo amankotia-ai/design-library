@@ -1,0 +1,10 @@
+{
+  "version": 1, "name": "atmospheric-hero", "status": "draft",
+  "canvas": {"width":3840,"height":2160,"designWidth":1920,"designHeight":1080},
+  "background":"@colors.stage",
+  "layers":[
+    {"id":"background","type":"image","src":"@assets.background","x":0,"y":0,"w":1920,"h":1080,"fit":"cover"},
+    {"id":"screen","type":"image","role":"screen","src":"@assets.screen","x":380,"y":160,"w":1160,"h":760,"radius":16,"fit":"contain","shadow":"0 24px 70px #00000025, 0 2px 10px #00000012"},
+    {"id":"foreground","type":"image","src":"@assets.foreground","x":0,"y":0,"w":1920,"h":1080,"fit":"contain"}
+  ]
+}

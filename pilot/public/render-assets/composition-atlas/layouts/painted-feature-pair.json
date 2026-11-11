@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "name": "painted-feature-pair",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2091782564352504253"
+  ],
+  "family": "painted-feature-pair",
+  "captureContract": "Original painterly inset behind two related tall feature captures, each520:760. No synthetic browser or external headline. Neutral outer stage remains separate from the painted inset.",
+  "geometryStatus": "Parameterized starting geometry, not a measured faithful reproduction or user-approved export. Refit slots to actual source aspect ratio and protected regions.",
+  "layers": [
+    {
+      "id": "painted-inset",
+      "type": "image",
+      "src": "@assets.background",
+      "x": 160,
+      "y": 90,
+      "w": 1600,
+      "h": 900,
+      "fit": "cover",
+      "radius": 28
+    },
+    {
+      "id": "feature-a",
+      "type": "image",
+      "src": "@assets.feature",
+      "x": 350,
+      "y": 160,
+      "w": 520,
+      "h": 760,
+      "fit": "contain",
+      "role": "screen",
+      "radius": 20,
+      "requireAspectMatch": true
+    },
+    {
+      "id": "feature-b",
+      "type": "image",
+      "src": "@assets.result",
+      "x": 1050,
+      "y": 160,
+      "w": 520,
+      "h": 760,
+      "fit": "contain",
+      "role": "screen",
+      "radius": 20,
+      "requireAspectMatch": true
+    }
+  ]
+}

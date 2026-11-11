@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "name": "three-feature-art-tiles",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2072326360560009351"
+  ],
+  "family": "three-feature-art-tiles",
+  "captureContract": "Three equal artwork tiles share one brand/medium; each contains a truthful related feature capture. Artwork supplies meaningful metaphors, never fabricated UI. UI slots intentionally have different ratios (4:3,8:11,5:3); adapt them to actual aspect ratios.",
+  "geometryStatus": "Starting adaptation. Refit to real capture ratio/protected regions; not a measured faithful reproduction or approved export.",
+  "layers": [
+    {
+      "id": "art-1",
+      "type": "image",
+      "src": "@assets.art1",
+      "x": 190,
+      "y": 160,
+      "w": 480,
+      "h": 760,
+      "fit": "cover",
+      "radius": 18
+    },
+    {
+      "id": "feature-1",
+      "type": "image",
+      "src": "@assets.feature1",
+      "x": 230,
+      "y": 400,
+      "w": 400,
+      "h": 300,
+      "fit": "contain",
+      "role": "screen",
+      "radius": 12,
+      "requireAspectMatch": true
+    },
+    {
+      "id": "art-2",
+      "type": "image",
+      "src": "@assets.art2",
+      "x": 720,
+      "y": 160,
+      "w": 480,
+      "h": 760,
+      "fit": "cover",
+      "radius": 18
+    },
+    {
+      "id": "feature-2",
+      "type": "image",
+      "src": "@assets.feature2",
+      "x": 800,
+      "y": 320,
+      "w": 320,
+      "h": 440,
+      "fit": "contain",
+      "role": "screen",
+      "radius": 12,
+      "requireAspectMatch": true
+    },
+    {
+      "id": "art-3",
+      "type": "image",
+      "src": "@assets.art3",
+      "x": 1250,
+      "y": 160,
+      "w": 480,
+      "h": 760,
+      "fit": "cover",
+      "radius": 18
+    },
+    {
+      "id": "feature-3",
+      "type": "image",
+      "src": "@assets.feature3",
+      "x": 1290,
+      "y": 430,
+      "w": 400,
+      "h": 240,
+      "fit": "contain",
+      "role": "screen",
+      "radius": 12,
+      "requireAspectMatch": true
+    }
+  ]
+}

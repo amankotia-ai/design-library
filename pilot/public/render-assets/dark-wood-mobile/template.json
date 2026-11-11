@@ -1,0 +1,110 @@
+{
+  "id": "uds-mobile-dark-wood",
+  "title": "Notched phone on figured dark wood",
+  "source_url": "https://x.com/abduzeedo/status/2094456376550649944",
+  "source_media_index": 1,
+  "scope": "Only the first/mobile photo. Other post images were not downloaded or used.",
+  "original_size": [
+    1200,
+    1600
+  ],
+  "generated_edit_size": [
+    1086,
+    1448
+  ],
+  "final_size": [
+    1200,
+    1600
+  ],
+  "artwork_size": [
+    1170,
+    2532
+  ],
+  "screen_quad": [
+    [
+      212.55033333009706,
+      456.1132579979745
+    ],
+    [
+      603.1130510122364,
+      279.4337636952275
+    ],
+    [
+      1003.5619567554313,
+      1107.2999060745176
+    ],
+    [
+      618.3203131892931,
+      1295.179024738531
+    ]
+  ],
+  "source_edge_fit": [
+    {
+      "edge": 0,
+      "inliers": 36,
+      "rms_pixels": 0.2888592266580415
+    },
+    {
+      "edge": 1,
+      "inliers": 631,
+      "rms_pixels": 0.30275171595518724
+    },
+    {
+      "edge": 2,
+      "inliers": 275,
+      "rms_pixels": 0.3107444031852494
+    },
+    {
+      "edge": 3,
+      "inliers": 628,
+      "rms_pixels": 0.2839591556850386
+    }
+  ],
+  "generated_screen_quad": [
+    [
+      193.0704096941674,
+      413.0260196897108
+    ],
+    [
+      545.093988730673,
+      253.72017649829482
+    ],
+    [
+      905.3149079687828,
+      998.5355632200166
+    ],
+    [
+      559.4200604598067,
+      1167.1820955958885
+    ]
+  ],
+  "generated_edge_fit": [
+    {
+      "edge": 0,
+      "inliers": 35,
+      "rms_pixels": 0.3203173199796129
+    },
+    {
+      "edge": 1,
+      "inliers": 571,
+      "rms_pixels": 0.2797006828061035
+    },
+    {
+      "edge": 2,
+      "inliers": 249,
+      "rms_pixels": 0.32125420132732396
+    },
+    {
+      "edge": 3,
+      "inliers": 565,
+      "rms_pixels": 0.3367518789849315
+    }
+  ],
+  "screen_mask": "screen-mask.png",
+  "screen_illumination": "screen-illumination.png",
+  "final": "blank-mobile.png",
+  "method": "Built-in imagegen cleared display; only its empty screen is projectively remapped onto the original photograph. Original geometry, wood, cast shadow and notch remain outside the native fitted mask.",
+  "max_change_beyond_mask_aa": 0,
+  "sha256": "51313799ce5fecc6509c75319d462c348f718089c9209dee3bc857c6648b2038",
+  "type": "Fixed photographic plate with local screen replacement; not recovered full3D"
+}

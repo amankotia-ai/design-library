@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "name": "textured-component-field",
+  "status": "draft-reference-informed-adaptation",
+  "canvas": {
+    "width": 3840,
+    "height": 2160,
+    "designWidth": 1920,
+    "designHeight": 1080
+  },
+  "background": "@colors.stage",
+  "referenceIds": [
+    "2072326360560009351"
+  ],
+  "family": "textured-component-field",
+  "captureContract": "A textured inset and an independently proportioned exact component; the outer canvas, artwork field and component each have separate ratios. Create original grain/halftone/painterly artwork; capture real component at its actual dimensions.",
+  "geometryStatus": "Starting adaptation. Refit to real capture ratio/protected regions; not a measured faithful reproduction or approved export.",
+  "layers": [
+    {
+      "id": "artwork-field",
+      "type": "image",
+      "src": "@assets.background",
+      "x": 200,
+      "y": 150,
+      "w": 1520,
+      "h": 780,
+      "fit": "cover"
+    },
+    {
+      "id": "component",
+      "type": "image",
+      "src": "@assets.feature",
+      "x": 500,
+      "y": 340,
+      "w": 920,
+      "h": 570,
+      "fit": "contain",
+      "role": "screen",
+      "radius": 18,
+      "requireAspectMatch": true
+    }
+  ]
+}

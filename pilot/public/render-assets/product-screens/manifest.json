@@ -1,0 +1,113 @@
+{
+  "skillPath": "/Users/abhishekmankotia/.codex/skills/product-screen-compositions",
+  "confirmed": {
+    "output": [
+      3840,
+      2160
+    ],
+    "input": "repo or website",
+    "leadingDirection": "large interface close-ups like A1x45h"
+  },
+  "renders": [
+    {
+      "name": "morrow-atmospheric-hero",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/morrow-atmospheric-hero/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "2896ca96233883991edb6530fbec43527be6551888247cef532ef9e0236444ed",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    },
+    {
+      "name": "morrow-macro-closeup",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/morrow-macro-closeup/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "c6ba2970f9fa4c05ba97dd572d93165ca0734b3cb39363206553fd95543ab009",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    },
+    {
+      "name": "morrow-macro-detail",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/morrow-macro-detail/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "a860f1202dab2d368e7d6824cf20b2b7b1d8cbb596191677eaa7e5fbe6e5af54",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    },
+    {
+      "name": "morrow-paired-workflow",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/morrow-paired-workflow/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "dfe8ff12d0f9b537a707fb23e13347560982e1e61a9d90da726751f9af7294d1",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    },
+    {
+      "name": "morrow-quiet-feature",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/morrow-quiet-feature/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "5ba828a77c6f08b2527803ee2f907a206699bf23cd3ee2486b8766907e8f22dd",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    },
+    {
+      "name": "relay-atmospheric-hero",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/relay-atmospheric-hero/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "b746b9d3d3ec640487caf38ba0e502dd7924c3f92300a593bc0a44ca5b0ad242",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    },
+    {
+      "name": "relay-macro-closeup",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/relay-macro-closeup/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "abe0cfa2b2f61a6a5ed5913b2519c3c82161f3a181e855ef6d13a00c9d5c8b88",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    },
+    {
+      "name": "relay-macro-detail",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/relay-macro-detail/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "3c6a1d118ea9677f84c1dbcf9b96863c3ae98e57ea5c2f930d41ae9a578045ea",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    },
+    {
+      "name": "relay-paired-workflow",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/relay-paired-workflow/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "f0e5856ce9ef8a6ac610b73b01f83dcc2c020cdf9429dc418f89f16ea44cd05a",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    },
+    {
+      "name": "relay-quiet-feature",
+      "path": "/Users/abhishekmankotia/Documents/ChatGPT/Render Assets/output/product-screen-system/renders/relay-quiet-feature/render.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "3883b672580961add201e655b35e92097f9b4a3d35b9c2da935d882dd38f6e2f",
+      "status": "pass",
+      "visualReview": "reviewed",
+      "userApproved": false
+    }
+  ]
+}
