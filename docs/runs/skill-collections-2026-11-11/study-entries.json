@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ruled",
+    "title": "Ruled",
+    "category": "Grid & layout",
+    "summary": "An interactive grid study with six configurable layouts, reference comparisons, and HTML export.",
+    "note": "The study draws on 29 attributed Bernardo Lickfold posts. Demo measurements and responsive layouts are proposed adaptations.",
+    "sourcePath": "grid-study/dist",
+    "images": [
+      {
+        "title": "Grid study preview",
+        "src": "/render-assets/ruled/01.jpg",
+        "width": 626,
+        "height": 504,
+        "original": "free-serif-corrected.png"
+      }
+    ],
+    "preview": "/render-assets/ruled/cover.jpg",
+    "downloadLabel": "Download study files",
+    "download": "/render-assets/ruled/download.zip",
+    "downloadBytes": 7604325,
+    "study": "/render-assets/ruled/study/index.html",
+    "readme": "/render-assets/ruled/README.md"
+  },
+  {
+    "id": "composition-atlas",
+    "title": "Composition Atlas",
+    "category": "Grid & layout",
+    "summary": "Twelve layout maps for framing product screens, illustration, and brand artwork.",
+    "note": "The pack contains the original atlas, corrected portrait example, and twelve editable geometry definitions.",
+    "sourcePath": "output/art-direction-calibration",
+    "images": [
+      {
+        "title": "Template atlas",
+        "src": "/render-assets/composition-atlas/01.jpg",
+        "width": 3840,
+        "height": 2160,
+        "original": "template-atlas.png"
+      },
+      {
+        "title": "Corrected portrait card",
+        "src": "/render-assets/composition-atlas/02.jpg",
+        "width": 865,
+        "height": 610,
+        "original": "portrait-card-corrected.png"
+      }
+    ],
+    "preview": "/render-assets/composition-atlas/cover.jpg",
+    "downloadLabel": "Download atlas and layouts",
+    "download": "/render-assets/composition-atlas/download.zip",
+    "downloadBytes": 5106806,
+    "study": "/render-assets/composition-atlas/study.html"
+  }
+]

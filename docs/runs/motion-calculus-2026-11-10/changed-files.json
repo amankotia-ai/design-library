@@ -1,0 +1,12 @@
+[
+  "src/film-motion-math.js",
+  "src/film-motion-studies.jsx",
+  "src/film-study-thumbnails.jsx",
+  "src/film-study-registry.js",
+  "src/film-data.json",
+  "scripts/check-film-motion.mjs",
+  "public/film-motion/studies/film-motion-math.js",
+  "public/film-motion/studies/spring-motion.md",
+  "public/film-motion/studies/bezier-paths.md",
+  "public/film-motion/manifest.json"
+]

@@ -1,0 +1,35 @@
+{
+  "checked_on": "2026-11-06",
+  "repository": "https://github.com/benjitaylor/skills",
+  "commit": "299140fafd08df55a9c234e610c3f64af3f45531",
+  "source_version": "1.1.1",
+  "source_commit_time": "2026-11-05T03:24:25Z",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "source_url": "https://raw.githubusercontent.com/benjitaylor/skills/299140fafd08df55a9c234e610c3f64af3f45531/stageshow/SKILL.md",
+      "sha256": "e4df76406d63644d5051d79855c3f7931d48fdbe9aec15b3d5c12a2601aa2de6"
+    },
+    {
+      "path": "references/framing.md",
+      "source_url": "https://raw.githubusercontent.com/benjitaylor/skills/299140fafd08df55a9c234e610c3f64af3f45531/stageshow/references/framing.md",
+      "sha256": "7843aa673d50068ce5ff70c16eaedf4db77cf74dff14d9601b3f4f61bc10cf2b"
+    },
+    {
+      "path": "references/craft.md",
+      "source_url": "https://raw.githubusercontent.com/benjitaylor/skills/299140fafd08df55a9c234e610c3f64af3f45531/stageshow/references/craft.md",
+      "sha256": "6b01824cb6e46797cbb57b517e6f31f12149cc3a43cb921aa5b1575cf8a106d1"
+    },
+    {
+      "path": "references/motion.md",
+      "source_url": "https://raw.githubusercontent.com/benjitaylor/skills/299140fafd08df55a9c234e610c3f64af3f45531/stageshow/references/motion.md",
+      "sha256": "7f9b717e8b2cf1c96186988796717f1cd74f64215ccb68966f6857cf73b22f91"
+    },
+    {
+      "path": "references/rehearse.md",
+      "source_url": "https://raw.githubusercontent.com/benjitaylor/skills/299140fafd08df55a9c234e610c3f64af3f45531/stageshow/references/rehearse.md",
+      "sha256": "3d1e38bf7141fa1b06e7f096577c88fd56b48540c11e70d858ce8fd22c603ba1"
+    }
+  ],
+  "scope": "Framing/craft/motion/rehearsal source guidance read and adapted into film contracts and roles; upstream runtime not installed or executed."
+}

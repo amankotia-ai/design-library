@@ -10,3 +10,6 @@ coverage/
 # Local runtime alias and generated build copy
 pilot/node_modules 2
 pilot/steel-build/
+
+# Over GitHub's 100 MB file limit, kept local
+pilot/public/film-motion/imports/media/motion-memorable.mp4

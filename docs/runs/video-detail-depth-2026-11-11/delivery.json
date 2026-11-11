@@ -1,0 +1,10 @@
+{
+  "files": 4,
+  "hashes": {
+    "src/film-references.jsx": "a83a80b96e1ec2526203a4361222dc6ae7e8e3ba624ce6967b6622fd6a1df726",
+    "src/film-references.css": "0498a1eb7ba60c1dde451ac0590aada0c4016519524a148df3ff3cadb2ba0e57",
+    "src/film-reference-craft.json": "ac6a7b49fa6a0d510466d92bdf393a030f05d7f53fdf27cfd487c8859a35f120",
+    "src/film-reference-timing.js": "acf6fb1481250b484219ee83616b3f9c2de06e794939b85b7cbd6b4751b23ea4"
+  },
+  "originalImportData": "unchanged"
+}

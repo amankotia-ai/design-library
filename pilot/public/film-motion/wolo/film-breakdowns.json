@@ -1,0 +1,2819 @@
+[
+  {
+    "id": "wolo-slash-global",
+    "structure": "Transit establishes momentum; trading floors and watches connect global work to time; racing and money amplify speed and exchange. Familiar chat bubbles pause to state the benefit. A second montage expands geographic scope, returns to physical payment cards, then condenses into a globe, URL and compact identity.",
+    "editingSystem": "Short associative clips are grouped by concept, with a nearly central text chip as the reading anchor. A four-tile composition is an intermediate edit state, not just decoration. Watch-to-tachometer is a circular graphic match. Newsreader multiplication raises density; the blue benefit bubbles deliberately interrupt that density.",
+    "motionSystem": "Most energy comes from cuts and the movement inside footage. Designed motion includes character substitutions, tile population/replacement, growth from four tiles to a full image, mosaic multiplication and a scaling globe. The central copy often stays in place while the surrounding medium changes.",
+    "artSystem": "A 4:3 editorial frame combines grainy transit, monochrome trading-floor archive, warm metal and contemporary payment-card imagery. Small rounded white or black chips protect sans-serif copy. Blue chat bubbles borrow a familiar conversation convention. Thin guide lines and tracked-looking blocks add a technical overlay; the ending reduces to black, off-white and the serif identity.",
+    "reconstruction": [
+      "Suggested implementation: sort footage into speed, work/time, exchange, geographic breadth and payment clusters before cutting. Give each clip a job in the argument.",
+      "Suggested implementation: build one center-chip component with fixed screen position and controlled padding. Swap copy or invert the chip only when contrast requires it; do not move the anchor with every cut.",
+      "Suggested implementation: create a four-quadrant mask layout. Populate it, replace selected cells, then expand one image to full field before the dial-to-dial cut.",
+      "Suggested implementation: place the two-bubble benefit statement after the first dense cluster. Hold its composition longer than the surrounding montage shots so the offering can be understood.",
+      "Suggested implementation: alternate contextual city imagery with close physical card use before the closing globe. Preserve a product connection before simplifying to the logo."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 2.7,
+        "title": "Transit beneath a fixed message",
+        "description": "Large cropped identity over transit imagery gives way to a small central rounded label. City/train views change beneath letter substitutions and fine guide lines.",
+        "editing": "The opening first asserts brand scale, then establishes the small reading anchor that will survive the montage. Short cuts create momentum without requiring every shot to have a custom transition.",
+        "motion": "Movement comes from transport footage and changing characters. The label’s central position stays relatively stable as its content develops.",
+        "art": "Compact 4:3 cropping, motion blur and high-contrast contemporary text establish an editorial rather than software-demo register.",
+        "rebuild": "Suggested: place the chip above a sequence of short transit clips and keep its screen coordinates fixed. Use a brief large-type opening as punctuation, then reduce to the recurring label size.",
+        "frames": [
+          {
+            "time": 0.583333,
+            "frame": 14,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000014.jpg"
+          },
+          {
+            "time": 2.125,
+            "frame": 51,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000051.jpg"
+          }
+        ]
+      },
+      {
+        "start": 2.7,
+        "end": 5.3,
+        "title": "Trading floor becomes a watch through a grid",
+        "description": "Monochrome trading-floor images fill four quadrants. A watch replaces the lower-left tile, later appears in the upper-right, and ultimately displaces the people imagery.",
+        "editing": "The grid carries the transition in stages. The audience first recognizes multiple workplaces, then time becomes the dominant subject through selective replacement.",
+        "motion": "Tiles appear and change independently while the central message remains. The watch grows from a quadrant-level detail toward a full-field image.",
+        "art": "Monochrome footage and the watch’s detailed markings bind the four tiles tonally. The small label sits near their intersection instead of competing with every quadrant.",
+        "rebuild": "Suggested: use four masks with independent clip switches. Replace the diagonally opposed cells with watch crops before expanding a watch image over the full frame.",
+        "frames": [
+          {
+            "time": 3.291667,
+            "frame": 79,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000079.jpg"
+          },
+          {
+            "time": 4.708333,
+            "frame": 113,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000113.jpg"
+          }
+        ]
+      },
+      {
+        "start": 5.3,
+        "end": 8.25,
+        "title": "Dial match into speed and exchange",
+        "description": "The circular watch yields to a tachometer, followed by racing, cash and roulette imagery. A field of small money pictograms briefly replaces footage.",
+        "editing": "The dial shape connects two different subjects across a hard replacement. Following clips stay inside a local speed/money association rather than forming an unstructured showreel.",
+        "motion": "Footage provides much of the visible action. Short text or type flashes punctuate the image changes while the label remains the recurring place to read.",
+        "art": "Metallic circles, fast transport, currency and a momentary icon field vary texture while preserving the central overlay language.",
+        "rebuild": "Suggested: align watch and tachometer circles in size and position at the cut. Follow with a small semantic cluster, then use one graphic-only frame family as a deliberate texture break.",
+        "frames": [
+          {
+            "time": 5.958333,
+            "frame": 143,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000143.jpg"
+          },
+          {
+            "time": 7.583333,
+            "frame": 182,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000182.jpg"
+          }
+        ]
+      },
+      {
+        "start": 8.25,
+        "end": 10.6,
+        "title": "Blue message bubbles state the benefit",
+        "description": "An upward-looking skyscraper shot supports two blue chat bubbles describing access to US payment rails without a US entity.",
+        "editing": "The slower, more stable benefit layout lets the commercial proposition become explicit after the associative opening. The two bubbles split the statement into readable clauses.",
+        "motion": "The built environment supplies depth while the message layout stays comparatively settled. Information density is reduced to two familiar objects.",
+        "art": "Saturated blue bubbles and white text sit against gray/blue architecture. Their conversational shape is intentionally recognizable without explanation.",
+        "rebuild": "Suggested: use two separate message layers with a clear reading order. Let both settle and preserve the architecture as context rather than adding more overlays.",
+        "frames": [
+          {
+            "time": 8.75,
+            "frame": 210,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000210.jpg"
+          },
+          {
+            "time": 10.083333,
+            "frame": 242,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000242.jpg"
+          }
+        ]
+      },
+      {
+        "start": 10.6,
+        "end": 14.7,
+        "title": "Action words over technical and human scale",
+        "description": "A brief graphic flash leads to engine/rocket footage, a road and an overhead crowd with bright rectangular overlays. Short financial action words update in the central label.",
+        "editing": "The montage restarts after the benefit pause, connecting technical force, travel and people. A flash marks the restart but ordinary replacements carry the cluster.",
+        "motion": "Image subjects move underneath the label. Bright blocks appear attached to or near people in the overhead shot; the production tracking method is not established.",
+        "art": "Warm engines and darker travel footage contrast with artificial bright rectangles and thin interface guides. Text remains simpler than the underlying footage.",
+        "rebuild": "Suggested: retain the chip component and change only its short verb. Use a small number of tracked or manually animated rectangles when people become the subject; avoid overlaying every shot.",
+        "frames": [
+          {
+            "time": 11.5,
+            "frame": 276,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000276.jpg"
+          },
+          {
+            "time": 13.791667,
+            "frame": 331,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000331.jpg"
+          }
+        ]
+      },
+      {
+        "start": 14.7,
+        "end": 16.8,
+        "title": "One presenter multiplies into a broadcast field",
+        "description": "A single news presenter becomes four, then a much denser mosaic of newsreader images.",
+        "editing": "Image count carries the idea of breadth. Escalation has a clear starting point and destination, so density itself becomes the transition.",
+        "motion": "The visible arrangement changes from one image to a four-cell grid and then many smaller cells. This is discrete layout multiplication, not evidence of one continuous camera pullback.",
+        "art": "Repeating television-style rectangles create a global broadcast texture while reducing the prominence of any individual person.",
+        "rebuild": "Suggested: author three layout states with increasing tile count. Keep the outer frame fixed and change the internal partition, ending before individual tiles become necessary reading material.",
+        "frames": [
+          {
+            "time": 15.166667,
+            "frame": 364,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000364.jpg"
+          },
+          {
+            "time": 16.333333,
+            "frame": 392,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000392.jpg"
+          }
+        ]
+      },
+      {
+        "start": 16.8,
+        "end": 21.5,
+        "title": "City scale returns to physical payment",
+        "description": "Transport and city views alternate with close-ups of a Slash payment card, including contactless use and a card handled near a wallet. The label completes the borderless-business proposition.",
+        "editing": "The product returns as a tangible object after the film’s widest claims. Context and detail alternate, connecting geographic scope to an action someone can perform.",
+        "motion": "Motion lives mainly in passing traffic, a hand moving the card and close camera framing. The center chip remains stable while the imagery alternates.",
+        "art": "Warm gold/silver card surfaces, dark wallet material and night-city highlights give finance a tactile, premium register. The white chip protects copy over changing backgrounds.",
+        "rebuild": "Suggested: pair every broad city shot with a specific card-use detail. Match the label position across both and choose clips with enough calm area near the center to retain legibility.",
+        "frames": [
+          {
+            "time": 17.833333,
+            "frame": 428,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000428.jpg"
+          },
+          {
+            "time": 20.458333,
+            "frame": 491,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000491.jpg"
+          }
+        ]
+      },
+      {
+        "start": 21.5,
+        "end": 24,
+        "title": "A small globe becomes the destination",
+        "description": "The montage cuts to a small Earth on black with a URL encircling its equator. The globe becomes larger before the final title sequence.",
+        "editing": "Abruptly reducing the number of subjects concentrates the preceding global imagery into a single emblem and address. Enlargement makes the destination increasingly dominant.",
+        "motion": "The globe scales up while the text follows an equatorial ring-like arrangement. The exact 3D construction cannot be recovered from the sampled frames.",
+        "art": "A blue Earth, white ring text and black field strip away the earlier grainy footage and warm materials.",
+        "rebuild": "Suggested: keep the Earth and circular URL as one centered object group. Enlarge that group against black, maintaining the address as the only supporting information.",
+        "frames": [
+          {
+            "time": 22.041667,
+            "frame": 529,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000529.jpg"
+          },
+          {
+            "time": 23.458333,
+            "frame": 563,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000563.jpg"
+          }
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27.008,
+        "title": "Alternating fields reduce to the Slash mark",
+        "description": "Large short words appear on alternating black and warm-white fields before the composition ends on a small Slash logo.",
+        "editing": "The final sequence compresses many montage associations into a few verbal identity beats. Reducing the logo’s final size lets the brand close after the larger words.",
+        "motion": "The dominant changes are title replacement, light/dark inversion and scale contrast. The endpoint is a settled small mark rather than another dense montage.",
+        "art": "Near-black and off-white replace the full footage palette; sans-serif propositions yield to the serif Slash identity.",
+        "rebuild": "Suggested: author each final word as a separate clean card and cut between opposite fields. Keep the last logo centered and small, with no competing secondary animation.",
+        "frames": [
+          {
+            "time": 24.666667,
+            "frame": 592,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000592.jpg"
+          },
+          {
+            "time": 26.333333,
+            "frame": 632,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000632.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 2.5,
+        "end": 5.458333,
+        "title": "Build a transition out of tile replacement and a dial match",
+        "steps": [
+          "After the outgoing city view, a trading-floor image enters the lower-left quadrant; other trading views populate the remaining quadrants.",
+          "Hold a complete four-person montage long enough to establish the grid. The central phrase stays near the crossing of the tile boundaries.",
+          "Replace the lower-left tile with a watch close-up while the other people remain. This changes the subject locally before changing the whole composition.",
+          "Introduce another watch crop in the upper-right. The diagonal relation makes time occupy more of the field before the remaining people images disappear.",
+          "Let the watch take the full field; an oversized word flashes over it before the next image.",
+          "Cut from the watch to a tachometer. Their common circular dial carries the visual relation across the hard image replacement."
+        ],
+        "takeaway": "A transition can have an intermediate editorial state: populate → selectively replace → promote one subject → match its shape into the next shot. The grid is a mechanism for changing the argument.",
+        "certainty": "Consecutive source frames 60–131 at 24 fps were reviewed. The sequence and graphic relation are observed; exact cut times outside this window remain approximate.",
+        "frames": [
+          {
+            "time": 2.666667,
+            "frame": 64,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000064.jpg"
+          },
+          {
+            "time": 3.541667,
+            "frame": 85,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000085.jpg"
+          },
+          {
+            "time": 4.416667,
+            "frame": 106,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000106.jpg"
+          },
+          {
+            "time": 5.291667,
+            "frame": 127,
+            "src": "/film-motion/wolo/breakdown-frames/slash-global/000127.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/studies/slash-global-window-grid/index.html"
+      }
+    ],
+    "fps": "24/1",
+    "sourceDuration": 27.008,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-a.md"
+  },
+  {
+    "id": "wolo-velo",
+    "structure": "An abstract line system becomes a brand, then a floating product environment. The film moves into trading controls, travels through integrations and borrowing, compresses the capabilities into short words, and finishes on a dark reward token. The persistent lines make these unlike subjects feel like one space.",
+    "editingSystem": "Attention is handed from line to wordmark, card edge to dashboard, dashboard to individual control, and finally line network to token. Large reframing moves are separated by simpler claim-and-panel compositions. The last object receives substantially more screen time than the early logo reveal.",
+    "motionSystem": "The vocabulary combines strand deformation, lateral group travel, panel tilt, large changes of view scale, vertical capability travel and token rotation. A large translucent green cursor acts as the foreground performer. The visual evidence supports these paths and staging; it does not identify the original camera rig, software or easing curves.",
+    "artSystem": "White and very pale reflected-looking cyan, pink, yellow and lavender keep a luminous stage. Rounded UI panels have thin dark edges and bevel-like thickness. Black sans-serif claims remain short. The green cursor has glass-like translucency; the charcoal token concentrates contrast at the end. Persistent colored strands bridge these material families.",
+    "reconstruction": [
+      "Suggested implementation: establish separate layers for white stage, soft colored light patches, multicolored paths, product panels, foreground cursor and text. Give the paths one shared baseline before composing any transitions.",
+      "Suggested implementation: storyboard the sequence as identity → product context → one control → capability cards → token. Make the readable destination of each move first, then work backwards to its entry framing.",
+      "Suggested implementation: animate the cursor independently of panel travel so the cursor can nominate a control after the panel settles. Keep all smaller interface actions subordinate to that nominated target.",
+      "Suggested implementation: reuse the path colors and panel edge treatment in every capability shot; transform the paths into orbits around the final object instead of introducing a different decorative motif.",
+      "Suggested implementation: treat the final rewards/date card as a distinct hold. Replace the source’s placeholder-like date text with approved copy rather than reproducing it."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 4.2,
+        "title": "Loose strands gather into a baseline",
+        "description": "Fine colored strokes wander across white and diffuse pastel light. The strands thicken and crowd the left before the central region simplifies toward a horizontal line.",
+        "editing": "The opening introduces the continuity device before a product or sentence. Removing visual disorder prepares the eye for a small symbol rather than cutting straight from noise to a logo.",
+        "motion": "Stroke shapes change across the field while their overall movement converges on a shared horizontal axis. The central reading zone becomes progressively clearer.",
+        "art": "Thin cyan, pink, yellow, lavender and dark strokes retain much more white space than opaque color. The background feels illuminated rather than filled with a flat brand swatch.",
+        "rebuild": "Suggested: animate several independent vector paths into a common y-position, and reduce central path amplitude before revealing the symbol. Keep soft background color on a separate layer.",
+        "frames": [
+          {
+            "time": 0.916667,
+            "frame": 22,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000022.jpg"
+          },
+          {
+            "time": 3.291667,
+            "frame": 79,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000079.jpg"
+          }
+        ]
+      },
+      {
+        "start": 4.2,
+        "end": 7.7,
+        "title": "Waveform becomes the wordmark",
+        "description": "A compact waveform and code-like V symbol develop near right-center, enlarge toward the center, and resolve into the Velo wordmark. The wordmark later leaves to the left while the lines continue.",
+        "editing": "The line baseline survives the identity change. This links the abstract opening to the name through a persistent element; the evidence does not establish a single geometric morph for every letter.",
+        "motion": "The grouped waveform changes amplitude and position; angled characters give way to the wordmark. The mark’s exit direction prepares the next lateral spatial handoff.",
+        "art": "Black compact lettering supplies the highest local contrast against fine rainbow-colored waves. The pale stage remains intact rather than adding a logo-card background.",
+        "rebuild": "Suggested: keep path layers alive beneath separate symbol and wordmark layers. Match their baseline and scale at the swap, then move the resulting group off left.",
+        "frames": [
+          {
+            "time": 4.958333,
+            "frame": 119,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000119.jpg"
+          },
+          {
+            "time": 6.916667,
+            "frame": 166,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000166.jpg"
+          }
+        ]
+      },
+      {
+        "start": 7.7,
+        "end": 10.8,
+        "title": "Card constellation becomes product space",
+        "description": "Four floating UI cards occupy the field. The group changes scale and angle; a close pass by a thick, beveled card edge leads into the trading dashboard.",
+        "editing": "The intermediate card view makes the dashboard feel like entry into an established environment. An edge close-up provides a bridge between abstract floating objects and flat information.",
+        "motion": "The panel group tilts and enlarges before the view approaches a card edge. This is observed perspective/reframing; a recovered physical camera path is not available.",
+        "art": "Rounded rectangles, narrow dark rims and translucent pastel faces make software panels behave like tangible objects. Empty white space keeps the constellation legible.",
+        "rebuild": "Suggested: use the same panel asset for the wide arrangement and the close pass. Align the incoming dashboard border with the outgoing edge so the cut or composited handoff has a common contour.",
+        "frames": [
+          {
+            "time": 8.375,
+            "frame": 201,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000201.jpg"
+          },
+          {
+            "time": 10.125,
+            "frame": 243,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000243.jpg"
+          }
+        ]
+      },
+      {
+        "start": 10.8,
+        "end": 14.5,
+        "title": "Dashboard context and an oversized actor",
+        "description": "A trading dashboard fills most of the image. Translucent green pointer shapes sweep across it, then the dashboard reduces in size and leaves laterally with colored lines still visible.",
+        "editing": "A broad context view precedes the more selective trading-control shot. Pulling the dashboard away clears space for the next claim without abandoning the established stage.",
+        "motion": "Pointer movement happens over the large panel; panel scale and position then change together. Colored lines persist beyond the panel’s departure.",
+        "art": "Dense dark interface details contrast with a pale panel surface. The green pointer is deliberately much larger than an operating-system cursor, making it a readable foreground object.",
+        "rebuild": "Suggested: separate cursor, dashboard and line layers. Use one cursor action before the panel exit, then reduce and translate the panel as a group to avoid competing UI micro-animation.",
+        "frames": [
+          {
+            "time": 11.625,
+            "frame": 279,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000279.jpg"
+          },
+          {
+            "time": 13.666667,
+            "frame": 328,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000328.jpg"
+          }
+        ]
+      },
+      {
+        "start": 14.5,
+        "end": 19.8,
+        "title": "Claim beside panel, then controls fill the frame",
+        "description": "A short value statement sits beside a single trading panel. The panel grows until price inputs, slider and buy/sell area dominate; the translucent green cursor remains visible around the controls.",
+        "editing": "The edit changes the question from what the product promises to where the action happens. The wider text-and-panel composition establishes context before the control close-up.",
+        "motion": "View scale increases toward the form and action area. The enlarged cursor moves around the panel, carrying attention through the tighter crop.",
+        "art": "Black short-form sans-serif copy is balanced against a rounded panel with pastel light. Green and red buy/sell controls become the strongest information colors in the close view.",
+        "rebuild": "Suggested: choose the final close-up crop around the actual target controls first. Animate from a two-part wide layout to that crop, withdrawing or obscuring supporting copy as the controls take over.",
+        "frames": [
+          {
+            "time": 15.666667,
+            "frame": 376,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000376.jpg"
+          },
+          {
+            "time": 18.625,
+            "frame": 447,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000447.jpg"
+          }
+        ]
+      },
+      {
+        "start": 19.8,
+        "end": 23.8,
+        "title": "Vertical travel through integrations and borrowing",
+        "description": "The trading card moves out of prominence as integration cards, including exchange marks, come into view. A borrowing interface follows with rate/venue pills and the same large green cursor.",
+        "editing": "A shared vertical route turns separate features into stops in one product space. Each capability gets its own readable face instead of a collage of equally weighted screenshots.",
+        "motion": "The composition travels vertically through stacked panels, then presents the borrowing card more frontally. The cursor remains a recurring actor rather than being reintroduced as a new style.",
+        "art": "Each card retains thin dark borders, rounded corners and pale iridescent fill. Brand marks and rate rows stay inside the card system; short black captions sit near the current capability.",
+        "rebuild": "Suggested: arrange the capability cards in one vertical parent group. Translate that group to each readable stop, and limit rotation during the text-reading portion.",
+        "frames": [
+          {
+            "time": 20.666667,
+            "frame": 496,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000496.jpg"
+          },
+          {
+            "time": 22.916667,
+            "frame": 550,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000550.jpg"
+          }
+        ]
+      },
+      {
+        "start": 23.8,
+        "end": 27,
+        "title": "Capabilities compress into a token reveal",
+        "description": "Short category words replace one another over the borrowing panel before a unifying message. Colored strokes briefly form a loose grid, and a large dark V token enters from below.",
+        "editing": "The category-word sequence summarizes the preceding product tour. The token is a change from information to identity, prepared by the shared colored-path system.",
+        "motion": "Words substitute in a common reading area; the line field reorganizes, and the token rises into the composition. The incoming object has much greater visual mass than the outgoing cards.",
+        "art": "The pale backdrop remains, but a charcoal object introduces a dense dark focal point. Fine colored lines prevent the material change from feeling unrelated.",
+        "rebuild": "Suggested: keep summary words on a fixed baseline and replace them as discrete states. Bring the token through that same center after the final sentence clears; retain path colors as the bridge.",
+        "frames": [
+          {
+            "time": 24.5,
+            "frame": 588,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000588.jpg"
+          },
+          {
+            "time": 26.291667,
+            "frame": 631,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000631.jpg"
+          }
+        ]
+      },
+      {
+        "start": 27,
+        "end": 35.5,
+        "title": "Rotating reward object with settled copy",
+        "description": "The dark V token rotates inside colored orbital strands. A compact rewards/date composition sits beside it for an extended closing passage.",
+        "editing": "The film slows its rate of new information. Object motion continues while the adjacent message has a more stable placement, dividing spectacle from reading.",
+        "motion": "The token keeps turning; the strands orbit around it. The text does not need to chase the object, so a stable reading destination exists beside persistent movement.",
+        "art": "Charcoal mass and edge highlights contrast with the luminous white/pastel environment. Thin multicolored orbits echo the first seconds, closing the visual loop.",
+        "rebuild": "Suggested: animate object rotation and orbiting lines in one group while holding text in a separate screen-space group. Leave clear separation between the orbit envelope and copy.",
+        "frames": [
+          {
+            "time": 28.875,
+            "frame": 693,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000693.jpg"
+          },
+          {
+            "time": 33.625,
+            "frame": 807,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000807.jpg"
+          }
+        ]
+      },
+      {
+        "start": 35.5,
+        "end": 36.223129,
+        "title": "White release",
+        "description": "The closing composition fades toward white rather than introducing an additional title or visual system.",
+        "editing": "The fade ends the object hold with a reduction in contrast. It gives the film a quiet exit after the longer reward passage.",
+        "motion": "Visible contrast and opacity diminish; no new subject enters.",
+        "art": "The ending returns to the dominant white stage of the opening.",
+        "rebuild": "Suggested: fade the established object, paths and copy together into the white background; do not add an unrelated exit effect.",
+        "frames": [
+          {
+            "time": 35.666667,
+            "frame": 856,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000856.jpg"
+          },
+          {
+            "time": 36.083333,
+            "frame": 866,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000866.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 3.5,
+        "end": 6.458333,
+        "title": "From noisy paths to a legible wordmark",
+        "steps": [
+          "Frames 84–100: the strands vacate the central horizontal area; by frame 100 the line field is almost a straight baseline.",
+          "Frame 101: a compact wave bundle and V-like symbol appear near the right-center rather than as a centered full-screen title.",
+          "Subsequent frames: the bundle enlarges and moves toward the center; colored wave contours continue changing around the black symbol.",
+          "Across the latter part of frames 84–155: angled/code-like characters yield to the Velo wordmark while the shared wave structure remains.",
+          "The continuity is carried by baseline, position and color even when the identity glyphs change. Do not assume every glyph was physically morphed from the preceding one."
+        ],
+        "takeaway": "Make the receiving composition readable before changing the identity layer: clear the center, preserve the baseline, then resolve the name. A shared path can connect a substitution without requiring a literal morph.",
+        "certainty": "Consecutive source frames 84–155 at 24 fps were reviewed. Positions and transformation order are observed; original easing and authoring method are unknown.",
+        "frames": [
+          {
+            "time": 3.666667,
+            "frame": 88,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000088.jpg"
+          },
+          {
+            "time": 4.541667,
+            "frame": 109,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000109.jpg"
+          },
+          {
+            "time": 5.416667,
+            "frame": 130,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000130.jpg"
+          },
+          {
+            "time": 6.291667,
+            "frame": 151,
+            "src": "/film-motion/wolo/breakdown-frames/velo/000151.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/studies/velo-window-logo/index.html"
+      }
+    ],
+    "fps": "24/1",
+    "sourceDuration": 36.223129,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-a.md"
+  },
+  {
+    "id": "wolo-slash-4-july",
+    "structure": "The film moves from arrivals and historical people to opportunity, then to inventions and physical achievements, then modern builders and future-facing ambition. A final sentence turns that cumulative archive into the brand proposition. Its meaning is built through ordered association, not a product walkthrough.",
+    "editingSystem": "Frequent ordinary cuts connect eras inside semantic clusters: arrivals, invention, ambitious engineering, contemporary building. The small centered caption axis unifies otherwise unlike footage. Source proportions are often preserved in white mats or rounded film windows. A bright clearing transition prepares the last typographic change.",
+    "motionSystem": "Much of the motion belongs to the source footage. Designed movement is restrained until the final phrase: small words accumulate; at frame 1208 the type abruptly jumps in size and is cropped off the left; a lateral translation then exposes the sentence ending and flag-colored italic action word. It is not a long continuous zoom.",
+    "artSystem": "Extremely condensed, high-contrast serif copy is usually white and small over the footage. Archive grain, limited resolution, period color and variable aspect ratios remain part of the material. White photographic mats and rounded black film windows make the differences intentional. The ending reverses to black type on white and reserves flag color for the key word and final mark.",
+    "reconstruction": [
+      "Suggested implementation: outline the argument as arrival → opportunity → inventions → difficult achievements → contemporary builders → proposition before selecting clips. Use source imagery for the intended association without presenting it as proof of an unrelated product claim.",
+      "Suggested implementation: build one narrow-serif caption style with a fixed central axis and controlled maximum width. Keep it readable through source changes using placement and contrast, not constant decorative animation.",
+      "Suggested implementation: retain selected source aspect ratios inside a limited mat/window system. Preserve archival texture instead of treating every source as clean modern footage.",
+      "Suggested implementation: save the largest type treatment for the final proposition. Clear the footage to white, build a small sentence, jump in scale at a cut, then translate laterally to reveal its final action word.",
+      "Suggested implementation: repeat the flag palette in the final brand mark so the ending concludes an introduced motif. Do not infer narration/music synchronization from frame-only review."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 2.7,
+        "title": "Small archival portraits establish the historical frame",
+        "description": "Portraits change inside a small centered photographic area surrounded by white. Fine white serif copy crosses the image rather than filling the canvas.",
+        "editing": "Starting with a modest image area gives the archive the feeling of a selected document. Replacing portraits establishes a collective premise before the scale expands.",
+        "motion": "Visible subject replacement carries the sequence; the caption position stays near the same center axis.",
+        "art": "White mat, archival contrast and unusually narrow serif lettering make the opening feel editorial and historical.",
+        "rebuild": "Suggested: place source portraits in one shared central aperture and keep caption anchoring fixed. Cut between people instead of individually animating every portrait.",
+        "frames": [
+          {
+            "time": 0.6,
+            "frame": 18,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000018.jpg"
+          },
+          {
+            "time": 2.1,
+            "frame": 63,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000063.jpg"
+          }
+        ]
+      },
+      {
+        "start": 2.7,
+        "end": 6.9,
+        "title": "Arrival and opportunity form the premise",
+        "description": "Liberty, arrival/crowd material, a political speech and families follow. Some images sit in rounded film windows against black.",
+        "editing": "The cuts connect a symbol, collective movement, public rhetoric and ordinary people. They form a semantic cluster rather than demanding matching image aesthetics.",
+        "motion": "People and speakers move within the original clips; source formats and window framing change between shots.",
+        "art": "Archival softness and varied color remain visible. The mat/window system frames those differences, while centered white narrow-serif copy provides continuity.",
+        "rebuild": "Suggested: preserve a small set of source formats. Use the same caption axis across them and sequence symbol → people → speech → family as a coherent thought.",
+        "frames": [
+          {
+            "time": 3.633333,
+            "frame": 109,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000109.jpg"
+          },
+          {
+            "time": 5.966667,
+            "frame": 179,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000179.jpg"
+          }
+        ]
+      },
+      {
+        "start": 6.9,
+        "end": 10.7,
+        "title": "Historical premise turns toward engineering ambition",
+        "description": "Interview footage leads into a control room, rocket pad and launch imagery.",
+        "editing": "The cluster shifts the film from people arriving to people undertaking technical work. Human testimony is paired with an environment and an outcome.",
+        "motion": "Source activity and launch movement provide energy; no separate animated diagram is required.",
+        "art": "Control-room detail and large aerospace subjects introduce engineered scale while the small serif caption retains the earlier historical register.",
+        "rebuild": "Suggested: cut from a speaking person to the workplace and then to the physical achievement. Keep overlay scale restrained so the image progression supplies the increase in scope.",
+        "frames": [
+          {
+            "time": 7.733333,
+            "frame": 232,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000232.jpg"
+          },
+          {
+            "time": 9.866667,
+            "frame": 296,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000296.jpg"
+          }
+        ]
+      },
+      {
+        "start": 10.7,
+        "end": 13.3,
+        "title": "Arrival, city and movement widen the idea",
+        "description": "Portrait, city, bridge and motorcycle views broaden the motif of mobility and possibility.",
+        "editing": "Short associative cuts provide a bridge between technical achievement and the following invention cluster. The subjects differ, but each carries movement or scale.",
+        "motion": "Motion comes from vehicles and camera movement within footage. The reading anchor remains more stable than the images.",
+        "art": "Urban structures and personal transport contrast human and civic scales without changing the caption style.",
+        "rebuild": "Suggested: choose varied subjects with a shared conceptual job, then retain a uniform caption treatment. Do not add a new transition style solely because the subject changes.",
+        "frames": [
+          {
+            "time": 11.266667,
+            "frame": 338,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000338.jpg"
+          },
+          {
+            "time": 12.733333,
+            "frame": 382,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000382.jpg"
+          }
+        ]
+      },
+      {
+        "start": 13.3,
+        "end": 18.9,
+        "title": "Claims about invention meet concrete objects",
+        "description": "Interview imagery is intercut with signs, computing and medical material, a small chip and an early smartphone demonstration.",
+        "editing": "The argument becomes more concrete through objects people have made. Intercutting rhetoric with artifacts prevents the sequence from remaining only a chain of talking heads.",
+        "motion": "Object handling and screen demonstrations provide the action. Cuts move between a human speaker, technical detail and a recognizable device.",
+        "art": "Different source resolutions and production eras are retained. Small serif copy remains the constant overlay rather than a modern interface redesign.",
+        "rebuild": "Suggested: pair each abstract invention claim with a visible object or operation. Let a detail crop be readable before moving to the next era or artifact.",
+        "frames": [
+          {
+            "time": 14.533333,
+            "frame": 436,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000436.jpg"
+          },
+          {
+            "time": 17.666667,
+            "frame": 530,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000530.jpg"
+          }
+        ]
+      },
+      {
+        "start": 18.9,
+        "end": 26.7,
+        "title": "Ambition receives a sustained engineering cluster",
+        "description": "Speech, moon imagery, rocket engineering, engine/fire detail and aircraft footage accumulate. Several frames retain a source-sized window or photographic mat.",
+        "editing": "A longer thematic cluster earns the scale of the ambition rather than using one spectacular launch as decoration. Engineering detail and broad achievement are interleaved.",
+        "motion": "Flame, rocket movement and aircraft provide most of the visible motion. The same small caption axis allows fast changes in physical scale without a new reading position.",
+        "art": "Warm fire and period blue/cyan footage contrast with black space and white mats. Grain and source imperfections stay visible.",
+        "rebuild": "Suggested: alternate close engineering detail with wide outcomes. Keep the caption system constant; use the source’s physical action as the dominant movement.",
+        "frames": [
+          {
+            "time": 20.6,
+            "frame": 618,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000618.jpg"
+          },
+          {
+            "time": 25.0,
+            "frame": 750,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000750.jpg"
+          }
+        ]
+      },
+      {
+        "start": 26.7,
+        "end": 33.9,
+        "title": "Past invention connects to present building",
+        "description": "Founders and technology presentations lead into robotics, manufacturing, computing and more launch footage.",
+        "editing": "This cluster updates the earlier history into contemporary activity. Presentations are supported by working machines and environments, extending the argument beyond personalities.",
+        "motion": "Machine motion and source-camera movement create activity. Cuts, rather than elaborate graphic transformations, link people to what they build.",
+        "art": "Modern footage enters the archive collage without replacing its narrow-serif typography or adopting a new futuristic overlay system.",
+        "rebuild": "Suggested: combine a person or presentation with the corresponding making/working context. Preserve the same captions and source-framing rules so modern clips feel part of the same historical chain.",
+        "frames": [
+          {
+            "time": 28.3,
+            "frame": 849,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000849.jpg"
+          },
+          {
+            "time": 32.3,
+            "frame": 969,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/000969.jpg"
+          }
+        ]
+      },
+      {
+        "start": 33.9,
+        "end": 39.2,
+        "title": "Earlier motifs return, then the field clears",
+        "description": "Speech, travel archive, Liberty and aerospace/space images combine the historical and future-facing threads. A bright fade empties the picture field.",
+        "editing": "Returning motifs ties the montage together before the proposition. Clearing to white creates a boundary between evidence/association and the film’s concluding authored sentence.",
+        "motion": "Source motion continues until the image loses contrast into white. The eye is released from footage detail before reading the final type.",
+        "art": "Previously introduced travel and aerospace subjects return. The increasing white field prepares the inverse black-on-white title palette.",
+        "rebuild": "Suggested: reprise one or two earlier motifs before the conclusion, then fade the image layer to a clean white field while preserving enough interval to register the reset.",
+        "frames": [
+          {
+            "time": 35.066667,
+            "frame": 1052,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001052.jpg"
+          },
+          {
+            "time": 38.033333,
+            "frame": 1141,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001141.jpg"
+          }
+        ]
+      },
+      {
+        "start": 39.2,
+        "end": 42.4,
+        "title": "Small sentence jumps in scale and reveals the action word",
+        "description": "A small centered sentence builds on white. It abruptly becomes much larger with the left side cropped, travels laterally, and reveals a flag-colored italic final word.",
+        "editing": "The abrupt scale change is the main rhetorical accent after nearly forty seconds of restrained captions. Lateral travel exposes the ending rather than simply enlarging the whole sentence to fit.",
+        "motion": "Words accumulate at small scale. At frame 1208 the large cropped state arrives; the preceding black words drift laterally while the italic final word is comparatively stable.",
+        "art": "Extremely narrow black serif type on white reverses the archive captions. The italic action word uses red/blue flag-like texture, making it both semantic and color emphasis.",
+        "rebuild": "Suggested: build separate small and large sentence states. Cut to the oversized state, translate the long black phrase leftward, and give the final colored word its own layer and more settled destination.",
+        "frames": [
+          {
+            "time": 39.9,
+            "frame": 1197,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001197.jpg"
+          },
+          {
+            "time": 41.7,
+            "frame": 1251,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001251.jpg"
+          }
+        ]
+      },
+      {
+        "start": 42.4,
+        "end": 44.778,
+        "title": "Flag-colored Slash mark closes on black",
+        "description": "A small Slash mark in the flag palette holds against black after the oversized sentence.",
+        "editing": "The composition collapses from large moving language to a compact static identity. Reusing the flag treatment makes the mark a conclusion rather than a fresh motif.",
+        "motion": "The final mark is comparatively settled; the dominant change is the cut to a black field and much lower spatial density.",
+        "art": "Black surrounds the small multicolor serif mark. The palette comes directly from the preceding emphasized word.",
+        "rebuild": "Suggested: reuse the same flag-color treatment on the final logo, center it with generous empty space, and reserve this hold for recognition rather than another claim.",
+        "frames": [
+          {
+            "time": 42.933333,
+            "frame": 1288,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001288.jpg"
+          },
+          {
+            "time": 44.266667,
+            "frame": 1328,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001328.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 39.333333,
+        "end": 41.7,
+        "title": "Abrupt scale cut, lateral reveal and a stable final word",
+        "steps": [
+          "Frames 1180 onward: words accumulate as a small centered sentence on a clean white field.",
+          "Frame 1208: the composition abruptly switches to a much larger sentence. Its opening is already outside the left edge; the observed change is a jump, not an uninterrupted zoom.",
+          "The large black phrase translates laterally, exposing more of its ending while retaining the same white stage.",
+          "The italic final action word enters with a red/blue flag treatment. Its separate visual treatment makes it the destination of the move.",
+          "The black preceding words continue drifting while the final word stays comparatively stable; the sequence then leads into a small related brand mark on black."
+        ],
+        "takeaway": "Withhold large type until the conclusion, make scale change a discrete editorial accent, then let translation reveal the meaningful last word. The final word needs a stable reading interval even if the preceding phrase continues to move.",
+        "certainty": "Consecutive source frames 1180–1251 at 30 fps were reviewed. The scale jump at frame 1208 and lateral movement are directly visible; exact easing and audio synchronization were not established.",
+        "frames": [
+          {
+            "time": 39.466667,
+            "frame": 1184,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001184.jpg"
+          },
+          {
+            "time": 40.166667,
+            "frame": 1205,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001205.jpg"
+          },
+          {
+            "time": 40.866667,
+            "frame": 1226,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001226.jpg"
+          },
+          {
+            "time": 41.566667,
+            "frame": 1247,
+            "src": "/film-motion/wolo/breakdown-frames/slash-4-july/001247.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/studies/slash-4-july-window-type/index.html"
+      }
+    ],
+    "fps": "30/1",
+    "sourceDuration": 44.778,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-a.md"
+  },
+  {
+    "id": "wolo-spacex",
+    "structure": "An intimate portrait and early-company origin lead into location/search imagery, a declaration, technical history and launch spectacle. A word subtraction converts spectacle into the central argument; orbital abstraction and sparse identity copy supply the ending.",
+    "editingSystem": "Picture area is a structural control: a small inset on white becomes full bleed, returns to a small archival window, expands for launches, then clears to white. Ordinary footage cuts carry most of the montage. A central text position or stable inset registration bridges changes of subject, while the oversized word-and-bar statement is deliberately held across several cuts.",
+    "motionSystem": "Separate three visible sources of motion: movement inside the footage; editorial changes to picture size and crop; and authored graphic changes such as word replacement and the orbital diagram. The tiny label is usually spatially restrained while the image changes beneath it. The evidence does not identify source easing curves, a 3D camera rig or soundtrack timing.",
+    "artSystem": "A white editorial field alternates with documentary-looking rocket, factory and launch footage. Thin, monospaced-looking uppercase text supplies a technical voice. Type varies from small centered connectors to a large emphatic phrase. Black orbital lines and dots translate the photographic subject into a diagram without introducing a new accent palette.",
+    "reconstruction": [
+      "Suggested implementation: first assemble a silent sequence using only rectangles representing the occupied picture area. Make the intimate inset, immersive launch and empty end card visibly different before choosing transition effects.",
+      "Suggested implementation: divide footage into origin, location, machinery, launch and human-reaction bins. Cut within a concept cluster before moving to the next part of the argument.",
+      "Suggested implementation: place the connective copy on a stable overlay track. Replace its words independently of the footage so an image cut does not also force a new reading position.",
+      "Suggested implementation: build the key semantic edit as two text states: complete phrase, then first word plus an opaque rectangle. Change state on the same edit as the footage cut, hold the graphic across subsequent cuts, and clear it at the next chapter.",
+      "Suggested implementation: make the exhaust-to-diagram bridge by matching the plume’s light value to the white stage, then reveal the orbital lines from the right. Treat the precise blend and motion curve as reconstruction choices."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 2.2,
+        "title": "A small origin inside a large white field",
+        "description": "A small portrait sits around the center of a nearly empty white frame. Short text fragments appear to either side. Early-company images replace the portrait and the picture begins to occupy more of the screen.",
+        "editing": "The opening makes smallness tangible before the film asks for a large historical scale. Image replacement and enlargement establish the story’s origin without immediately spending the full frame.",
+        "motion": "The text is held around the portrait while the image changes. The progression is primarily a change of picture scale and subject; a continuous physical camera move is not established.",
+        "art": "White surrounds a modest rectangular image. Small black technical-looking uppercase copy stays subordinate to the face; the image carries the only complex color and texture.",
+        "rebuild": "Start with a centered image container and short left/right text layers. Replace the source inside the same frame, then grow the image area for the company shot. Keep the initial words outside the image until the larger composition takes over.",
+        "frames": [
+          {
+            "time": 0.5005,
+            "frame": 15,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000015.jpg"
+          },
+          {
+            "time": 1.7017,
+            "frame": 51,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000051.jpg"
+          }
+        ]
+      },
+      {
+        "start": 2.2,
+        "end": 5.8,
+        "title": "From a warehouse to a search query",
+        "description": "Early-company footage fills the frame, followed by an overhead map and a street sign. A recognizable search page follows, with a query building in its input.",
+        "editing": "The sequence moves through person → place → search behavior. Cuts link categories of evidence rather than preserving literal spatial continuity; the familiar search interface creates an understandable change of mode.",
+        "motion": "Footage motion is followed by flatter map/sign shots, then a push into the search field and incremental text entry. The input becomes the reading target.",
+        "art": "Archive-like footage and monochrome location imagery contrast with the clean white search interface and its familiar color accents. Central white text on footage gives way to native-looking input text.",
+        "rebuild": "Choose one location detail that connects the origin story to the query. Establish the whole search page briefly, then crop toward the input as characters build. Preserve recognizable interface context around the query.",
+        "frames": [
+          {
+            "time": 3.003,
+            "frame": 90,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000090.jpg"
+          },
+          {
+            "time": 5.005,
+            "frame": 150,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000150.jpg"
+          }
+        ]
+      },
+      {
+        "start": 5.8,
+        "end": 10.3,
+        "title": "Search becomes an emphatic declaration",
+        "description": "News-style page crops give way to a podium scene and a person beside oversized stacked copy. The visual register changes from browsing information to a direct statement.",
+        "editing": "The escalating typography interrupts the smaller search and caption scale. It marks a rhetorical pivot; the pages and stage are authored evidence imagery, not a fact-check of the depicted financial claim.",
+        "motion": "Frame changes and type scale supply the emphasis. Large stacked words occupy a substantial side of the picture while the human subject balances the other side.",
+        "art": "Editorial page fragments, stage footage and large technical-looking uppercase letters share an austere palette. Text is treated as a compositional mass, not a lower-third subtitle.",
+        "rebuild": "Build a layout where the person and text have separate zones. Keep only the essential phrase, increase its scale dramatically relative to earlier labels, and cut into it after the search sequence has made the question recognizable.",
+        "frames": [
+          {
+            "time": 6.773433,
+            "frame": 203,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000203.jpg"
+          },
+          {
+            "time": 9.3093,
+            "frame": 279,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000279.jpg"
+          }
+        ]
+      },
+      {
+        "start": 10.3,
+        "end": 14,
+        "title": "Return to a controlled archival window",
+        "description": "Small centered archival and technical clips return on white. Tiny word changes occur within or near the inset, restoring the restrained editorial stage.",
+        "editing": "The reduction in picture area is a pacing reset after the large declaration. Different source images can share one registration and feel like a single evidence sequence.",
+        "motion": "The primary authored change is image replacement inside the small frame plus small text changes. The surrounding white field stays still while the footage supplies local motion.",
+        "art": "Broad white margins, a compact rectangular window and minimal black/white type reduce visual density. The footage retains its own archival color and grain.",
+        "rebuild": "Use a fixed image matte and consistent center registration for several otherwise mismatched clips. Keep captions short and avoid moving the whole layout each time the footage changes.",
+        "frames": [
+          {
+            "time": 11.1111,
+            "frame": 333,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000333.jpg"
+          },
+          {
+            "time": 13.179833,
+            "frame": 395,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000395.jpg"
+          }
+        ]
+      },
+      {
+        "start": 14,
+        "end": 23.6,
+        "title": "Machinery expands into collective spectacle",
+        "description": "Engine detail, launches, stage presentation, launchpad views, cheering people and orbital images alternate. The film leaves the small archival window for more immersive imagery.",
+        "editing": "Technical close-ups and wide launches are intercut with human reaction, varying both subject scale and emotional register. The image expansion makes this chapter feel larger than the origin.",
+        "motion": "Much of the motion is already in the footage: engines, smoke, rising rockets and people. Authored reframing and the persistent small caption anchor organize those moving images.",
+        "art": "Dark machinery, bright plumes and space imagery create high contrast. Sparse uppercase copy remains a connector rather than competing with the complex full-frame action.",
+        "rebuild": "Alternate detail, wide event and reaction shots instead of stacking only launch wides. Place essential copy where it remains readable across the selected backgrounds; reserve a separate strong graphic beat for the next argument.",
+        "frames": [
+          {
+            "time": 16.1161,
+            "frame": 483,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000483.jpg"
+          },
+          {
+            "time": 21.488133,
+            "frame": 644,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000644.jpg"
+          }
+        ]
+      },
+      {
+        "start": 23.6,
+        "end": 26,
+        "title": "A word disappears while the image cuts",
+        "description": "A large two-word phrase overlays a helmet. At the cut to launch footage the second word becomes an opaque white bar. The first word and bar remain over later footage cuts.",
+        "editing": "This is a semantic edit: removing one word changes the proposition. The consecutive-frame window shows an immediate replacement, not a progressive text wipe or a continuous morph.",
+        "motion": "The graphic anchor stays stable while the background changes. The cut and the word-to-bar substitution occur together; the retained phrase does not chase the subject in the footage.",
+        "art": "Large thin white uppercase type and a solid white rectangle sit over darker photographic imagery. The rectangle has the visual weight of the erased word and keeps the two-part layout recognizable.",
+        "rebuild": "Create complete-phrase and bar-replacement states with matching baseline and spacing. Switch states on the footage edit, keep the overlay unchanged over the next shots, then remove it at a deliberate chapter cut.",
+        "frames": [
+          {
+            "time": 24.1241,
+            "frame": 723,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000723.jpg"
+          },
+          {
+            "time": 25.458767,
+            "frame": 763,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000763.jpg"
+          }
+        ]
+      },
+      {
+        "start": 26,
+        "end": 31.6,
+        "title": "Immersion alternates with a quieter panel",
+        "description": "Rocket and exhaust footage returns, then lunar and planetary imagery appears in smaller contained windows on white. The film changes its occupied picture area again.",
+        "editing": "The contrast between full-bleed propulsion and contained distant worlds makes scale progression readable without needing a new effect at every join. The inset also gives the eye a rest after the bold phrase.",
+        "motion": "Internal footage movement and short word changes continue. Editorial resizing and replacement supply the transition between immersive and contained views.",
+        "art": "Space darkness and bright metallic/exhaust details alternate with a clean white border. The same small uppercase voice connects images with different origins and resolutions.",
+        "rebuild": "Group the immersive shots together, then use a clean cut to a smaller registered window for the destination images. Avoid adding a different frame treatment for every source clip.",
+        "frames": [
+          {
+            "time": 27.2272,
+            "frame": 816,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000816.jpg"
+          },
+          {
+            "time": 30.363667,
+            "frame": 910,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000910.jpg"
+          }
+        ]
+      },
+      {
+        "start": 31.6,
+        "end": 34.3,
+        "title": "Bright exhaust becomes an orbital diagram",
+        "description": "A luminous exhaust plume grows toward a pale field. A small sentence remains legible as a minimal orbital diagram enters from the right, with curved paths and circular bodies.",
+        "editing": "Shared brightness bridges photographic spectacle and abstraction. The diagram translates the next ambition into spatial scale rather than introducing more documentary footage.",
+        "motion": "The plume’s bright area expands, then line-and-dot orbital geometry enters from the right. Copy stays on the left of the diagram’s dominant mass, creating a readable two-part endpoint.",
+        "art": "White and pale gray give way to thin black orbital curves and dots. The diagram is flat and restrained; no glossy planetary rendering is required.",
+        "rebuild": "Match the lightest portion of the plume to the white background of the next scene. Keep the sentence stable during the handoff, then bring the diagram in from the right with enough margin to preserve the text area.",
+        "frames": [
+          {
+            "time": 32.198833,
+            "frame": 965,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000965.jpg"
+          },
+          {
+            "time": 33.700333,
+            "frame": 1010,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/001010.jpg"
+          }
+        ]
+      },
+      {
+        "start": 34.3,
+        "end": 39.893,
+        "title": "Final images clear to address and identity",
+        "description": "Brief rocket and helmet images return before sparse typed copy and a compact brand symbol settle on white. The film ends with much less image density than the launch chapter.",
+        "editing": "The closing images recall the visual subject, then the white card supplies a decisive destination. The identity does not compete with another complex montage.",
+        "motion": "Short copy arrives in discrete units and the small mark holds. Most of the closing composition remains still, so attention can resolve after the earlier scale changes.",
+        "art": "Black or dark fine type and a compact mark on a white field restate the film’s editorial stage. Large blank areas become an intentional part of the ending.",
+        "rebuild": "Cut from the final photographic reminder to a clean white card. Reveal only the closing line and mark, then hold the resolved composition. Avoid a new texture or decorative camera move at the finish.",
+        "frames": [
+          {
+            "time": 35.5355,
+            "frame": 1065,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/001065.jpg"
+          },
+          {
+            "time": 38.671967,
+            "frame": 1159,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/001159.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 24.5245,
+        "end": 26.4931,
+        "title": "Semantic replacement held across multiple footage cuts",
+        "steps": [
+          "Frames 735 onward retain the large two-word title over the helmet image. The baseline and large scale establish an easily recognized two-part composition.",
+          "At frame 743 the background has cut to the launch view and the second word is already a complete white rectangle. The inspected consecutive frames do not show a progressive wipe.",
+          "The retained first word and white bar stay in place through the next background cut, including a distant view through windows. Image content changes while the graphic argument remains stable.",
+          "Both large graphic elements disappear at a subsequent shot change. Tiny connective text resumes over rocket/exhaust imagery, separating this emphasis from the next clause."
+        ],
+        "takeaway": "Tie a meaningful text-state change to one image cut, then keep the resulting overlay registered across subsequent shots. This lets a single simple graphic operation carry a whole montage.",
+        "certainty": "Consecutive source frames 735–794 at 30000/1001 fps. Frame 743 is observed with the completed bar and new background; no source easing or production software is inferred.",
+        "frames": [
+          {
+            "time": 24.6246,
+            "frame": 738,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000738.jpg"
+          },
+          {
+            "time": 25.2252,
+            "frame": 756,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000756.jpg"
+          },
+          {
+            "time": 25.792433,
+            "frame": 773,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000773.jpg"
+          },
+          {
+            "time": 26.393033,
+            "frame": 791,
+            "src": "/film-motion/wolo/breakdown-frames/spacex/000791.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/windows/spacex-type-mask/index.html"
+      }
+    ],
+    "fps": "30000/1001",
+    "sourceDuration": 39.893,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-b.md"
+  },
+  {
+    "id": "wolo-slash-cornbread",
+    "structure": "Period and neighborhood context introduce a person and his mark. A personal dedication explains why the writing matters; its repetition across the city builds recognition. The older artist then leads into present-day people building businesses and physical worlds, and the same writing motif resolves as the Slash identity.",
+    "editingSystem": "Archive footage alternates with authored paper-collage pauses. The recurring handwriting links portrait, street, newspaper and wall without requiring a continuous morph. Conventional small subtitles and large authored writing have separate jobs. The modern business montage begins late, around 51 seconds, after the cultural story has accumulated meaning.",
+    "motionSystem": "Layer arrivals, incremental stroke reveals, red annotation paths, modest still-image reframing and ordinary footage movement form the vocabulary. The collage develops by adding different elements at different moments; it does not rotate as a single simulated physical sheet. Later work footage largely drops those graphic moves and lets action carry the scene.",
+    "artSystem": "The compact 4:3 frame, monochrome archive passages, faint graph paper, irregular cutout edges, beige tape and black handwriting create a material vocabulary. Red is sparse and functional: a circle, underline, arrow or heart directs attention. Contemporary interiors retain muted warmth, brick/wood, natural window light and deep shadows, keeping the late material shift compatible with the earlier archive.",
+    "reconstruction": [
+      "Suggested implementation: make a board of the recurring written mark before cutting footage. Plan where it is first named, where its motivation is explained, where it repeats in the world and where it becomes the final identity.",
+      "Suggested implementation: separate the subtitle track from authored lettering. Keep subtitles small, low and consistently readable; let only story-critical names, dedications and marks grow into major graphic objects.",
+      "Suggested implementation: prepare portrait, architecture and paper as independent flat cutouts. Add handwriting with path masks and red annotations on their own layers; stagger their arrivals rather than moving one flattened collage.",
+      "Suggested implementation: grade archive and modern footage by shared contrast and warmth, while retaining genuine differences in texture. Do not put the same artificial paper texture over every live-action shot.",
+      "Suggested implementation: place the brand-audience pivot after the narrative has established its metaphor. For a direct product demonstration, move proof earlier instead of copying this film’s late pivot automatically."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 6,
+        "title": "Establish an era before introducing the subject",
+        "description": "Performance imagery, children, streets and a presenter establish a period and cultural setting. Small subtitles sit near the lower edge while the footage changes.",
+        "editing": "The opening is a context montage, not a product cold open. Ordinary shot changes connect people and places before a designed collage interrupts the flow to name the subject.",
+        "motion": "Motion mainly belongs to performers and people in the footage. Subtitle position stays relatively consistent, so the continuous verbal thread does not require the eye to relocate on each cut.",
+        "art": "A 4:3 frame, archive texture and mixed monochrome/aged color establish a historical register. The small subtitle treatment is visually separate from the later handwritten names.",
+        "rebuild": "Cut a few complementary era cues before introducing a name. Keep the subtitle baseline consistent across those sources, and reserve a clearly different graphic treatment for the subject’s introduction.",
+        "frames": [
+          {
+            "time": 1.333333,
+            "frame": 32,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000032.jpg"
+          },
+          {
+            "time": 4.666667,
+            "frame": 112,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000112.jpg"
+          }
+        ]
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "title": "A collage asks who the subject is",
+        "description": "A crouching portrait settles on graph paper. Architecture and paper fragments join. Black handwriting grows above it while red loops, a crown, a question mark and a red ellipse around the name complete the frame.",
+        "editing": "The designed pause interrupts archive motion with a direct introduction. It culminates in a readable question, then cuts as a whole to monochrome transit footage.",
+        "motion": "Independent cutouts settle at different times. Handwriting reveals in increments; red strokes lengthen around the subject; the crown and question mark appear later. The frame accumulates rather than fading in uniformly.",
+        "art": "Faint grid, off-white paper, taped black-and-white cutouts and irregular handwriting make the image feel assembled by hand. Red annotations create a second visual voice around the black lettering.",
+        "rebuild": "Use separate portrait, architecture, paper and annotation layers. Start with the subject, reveal the question in stages, then complete the red emphasis around the written name before cutting away.",
+        "frames": [
+          {
+            "time": 6.458333,
+            "frame": 155,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000155.jpg"
+          },
+          {
+            "time": 7.541667,
+            "frame": 181,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000181.jpg"
+          }
+        ]
+      },
+      {
+        "start": 8,
+        "end": 16.5,
+        "title": "Place the person and repeat the mark",
+        "description": "Monochrome street and transit shots lead to a portrait, a written name, newspaper layers and close views of graffiti. The recurring mark becomes the object linking sources.",
+        "editing": "Context shots and graphic identification alternate. Repetition across different surfaces makes the name recognizable; the film does not depend on a special transition joining every image.",
+        "motion": "Footage movement alternates with restrained reframing of stills and incremental writing. The marked area is brought into a useful crop rather than left as a tiny detail in the whole photograph.",
+        "art": "Monochrome photography, printed newspaper texture and black hand lettering occupy the same compact frame. Imperfect edges and layered paper distinguish authored inserts from plain archival shots.",
+        "rebuild": "Alternate a contextual place shot with a readable mark or portrait. Crop the next image to preserve attention on the writing; keep its shape recognizable even when the surrounding medium changes.",
+        "frames": [
+          {
+            "time": 9.875,
+            "frame": 237,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000237.jpg"
+          },
+          {
+            "time": 14.625,
+            "frame": 351,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000351.jpg"
+          }
+        ]
+      },
+      {
+        "start": 16.5,
+        "end": 24.8,
+        "title": "A name and dedication give the mark a motive",
+        "description": "A woman’s portrait carries a large handwritten name, underline and small red heart. Street footage follows; a dedication builds in black handwriting and ends on torn paper attached to a wall.",
+        "editing": "The story shifts from identifying the mark to explaining why it exists. The written phrase persists as a motif while its support changes from footage to a tactile wall/paper composition.",
+        "motion": "Names and dedication accumulate progressively. A small red heart punctuates the portrait; the completed dedication gains a crown-like flourish before the paper version holds.",
+        "art": "Large imperfect black lettering becomes the main visual actor. Red remains a small emotional annotation. Torn pale paper, weathered wall and monochrome portrait maintain the handmade world.",
+        "rebuild": "Give the portrait enough time to register, then draw the name and a single accent. Carry the dedication through a change of background and land it on a textured physical surface, keeping the letterform character consistent.",
+        "frames": [
+          {
+            "time": 18.333333,
+            "frame": 440,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000440.jpg"
+          },
+          {
+            "time": 22.958333,
+            "frame": 551,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000551.jpg"
+          }
+        ]
+      },
+      {
+        "start": 24.8,
+        "end": 35.2,
+        "title": "Repetition turns an individual mark into a city presence",
+        "description": "Era fragments, a transport map, buses, tagged walls, street footage, photographs and a printed portrait extend the mark across different locations and kinds of evidence.",
+        "editing": "This is an accumulation chapter. Alternating place, vehicle, wall and portrait keeps repeated writing from becoming a series of identical close-ups, while each recurrence strengthens recognition.",
+        "motion": "Movement inside transport/street footage alternates with modest pushes or reframing on still images. Repeated marks, rather than a fixed camera trajectory, provide continuity.",
+        "art": "Archive monochrome, paper print and rough urban surfaces remain dominant. The texture belongs to each source; annotation is selective rather than a continuous overlay on everything.",
+        "rebuild": "Build a sequence of different surface types carrying the same motif. Use location wides to reset context between close details, and crop stills just enough to make the relevant mark readable.",
+        "frames": [
+          {
+            "time": 27.083333,
+            "frame": 650,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000650.jpg"
+          },
+          {
+            "time": 32.916667,
+            "frame": 790,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000790.jpg"
+          }
+        ]
+      },
+      {
+        "start": 35.2,
+        "end": 42.6,
+        "title": "Recognition resolves into the older artist",
+        "description": "A fresh paper collage combines portrait, clippings and red loops. The film then shows the older artist painting, before darkening into a brief near-black pause.",
+        "editing": "The collage gathers the historical evidence, then live action reconnects it to a person doing the work. The dark pause is a chapter boundary rather than another high-energy transition.",
+        "motion": "Cutouts and loops develop the assembled composition; later the artist’s hand and body supply real movement. The final image loses brightness, reducing both motion and visual detail.",
+        "art": "Paper and monochrome references hand off to a more present-tense human image. The same black mark and sparse red annotations support continuity until the image darkens.",
+        "rebuild": "Use one final collage to collect the identity cues, then cut to the actual act of making a mark. Let the dark interval be a deliberate pause before the next chapter instead of filling it with another effect.",
+        "frames": [
+          {
+            "time": 36.833333,
+            "frame": 884,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000884.jpg"
+          },
+          {
+            "time": 40.958333,
+            "frame": 983,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000983.jpg"
+          }
+        ]
+      },
+      {
+        "start": 42.6,
+        "end": 50.8,
+        "title": "Move from reconstruction to the living person",
+        "description": "Color interview and painting footage, large wall marks and a seated portrait make the subject present as a living person, not only an archival figure.",
+        "editing": "The sequence changes evidentiary mode from layered historical reconstruction to direct human presence. More sustained portraits and activity let the person carry the passage.",
+        "motion": "Visible painting gestures, body movement and natural camera/footage changes replace most collage animation. Wall-scale marks create a larger version of the small recurring signature.",
+        "art": "Color returns with subdued warmth. Natural settings and large physical surfaces retain texture without needing graph-paper framing or red annotations in every shot.",
+        "rebuild": "Use portraits and actual work shots with compatible light and contrast. Remove most collage overlays at this point so the shift to present-day evidence is perceptible.",
+        "frames": [
+          {
+            "time": 44.416667,
+            "frame": 1066,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/001066.jpg"
+          },
+          {
+            "time": 49.0,
+            "frame": 1176,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/001176.jpg"
+          }
+        ]
+      },
+      {
+        "start": 50.8,
+        "end": 65.7,
+        "title": "The cultural story pivots into contemporary work",
+        "description": "Entrepreneurs and teams appear with laptops, warehouse stock, parcels, camera equipment and construction activity. The film transfers the earlier story’s attitude into the brand’s audience.",
+        "editing": "This is the major late brand pivot. It connects actions and working environments instead of abruptly displaying a product interface; the prior mark-making story gives the montage its interpretation.",
+        "motion": "Typing, handling parcels, filming and physical work provide motion. Cuts alternate people, tools and environments; authored graphic animation recedes.",
+        "art": "Muted warm interiors, brick walls, wood, window light and deep shadows create contemporary tactility. The image stays observational rather than changing to pristine white commercial UI.",
+        "rebuild": "Choose human actions and material details that express the audience’s work. Alternate wide environment, person and tool detail; keep grading coherent with the earlier human footage and use only essential subtitles.",
+        "frames": [
+          {
+            "time": 54.083333,
+            "frame": 1298,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/001298.jpg"
+          },
+          {
+            "time": 62.416667,
+            "frame": 1498,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/001498.jpg"
+          }
+        ]
+      },
+      {
+        "start": 65.7,
+        "end": 73,
+        "title": "Broaden the act of making to the built world",
+        "description": "City imagery, concrete work, finishing surfaces, bridges and skyline views broaden the scale from individual makers to physical environments.",
+        "editing": "The montage expands the metaphor before identity closure. Detail-to-wide alternation makes the work feel consequential without needing a new explanatory diagram.",
+        "motion": "Hands and tools moving over surfaces give way to larger city/bridge perspectives. The film’s visual scale broadens while the graphic layer stays restrained.",
+        "art": "Rough concrete and finished surfaces extend the tactile palette. City and sky provide more open compositions before the pale end card.",
+        "rebuild": "Sequence a material detail, the action that changes it, and a wider built result. Use the final wide shot to create room for the cut to the identity card.",
+        "frames": [
+          {
+            "time": 67.291667,
+            "frame": 1615,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/001615.jpg"
+          },
+          {
+            "time": 71.375,
+            "frame": 1713,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/001713.jpg"
+          }
+        ]
+      },
+      {
+        "start": 73,
+        "end": 77.013,
+        "title": "The writing motif becomes the brand",
+        "description": "A pale cream card replaces the photographic world. The Slash name reveals in a graffiti-like hand and holds, with a small disclosure line beneath.",
+        "editing": "The end card resolves a motif already developed through names, dedications and wall marks. It is the conclusion of the visual story rather than an unrelated standard logo sting.",
+        "motion": "The handwritten identity draws in; once complete, the composition settles. The small supporting line is not given competing expressive motion.",
+        "art": "Cream background, dark irregular lettering and tiny disclosure copy retain the paper-and-writing vocabulary while removing nearly all visual clutter.",
+        "rebuild": "Use the same hand-drawn stroke character established earlier. Reveal the wordmark in stroke groups, then hold its completed silhouette on cream with a quiet supporting line.",
+        "frames": [
+          {
+            "time": 73.875,
+            "frame": 1773,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/001773.jpg"
+          },
+          {
+            "time": 76.125,
+            "frame": 1827,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/001827.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 6,
+        "end": 7.9583,
+        "title": "Layered paper collage and drawn emphasis",
+        "steps": [
+          "Begin with the faint graph-paper field and crouched portrait; a small written-name paper label sits beneath the person. These establish the central subject before the question is complete.",
+          "Reveal the large black question lettering in short increments. Architecture arrives at the left while an additional photographic fragment occupies the upper-right, producing an asymmetrical frame around the portrait.",
+          "Draw red curved strokes around the subject. The red paths grow through the sequence instead of appearing only as a finished decoration.",
+          "Add the crown and oversized question mark after the main figure and lettering are recognizable. Their arrival completes the question’s graphic emphasis.",
+          "Extend a red ellipse around the written name near the bottom. With the composition resolved, cut the entire collage to monochrome transit footage rather than animating every layer offscreen."
+        ],
+        "takeaway": "Give each material a distinct arrival and reading job: subject first, question next, annotation last. The cut out of the completed collage can be plain because the internal build already supplies the emphasis.",
+        "certainty": "Consecutive source frames 144–191 at 24 fps, 6.0000–7.9583 seconds. The visible layers and stroke progression are established; physical paper simulation, camera tracking and precise easing are not.",
+        "frames": [
+          {
+            "time": 6.083333,
+            "frame": 146,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000146.jpg"
+          },
+          {
+            "time": 6.666667,
+            "frame": 160,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000160.jpg"
+          },
+          {
+            "time": 7.291667,
+            "frame": 175,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000175.jpg"
+          },
+          {
+            "time": 7.875,
+            "frame": 189,
+            "src": "/film-motion/wolo/breakdown-frames/slash-cornbread/000189.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/windows/slash-cornbread-collage-reveal/index.html"
+      }
+    ],
+    "fps": "24/1",
+    "sourceDuration": 77.013,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-b.md"
+  },
+  {
+    "id": "wolo-nsave-referrals",
+    "structure": "A money hook becomes an invitation, then a referral diagram. Deposit conditions and a separate multi-person bonus are explained in successive clauses. Notifications and a growing total create the accumulation climax, followed by a concrete sharing action and a long sparse identity hold.",
+    "editingSystem": "The unit of editing is a condition or consequence. Each sentence, count or diagram gets its own field before the next clause arrives. Whole text groups slide or clear as units; the film alternates fast arrivals with resolved readable compositions. Density peaks only when rewards accumulate, then collapses for the phone action and logo.",
+    "motionSystem": "Word builds, numeric changes, short lateral slides with visible directional blur, line drawing, sequential icon arrivals and a final fade perform distinct explanatory jobs. In the referral tree the lead emoji remains as the curved line leaves, then branches and people build in stages. Exact easing, overshoot and source tooling are not recoverable from the reviewed frames.",
+    "artSystem": "White carries almost the whole film. Large black sans-serif phrases establish hierarchy; red names, highlight bars and drawn lines mark emphasis. Familiar emojis give the offer an informal tone. Gray notification pills and the later messaging phone introduce recognizable system imagery without changing to a cinematic environment.",
+    "reconstruction": [
+      "Suggested implementation: write offer, referral mechanism, qualifying condition, threshold bonus and sharing action as separate cards. Give every card one main sentence and at most one supporting graphic role.",
+      "Suggested implementation: design each fully settled text layout before its entrance. Animate phrase groups between these layouts, using blur only during travel so the resting text remains crisp.",
+      "Suggested implementation: make the referral tree as independent lead actor, connector segments, lower actors and reward labels. Sequence their arrivals so the viewer sees cause before repeated consequences.",
+      "Suggested implementation: use one counter object and duplicated notification components for the climax. Increase quantity and overlap around the total while preserving a clear central reading zone.",
+      "Suggested implementation: clear the reward clutter before the phone-sharing scene. Keep the CTA readable, show a recognizable message interaction, then reduce to the wordmark and hold."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 2.6,
+        "title": "Build the monetary hook before adding personality",
+        "description": "Short black text units arrive on white. The amount grows as characters/numbers resolve, while a nearby emoji changes expression. The completed two-line offer is allowed to read.",
+        "editing": "The hook is a single concrete proposition. Emoji changes add energy around an already stable question rather than introducing another topic or competing scene.",
+        "motion": "Words enter with visible directional blur before settling. Numeric text builds/changes, and expressions replace one another beside the amount. The final phrase keeps its centered registration.",
+        "art": "Large black sans-serif lettering on white; a small bright emoji sits near the amount. The blank field removes texture and image competition at the opening.",
+        "rebuild": "Create the complete two-line hook first. Introduce it in short readable units, let the amount resolve, then change the emoji expression without also moving the entire phrase.",
+        "frames": [
+          {
+            "time": 0.566667,
+            "frame": 34,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000034.jpg"
+          },
+          {
+            "time": 2.033333,
+            "frame": 122,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000122.jpg"
+          }
+        ]
+      },
+      {
+        "start": 2.6,
+        "end": 6.3,
+        "title": "Turn the hook into a named referral invitation",
+        "description": "Large cropped currency symbols clear into brief invitation phrases. The brand name appears in red, a handshake accompanies the friend invitation, and a red highlight grows behind the program phrase.",
+        "editing": "The film moves from reward to mechanism. Separate phrase layouts keep the invitation and program name from competing with the original monetary hook.",
+        "motion": "Oversized symbols pass through the frame; words build and groups shift between centered arrangements. The handshake is a supporting arrival. The highlight extends behind already readable text.",
+        "art": "Black text is the default, red identifies the brand and program emphasis, and the handshake supplies one familiar visual cue. White stays continuous across transitions.",
+        "rebuild": "Use the oversized symbol as a short clearing move, then settle the invitation. Reveal the red brand word distinctly and animate a highlight behind the next key phrase without obscuring its letterforms.",
+        "frames": [
+          {
+            "time": 3.416667,
+            "frame": 205,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000205.jpg"
+          },
+          {
+            "time": 5.483333,
+            "frame": 329,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000329.jpg"
+          }
+        ]
+      },
+      {
+        "start": 6.3,
+        "end": 10.5,
+        "title": "A sentence hands attention to a referral tree",
+        "description": "A short statement settles. A red line draws to its right, loops, and carries attention toward a lead emoji. The curve leaves while a branching diagram builds below that emoji with three people and reward labels.",
+        "editing": "The transformation turns verbal referral into a visible relationship. The lead actor persists through the handoff, so the new diagram feels like the explanation of the sentence.",
+        "motion": "The outgoing phrase travels left with blur. The red curve and lead emoji enter; the line moves away while the emoji remains high in frame. Connector segments and lower people appear in phases rather than a single full-tree fade.",
+        "art": "Fine red line, yellow emojis, thin gray/black connectors and small black reward values sit on white. The lead actor is spatially above the three consequences.",
+        "rebuild": "Keep the lead emoji as the shared anchor between the curved-line scene and the tree. Sequence stem, branch, first person/reward, then the remaining people/rewards; allow the complete diagram to settle.",
+        "frames": [
+          {
+            "time": 7.216667,
+            "frame": 433,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000433.jpg"
+          },
+          {
+            "time": 9.583333,
+            "frame": 575,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000575.jpg"
+          }
+        ]
+      },
+      {
+        "start": 10.5,
+        "end": 17.5,
+        "title": "Explain the qualifying condition as its own clause",
+        "description": "A large plus sign introduces the next condition. Deposit language and changing values follow, accompanied by a red drawn arrow and a larger benefit phrase.",
+        "editing": "The plus sign explicitly adds another condition to the referral explanation. Moving to a fresh layout keeps the qualification from being buried inside the previous tree.",
+        "motion": "Type and numeric values change in sequence. The arrow draws directionally to connect the condition with its consequence, then the benefit takes a larger typographic scale.",
+        "art": "Large black type, a minimal arithmetic sign and selective red annotation preserve the sparse language. The benefit’s size change supplies emphasis without requiring a scene full of new objects.",
+        "rebuild": "Clear the completed tree, show the additive sign briefly, then state the condition. Animate the number only while it changes meaning; draw the arrow after the condition is readable and enlarge the resulting benefit.",
+        "frames": [
+          {
+            "time": 12.033333,
+            "frame": 722,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000722.jpg"
+          },
+          {
+            "time": 15.966667,
+            "frame": 958,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000958.jpg"
+          }
+        ]
+      },
+      {
+        "start": 17.5,
+        "end": 24.8,
+        "title": "Make the threshold countable before stating the bonus",
+        "description": "An excited emoji precedes five person icons arriving in sequence. A separate bonus phrase and flying-money graphic follow once the count has been demonstrated.",
+        "editing": "The number of people is shown by actual repeated objects. The bonus gets a new clause after the threshold is recognizable, preventing an overloaded simultaneous explanation.",
+        "motion": "Icons enter one by one, creating a count rhythm. The next phrase replaces the count layout; a money-with-wings graphic supplies movement around the bonus without changing the visual world.",
+        "art": "Familiar yellow emoji/human symbols, black text and white negative space keep the condition concrete. Red remains available for specific emphasis rather than filling the background.",
+        "rebuild": "Prepare exactly the number of actor icons required by the condition. Reveal them sequentially, hold the completed count, then move to a new bonus composition. Keep the count and the financial consequence separate in time.",
+        "frames": [
+          {
+            "time": 19.1,
+            "frame": 1146,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/001146.jpg"
+          },
+          {
+            "time": 23.2,
+            "frame": 1392,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/001392.jpg"
+          }
+        ]
+      },
+      {
+        "start": 24.8,
+        "end": 28.6,
+        "title": "Accumulation becomes the climax",
+        "description": "Gray notification bars collect around a central dollar total. The total grows while more notifications occupy the field, ending on the film’s largest accumulated amount.",
+        "editing": "The repeated reward unit makes accumulation visible. This is the highest density passage because the viewer already understands the mechanism; the film can now compress repeated consequences.",
+        "motion": "Notification pills enter from different positions and collect around the counter. The amount changes upward and increases in prominence. Peripheral motion is organized around a stable central reading target.",
+        "art": "Muted gray system-style pills with small red brand icons surround large black numeric type on white. Gray limits the notifications’ contrast so the total stays dominant.",
+        "rebuild": "Use one central counter and a reusable notification component. Add pills around its protected area, raise the total with each accumulation stage, and finish with a brief fully resolved amount before clearing the field.",
+        "frames": [
+          {
+            "time": 25.633333,
+            "frame": 1538,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/001538.jpg"
+          },
+          {
+            "time": 27.766667,
+            "frame": 1666,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/001666.jpg"
+          }
+        ]
+      },
+      {
+        "start": 28.6,
+        "end": 34,
+        "title": "Replace accumulated rewards with a concrete sharing action",
+        "description": "Short instruction copy builds above a phone message view rising from below. The red brand word is embedded in the instruction, while the visible conversation makes sharing tangible. The scene fades toward white.",
+        "editing": "The shift from rewards to action is deliberate: the clutter clears, the instruction is isolated, and a familiar phone behavior supplies the next step. The phone is explanatory evidence rather than another decorative 3D object.",
+        "motion": "The phone rises into view beneath the phrase; messaging content progresses while the copy completes. The composition then loses contrast into the white field.",
+        "art": "Black instruction, red brand emphasis, dark phone edges and blue chat bubbles introduce only familiar interface colors. The white stage remains unchanged.",
+        "rebuild": "Remove the notification pile first. Set the instruction above the device, raise the phone enough to expose the relevant conversation, and hold the complete action before fading the whole scene toward white.",
+        "frames": [
+          {
+            "time": 29.783333,
+            "frame": 1787,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/001787.jpg"
+          },
+          {
+            "time": 32.816667,
+            "frame": 1969,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/001969.jpg"
+          }
+        ]
+      },
+      {
+        "start": 34,
+        "end": 39.829,
+        "title": "Hold the red identity in an empty frame",
+        "description": "A red wordmark remains on white for the closing section and then fades out. No additional reward diagram or product scene competes with it.",
+        "editing": "The long low-density ending counterbalances the notification climax. Identity is the final resolved information after the action has been explained.",
+        "motion": "A restrained hold and fade replace the earlier sliding, counting and repeated arrivals. The composition stays spatially stable.",
+        "art": "The red wordmark becomes the only strong accent against the same white field used throughout the film. The limited palette now reaches its simplest form.",
+        "rebuild": "Keep the wordmark alone at a modest readable scale. Hold the resolved state before fading; avoid adding a late flourish that would reopen the information sequence.",
+        "frames": [
+          {
+            "time": 35.283333,
+            "frame": 2117,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/002117.jpg"
+          },
+          {
+            "time": 38.55,
+            "frame": 2313,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/002313.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 7.5,
+        "end": 9.4833,
+        "title": "A line hands off to an actor, then to repeated consequences",
+        "steps": [
+          "Start with the settled referral sentence. A short red stroke appears to its right and grows into a loop while the words remain readable.",
+          "Move the phrase left with visible blur as the curve extends and a lead emoji enters. The movement transfers attention out of the text region instead of dissolving everything simultaneously.",
+          "Let the curve travel away while the lead emoji remains high in the composition. The shared actor becomes the bridge between the playful line and the explanatory tree.",
+          "Introduce the first lower person and its reward label, then extend connector segments and add the next people. Arrival times are staggered; the full diagram is not present from the beginning.",
+          "Complete the three-person branching layout with small accent bursts near rewards, then hold the whole relationship in a stable, readable arrangement."
+        ],
+        "takeaway": "Preserve one actor during a scene handoff, then reveal relationships in causal order. Drawing every branch and fading in every person at once would remove the explanatory value of the sequence.",
+        "certainty": "Consecutive source frames 450–569 at 60 fps, 7.5000–9.4833 seconds. The phase order is visible; exact easing, spring values, layer structure and soundtrack sync are not established.",
+        "frames": [
+          {
+            "time": 7.6,
+            "frame": 456,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000456.jpg"
+          },
+          {
+            "time": 8.2,
+            "frame": 492,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000492.jpg"
+          },
+          {
+            "time": 8.783333,
+            "frame": 527,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000527.jpg"
+          },
+          {
+            "time": 9.383333,
+            "frame": 563,
+            "src": "/film-motion/wolo/breakdown-frames/nsave-referrals/000563.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/windows/nsave-referrals-referral-tree/index.html"
+      }
+    ],
+    "fps": "60/1",
+    "sourceDuration": 39.829,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-b.md"
+  },
+  {
+    "id": "wolo-worm-launch",
+    "structure": "Brand pulse → category overload → editorial/atmospheric interruption → market selection → order and leverage action → visible result → long terminal integration chapter → material identity burst → URL. The terminal chapter occupies roughly thirteen seconds, so the structure depends on pronounced density changes rather than continuous speed.",
+    "editingSystem": "The edit cycles through world, full interface, isolated control and result. A control close-up is prepared by its containing panel, then returns to that panel before the next action. Hard cuts and white flashes separate footage, UI and terminal chapters; the ending switches rapidly among material versions with the logo held in the same central location.",
+    "motionSystem": "Perspective staging and scaling bring a UI plane toward the viewer; selective softness suppresses surrounding cards. A large cursor supplies visible cause, while green selection, numeric change and bar length supply consequences. The leverage insert temporarily magnifies a single slider, then restores context. Terminal lines build in place; the logo coda uses successive replacements rather than a proven continuous material morph.",
+    "artSystem": "Black and charcoal form the common stage. Green marks active/positive states and terminal text; yellow/orange distinguishes Bitcoin/chart detail. Warm defocused footage interrupts the cool software palette. Sans serif product copy, oversized newspaper-style serif lettering and small monospaced terminal lines identify different communication modes. Material variety is concentrated in the final mark rather than applied everywhere.",
+    "reconstruction": [
+      "Suggested implementation: prepare one consistent market interface at context, card and control scales. Keep the state progression shared across these crops so close-ups do not introduce contradictory values.",
+      "Separate the cursor, slider thumb, numeric value and action highlight into controllable layers. Animate the input first, state change second, and return to context third.",
+      "Build the terminal chapter as staged text events on a nearly static field. Preserve its longer duration instead of adding camera movement merely to fill time.",
+      "Prepare logo variants aligned to one center and comparable silhouette size; cut between variants. Reserve those short exposures for identity, then give the URL a quiet hold.",
+      "Treat exact easing, camera geometry and source software as unknown. Use the source frames to match endpoints, sequence and apparent emphasis before choosing interpolation."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 1.2,
+        "title": "A small identity becomes a color pulse",
+        "description": "A small white mark against black becomes larger, multicolored and soft-edged. The location remains the identity anchor.",
+        "editing": "Open on recognition, then change intensity before introducing a new subject.",
+        "motion": "The mark increases its apparent scale while the surface/color treatment changes; the black field stays quiet.",
+        "art": "White-on-black becomes saturated, blurred color without filling the whole composition.",
+        "rebuild": "Keep the mark centered in separate restrained and expressive states; transition between their scale and treatment before cutting to the eye.",
+        "frames": [
+          {
+            "time": 0.266667,
+            "frame": 8,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000008.jpg"
+          },
+          {
+            "time": 0.933333,
+            "frame": 28,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000028.jpg"
+          }
+        ]
+      },
+      {
+        "start": 1.2,
+        "end": 3.2,
+        "title": "Eye to category overload",
+        "description": "A human eye close-up gives way to large category lettering surrounded by many market cards.",
+        "editing": "The subject cut moves from a literal image of looking to an information-heavy market proposition.",
+        "motion": "Cards accumulate around the large type, increasing density while the wording remains the principal anchor.",
+        "art": "Human imagery is replaced by dark interface cards and large high-contrast text.",
+        "rebuild": "Stage the eye as a short establishing insert, then add market-card layers around a protected central headline rather than moving all layers at equal visual weight.",
+        "frames": [
+          {
+            "time": 1.633333,
+            "frame": 49,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000049.jpg"
+          },
+          {
+            "time": 2.766667,
+            "frame": 83,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000083.jpg"
+          }
+        ]
+      },
+      {
+        "start": 3.2,
+        "end": 4.4,
+        "title": "Newspaper crop changes the register",
+        "description": "Oversized newspaper-style serif text occupies a curved surface; the crop advances into individual words.",
+        "editing": "A discrete cut substitutes editorial commentary for the card field. The notes do not establish a literal card-to-paper morph.",
+        "motion": "The apparent view pushes closer to typography until complete-page context is lost and words become graphic forms.",
+        "art": "Large serif letters and a paper-like surface distinguish this from the sans serif UI.",
+        "rebuild": "Create a separate editorial text surface and crop sequence; use a clear cut from the cards, then enlarge the specific words that carry the claim.",
+        "frames": [
+          {
+            "time": 3.466667,
+            "frame": 104,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000104.jpg"
+          },
+          {
+            "time": 4.133333,
+            "frame": 124,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000124.jpg"
+          }
+        ]
+      },
+      {
+        "start": 4.4,
+        "end": 7.8,
+        "title": "A warm sentence holds",
+        "description": "Warm, defocused live-action imagery sits behind a short centered sentence. The sentence disappears before the underlying shot.",
+        "editing": "A longer atmospheric interval follows the opening’s quick texture changes; the staggered exit leaves an image-only tail.",
+        "motion": "The text fades out while the footage remains, separating the copy event from the shot boundary.",
+        "art": "Red/orange warmth and soft focus contrast with the cool black interface scenes.",
+        "rebuild": "Keep the copy sharp and the footage subordinate; finish the sentence’s fade before the cut so the shot has a brief visual release.",
+        "frames": [
+          {
+            "time": 5.133333,
+            "frame": 154,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000154.jpg"
+          },
+          {
+            "time": 7.066667,
+            "frame": 212,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000212.jpg"
+          }
+        ]
+      },
+      {
+        "start": 7.8,
+        "end": 11.4,
+        "title": "Claim above an approaching product plane",
+        "description": "White copy builds above a low, oblique plane of market cards. The copy completes and clears as the interface occupies more of the frame.",
+        "editing": "The reveal gives the claim, product context and upcoming interaction separate jobs in sequence.",
+        "motion": "The UI plane grows toward the viewer while the headline builds, then fades; it is already present before becoming the main subject.",
+        "art": "White sans serif copy floats over a charcoal interface with dark surrounding space.",
+        "rebuild": "Place a broad UI surface below the headline, animate its scale/position toward a readable endpoint, and remove the copy before the important card selection.",
+        "frames": [
+          {
+            "time": 8.6,
+            "frame": 258,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000258.jpg"
+          },
+          {
+            "time": 10.6,
+            "frame": 318,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000318.jpg"
+          }
+        ]
+      },
+      {
+        "start": 11.4,
+        "end": 14.2,
+        "title": "Nominate one Bitcoin action",
+        "description": "A Bitcoin market card dominates; surrounding content softens and the cursor selects the positive action.",
+        "editing": "The edit moves from an interface field to one actionable unit, then allows the selected state to serve as proof.",
+        "motion": "Scale isolates the card; the pointer moves to the button; the bright green state marks the consequence.",
+        "art": "A warm Bitcoin identifier and green action stand out against charcoal panels and softened surroundings.",
+        "rebuild": "Use a focused card insert with the same state as the context view. Move the pointer to a stable target before changing the button, keeping other cards visibly secondary.",
+        "frames": [
+          {
+            "time": 12.0,
+            "frame": 360,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000360.jpg"
+          },
+          {
+            "time": 13.6,
+            "frame": 408,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000408.jpg"
+          }
+        ]
+      },
+      {
+        "start": 14.2,
+        "end": 16.2,
+        "title": "Flash into a trading-floor analogy",
+        "description": "A white flash bridges to warm trading-floor footage with a short centered product-category phrase.",
+        "editing": "The flash covers a material/register change from constructed UI to live-action association.",
+        "motion": "The main change is the shot replacement and brief flash, while the centered wording stabilizes the new image.",
+        "art": "Warm footage and white copy contrast with the black/green product chapter.",
+        "rebuild": "Use the flash at the join between prepared shots; keep the product-category line centered and give the footage enough exposure to read as an analogy.",
+        "frames": [
+          {
+            "time": 14.633333,
+            "frame": 439,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000439.jpg"
+          },
+          {
+            "time": 15.766667,
+            "frame": 473,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000473.jpg"
+          }
+        ]
+      },
+      {
+        "start": 16.2,
+        "end": 19.4,
+        "title": "Price, timer and chart become evidence",
+        "description": "Market price/count changes are followed by closer views of a timer and graph.",
+        "editing": "A chain of detail views replaces a long, undirected dashboard hold. Each crop answers a different evidence question.",
+        "motion": "Numeric state changes occur within UI; successive reframings move attention from values to timer to graph.",
+        "art": "The same dark product system persists, with yellow/orange chart accents separating the data emphasis.",
+        "rebuild": "Plan the crop order from the information needed: value, time, trend. Animate only the relevant value/state inside each crop and keep recognizable interface elements at the edges.",
+        "frames": [
+          {
+            "time": 16.9,
+            "frame": 507,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000507.jpg"
+          },
+          {
+            "time": 18.7,
+            "frame": 561,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000561.jpg"
+          }
+        ]
+      },
+      {
+        "start": 19.4,
+        "end": 22.5,
+        "title": "Explanation yields to the order panel",
+        "description": "Short copy at left shares the screen with order-book UI at right. The interface then takes over the field.",
+        "editing": "A paired explanation/mechanism layout introduces the control before the film commits to its close-up.",
+        "motion": "The order panel increases its share of the composition as the text is removed.",
+        "art": "White left-side copy balances dense charcoal UI at right.",
+        "rebuild": "Start with a two-part layout and a clear gutter; move the panel into the main reading area after the explanatory phrase has completed.",
+        "frames": [
+          {
+            "time": 20.066667,
+            "frame": 602,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000602.jpg"
+          },
+          {
+            "time": 21.833333,
+            "frame": 655,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000655.jpg"
+          }
+        ]
+      },
+      {
+        "start": 22.5,
+        "end": 25.2,
+        "title": "Leverage: context, grasp, value, release",
+        "description": "The pointer approaches a leverage slider. A separate enlarged insert shows the hand grasping and dragging it toward 5.0, then the view returns to the order panel and buy action.",
+        "editing": "The enlarged control is an insert inside a causal action chain, not a disconnected beauty shot. The return makes the next click understandable.",
+        "motion": "The hand changes from open to closed, the thumb travels along the slider, the value rises after a brief dip, and the hand opens on release.",
+        "art": "Oversized white hand and value are legible over a dark rounded slider; bright green action remains the contextual cue.",
+        "rebuild": "Make context and insert states share one parameter. Key the hand’s grasp before the thumb travel, synchronize the displayed number, open the hand at the endpoint, then restore the wide panel.",
+        "frames": [
+          {
+            "time": 23.1,
+            "frame": 693,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000693.jpg"
+          },
+          {
+            "time": 24.6,
+            "frame": 738,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000738.jpg"
+          }
+        ]
+      },
+      {
+        "start": 25.2,
+        "end": 28,
+        "title": "The result changes before the interface clears",
+        "description": "Position/result bars shift through red and green states, with changing lengths and values, before the UI darkens.",
+        "editing": "The outcome follows the demonstrated input. The outgoing darkening closes the product chapter after the result rather than immediately after the click.",
+        "motion": "Bar length, numeric state and color change together; the composition then loses brightness.",
+        "art": "Red/green encode different result states against the black/charcoal interface.",
+        "rebuild": "Prepare distinct pre-action and result states; change the bar and value as one event, hold the useful result, then dim the whole interface for the next chapter.",
+        "frames": [
+          {
+            "time": 25.8,
+            "frame": 774,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000774.jpg"
+          },
+          {
+            "time": 27.4,
+            "frame": 822,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000822.jpg"
+          }
+        ]
+      },
+      {
+        "start": 28,
+        "end": 41.2,
+        "title": "A thirteen-second terminal chapter",
+        "description": "Pale green identity and small monospaced lines accumulate on black, including a staged integration/merge sequence.",
+        "editing": "The long sparse chapter interrupts the dense product cadence. Its duration is a structural reset, not a missing animation opportunity.",
+        "motion": "Lines appear in place with limited spatial movement; attention follows sequential text and integration states.",
+        "art": "Terminal-like green, small monospace lettering and abundant black space replace large product crops.",
+        "rebuild": "Lay out a fixed terminal region and reveal meaningful lines/state updates in order. Budget reading exposure for each completed message and avoid an unrelated moving background.",
+        "frames": [
+          {
+            "time": 30.9,
+            "frame": 927,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000927.jpg"
+          },
+          {
+            "time": 38.3,
+            "frame": 1149,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001149.jpg"
+          }
+        ]
+      },
+      {
+        "start": 41.2,
+        "end": 43.9,
+        "title": "Pair two symbols before the burst",
+        "description": "Two platform symbols settle into a symmetric pairing, narrow in profile, and move together.",
+        "editing": "The pairing translates the preceding integration idea into a compact visual bridge to the identity coda.",
+        "motion": "A visible change toward narrow profiles suggests turning symbols; the pair converges while maintaining a simple centered arrangement.",
+        "art": "Two high-contrast marks on dark ground keep the relationship legible.",
+        "rebuild": "Stage the two marks in balanced positions, bring their profiles toward each other, and complete the relationship before introducing the material sequence. Do not assume the source’s 3D construction.",
+        "frames": [
+          {
+            "time": 41.8,
+            "frame": 1254,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001254.jpg"
+          },
+          {
+            "time": 43.3,
+            "frame": 1299,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001299.jpg"
+          }
+        ]
+      },
+      {
+        "start": 43.9,
+        "end": 46.2,
+        "title": "Fast material replacements preserve identity",
+        "description": "After a white flash, a centered Worm silhouette switches among gold, fabric-like color, rainbow, metal, white, wire-like, spiky and globe-like treatments.",
+        "editing": "The action is a montage of prepared variants. Many appearances in the dense window last roughly two source frames at 30fps.",
+        "motion": "The invariant is central position and recognizable outline; most energy comes from material replacement rather than a large trajectory.",
+        "art": "Black ground allows metallic, bright and patterned marks to change character without changing the whole set.",
+        "rebuild": "Align each variant to a common anchor and silhouette size. Use short cuts only where the mark is already recognizable; do not attach essential explanatory copy to these exposures.",
+        "frames": [
+          {
+            "time": 44.4,
+            "frame": 1332,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001332.jpg"
+          },
+          {
+            "time": 45.7,
+            "frame": 1371,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001371.jpg"
+          }
+        ]
+      },
+      {
+        "start": 46.2,
+        "end": 50.41,
+        "title": "White URL end card",
+        "description": "Black URL lettering appears on a white field, grows gradually and is followed by the final dark frame.",
+        "editing": "A hard dark-to-light inversion makes the destination immediately distinct from the material burst. The sustained end card resolves the film.",
+        "motion": "The URL increases slowly in apparent scale; the field otherwise stays empty.",
+        "art": "Plain black sans serif text on white removes the earlier texture and color complexity.",
+        "rebuild": "Cut to a clean destination card, preserve generous margins as the URL scales, and hold it long enough to read before the final dark frame.",
+        "frames": [
+          {
+            "time": 47.133333,
+            "frame": 1414,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001414.jpg"
+          },
+          {
+            "time": 49.5,
+            "frame": 1485,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001485.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 22.5,
+        "end": 24,
+        "title": "The leverage insert, frame by frame",
+        "steps": [
+          "The control is first seen inside the order panel with its 1.0x state; the pointer travels upward toward the slider.",
+          "The pointer becomes an open hand at the thumb. A much larger control insert replaces the wider view.",
+          "The hand closes for the drag. The displayed value briefly dips toward 0.9 before rising; the exact interpolation cannot be recovered from these samples.",
+          "The thumb and number progress together toward 5.0x. The framing follows enough of the slider to keep the moving target readable.",
+          "At 5.0x the hand opens again. The subsequent wider sequence restores the order panel and continues to the buy action."
+        ],
+        "takeaway": "Give a magnified control an entry context, visible grasp, synchronized parameter change and release. The close-up should complete an action the viewer already understands.",
+        "certainty": "Consecutive source frames 675–719 at 30fps were inspected. The larger beat continues to approximately 25.2 s; easing and source software are unknown.",
+        "frames": [
+          {
+            "time": 22.566667,
+            "frame": 677,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000677.jpg"
+          },
+          {
+            "time": 23.033333,
+            "frame": 691,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000691.jpg"
+          },
+          {
+            "time": 23.466667,
+            "frame": 704,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000704.jpg"
+          },
+          {
+            "time": 23.933333,
+            "frame": 718,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/000718.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/windows/worm-leverage/index.html"
+      },
+      {
+        "start": 43,
+        "end": 46.4,
+        "title": "Fast cuts with a stable silhouette",
+        "steps": [
+          "The paired symbols finish their approach/turn before the identity burst.",
+          "A brief bright transition introduces the material sequence.",
+          "Prepared central marks replace one another while their location and broad outline remain comparable.",
+          "Several treatments repeat in a short cycle; many variants occupy roughly two 30 fps source frames.",
+          "A hard cut removes the dark stage and substitutes the sparse white URL card."
+        ],
+        "takeaway": "The repeatable silhouette carries recognition, allowing surface variation to run much faster than readable information.",
+        "certainty": "Consecutive source frames 1290–1391 inspected; this establishes visible replacement timing, not a continuously morphing material process.",
+        "frames": [
+          {
+            "time": 43.166667,
+            "frame": 1295,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001295.jpg"
+          },
+          {
+            "time": 44.2,
+            "frame": 1326,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001326.jpg"
+          },
+          {
+            "time": 45.2,
+            "frame": 1356,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001356.jpg"
+          },
+          {
+            "time": 46.233333,
+            "frame": 1387,
+            "src": "/film-motion/wolo/breakdown-frames/worm-launch/001387.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/windows/worm-identity/index.html"
+      }
+    ],
+    "fps": "30/1",
+    "sourceDuration": 50.41,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-c.md"
+  },
+  {
+    "id": "wolo-okbet-launch",
+    "structure": "Typed introduction joke → device and balance request → balance proof → market recommendations → one phone turn → place-order conversation → sell/reversal conversation → personality question → small brand close.",
+    "editingSystem": "A conversation turn is the edit unit. Questions appear beside a full device; answers earn close screen views. The phone alternates sides to change composition while the same conversation supplies continuity. Each transactional chapter includes request, choice/confirmation and completed state.",
+    "motionSystem": "Type-on wording, blur/fade exits, lateral phone relocation and scale changes form the main vocabulary. The front-facing screen is the readable destination. A single turn at 13.5–14.5 s passes through edge and back, reduces size and relocates the phone left before the next prompt.",
+    "artSystem": "An almost empty white stage, black sans serif copy, green conversation surface, warm metallic phone and small yellow/orange accents. The device is the recurring physical anchor. There is no need for decorative environment changes: layout variation and the next question carry the progression.",
+    "reconstruction": [
+      "Suggested implementation: prepare a single chronological conversation with all requests, answers, confirmations and completed states. Derive close-ups from that same conversation.",
+      "Build two wide compositions—device left/prompt right and device right/prompt left—and one large response crop. Reuse this grammar across chapters.",
+      "Type the prompt in meaningful units, soften outgoing copy and move into the response. Reserve a stable close view for the completed answer.",
+      "Use one phone rotation as a chapter hinge. Keep side/back exposure short and finish on a front-facing screen at the next wide-layout endpoint.",
+      "Close on a small warm mark on the existing white field; do not introduce a new visual world after the conversation has finished."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 1.75,
+        "title": "Introduction grows, then deletes",
+        "description": "Small typed introductory wording enlarges beyond the frame, retracts/deletes and clears; a warm caret accompanies the text.",
+        "editing": "The familiar presentation opening becomes a short joke through exaggeration and cancellation.",
+        "motion": "Type-on and apparent enlargement are followed by deletion/clearance rather than a conventional title fade.",
+        "art": "Black sans serif lettering and a yellow/orange caret sit on a white field.",
+        "rebuild": "Prepare the complete text and caret as independent layers; exaggerate the title scale, then delete/retract it to leave a clean field for the conversational opening.",
+        "frames": [
+          {
+            "time": 0.375,
+            "frame": 9,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000009.jpg"
+          },
+          {
+            "time": 1.375,
+            "frame": 33,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000033.jpg"
+          }
+        ]
+      },
+      {
+        "start": 1.75,
+        "end": 4.25,
+        "title": "Salutation gives the stage to a phone",
+        "description": "A brief greeting builds, softens, and gives way to an upright phone.",
+        "editing": "The outgoing greeting bridges the joke to the product demonstration; it does not compete with the incoming screen.",
+        "motion": "Text blur/fade makes the outgoing layer subordinate while the device enters and settles upright.",
+        "art": "White remains constant; warm metallic edges give the otherwise minimal object a material presence.",
+        "rebuild": "Finish the greeting first, then soften it as the phone enters. Settle the phone before expecting viewers to inspect its content.",
+        "frames": [
+          {
+            "time": 2.291667,
+            "frame": 55,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000055.jpg"
+          },
+          {
+            "time": 3.708333,
+            "frame": 89,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000089.jpg"
+          }
+        ]
+      },
+      {
+        "start": 4.25,
+        "end": 7,
+        "title": "First question defines the grammar",
+        "description": "The phone sits left; a balance request builds at right. Framing moves into the phone’s conversation.",
+        "editing": "A wide prompt/device layout establishes who asks and where the answer appears, then a close crop prioritizes proof.",
+        "motion": "Words accumulate beside a relatively stable device; scale/reframing brings the conversation forward.",
+        "art": "Black request text balances the green screen on the empty white stage.",
+        "rebuild": "Use separate prompt and device layers in a two-column composition; after the request completes, enlarge the relevant conversation region rather than the entire scene indiscriminately.",
+        "frames": [
+          {
+            "time": 4.875,
+            "frame": 117,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000117.jpg"
+          },
+          {
+            "time": 6.375,
+            "frame": 153,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000153.jpg"
+          }
+        ]
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "title": "Hold the balance answer",
+        "description": "The balance response remains large in the frame.",
+        "editing": "A distinct reading interval separates the answer from the next request.",
+        "motion": "The dominant screen crop stays comparatively settled instead of beginning the next relocation immediately.",
+        "art": "The green chat surface and pale message bubbles occupy most of the useful visual area.",
+        "rebuild": "Budget a stable response hold after its last content change. Measure readability at the delivery size before trimming this interval.",
+        "frames": [
+          {
+            "time": 7.458333,
+            "frame": 179,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000179.jpg"
+          },
+          {
+            "time": 8.541667,
+            "frame": 205,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000205.jpg"
+          }
+        ]
+      },
+      {
+        "start": 9,
+        "end": 13.5,
+        "title": "Swap sides for recommendations",
+        "description": "Phone moves to the right while the next request builds at left; the composition then approaches recommended-market content.",
+        "editing": "The side swap varies the repeated question/answer structure without changing its meaning.",
+        "motion": "Lateral relocation opens a text region, then scale/reframing enlarges the answer.",
+        "art": "The same white, black and green vocabulary persists; no new background is needed to signal a new capability.",
+        "rebuild": "Mirror the wide-layout roles while preserving type size and device treatment; finish on the answer crop after the prompt rather than adding an unrelated transition.",
+        "frames": [
+          {
+            "time": 10.0,
+            "frame": 240,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000240.jpg"
+          },
+          {
+            "time": 12.5,
+            "frame": 300,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000300.jpg"
+          }
+        ]
+      },
+      {
+        "start": 13.5,
+        "end": 14.5,
+        "title": "One turn resets the composition",
+        "description": "The phone passes through front, narrow edge and gold back, shrinks, moves left and faces forward beside the next prompt.",
+        "editing": "A compact object transition joins one conversation chapter to another and restores the wide explanatory layout.",
+        "motion": "Rotation, scale reduction and leftward relocation overlap; the readable front view is the endpoint.",
+        "art": "Warm gold back and edges briefly contrast with the green screen before it returns.",
+        "rebuild": "Animate the device between known wide-layout endpoints; let the turn occupy the travel, and arrive front-facing before the next sentence needs attention.",
+        "frames": [
+          {
+            "time": 13.708333,
+            "frame": 329,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000329.jpg"
+          },
+          {
+            "time": 14.291667,
+            "frame": 343,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000343.jpg"
+          }
+        ]
+      },
+      {
+        "start": 14.5,
+        "end": 18.5,
+        "title": "A playful order request",
+        "description": "The request to place a specific bet accumulates beside the phone. The copy softens while the response expands into view.",
+        "editing": "The repeated phrase is a recognizable refrain; humor stays in the prompt while the device remains the mechanism.",
+        "motion": "Type-on builds the request, then blur/fade and reframing hand attention to the screen.",
+        "art": "Large black prompt text is paired with the restrained green conversation UI and white surroundings.",
+        "rebuild": "Keep the request outside the device for readability, then reduce its contrast and enlarge the response as separate stages so neither competes for equal emphasis.",
+        "frames": [
+          {
+            "time": 15.375,
+            "frame": 369,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000369.jpg"
+          },
+          {
+            "time": 17.625,
+            "frame": 423,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000423.jpg"
+          }
+        ]
+      },
+      {
+        "start": 18.5,
+        "end": 23.5,
+        "title": "Show the complete order chain",
+        "description": "Market choices, confirmation detail and completed-order state advance in the same conversation.",
+        "editing": "The sequence stays with the transaction through completion instead of cutting away after a feature selection.",
+        "motion": "Conversation content changes locally while the close screen framing preserves continuity.",
+        "art": "Consistent message styling makes choices, confirmation and completion feel like one system.",
+        "rebuild": "Build distinct selectable, confirmation and completed states in one conversation asset; show each in causal order and preserve the previous context where it explains the next state.",
+        "frames": [
+          {
+            "time": 19.583333,
+            "frame": 470,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000470.jpg"
+          },
+          {
+            "time": 22.416667,
+            "frame": 538,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000538.jpg"
+          }
+        ]
+      },
+      {
+        "start": 23.5,
+        "end": 28.75,
+        "title": "Reverse the operation",
+        "description": "The phone moves right for a sell request; the frame then closes in on confirmation and the sold state.",
+        "editing": "The reversal demonstrates a second operation using an already learned visual grammar.",
+        "motion": "Device relocation opens the question area, then the answer enlarges; the conversation continues rather than resetting to a fresh screen.",
+        "art": "The same device material and chat palette reduce the visual learning needed for the new action.",
+        "rebuild": "Reuse the wide-to-close transition with a genuine continuation of the prior order. Include the final sold state so the reversal has a visible result.",
+        "frames": [
+          {
+            "time": 24.666667,
+            "frame": 592,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000592.jpg"
+          },
+          {
+            "time": 27.583333,
+            "frame": 662,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000662.jpg"
+          }
+        ]
+      },
+      {
+        "start": 28.75,
+        "end": 34.25,
+        "title": "A personality turn after proof",
+        "description": "An unrelated philosophical question appears beside the phone, followed by a short answer in close view.",
+        "editing": "A nonfunctional exchange comes after the product workflow has already been established; it serves as a closing character beat.",
+        "motion": "Prompt build and response enlargement repeat the established motion pattern.",
+        "art": "The sparse white stage keeps attention on the wording rather than introducing a comedic visual prop.",
+        "rebuild": "Place personality copy after the mechanism and result. Use the same presentation rules so the joke feels like part of the product rather than an appended title card.",
+        "frames": [
+          {
+            "time": 29.958333,
+            "frame": 719,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000719.jpg"
+          },
+          {
+            "time": 33.041667,
+            "frame": 793,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000793.jpg"
+          }
+        ]
+      },
+      {
+        "start": 34.25,
+        "end": 37.674,
+        "title": "Small warm identity, then fade",
+        "description": "A small warm-colored brand mark holds on white and fades.",
+        "editing": "The restrained close resolves the conversation without a late escalation.",
+        "motion": "The mark is comparatively static; the last visible change is its fade.",
+        "art": "The yellow/orange identity accent returns on the existing white field.",
+        "rebuild": "Remove device and prompt layers, center the small mark with generous margins, then hold and fade after recognition.",
+        "frames": [
+          {
+            "time": 35.0,
+            "frame": 840,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000840.jpg"
+          },
+          {
+            "time": 36.916667,
+            "frame": 886,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000886.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 13.5,
+        "end": 14.5,
+        "title": "Phone turn as a chapter hinge",
+        "steps": [
+          "The opening frames still show the close front conversation view.",
+          "The phone turns toward a narrow edge, exposing its warm metal profile.",
+          "The gold-colored back appears briefly; the device simultaneously becomes smaller and shifts toward the left-side position.",
+          "The front screen returns as the next right-side prompt starts with a short greeting.",
+          "The front-facing device settles; the prompt continues building while the screen remains available for the following answer."
+        ],
+        "takeaway": "A turn is useful when it changes the composition and prepares a readable destination; the back of the object is a transition state, not the information-bearing endpoint.",
+        "certainty": "Consecutive source frames 324–347 at 24 fps confirm front/edge/back/front progression. Exact easing, rotation angles and authoring method are not established.",
+        "frames": [
+          {
+            "time": 13.541667,
+            "frame": 325,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000325.jpg"
+          },
+          {
+            "time": 13.833333,
+            "frame": 332,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000332.jpg"
+          },
+          {
+            "time": 14.166667,
+            "frame": 340,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000340.jpg"
+          },
+          {
+            "time": 14.458333,
+            "frame": 347,
+            "src": "/film-motion/wolo/breakdown-frames/okbet-launch/000347.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/windows/okbet-phone-turn/index.html"
+      }
+    ],
+    "fps": "24/1",
+    "sourceDuration": 37.674,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-c.md"
+  },
+  {
+    "id": "wolo-hyperdash-ui",
+    "structure": "Wordmark → categories → deposit mechanism → heatmap activation → orderbook detail → Explore navigation → whale analytics → wallet labeling workflow → chart order workflow → option breadth → typed brand close.",
+    "editingSystem": "Feature chapters alternate short titles with longer interface actions. The recurring explanatory chain is label, target, input, visible change and readable result. Close crops follow the next useful detail, then widen enough to retain interface context. Some labels arrive after the demonstration, using the action itself to establish meaning.",
+    "motionSystem": "Frontal scaling/crop travel, local cursor motion, character reveals and data changes dominate. Heatmap activation couples a pullback with the arrival of purple data. Later lateral travel connects neighboring panels, while form completion and option changes remain in recognizable frames. The evidence does not require a complex 3D camera.",
+    "artSystem": "Near-black panels merge into a black field. White sans serif headings occupy empty regions, orange-red marks identify the brand, and green, magenta and purple remain functional data colors. Introductory grayscale imagery/scanline texture gives way to cleaner analytical evidence. A faint wireframe whale is confined to the relevant metaphor.",
+    "reconstruction": [
+      "Suggested implementation: storyboard each feature with five named states—label, target, input, changed state, readable result—before planning camera/crop moves.",
+      "Use a consistent flat interface master and derive wide/detail crops from it. Move the crop only when the next relevant evidence lies outside the current reading area.",
+      "Separate pointer, selected tool, data overlay, tooltip and result. Sequence these changes so the viewer sees a trigger before the result.",
+      "Allocate longer stable views to wallet naming, category selection and order confirmation than to chapter headings. These are workflows, not decorative screens.",
+      "Let UI panel edges disappear into the dark field; reserve the brand caret and color accents for specific roles rather than outlining every component."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 1.25,
+        "title": "Small wordmark with a caret",
+        "description": "Characters assemble a compact central wordmark with an orange-red rectangular caret.",
+        "editing": "A restrained identifier precedes the dense product film and establishes the closing motif.",
+        "motion": "Character reveal supplies the activity; the central placement stays stable.",
+        "art": "White lettering, a warm rectangular caret and black ground create the brand’s minimum vocabulary.",
+        "rebuild": "Prepare character states and a separate caret; keep the opening compact enough that the first category composition feels like an expansion.",
+        "frames": [
+          {
+            "time": 0.291667,
+            "frame": 7,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000007.jpg"
+          },
+          {
+            "time": 0.958333,
+            "frame": 23,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000023.jpg"
+          }
+        ]
+      },
+      {
+        "start": 1.25,
+        "end": 4,
+        "title": "One active category in a stacked list",
+        "description": "The active word changes within a stacked asset-category list while grayscale market imagery changes behind it.",
+        "editing": "A fixed text position joins different subjects into one expanding claim.",
+        "motion": "Activity is largely in word emphasis and background replacement rather than a whole-frame camera move.",
+        "art": "Monochrome imagery stays behind a high-contrast list; selective color identifies the current item.",
+        "rebuild": "Keep the category stack fixed, vary only the active treatment, and cut background imagery in conceptual groups that correspond to each selected word.",
+        "frames": [
+          {
+            "time": 1.875,
+            "frame": 45,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000045.jpg"
+          },
+          {
+            "time": 3.375,
+            "frame": 81,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000081.jpg"
+          }
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7.75,
+        "title": "Deposit mechanism as a three-part path",
+        "description": "A deposit title gives way to a funding-source grid, orange-red intermediary rectangle and destination mark, joined by small connectors.",
+        "editing": "The feature is explained as a route through components rather than named over a generic dashboard.",
+        "motion": "Highlights and connectors cycle through source cells while the left-to-right relationship remains constant.",
+        "art": "Small source marks, thin connectors and one warm intermediary form a sparse diagram on black.",
+        "rebuild": "Place sources, routing block and destination on stable anchors; animate one source highlight and connector path at a time so breadth remains countable.",
+        "frames": [
+          {
+            "time": 4.833333,
+            "frame": 116,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000116.jpg"
+          },
+          {
+            "time": 6.916667,
+            "frame": 166,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000166.jpg"
+          }
+        ]
+      },
+      {
+        "start": 7.75,
+        "end": 19,
+        "title": "Heatmap: trigger, state, detail, context",
+        "description": "Analytics/heatmap titles introduce a chart. A pointer reaches the toolbar, the view widens, purple heatmap data arrives, and the crop moves into cells/tooltip before widening to a side panel.",
+        "editing": "The chapter’s cut/reframe order follows an explicit explanation: identify feature, show input, reveal change, inspect a detail, restore context.",
+        "motion": "The toolbar approach precedes the pullback. Purple data builds as the wider chart settles; later enlargement brings cells and a tooltip into reading range.",
+        "art": "Purple heatmap bands become the focal layer against black with green/magenta candle data.",
+        "rebuild": "Build the base chart and heatmap as separate layers; show the tool input before revealing the overlay, then make a detail crop whose tooltip remains readable.",
+        "frames": [
+          {
+            "time": 10.208333,
+            "frame": 245,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000245.jpg"
+          },
+          {
+            "time": 16.541667,
+            "frame": 397,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000397.jpg"
+          }
+        ]
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "title": "Orderbook gets its own inspection",
+        "description": "An orderbook title gives way to the chart/orderbook together, then a closer view of rows and linked detail.",
+        "editing": "A short chapter label introduces a longer stable demonstration; a crop removes irrelevant dashboard area.",
+        "motion": "Pointer action is local, while framing approaches the rows needed to understand the relationship.",
+        "art": "Dense numeric rows retain the dark UI and contrasting data colors rather than adopting a decorative new style.",
+        "rebuild": "Start with the orderbook’s place beside the chart, enlarge the active rows, and preserve enough column/header context that the numbers remain interpretable.",
+        "frames": [
+          {
+            "time": 20.75,
+            "frame": 498,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000498.jpg"
+          },
+          {
+            "time": 25.25,
+            "frame": 606,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000606.jpg"
+          }
+        ]
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "title": "Navigation connects the chapters",
+        "description": "A close crop of navigation shows Explore being selected, followed by a grid of small cohort charts.",
+        "editing": "The next chapter is motivated by an interface action rather than an arbitrary title wipe.",
+        "motion": "The pointer selects navigation; the resulting grid establishes breadth before later detail.",
+        "art": "Repeated small charts create a coherent analytical field within the black UI.",
+        "rebuild": "Show the navigation label before selection, then reveal the resulting chart grid as the direct state change. Keep cell proportions consistent so range reads as a system.",
+        "frames": [
+          {
+            "time": 27.875,
+            "frame": 669,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000669.jpg"
+          },
+          {
+            "time": 30.125,
+            "frame": 723,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000723.jpg"
+          }
+        ]
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "title": "Whale metaphor becomes functional data",
+        "description": "A faint wireframe whale appears below the analytics interface; the view approaches a positioning graph, then travels to a green/red block map.",
+        "editing": "The metaphor introduces the topic and recedes as the data earns attention. Neighboring panels are connected by crop travel.",
+        "motion": "The frame moves into the graph and laterally across to the block map; the literal whale remains subordinate.",
+        "art": "A subtle line illustration sits behind cleaner charts; green/red blocks carry the final analytical emphasis.",
+        "rebuild": "Use the whale only to establish the chapter. Lower its contrast before the data close-up, then move between adjacent panels along a planned path rather than crossfading unrelated screenshots.",
+        "frames": [
+          {
+            "time": 33.208333,
+            "frame": 797,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000797.jpg"
+          },
+          {
+            "time": 38.791667,
+            "frame": 931,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000931.jpg"
+          }
+        ]
+      },
+      {
+        "start": 41,
+        "end": 53.5,
+        "title": "Wallet labeling is a sustained action chain",
+        "description": "Smart-money title, wallet ranking, individual wallet, alias entry, category selection and save unfold in order.",
+        "editing": "The film remains with a complete task through saving; the longer passage supplies proof beyond a list of capabilities.",
+        "motion": "Selection and form content change locally; framing gives the active row or field enough size to inspect.",
+        "art": "White headings and restrained form UI keep dense labels readable on the dark stage.",
+        "rebuild": "Prepare a ranking view and a consistent detail state. Show selection, typing, category choice and save as separate events, holding the final named wallet before the next chapter.",
+        "frames": [
+          {
+            "time": 43.75,
+            "frame": 1050,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/001050.jpg"
+          },
+          {
+            "time": 50.75,
+            "frame": 1218,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/001218.jpg"
+          }
+        ]
+      },
+      {
+        "start": 53.5,
+        "end": 64.5,
+        "title": "Chart order proceeds to confirmation",
+        "description": "An activity list shares space with a chart. Pointer action opens an order popover, amount changes, confirmation occurs and an order line appears on the chart. A chart-trading title arrives near the end.",
+        "editing": "The result establishes the feature before its final label. Keeping the chart visible makes the new line a traceable consequence.",
+        "motion": "The popover appears at the active context; the amount changes and the order line arrives after confirmation.",
+        "art": "The dense chart/list context stays dark, while the popover and line isolate the actionable state.",
+        "rebuild": "Keep chart coordinates consistent across the popover and confirmation; introduce the order line only after the visible confirmation so its cause is clear.",
+        "frames": [
+          {
+            "time": 55.916667,
+            "frame": 1342,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/001342.jpg"
+          },
+          {
+            "time": 62.083333,
+            "frame": 1490,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/001490.jpg"
+          }
+        ]
+      },
+      {
+        "start": 64.5,
+        "end": 70.5,
+        "title": "Scope through stable option changes",
+        "description": "The order panel sits with a large feature title as tabs and menu options change.",
+        "editing": "Repeated local selections communicate breadth without requiring a fresh composition for every option.",
+        "motion": "Tab/menu state changes carry most of the movement; the panel location stays recognizable.",
+        "art": "Large white title and smaller dark control panels form a clear hierarchy.",
+        "rebuild": "Hold the panel frame and title position; change one option at a time, including its selected state, so viewers can compare the available modes.",
+        "frames": [
+          {
+            "time": 65.833333,
+            "frame": 1580,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/001580.jpg"
+          },
+          {
+            "time": 69.166667,
+            "frame": 1660,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/001660.jpg"
+          }
+        ]
+      },
+      {
+        "start": 70.5,
+        "end": 76.928,
+        "title": "Dense dashboard contracts to typed identity",
+        "description": "Sparse typed copy replaces the dashboard, shortens into the brand, and the lockup fades.",
+        "editing": "The sudden density drop signals closure; the caret links the ending to the opening.",
+        "motion": "Character replacement/deletion concentrates the message while large spatial movement stops.",
+        "art": "White type and orange-red caret remain against black after data colors disappear.",
+        "rebuild": "Remove the interface cleanly, reveal the final phrase, then reduce it toward the wordmark. Keep the closing mark still before fading.",
+        "frames": [
+          {
+            "time": 71.916667,
+            "frame": 1726,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/001726.jpg"
+          },
+          {
+            "time": 75.5,
+            "frame": 1812,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/001812.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 10,
+        "end": 11.958,
+        "title": "Heatmap activation: input before data",
+        "steps": [
+          "The chart is initially framed close enough to expose the upper toolbar and the approaching pointer.",
+          "The pointer reaches the toolbar target while the candle chart remains visible underneath.",
+          "The composition pulls back to reveal more of the chart rather than replacing it with a different screenshot.",
+          "Purple heatmap lines begin appearing across the widened chart; their density increases over successive frames.",
+          "The wider context settles as the overlay becomes legible, preparing the later cell/tooltip inspection."
+        ],
+        "takeaway": "Separate trigger, reframe and changed data sufficiently for their causal relationship to read. The wider frame should make room for the new information.",
+        "certainty": "Consecutive source frames 240–287 at 24 fps inspected, including both sheets. The overlay visibly builds; its source implementation and exact interpolation are unknown.",
+        "frames": [
+          {
+            "time": 10.083333,
+            "frame": 242,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000242.jpg"
+          },
+          {
+            "time": 10.666667,
+            "frame": 256,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000256.jpg"
+          },
+          {
+            "time": 11.291667,
+            "frame": 271,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000271.jpg"
+          },
+          {
+            "time": 11.875,
+            "frame": 285,
+            "src": "/film-motion/wolo/breakdown-frames/hyperdash-ui/000285.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/windows/hyperdash-heatmap/index.html"
+      }
+    ],
+    "fps": "24/1",
+    "sourceDuration": 76.928,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-d.md"
+  },
+  {
+    "id": "wolo-pvp-hyperdash",
+    "structure": "Industrial place → CRT object → skeletal character and typing → screen title → clean feature cards → battle/editorial escalation → sparse typed brand relationship. The four main chapters are atmosphere, mechanism, escalation and identity.",
+    "editingSystem": "The opening reveals place, object and actor before showing the action that enters the product. A brief bright transition covers the change from physical CRT to clean cards. The middle preserves a simple explanatory language; the later montage spends the film’s heavier glitch, duplication and texture changes.",
+    "motionSystem": "Opening movement comes from shot progression and closer framings around the CRT/character. The screen motivates the push into product. Feature cards use local pointer/state changes, close inspection and pullback. Later montage energy comes from hard replacements, duplicated text and interference; the final typed lockup becomes spatially restrained.",
+    "artSystem": "Three related systems: green-black industrial scenes lit by practical-looking sources and the CRT; charcoal product cards with mint, magenta and purple data; abrasive footage/newsprint/category typography with scanlines and duplicated imagery. Dark values and a recurring orange caret connect them. The images alone do not establish whether the character footage is live action, CG or generated.",
+    "reconstruction": [
+      "Suggested implementation: write a short opening action with place, object, actor and interaction. Make the CRT or another visible object the narrative route into the product.",
+      "Prepare the completed screen title and first clean product composition as separate shots. Cover their join with a short bright transition while preserving the title’s readable completion.",
+      "Simplify each middle feature to one large card/diagram and one cause-and-effect action. Protect this chapter from the distortion reserved for the later montage.",
+      "Group the escalation by subjects and type categories, then cut between prepared materials. Keep a small set of recurring colors and the caret as continuity cues.",
+      "After the busiest montage, strip the field back to typed copy and the compact Hyperdash/PVP relationship. Give that ending a longer readable exposure than individual montage images."
+    ],
+    "scenes": [
+      {
+        "start": 0,
+        "end": 6.25,
+        "title": "Place, computer, then character",
+        "description": "A dark industrial corridor leads to a CRT on a desk, followed by closer views of a hooded skeletal figure.",
+        "editing": "The opening supplies a miniature narrative through shot order: location, significant object, actor. It delays the product until the action has a setting.",
+        "motion": "Changing viewpoints and closer framings guide attention; the CRT becomes the brightest repeated object.",
+        "art": "Green-black haze, overhead practical-looking lights, heavy shadow and the white CRT glow establish the fictional world.",
+        "rebuild": "Storyboard distinct place/object/actor views and use the screen as a consistent light/focal cue. Preserve recognizable spatial relationships when selecting the closer shots.",
+        "frames": [
+          {
+            "time": 1.375,
+            "frame": 33,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000033.jpg"
+          },
+          {
+            "time": 4.875,
+            "frame": 117,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000117.jpg"
+          }
+        ]
+      },
+      {
+        "start": 6.25,
+        "end": 13.5,
+        "title": "Typing turns the CRT into a doorway",
+        "description": "An overhead screen/keyboard view shows a skeletal hand typing. Static collapses and computer text/new Hyperdash title appears as the view moves closer.",
+        "editing": "The physical action motivates the announcement. The film enters software through an object already established in the story.",
+        "motion": "Hand/key action is followed by screen-state change and a closer screen framing. The title builds before the chapter transition.",
+        "art": "CRT curvature, scanlines and green-black light remain visible around bright text and the orange caret.",
+        "rebuild": "Make the screen content a controllable layer inside the CRT view; sequence typing, interference clearance, title completion and push-in before leaving the physical set.",
+        "frames": [
+          {
+            "time": 7.833333,
+            "frame": 188,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000188.jpg"
+          },
+          {
+            "time": 11.916667,
+            "frame": 286,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000286.jpg"
+          }
+        ]
+      },
+      {
+        "start": 13.5,
+        "end": 17,
+        "title": "Flash into a simplified heatmap",
+        "description": "A bright flash gives way to clean liquidation-heatmap copy, a purple strip, cursor, chart and tooltip.",
+        "editing": "The bright join deliberately separates the atmospheric chapter from readable product explanation; it is not evidence of a continuous CRT-to-chart morph.",
+        "motion": "Copy, purple strip and chart elements settle in sequence after the flash; the pointer supplies a local inspection event.",
+        "art": "Clean dark cards and purple data replace the textured industrial scene while preserving the dark value range.",
+        "rebuild": "Prepare a simple flat product composition and reveal its layers after the flash. Keep the new heading and chart free of CRT distortion so the benefit can be inspected.",
+        "frames": [
+          {
+            "time": 14.25,
+            "frame": 342,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000342.jpg"
+          },
+          {
+            "time": 16.25,
+            "frame": 390,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000390.jpg"
+          }
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20.5,
+        "title": "One analytics card carries the claim",
+        "description": "An analytics card shows changing figures with local cursor movement and a close inspection/pullback.",
+        "editing": "The isolated card replaces a full dashboard, giving one feature a discrete reading interval.",
+        "motion": "Numeric state changes and pointer movement stay local; framing changes emphasize the relevant card region.",
+        "art": "Charcoal card surfaces and contrasting mint/magenta data continue the cleaner middle chapter.",
+        "rebuild": "Extract only the data necessary for this feature. Keep the card shape and position recognizable while enlarging the relevant figure and returning to the complete card.",
+        "frames": [
+          {
+            "time": 17.75,
+            "frame": 426,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000426.jpg"
+          },
+          {
+            "time": 19.75,
+            "frame": 474,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000474.jpg"
+          }
+        ]
+      },
+      {
+        "start": 20.5,
+        "end": 23,
+        "title": "Repeated follow actions show the rule",
+        "description": "A short wallet list shows successive follow-button selections, with corresponding row states.",
+        "editing": "Repeated cause and effect teaches one feature through visible examples rather than through a broad title claim.",
+        "motion": "The pointer visits separate rows; each button changes after its own selection.",
+        "art": "Aligned rows and consistent active states make the repetition easy to compare.",
+        "rebuild": "Use one row component repeated in a short list. Sequence pointer arrival, press and row state change for each target; leave completed states visible while moving on.",
+        "frames": [
+          {
+            "time": 21.041667,
+            "frame": 505,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000505.jpg"
+          },
+          {
+            "time": 22.458333,
+            "frame": 539,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000539.jpg"
+          }
+        ]
+      },
+      {
+        "start": 23,
+        "end": 25.75,
+        "title": "Parallel positions explain autotrade",
+        "description": "An autotrade card expands into two positions lists shown side by side.",
+        "editing": "The paired layout makes a relationship visible through correspondence between lists.",
+        "motion": "The compact card gives way to wider parallel panels; their readable alignment becomes the endpoint.",
+        "art": "Matching panel treatment and row structure foreground similarity rather than a decorative new palette.",
+        "rebuild": "Prepare corresponding row structures and reveal the paired lists in one common frame. Match alignment and comparable hierarchy so viewers can inspect the relationship.",
+        "frames": [
+          {
+            "time": 23.625,
+            "frame": 567,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000567.jpg"
+          },
+          {
+            "time": 25.125,
+            "frame": 603,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000603.jpg"
+          }
+        ]
+      },
+      {
+        "start": 25.75,
+        "end": 38.5,
+        "title": "Battle and editorial montage raise intensity",
+        "description": "An abrupt cut introduces a skeletal army/fantasy battle, returns to CRT imagery, then moves through footage, newspaper crops and large market/category words.",
+        "editing": "A second energy peak follows the explanatory middle. Hard replacements and clusters of related subjects expand the world/category range.",
+        "motion": "Glitches, duplicated imagery/text, color shifts and scanlines create rapid change; no single continuous camera path unifies the chapter.",
+        "art": "The collage mixes serif category words, newsprint and electronic interference over a generally dark value range.",
+        "rebuild": "Assemble short concept clusters rather than applying one effect continuously. Use duplication/glitch as selected punctuation; preserve enough category-word exposure for their intended role.",
+        "frames": [
+          {
+            "time": 28.541667,
+            "frame": 685,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000685.jpg"
+          },
+          {
+            "time": 35.708333,
+            "frame": 857,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000857.jpg"
+          }
+        ]
+      },
+      {
+        "start": 38.5,
+        "end": 45.76,
+        "title": "Typed claim reduces to a relationship lockup",
+        "description": "A short central claim types on, deletes/replaces into Hyperdash, then gains the PVP relationship underneath.",
+        "editing": "The montage’s density collapses into a compact readable ending; the brand relationship becomes the final information.",
+        "motion": "Character events replace large scene changes. The completed lockup holds on the dark field.",
+        "art": "White central text and orange caret reconnect the close to the earlier screen title; the secondary relationship sits below.",
+        "rebuild": "Clear the montage before typing the final line. Reduce it into the main wordmark, add the secondary relationship as a separate event, and hold the completed hierarchy.",
+        "frames": [
+          {
+            "time": 40.083333,
+            "frame": 962,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000962.jpg"
+          },
+          {
+            "time": 44.166667,
+            "frame": 1060,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/001060.jpg"
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "start": 13,
+        "end": 14.458,
+        "title": "Screen-to-product handoff",
+        "steps": [
+          "The close CRT title continues typing until the Hyperdash 2.0 line is complete; the orange caret remains a visible accent.",
+          "The completed title receives a brief legible exposure on the curved, dark screen.",
+          "A bright frame washes across the join, concealing the material change from CRT imagery to a flat product layout.",
+          "The liquidation-heatmap heading and purple horizontal strip become visible on the cleaner black field.",
+          "Supporting copy and chart candles arrive in stages; the product composition settles before later cursor/tooltip detail."
+        ],
+        "takeaway": "Finish the old scene’s message, hide the material switch at a purposeful bright join, then establish the new scene in layers. The product chapter needs a readable landing, not continuous distortion.",
+        "certainty": "Consecutive source frames 312–347 at 24 fps inspected. A flash-covered edit and staged arrival are visible; a continuous geometric morph or specific production pipeline is not established.",
+        "frames": [
+          {
+            "time": 13.083333,
+            "frame": 314,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000314.jpg"
+          },
+          {
+            "time": 13.5,
+            "frame": 324,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000324.jpg"
+          },
+          {
+            "time": 13.958333,
+            "frame": 335,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000335.jpg"
+          },
+          {
+            "time": 14.375,
+            "frame": 345,
+            "src": "/film-motion/wolo/breakdown-frames/pvp-hyperdash/000345.jpg"
+          }
+        ],
+        "evidenceViewer": "/film-motion/wolo/windows/pvp-screen-entry/index.html"
+      }
+    ],
+    "fps": "24/1",
+    "sourceDuration": 45.76,
+    "sourceAnalysis": "/film-motion/wolo/analysis-group-d.md"
+  }
+]

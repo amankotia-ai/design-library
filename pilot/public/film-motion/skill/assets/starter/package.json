@@ -1,0 +1,10 @@
+{
+  "name": "cinematic-product-film", "version": "0.1.0", "private": true, "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "serve": "node scripts/film.mjs serve", "still": "node scripts/film.mjs still",
+    "render": "node scripts/film.mjs render", "check": "node scripts/film.mjs check"
+  },
+  "dependencies": { "three": "0.186.1" },
+  "devDependencies": { "playwright": "1.64.1" }
+}

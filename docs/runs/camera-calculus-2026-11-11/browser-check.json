@@ -1,0 +1,216 @@
+{
+  "base": "http://127.0.0.1:5184/design-library/",
+  "checks": {
+    "noAutoplay": true,
+    "initialAnalyticValues": [
+      {
+        "label": "Near screen velocity",
+        "v": -94.5,
+        "a": -19.69,
+        "x": 38.85
+      },
+      {
+        "label": "Middle screen velocity",
+        "v": -42,
+        "a": -8.75,
+        "x": 17.27
+      },
+      {
+        "label": "Far screen velocity",
+        "v": -22.91,
+        "a": -4.77,
+        "x": 9.42
+      }
+    ],
+    "presetsAndReset": true,
+    "playPauseRewind": true,
+    "scrubPauses": true,
+    "easingPauses": true,
+    "resetPauses": true,
+    "geometryPauses": true,
+    "durationScaling": {
+      "short": [
+        {
+          "label": "Near screen velocity",
+          "v": -189,
+          "a": -78.75,
+          "x": 38.85
+        },
+        {
+          "label": "Middle screen velocity",
+          "v": -84,
+          "a": -35,
+          "x": 17.27
+        },
+        {
+          "label": "Far screen velocity",
+          "v": -45.82,
+          "a": -19.09,
+          "x": 9.42
+        }
+      ],
+      "long": [
+        {
+          "label": "Near screen velocity",
+          "v": -94.5,
+          "a": -19.69,
+          "x": 38.85
+        },
+        {
+          "label": "Middle screen velocity",
+          "v": -42,
+          "a": -8.75,
+          "x": 17.27
+        },
+        {
+          "label": "Far screen velocity",
+          "v": -22.91,
+          "a": -4.77,
+          "x": 9.42
+        }
+      ]
+    },
+    "reversal": true,
+    "stationary": true,
+    "quinticEndpoints": true,
+    "singlePass": true,
+    "otherMotionRoutes": true
+  },
+  "screenshots": [
+    "camera-1440.png",
+    "camera-controls-1440.png",
+    "camera-metrics-1440.png",
+    "camera-equations-1440.png",
+    "camera-768.png",
+    "camera-controls-768.png",
+    "camera-metrics-768.png",
+    "camera-equations-768.png",
+    "camera-390.png",
+    "camera-controls-390.png",
+    "camera-metrics-390.png",
+    "camera-equations-390.png",
+    "camera-collection.png"
+  ],
+  "errors": [],
+  "revision": {
+    "src/film-motion-math.js": "3459ffa6bcc5e3c760e129fd261a749f5b6859488b22c07af200348ba33da390",
+    "src/film-motion-studies.jsx": "b3d33fb720cd6220555675492574f697f96b0179e5ab31dd476cad1612bfb497",
+    "src/film-study-thumbnails.jsx": "193be3f1f2fecb93d61f355cd0f5289a5013053595e675999ade5004f0a9f40e",
+    "src/film-study-registry.js": "bad08a166a23f6620082f4673a79d578b22f48504bc8177c9072964cb05cba01",
+    "src/film-study-ui.jsx": "801a6645102db5d139b523a9e1118aa88d4dcf99c00192457bbf97db0c3f0561",
+    "src/film-studies.css": "2cf56710e4a8ddd371f0ac4353c714ca1d29d6c23f11e8dfae0973e290cd2e5b",
+    "src/film-data.json": "0dd14540fb376f43a27866debebe9cf44fa610fecd518114db09a20dd1da7166",
+    "scripts/check-film-motion.mjs": "237c2e4def404c780135429f5e79f511c0072ed66aca053ac8713a339f714201",
+    "public/film-motion/studies/film-motion-math.js": "3459ffa6bcc5e3c760e129fd261a749f5b6859488b22c07af200348ba33da390",
+    "public/film-motion/studies/camera-parallax.md": "966bbe0f4449aa6230dd16b50a4d168af4039969201ec9227ffd56a5a79fa362",
+    "public/film-motion/manifest.json": "a444cd235c3f940bc316ccc72d4c5652c82b833bcf4aff019472d62950091750"
+  },
+  "presets": [
+    {
+      "label": "Linear",
+      "values": [
+        [
+          "Elapsed time",
+          "1.2"
+        ],
+        [
+          "Easing function",
+          "linear"
+        ],
+        [
+          "Journey duration",
+          "4"
+        ],
+        [
+          "Camera start",
+          "-1"
+        ],
+        [
+          "Camera end",
+          "1"
+        ],
+        [
+          "Focal length f",
+          "210"
+        ],
+        [
+          "Near-plane depth",
+          "1.6"
+        ]
+      ],
+      "metrics": "Near screen velocity\n-65.63 px/s\n\nAcceleration 0.00 px/s² · Center x +52.50 px\n\nMiddle screen velocity\n-29.17 px/s\n\nAcceleration 0.00 px/s² · Center x +23.33 px\n\nFar screen velocity\n-15.91 px/s\n\nAcceleration 0.00 px/s² · Center x +12.73 px",
+      "visualHash": "917b9895747f33d23d68747d9de4ec3d727bd543a402d88623b61ef9199c8a99"
+    },
+    {
+      "label": "Cubic ease",
+      "values": [
+        [
+          "Elapsed time",
+          "1.2"
+        ],
+        [
+          "Easing function",
+          "smoothstep"
+        ],
+        [
+          "Journey duration",
+          "4"
+        ],
+        [
+          "Camera start",
+          "-1"
+        ],
+        [
+          "Camera end",
+          "1"
+        ],
+        [
+          "Focal length f",
+          "210"
+        ],
+        [
+          "Near-plane depth",
+          "1.6"
+        ]
+      ],
+      "metrics": "Near screen velocity\n-82.69 px/s\n\nAcceleration -39.38 px/s² · Center x +74.55 px\n\nMiddle screen velocity\n-36.75 px/s\n\nAcceleration -17.50 px/s² · Center x +33.13 px\n\nFar screen velocity\n-20.05 px/s\n\nAcceleration -9.55 px/s² · Center x +18.07 px",
+      "visualHash": "bfefcc9b8a79eb1b69f4f9e62b4eb02c6f4c8ee910790cbeab52eb7091079a97"
+    },
+    {
+      "label": "Quintic ease",
+      "values": [
+        [
+          "Elapsed time",
+          "1.2"
+        ],
+        [
+          "Easing function",
+          "smootherstep"
+        ],
+        [
+          "Journey duration",
+          "4"
+        ],
+        [
+          "Camera start",
+          "-1"
+        ],
+        [
+          "Camera end",
+          "1"
+        ],
+        [
+          "Focal length f",
+          "210"
+        ],
+        [
+          "Near-plane depth",
+          "1.6"
+        ]
+      ],
+      "metrics": "Near screen velocity\n-86.82 px/s\n\nAcceleration -82.69 px/s² · Center x +88.44 px\n\nMiddle screen velocity\n-38.59 px/s\n\nAcceleration -36.75 px/s² · Center x +39.31 px\n\nFar screen velocity\n-21.05 px/s\n\nAcceleration -20.05 px/s² · Center x +21.44 px",
+      "visualHash": "3e01386dd11ee450efb5baa732397e917fca90bcd7b02808a21870519fcf0637"
+    }
+  ],
+  "status": "passed"
+}

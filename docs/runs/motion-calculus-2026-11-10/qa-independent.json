@@ -1,0 +1,22 @@
+{
+  "reviewer": "/root/design_qa",
+  "checks": [
+    "No autoplay with reduced motion",
+    "Quintic endpoint velocity and acceleration are zero at both ends",
+    "Cubic endpoint velocity is zero and acceleration is nonzero",
+    "Changing duration preserves progress/position and scales speed/acceleration",
+    "Changing easing during playback pauses",
+    "Once-only playback finishes exactly at duration",
+    "Keyboard range adjustment works",
+    "Bézier equations render at mobile width",
+    "All spring regimes have matching controls, live regime and valid equations"
+  ],
+  "errors": [],
+  "revision": {
+    "src/film-motion-studies.jsx": "74220035ec48a7909ef68b933a8b2825e15507c4dde9702a79089d1a0f4d4522",
+    "src/film-motion-math.js": "1579e718e31f948a72c6fe809d5ccbc60351c0f735d3f0258584d42604f69379",
+    "src/film-study-ui.jsx": "801a6645102db5d139b523a9e1118aa88d4dcf99c00192457bbf97db0c3f0561",
+    "src/film-studies.css": "2cf56710e4a8ddd371f0ac4353c714ca1d29d6c23f11e8dfae0973e290cd2e5b"
+  },
+  "status": "passed"
+}

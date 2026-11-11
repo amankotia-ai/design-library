@@ -1,0 +1,88 @@
+{
+  "heights": [
+    {
+      "body": 11313,
+      "iframe": 11313,
+      "inner": 11313
+    },
+    {
+      "body": 11313,
+      "iframe": 11313,
+      "inner": 11313
+    },
+    {
+      "body": 11313,
+      "iframe": 11313,
+      "inner": 11313
+    },
+    {
+      "body": 11313,
+      "iframe": 11313,
+      "inner": 11313
+    }
+  ],
+  "Foundations": {
+    "visible": [
+      {
+        "src": "http://127.0.0.1:5186/design-library/assets/design-library-mark.svg",
+        "complete": true,
+        "width": 150
+      },
+      {
+        "src": "http://127.0.0.1:5186/design-library/assets/of-manks-signature.png",
+        "complete": true,
+        "width": 2079
+      }
+    ],
+    "text": "Design Library\n← All systems\nGrid\nDecision Rails\n\nFine rails. Clear decisions. Product evidence.\n\nA disciplined enterprise system with charcoal and paper surfaces, fine structural rails, blue actions, and detailed workflow scenes. Designed for products that make complex decisions traceable.\n\nSystem information\nOverview\nFoundations\nPatterns\nReferences\nColor\n\nPaper\n#ffffff\nLight explanation surfaces.\n\nInk\n#17191f\nText on light surfaces.\n\nCharcoal\n#1f2126\nHero, proof and closing backgrounds.\n\nRule\n#e4e7eb\nThin rails and boundaries on light surfaces.\n\nBlue\n#005bb7\nPrimary actions and product emphasis.\n\nSky\n#70aeff\nHighlighted words against charcoal.\n\nSpace & structure\nFrame\nAt 1440px, outer rail"
+  },
+  "Patterns": {
+    "visible": [
+      {
+        "src": "http://127.0.0.1:5186/design-library/assets/design-library-mark.svg",
+        "complete": true,
+        "width": 150
+      },
+      {
+        "src": "http://127.0.0.1:5186/design-library/assets/of-manks-signature.png",
+        "complete": true,
+        "width": 2079
+      },
+      {
+        "src": "http://127.0.0.1:5186/design-library/previews/unifize/hero.png",
+        "complete": true,
+        "width": 1440
+      },
+      {
+        "src": "http://127.0.0.1:5186/design-library/previews/unifize/how.png",
+        "complete": true,
+        "width": 1440
+      },
+      {
+        "src": "http://127.0.0.1:5186/design-library/previews/unifize/fit.png",
+        "complete": true,
+        "width": 1440
+      }
+    ],
+    "text": "Design Library\n← All systems\nGrid\nDecision Rails\n\nFine rails. Clear decisions. Product evidence.\n\nA disciplined enterprise system with charcoal and paper surfaces, fine structural rails, blue actions, and detailed workflow scenes. Designed for products that make complex decisions traceable.\n\nSystem information\nOverview\nFoundations\nPatterns\nReferences\nHow the language works\nMake the exception visible\n\nA quiet statement sits beside a vivid field of owners, decisions and the single item needing attention.\n\nDecision hero\nExplain the record\n\nContrast scattered work with a governed record, then show rules, ownership and evidence in numbered rows.\n\nHow it works\nOffer a relevant starting point\n\nPara"
+  },
+  "References": {
+    "visible": [
+      {
+        "src": "http://127.0.0.1:5186/design-library/assets/design-library-mark.svg",
+        "complete": true,
+        "width": 150
+      },
+      {
+        "src": "http://127.0.0.1:5186/design-library/assets/of-manks-signature.png",
+        "complete": true,
+        "width": 2079
+      }
+    ],
+    "text": "Design Library\n← All systems\nGrid\nDecision Rails\n\nFine rails. Clear decisions. Product evidence.\n\nA disciplined enterprise system with charcoal and paper surfaces, fine structural rails, blue actions, and detailed workflow scenes. Designed for products that make complex decisions traceable.\n\nSystem information\nOverview\nFoundations\nPatterns\nReferences\nReferences & attribution\n\nThe live Unifize homepage was captured at 1440 × 1000 and 390 × 844 on 10 November 2026. Source markup, styles, public fonts and assets were retained. Product scenes are retained as captured states; public service and account actions remain on Unifize. Late source sections include reveal and lazy-loading states, so stat"
+  },
+  "hero": {
+    "h": 980,
+    "broken": []
+  }
+}

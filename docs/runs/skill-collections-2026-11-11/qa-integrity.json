@@ -1,0 +1,127 @@
+{
+  "catalogSha256": "7b0d3d627a96ac8ec108805a4a104d71e80e1170d2655334afb19aa379b1e41f",
+  "entries": [
+    {
+      "id": "arco",
+      "previews": 4,
+      "archiveMembers": 100,
+      "matchedOriginals": 4
+    },
+    {
+      "id": "aster-oak",
+      "previews": 5,
+      "archiveMembers": 63,
+      "matchedOriginals": 5
+    },
+    {
+      "id": "sidequest",
+      "previews": 2,
+      "archiveMembers": 45,
+      "matchedOriginals": 2
+    },
+    {
+      "id": "product-screens",
+      "previews": 10,
+      "archiveMembers": 21,
+      "matchedOriginals": 10
+    },
+    {
+      "id": "relay-five-shots",
+      "previews": 5,
+      "archiveMembers": 5,
+      "matchedOriginals": 5
+    },
+    {
+      "id": "relay-nature",
+      "previews": 2,
+      "archiveMembers": 4,
+      "matchedOriginals": 2
+    },
+    {
+      "id": "relay-illustrated",
+      "previews": 2,
+      "archiveMembers": 3,
+      "matchedOriginals": 2
+    },
+    {
+      "id": "relay-viewport",
+      "previews": 3,
+      "archiveMembers": 6,
+      "matchedOriginals": 3
+    },
+    {
+      "id": "coffee",
+      "previews": 2,
+      "archiveMembers": 49,
+      "matchedOriginals": 2
+    },
+    {
+      "id": "grove",
+      "previews": 2,
+      "archiveMembers": 2,
+      "matchedOriginals": 2
+    },
+    {
+      "id": "showcase-templates",
+      "previews": 14,
+      "archiveMembers": 86,
+      "matchedOriginals": 14
+    },
+    {
+      "id": "expanded-templates",
+      "previews": 30,
+      "archiveHashMatched": true,
+      "archiveMembers": 39,
+      "matchedOriginals": 30
+    },
+    {
+      "id": "oak-retail",
+      "previews": 5,
+      "archiveHashMatched": true,
+      "archiveMembers": 46,
+      "matchedOriginals": 5
+    },
+    {
+      "id": "warm-wood",
+      "previews": 4,
+      "archiveHashMatched": true,
+      "archiveMembers": 32,
+      "matchedOriginals": 4
+    },
+    {
+      "id": "mobile-scenes",
+      "previews": 7,
+      "archiveHashMatched": true,
+      "archiveMembers": 213,
+      "matchedOriginals": 7
+    },
+    {
+      "id": "dark-wood-mobile",
+      "previews": 2,
+      "archiveHashMatched": true,
+      "archiveMembers": 114,
+      "matchedOriginals": 2
+    },
+    {
+      "id": "ruled",
+      "previews": 1,
+      "archiveMembers": 82,
+      "matchedOriginals": 1
+    },
+    {
+      "id": "composition-atlas",
+      "previews": 2,
+      "archiveMembers": 17,
+      "matchedOriginals": 2
+    }
+  ],
+  "linkedFiles": 155,
+  "previews": 102,
+  "warnings": [],
+  "categories": {
+    "Brand showcases": 5,
+    "Product screens": 5,
+    "Mockup templates": 6,
+    "Grid & layout": 2
+  }
+}

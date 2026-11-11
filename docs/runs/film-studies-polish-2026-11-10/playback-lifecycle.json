@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "id": "spring-motion",
+      "noAutoplay": true,
+      "endStops": true,
+      "presetPauses": true,
+      "offscreenPauses": true
+    },
+    {
+      "id": "bezier-paths",
+      "noAutoplay": true,
+      "endStops": true,
+      "presetPauses": true,
+      "offscreenPauses": true
+    },
+    {
+      "id": "sampling-aliasing",
+      "noAutoplay": true,
+      "endStops": true,
+      "presetPauses": true,
+      "offscreenPauses": true
+    }
+  ]
+}

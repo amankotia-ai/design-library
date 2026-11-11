@@ -1,0 +1,3 @@
+# TypeSafe (Series A) — portfolio preview
+
+**TypeSafe phases:** ~0–1.2s direct presenter; ~1.2–3.4s side portrait and typed identity panel; ~3.5–6.0s modular takeover into a white diagram; ~6.2–9.3s pink stage and stacked windows reorganized into three categories; ~9.5–12s sequential cells and copy; ~12–14.2s sparse white comparison; ~14.2–17.4s column-field visualization with a moving translucent threshold plane and detail label. This illustrates a hybrid: human authority and designed conceptual explanation share typography and a limited graphic vocabulary. The spatial chart is not automatically genuine product UI.

@@ -1,0 +1,197 @@
+{
+  "base": "http://127.0.0.1:5178/design-library/",
+  "checks": [
+    {
+      "name": "systems-desktop",
+      "viewport": 1440,
+      "scroll": 1440,
+      "heading": "Design Systems",
+      "brandTop": 0
+    },
+    {
+      "name": "system-detail-desktop",
+      "viewport": 1440,
+      "scroll": 1440,
+      "heading": "Signal Grid",
+      "brandTop": 0,
+      "preview": {
+        "x": 614,
+        "y": 0,
+        "width": 802,
+        "height": 1000,
+        "top": 0,
+        "right": 1416,
+        "bottom": 1000,
+        "left": 614
+      }
+    },
+    {
+      "name": "film-collection-desktop",
+      "viewport": 1440,
+      "scroll": 1440,
+      "heading": "Film & Motion",
+      "brandTop": 0
+    },
+    {
+      "name": "search-and-reset",
+      "initial": 73,
+      "filtered": 22
+    },
+    {
+      "name": "collection-navigation-and-history",
+      "passed": true
+    },
+    {
+      "name": "film-calculus-desktop",
+      "viewport": 1440,
+      "scroll": 1440,
+      "heading": "The calculus of film",
+      "brandTop": 0,
+      "preview": {
+        "x": 614,
+        "y": 0,
+        "width": 802,
+        "height": 1000,
+        "top": 0,
+        "right": 1416,
+        "bottom": 1000,
+        "left": 614
+      }
+    },
+    {
+      "name": "film-calculus-measurements",
+      "viewport": 1440,
+      "scroll": 1440,
+      "heading": "The calculus of film",
+      "brandTop": 0,
+      "preview": {
+        "x": 614,
+        "y": 0,
+        "width": 802,
+        "height": 1000,
+        "top": 0,
+        "right": 1416,
+        "bottom": 1000,
+        "left": 614
+      }
+    },
+    {
+      "name": "math-interactions",
+      "cut": "undefined",
+      "smoothed": "finite",
+      "moving": "violation",
+      "settled": "bounded safe"
+    },
+    {
+      "name": "film-calculus-tablet",
+      "viewport": 900,
+      "scroll": 900,
+      "heading": "The calculus of film",
+      "brandTop": 0,
+      "preview": {
+        "x": 389,
+        "y": 0,
+        "width": 487,
+        "height": 1000,
+        "top": 0,
+        "right": 876,
+        "bottom": 1000,
+        "left": 389
+      }
+    },
+    {
+      "name": "film-collection-mobile",
+      "viewport": 390,
+      "scroll": 390,
+      "heading": "Film & Motion",
+      "brandTop": 0
+    },
+    {
+      "name": "film-calculus-mobile",
+      "viewport": 390,
+      "scroll": 390,
+      "heading": "The calculus of film",
+      "brandTop": 0,
+      "preview": {
+        "x": 16,
+        "y": 300,
+        "width": 358,
+        "height": 633,
+        "top": 300,
+        "right": 374,
+        "bottom": 933,
+        "left": 16
+      }
+    },
+    {
+      "name": "film-calculus-mobile-lab",
+      "viewport": 390,
+      "scroll": 390,
+      "heading": "The calculus of film",
+      "brandTop": -89,
+      "preview": {
+        "x": 16,
+        "y": 211,
+        "width": 358,
+        "height": 633,
+        "top": 211,
+        "right": 374,
+        "bottom": 844,
+        "left": 16
+      }
+    },
+    {
+      "name": "film-guide-desktop",
+      "viewport": 1440,
+      "scroll": 1440,
+      "heading": "Software Film Director",
+      "brandTop": 0,
+      "preview": {
+        "x": 614,
+        "y": 0,
+        "width": 802,
+        "height": 1000,
+        "top": 0,
+        "right": 1416,
+        "bottom": 1000,
+        "left": 614
+      }
+    },
+    {
+      "name": "guide-contents-and-references",
+      "readerScroll": 3468
+    },
+    {
+      "name": "film-guide-mobile",
+      "viewport": 390,
+      "scroll": 390,
+      "heading": "Software Film Director",
+      "brandTop": 0,
+      "preview": {
+        "x": 16,
+        "y": 364,
+        "width": 358,
+        "height": 633,
+        "top": 364,
+        "right": 374,
+        "bottom": 997,
+        "left": 16
+      }
+    },
+    {
+      "name": "all-document-downloads",
+      "count": 73,
+      "skillZip": 200
+    }
+  ],
+  "errors": [],
+  "revision": {
+    "src/main.jsx": "d563693173464534bd550aaa379256520a402f302e32302c8c01c664ddf64b07",
+    "src/film-library.jsx": "28c4d9c1c90bebf6c7a275c92ed59f8f74f2d5d67b71c78ce6a500be7b0207e6",
+    "src/film-library.css": "1902a00ec166f4ab95464fdbe8c59bfad8eb866ead4a5994901c982d2ba95f8f",
+    "src/film-lab.jsx": "310b106fb8f39428f8644cf2f9668b1e1e9ed003feba958b5bad8ebed9341494",
+    "src/film-lab.css": "59019f32040c9346c915d01757d13283a6cfb5bbd4b762bed8e3ee67f1932a2e",
+    "src/film-math.js": "aa620fd6abdd639b855d60e92f3132afe085fee4e2696f6c0eb48587da9d4561",
+    "src/film-data.json": "4297c57ca5b0534b75d52ac28e151410fe5a3243c0041d3838a301ee010e9267"
+  }
+}

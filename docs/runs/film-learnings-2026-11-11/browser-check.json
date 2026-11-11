@@ -1,0 +1,137 @@
+{
+  "base": "http://127.0.0.1:5184/design-library/",
+  "checks": {
+    "defaultLearningsFirst": true,
+    "searchTopicAndEmptyState": true,
+    "views": {
+      "lessons": 16,
+      "labs": 9,
+      "guides": 36
+    },
+    "lessonToMotionLab": true,
+    "originalSourceRoutePreserved": true
+  },
+  "lessons": [
+    {
+      "id": "learning-one-case",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-mechanism-before-metric",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-return-with-change",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-transition-anchor",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-motion-from-velocity",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-stepped-cadence",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-proof-framing",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-depth-before-camera",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-whole-cut-first",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-speech-anchors",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-readable-hold",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-purposeful-broll",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-selective-sound-cues",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-build-the-look",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-repeatable-frames",
+      "steps": 3,
+      "example": true,
+      "references": true
+    },
+    {
+      "id": "learning-check-delivery",
+      "steps": 3,
+      "example": true,
+      "references": true
+    }
+  ],
+  "screenshots": [
+    "learnings-desktop.png",
+    "collection-1440.png",
+    "lesson-1440.png",
+    "lesson-example-1440.png",
+    "lesson-references-1440.png",
+    "collection-768.png",
+    "lesson-768.png",
+    "lesson-example-768.png",
+    "lesson-references-768.png",
+    "collection-390.png",
+    "lesson-card-mobile.png",
+    "lesson-390.png",
+    "lesson-example-390.png",
+    "lesson-references-390.png"
+  ],
+  "errors": [],
+  "revision": {
+    "src/film-library.jsx": "a54cded4b5be1e5727bf2007a4b641a410d12786fb53c343d5a39f45eee3b856",
+    "src/film-library.css": "09c8e6b7938720b5806c477703fdfbf6d96b6d076ae4cfc1e306492b52cdd292",
+    "src/film-learnings.jsx": "f1718eb642de6c6fdd67a73d09099c3eb06934e5d7307f013e23407ef6586926",
+    "src/film-learnings-data.js": "9f6ee4c93faa0ec0c28d85770f097bf951daf15a89538bc6c79d1f9c6b5d6392",
+    "scripts/check-film-learnings.mjs": "4e6986f1f94e539289458245f55fdf4b1726918587953e8f5c5494e8f593d8bf"
+  },
+  "status": "passed"
+}

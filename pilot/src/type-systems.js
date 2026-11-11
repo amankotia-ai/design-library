@@ -75,3 +75,10 @@ export const typeSystems={
   role('Evaluation detail','Every benchmark, losses included.','Inter','TypeConareInter',14,21,400)
  ]}
 };
+
+typeSystems.unifize={note:'Measured from the live homepage at 1440px. Exact public variable-font assets retained.',roles:[
+ role('Hero','Every decision made right and made fast.','IBM Plex Sans','TypeUnifize',56.16,60.0912,500,{tracking:'-3.6504px'}),
+ role('Section heading','How it works.','IBM Plex Sans','TypeUnifize',46,50.6,520,{tracking:'-1.84px'}),
+ role('Body','The record is made as each decision happens.','Inter','TypeUnifizeBody',16,25.92,400),
+ role('Utility label','DECISIONS THIS WEEK','JetBrains Mono','TypeUnifizeMono',10,15.5,500)
+]};

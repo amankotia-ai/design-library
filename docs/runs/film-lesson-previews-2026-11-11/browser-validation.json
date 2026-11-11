@@ -1,0 +1,518 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 1100,
+      "columns": 3,
+      "lessonCount": 16,
+      "overflow": false,
+      "cards": [
+        {
+          "title": "Let one real task carry the story",
+          "href": "/design-library/?panel=film&entry=learning-one-case",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Show what causes the benefit before naming it",
+          "href": "/design-library/?panel=film&entry=learning-mechanism-before-metric",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Bring the opening object back with a changed meaning",
+          "href": "/design-library/?panel=film&entry=learning-return-with-change",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Carry one recognizable anchor through a transition",
+          "href": "/design-library/?panel=film&entry=learning-transition-anchor",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Shape the speed curve before adding effects",
+          "href": "/design-library/?panel=film&entry=learning-motion-from-velocity",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Give cutouts their own cadence",
+          "href": "/design-library/?panel=film&entry=learning-stepped-cadence",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Let the frame become simpler when proof must read",
+          "href": "/design-library/?panel=film&entry=learning-proof-framing",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Build depth before asking the camera to reveal it",
+          "href": "/design-library/?panel=film&entry=learning-depth-before-camera",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Make the whole argument work before polishing a shot",
+          "href": "/design-library/?panel=film&entry=learning-whole-cut-first",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Attach visual cues to meaning in the edited speech",
+          "href": "/design-library/?panel=film&entry=learning-speech-anchors",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Count reading time from the moment the content is ready",
+          "href": "/design-library/?panel=film&entry=learning-readable-hold",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Give every insert a specific sentence to explain",
+          "href": "/design-library/?panel=film&entry=learning-purposeful-broll",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Accent meaningful events, then leave room for the result",
+          "href": "/design-library/?panel=film&entry=learning-selective-sound-cues",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Build the look in the scene before adding a grade",
+          "href": "/design-library/?panel=film&entry=learning-build-the-look",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Make a frame independent of how you reached it",
+          "href": "/design-library/?panel=film&entry=learning-repeatable-frames",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Judge the finished image in its delivery format",
+          "href": "/design-library/?panel=film&entry=learning-check-delivery",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        }
+      ],
+      "filters": "passed",
+      "keyboardAndRoute": "passed"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "columns": 2,
+      "lessonCount": 16,
+      "overflow": false,
+      "cards": [
+        {
+          "title": "Let one real task carry the story",
+          "href": "/design-library/?panel=film&entry=learning-one-case",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Show what causes the benefit before naming it",
+          "href": "/design-library/?panel=film&entry=learning-mechanism-before-metric",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Bring the opening object back with a changed meaning",
+          "href": "/design-library/?panel=film&entry=learning-return-with-change",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Carry one recognizable anchor through a transition",
+          "href": "/design-library/?panel=film&entry=learning-transition-anchor",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Shape the speed curve before adding effects",
+          "href": "/design-library/?panel=film&entry=learning-motion-from-velocity",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Give cutouts their own cadence",
+          "href": "/design-library/?panel=film&entry=learning-stepped-cadence",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Let the frame become simpler when proof must read",
+          "href": "/design-library/?panel=film&entry=learning-proof-framing",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Build depth before asking the camera to reveal it",
+          "href": "/design-library/?panel=film&entry=learning-depth-before-camera",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Make the whole argument work before polishing a shot",
+          "href": "/design-library/?panel=film&entry=learning-whole-cut-first",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Attach visual cues to meaning in the edited speech",
+          "href": "/design-library/?panel=film&entry=learning-speech-anchors",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Count reading time from the moment the content is ready",
+          "href": "/design-library/?panel=film&entry=learning-readable-hold",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Give every insert a specific sentence to explain",
+          "href": "/design-library/?panel=film&entry=learning-purposeful-broll",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Accent meaningful events, then leave room for the result",
+          "href": "/design-library/?panel=film&entry=learning-selective-sound-cues",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Build the look in the scene before adding a grade",
+          "href": "/design-library/?panel=film&entry=learning-build-the-look",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Make a frame independent of how you reached it",
+          "href": "/design-library/?panel=film&entry=learning-repeatable-frames",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Judge the finished image in its delivery format",
+          "href": "/design-library/?panel=film&entry=learning-check-delivery",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        }
+      ],
+      "filters": "passed",
+      "keyboardAndRoute": "passed"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "columns": 1,
+      "lessonCount": 16,
+      "overflow": false,
+      "cards": [
+        {
+          "title": "Let one real task carry the story",
+          "href": "/design-library/?panel=film&entry=learning-one-case",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Show what causes the benefit before naming it",
+          "href": "/design-library/?panel=film&entry=learning-mechanism-before-metric",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Bring the opening object back with a changed meaning",
+          "href": "/design-library/?panel=film&entry=learning-return-with-change",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Carry one recognizable anchor through a transition",
+          "href": "/design-library/?panel=film&entry=learning-transition-anchor",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Shape the speed curve before adding effects",
+          "href": "/design-library/?panel=film&entry=learning-motion-from-velocity",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Give cutouts their own cadence",
+          "href": "/design-library/?panel=film&entry=learning-stepped-cadence",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Let the frame become simpler when proof must read",
+          "href": "/design-library/?panel=film&entry=learning-proof-framing",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Build depth before asking the camera to reveal it",
+          "href": "/design-library/?panel=film&entry=learning-depth-before-camera",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Make the whole argument work before polishing a shot",
+          "href": "/design-library/?panel=film&entry=learning-whole-cut-first",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Attach visual cues to meaning in the edited speech",
+          "href": "/design-library/?panel=film&entry=learning-speech-anchors",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Count reading time from the moment the content is ready",
+          "href": "/design-library/?panel=film&entry=learning-readable-hold",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Give every insert a specific sentence to explain",
+          "href": "/design-library/?panel=film&entry=learning-purposeful-broll",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Accent meaningful events, then leave room for the result",
+          "href": "/design-library/?panel=film&entry=learning-selective-sound-cues",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Build the look in the scene before adding a grade",
+          "href": "/design-library/?panel=film&entry=learning-build-the-look",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Make a frame independent of how you reached it",
+          "href": "/design-library/?panel=film&entry=learning-repeatable-frames",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        },
+        {
+          "title": "Judge the finished image in its delivery format",
+          "href": "/design-library/?panel=film&entry=learning-check-delivery",
+          "matchingLinks": true,
+          "tabIndex": -1,
+          "hidden": "true",
+          "decorative": "true",
+          "nonempty": true,
+          "ratio": 1.7777777777777777
+        }
+      ],
+      "filters": "passed",
+      "keyboardAndRoute": "passed"
+    }
+  ],
+  "errors": []
+}

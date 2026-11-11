@@ -1,0 +1,154 @@
+{
+  "reviewed_on": "2026-11-11",
+  "method": "Visual inspection of every listed contact-sheet image via view_image; approximate 4 fps complete-duration overviews plus selected consecutive-frame windows.",
+  "report": "analysis-group-b.md",
+  "assets": [
+    {
+      "slug": "spacex",
+      "visual_review": "all_generated_overview_and_named_consecutive_window_sheets_inspected",
+      "original_speed_playback": "not_performed",
+      "audio_listening": "not_performed",
+      "native_resolution_finishing_review": "not_performed",
+      "overview": {
+        "directory": "studies/spacex",
+        "step": 7,
+        "thumbnail_width": 320,
+        "inspected_sheets": [
+          "sheets/00000.jpg",
+          "sheets/00001.jpg",
+          "sheets/00002.jpg",
+          "sheets/00003.jpg",
+          "sheets/00004.jpg",
+          "sheets/00005.jpg",
+          "sheets/00006.jpg"
+        ],
+        "inspected_thumbnail_count": 171,
+        "first_frame": 0,
+        "last_frame_inclusive": 1190,
+        "first_pts_seconds": 0.0,
+        "last_pts_seconds": 39.706333
+      },
+      "consecutive_window": {
+        "directory": "windows/spacex-type-mask",
+        "step": 1,
+        "thumbnail_width": 320,
+        "inspected_sheets": [
+          "sheets/00000.jpg",
+          "sheets/00001.jpg",
+          "sheets/00002.jpg"
+        ],
+        "inspected_thumbnail_count": 60,
+        "first_frame": 735,
+        "last_frame_inclusive": 794,
+        "first_pts_seconds": 24.5245,
+        "last_pts_seconds": 26.493133
+      },
+      "distinct_source_frames_visually_inspected": 222,
+      "decoded_frames": 1195,
+      "sha256": "8cfc9d325414698489ec1f819451551a5c04458b1cbe85f1e981eeaa32bf1171"
+    },
+    {
+      "slug": "slash-cornbread",
+      "visual_review": "all_generated_overview_and_named_consecutive_window_sheets_inspected",
+      "original_speed_playback": "not_performed",
+      "audio_listening": "not_performed",
+      "native_resolution_finishing_review": "not_performed",
+      "overview": {
+        "directory": "studies/slash-cornbread",
+        "step": 6,
+        "thumbnail_width": 320,
+        "inspected_sheets": [
+          "sheets/00000.jpg",
+          "sheets/00001.jpg",
+          "sheets/00002.jpg",
+          "sheets/00003.jpg",
+          "sheets/00004.jpg",
+          "sheets/00005.jpg",
+          "sheets/00006.jpg",
+          "sheets/00007.jpg",
+          "sheets/00008.jpg",
+          "sheets/00009.jpg",
+          "sheets/00010.jpg",
+          "sheets/00011.jpg",
+          "sheets/00012.jpg"
+        ],
+        "inspected_thumbnail_count": 308,
+        "first_frame": 0,
+        "last_frame_inclusive": 1842,
+        "first_pts_seconds": 0.0,
+        "last_pts_seconds": 76.75
+      },
+      "consecutive_window": {
+        "directory": "windows/slash-cornbread-collage-reveal",
+        "step": 1,
+        "thumbnail_width": 320,
+        "inspected_sheets": [
+          "sheets/00000.jpg",
+          "sheets/00001.jpg"
+        ],
+        "inspected_thumbnail_count": 48,
+        "first_frame": 144,
+        "last_frame_inclusive": 191,
+        "first_pts_seconds": 6.0,
+        "last_pts_seconds": 7.958333
+      },
+      "distinct_source_frames_visually_inspected": 348,
+      "decoded_frames": 1847,
+      "sha256": "b5eed8db2721210ebcabe0b5ce5276a4ddaeef8e6d06215dd94587e660c76be6"
+    },
+    {
+      "slug": "nsave-referrals",
+      "visual_review": "all_generated_overview_and_named_consecutive_window_sheets_inspected",
+      "original_speed_playback": "not_performed",
+      "audio_listening": "not_performed",
+      "native_resolution_finishing_review": "not_performed",
+      "overview": {
+        "directory": "studies/nsave-referrals",
+        "step": 15,
+        "thumbnail_width": 320,
+        "inspected_sheets": [
+          "sheets/00000.jpg",
+          "sheets/00001.jpg",
+          "sheets/00002.jpg",
+          "sheets/00003.jpg",
+          "sheets/00004.jpg",
+          "sheets/00005.jpg",
+          "sheets/00006.jpg"
+        ],
+        "inspected_thumbnail_count": 160,
+        "first_frame": 0,
+        "last_frame_inclusive": 2385,
+        "first_pts_seconds": 0.0,
+        "last_pts_seconds": 39.75
+      },
+      "consecutive_window": {
+        "directory": "windows/nsave-referrals-referral-tree",
+        "step": 1,
+        "thumbnail_width": 320,
+        "inspected_sheets": [
+          "sheets/00000.jpg",
+          "sheets/00001.jpg",
+          "sheets/00002.jpg",
+          "sheets/00003.jpg",
+          "sheets/00004.jpg"
+        ],
+        "inspected_thumbnail_count": 120,
+        "first_frame": 450,
+        "last_frame_inclusive": 569,
+        "first_pts_seconds": 7.5,
+        "last_pts_seconds": 9.483333
+      },
+      "distinct_source_frames_visually_inspected": 272,
+      "decoded_frames": 2389,
+      "sha256": "e759279b028e4cbf3e61ff61ccaec1145dd7724da2f2ce14d8509575ae2750c8"
+    }
+  ],
+  "totals": {
+    "source_assets": 3,
+    "decoded_frames": 5431,
+    "overview_thumbnails": 639,
+    "consecutive_window_thumbnails": 228,
+    "distinct_source_frames_visually_inspected": 842,
+    "inspected_sheets": 37
+  }
+}

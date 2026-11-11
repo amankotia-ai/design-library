@@ -1,0 +1,470 @@
+{
+  "base": "http://127.0.0.1:5181/design-library/",
+  "studies": 8,
+  "mathematicsCards": 9,
+  "relatedGuideLinks": 3,
+  "sourceDownloads": 10,
+  "errors": [],
+  "checks": [
+    {
+      "id": "spring-motion",
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "stage": {
+          "x": 615,
+          "y": 340.953125,
+          "width": 590,
+          "height": 582.515625,
+          "top": 340.953125,
+          "right": 1205,
+          "bottom": 923.46875,
+          "left": 615
+        },
+        "controls": {
+          "x": 1205,
+          "y": 340.953125,
+          "width": 210,
+          "height": 582.515625,
+          "top": 340.953125,
+          "right": 1415,
+          "bottom": 923.46875,
+          "left": 1205
+        }
+      },
+      "control": "Time",
+      "before": "Position\n-0.129 units\nVelocity\n2.275 units/s\nAcceleration\n-1.462 units/s²",
+      "after": "Position\n-0.001 units\nVelocity\n-0.002 units/s\nAcceleration\n0.039 units/s²",
+      "equations": 3,
+      "visualChanged": true,
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "stage": {
+          "x": 17,
+          "y": 592.546875,
+          "width": 356,
+          "height": 372.609375,
+          "top": 592.546875,
+          "right": 373,
+          "bottom": 965.15625,
+          "left": 17
+        },
+        "controls": {
+          "x": 17,
+          "y": 965.15625,
+          "width": 356,
+          "height": 185,
+          "top": 965.15625,
+          "right": 373,
+          "bottom": 1150.15625,
+          "left": 17
+        }
+      }
+    },
+    {
+      "id": "bezier-paths",
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "stage": {
+          "x": 615,
+          "y": 318.5625,
+          "width": 590,
+          "height": 606.96875,
+          "top": 318.5625,
+          "right": 1205,
+          "bottom": 925.53125,
+          "left": 615
+        },
+        "controls": {
+          "x": 1205,
+          "y": 318.5625,
+          "width": 210,
+          "height": 606.96875,
+          "top": 318.5625,
+          "right": 1415,
+          "bottom": 925.53125,
+          "left": 1205
+        }
+      },
+      "control": "Path parameter t",
+      "before": "Position\n(278.2, 167.2) px\nParametric speed\n623.4 px / t\nSecond derivative\n(277, 329)\n\npx per unit t²",
+      "after": "Position\n(610.0, 80.0) px\nParametric speed\n715.6 px / t\nSecond derivative\n(-1080, -2490)\n\npx per unit t²",
+      "equations": 3,
+      "visualChanged": true,
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "stage": {
+          "x": 17,
+          "y": 622.546875,
+          "width": 356,
+          "height": 387.09375,
+          "top": 622.546875,
+          "right": 373,
+          "bottom": 1009.640625,
+          "left": 17
+        },
+        "controls": {
+          "x": 17,
+          "y": 1009.640625,
+          "width": 356,
+          "height": 227,
+          "top": 1009.640625,
+          "right": 373,
+          "bottom": 1236.640625,
+          "left": 17
+        }
+      }
+    },
+    {
+      "id": "camera-parallax",
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "stage": {
+          "x": 615,
+          "y": 340.953125,
+          "width": 590,
+          "height": 606.96875,
+          "top": 340.953125,
+          "right": 1205,
+          "bottom": 947.921875,
+          "left": 615
+        },
+        "controls": {
+          "x": 1205,
+          "y": 340.953125,
+          "width": 210,
+          "height": 606.96875,
+          "top": 340.953125,
+          "right": 1415,
+          "bottom": 947.921875,
+          "left": 1205
+        }
+      },
+      "control": "Focal length f",
+      "before": "Near camera sensitivity\n-131.3 px/unit\n\nDepth 1.60 world units\n\nMiddle camera sensitivity\n-58.3 px/unit\n\nDepth 3.60 world units\n\nFar camera sensitivity\n-31.8 px/unit\n\nDepth 6.60 world units",
+      "after": "Near camera sensitivity\n-187.5 px/unit\n\nDepth 1.60 world units\n\nMiddle camera sensitivity\n-83.3 px/unit\n\nDepth 3.60 world units\n\nFar camera sensitivity\n-45.5 px/unit\n\nDepth 6.60 world units",
+      "equations": 3,
+      "visualChanged": true,
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "stage": {
+          "x": 17,
+          "y": 598.75,
+          "width": 356,
+          "height": 404.6875,
+          "top": 598.75,
+          "right": 373,
+          "bottom": 1003.4375,
+          "left": 17
+        },
+        "controls": {
+          "x": 17,
+          "y": 1003.4375,
+          "width": 356,
+          "height": 215,
+          "top": 1003.4375,
+          "right": 373,
+          "bottom": 1218.4375,
+          "left": 17
+        }
+      }
+    },
+    {
+      "id": "framing-crop",
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "stage": {
+          "x": 615,
+          "y": 340.953125,
+          "width": 590,
+          "height": 337.4375,
+          "top": 340.953125,
+          "right": 1205,
+          "bottom": 678.390625,
+          "left": 615
+        },
+        "controls": {
+          "x": 1205,
+          "y": 340.953125,
+          "width": 210,
+          "height": 337.4375,
+          "top": 340.953125,
+          "right": 1415,
+          "bottom": 678.390625,
+          "left": 1205
+        }
+      },
+      "control": "Delivery aspect W/H",
+      "before": "Protected area retained\n100.0%\n\nRectangle intersection; geometric only\n\nFull source retained\n50.0%\n\nVisible source area / original area\n\nSource crop size\n600 × 800\n\nScale 0.750 delivery px/source px",
+      "after": "Protected area retained\n100.0%\n\nRectangle intersection; geometric only\n\nFull source retained\n75.0%\n\nVisible source area / original area\n\nSource crop size\n1200 × 600\n\nScale 1.000 delivery px/source px",
+      "equations": 3,
+      "visualChanged": true,
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "stage": {
+          "x": 17,
+          "y": 598.75,
+          "width": 356,
+          "height": 206.46875,
+          "top": 598.75,
+          "right": 373,
+          "bottom": 805.21875,
+          "left": 17
+        },
+        "controls": {
+          "x": 17,
+          "y": 805.21875,
+          "width": 356,
+          "height": 155,
+          "top": 805.21875,
+          "right": 373,
+          "bottom": 960.21875,
+          "left": 17
+        }
+      }
+    },
+    {
+      "id": "speech-timing",
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "stage": {
+          "x": 615,
+          "y": 318.5625,
+          "width": 590,
+          "height": 330.46875,
+          "top": 318.5625,
+          "right": 1205,
+          "bottom": 649.03125,
+          "left": 615
+        },
+        "controls": {
+          "x": 1205,
+          "y": 318.5625,
+          "width": 210,
+          "height": 330.46875,
+          "top": 318.5625,
+          "right": 1415,
+          "bottom": 649.03125,
+          "left": 1205
+        }
+      },
+      "control": "Trim source start",
+      "before": "Edited word onset\n2.50s\n\nComplete word retained.\n\nPicture offset\n+0.20s\n\nTiming difference, not a universal lip-sync tolerance.",
+      "after": "Edited word onset\nTrimmed away\n\nInspect the cut; a partial word is not a complete spoken anchor.\n\nPicture offset\nNo valid anchor\n\nTiming difference, not a universal lip-sync tolerance.",
+      "equations": 3,
+      "visualChanged": true,
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "stage": {
+          "x": 17,
+          "y": 546.359375,
+          "width": 356,
+          "height": 242.078125,
+          "top": 546.359375,
+          "right": 373,
+          "bottom": 788.4375,
+          "left": 17
+        },
+        "controls": {
+          "x": 17,
+          "y": 788.4375,
+          "width": 356,
+          "height": 305,
+          "top": 788.4375,
+          "right": 373,
+          "bottom": 1093.4375,
+          "left": 17
+        }
+      }
+    },
+    {
+      "id": "reading-window",
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "stage": {
+          "x": 615,
+          "y": 318.5625,
+          "width": 590,
+          "height": 600.75,
+          "top": 318.5625,
+          "right": 1205,
+          "bottom": 919.3125,
+          "left": 615
+        },
+        "controls": {
+          "x": 1205,
+          "y": 318.5625,
+          "width": 210,
+          "height": 600.75,
+          "top": 318.5625,
+          "right": 1415,
+          "bottom": 919.3125,
+          "left": 1205
+        }
+      },
+      "control": "Caption duration",
+      "before": "Stable opportunity\n5.70s\n\n0.80–6.50s within the visible interval.\n\nAssumed requirement\n5.73s\n\n16 words counted from this caption.\n\nPlanning margin\n-0.03s\n\nA diagnostic for this declared reading rate.",
+      "after": "Stable opportunity\n13.70s\n\n0.80–14.50s within the visible interval.\n\nAssumed requirement\n5.73s\n\n16 words counted from this caption.\n\nPlanning margin\n+7.97s\n\nA diagnostic for this declared reading rate.",
+      "equations": 3,
+      "visualChanged": true,
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "stage": {
+          "x": 17,
+          "y": 568.75,
+          "width": 356,
+          "height": 407.328125,
+          "top": 568.75,
+          "right": 373,
+          "bottom": 976.078125,
+          "left": 17
+        },
+        "controls": {
+          "x": 17,
+          "y": 976.078125,
+          "width": 356,
+          "height": 527.75,
+          "top": 976.078125,
+          "right": 373,
+          "bottom": 1503.828125,
+          "left": 17
+        }
+      }
+    },
+    {
+      "id": "sound-mixing",
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "stage": {
+          "x": 615,
+          "y": 318.5625,
+          "width": 590,
+          "height": 380.34375,
+          "top": 318.5625,
+          "right": 1205,
+          "bottom": 698.90625,
+          "left": 615
+        },
+        "controls": {
+          "x": 1205,
+          "y": 318.5625,
+          "width": 210,
+          "height": 380.34375,
+          "top": 318.5625,
+          "right": 1415,
+          "bottom": 698.90625,
+          "left": 1205
+        }
+      },
+      "control": "Tone A gain ·80Hz",
+      "before": "Conservative amplitude bound\n1.002\n\na+b is an all-time upper bound; it need not be reached.\n\nSampled raw peak\n0.955\n\n0 of 401 plotted samples exceed±1. Sampling may miss a higher peak.\n\nExact raw RMS ·50ms\n0.501\n\nIncludes the actual frequency and phase relationship over this window.",
+      "after": "Conservative amplitude bound\n1.914\n\na+b is an all-time upper bound; it need not be reached.\n\nSampled raw peak\n1.828\n\n188 of 401 plotted samples exceed±1. Sampling may miss a higher peak.\n\nExact raw RMS ·50ms\n1.060\n\nIncludes the actual frequency and phase relationship over this window.",
+      "equations": 3,
+      "visualChanged": true,
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "stage": {
+          "x": 17,
+          "y": 568.75,
+          "width": 356,
+          "height": 322.65625,
+          "top": 568.75,
+          "right": 373,
+          "bottom": 891.40625,
+          "left": 17
+        },
+        "controls": {
+          "x": 17,
+          "y": 891.40625,
+          "width": 356,
+          "height": 305,
+          "top": 891.40625,
+          "right": 373,
+          "bottom": 1196.40625,
+          "left": 17
+        }
+      }
+    },
+    {
+      "id": "sampling-aliasing",
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "stage": {
+          "x": 615,
+          "y": 318.5625,
+          "width": 590,
+          "height": 346.0625,
+          "top": 318.5625,
+          "right": 1205,
+          "bottom": 664.625,
+          "left": 615
+        },
+        "controls": {
+          "x": 1205,
+          "y": 318.5625,
+          "width": 210,
+          "height": 346.0625,
+          "top": 318.5625,
+          "right": 1415,
+          "bottom": 664.625,
+          "left": 1205
+        }
+      },
+      "control": "Motion frequency",
+      "before": "Signed alias\n+5.0Hz\n\nThe input exceeds the Nyquist frequency.\n\nLast sampled frame\n9 · 0.375s\n\nNyquist frequency: 12.0Hz.\n\nSample agreement error\n4.1e-15\n\nNumerical difference in the sine coordinate at that sampled frame; ideally zero.",
+      "after": "Signed alias\n-12.0Hz\n\nAt the Nyquist boundary: direction/phase are ambiguous.\n\nLast sampled frame\n9 · 0.375s\n\nNyquist frequency: 12.0Hz.\n\nSample agreement error\n3.1e-14\n\nNumerical difference in the sine coordinate at that sampled frame; ideally zero.",
+      "equations": 3,
+      "visualChanged": true,
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "stage": {
+          "x": 17,
+          "y": 598.75,
+          "width": 356,
+          "height": 251.3125,
+          "top": 598.75,
+          "right": 373,
+          "bottom": 850.0625,
+          "left": 17
+        },
+        "controls": {
+          "x": 17,
+          "y": 850.0625,
+          "width": 356,
+          "height": 231,
+          "top": 850.0625,
+          "right": 373,
+          "bottom": 1081.0625,
+          "left": 17
+        }
+      }
+    }
+  ],
+  "revision": {
+    "src/film-library.jsx": "0a1156bbc98fe307e837dc3c2b541b93eb93a8afb8092fd6a9eac16b8cced698",
+    "src/film-data.json": "3fd0651adad38ba7600b96ff40da2fd19d4e2627c50ddb1dfe0bc6d9850398b1",
+    "src/film-study-ui.jsx": "7910548804887c601747dadf2a9060f5670191b88790e038c2226df536cb2955",
+    "src/film-studies.jsx": "624d355c92487fa412b7afd15acf216616f697769b1e7c8db5737bba28b56af9",
+    "src/film-studies.css": "5d0270970c390cff8fba3af2f70957a072ecd3c46f462de603de2dc0839faad8",
+    "src/film-study-registry.js": "fdbbe13d14cae26ae70e3317da20d808081083afa298f0165b6f74e8a2a673d6",
+    "src/film-motion-math.js": "bf5121ebf3b5fc2c7a14dbe5086bd2a0ef0e2337d2a868ade30f376b3490e783",
+    "src/film-motion-studies.jsx": "b0a185d2f624715fa35e1cc1d288d1e03662dffea8049127bfc665f41851a941",
+    "src/film-timing-math.js": "1d2ccf9df240c0e33522e7f1da294ba87b9eef0af642f755a6e0d0cea87963d3",
+    "src/film-timing-studies.jsx": "b244b834e3674b66bf6f7e6f7e9b8af98416aac21a8b97f40c96a5cd5656c315"
+  }
+}

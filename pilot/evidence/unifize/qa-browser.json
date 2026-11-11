@@ -1,0 +1,496 @@
+{
+  "time": "2026-11-10T13:46:34.361Z",
+  "errors": [],
+  "requests": [
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/hero-five-poster-v6.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/faster-poster-v1.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/rules-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/decide-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/learn-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/faster-poster-v1.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/right-poster-v1.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/proven-poster-v1.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/ai-poster-v1.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/hero-five-poster-v6.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/decide-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/learn-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/faster-poster-v1.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/rules-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/hero-five-poster-v6.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/rules-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/decide-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/learn-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/faster-poster-v1.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/demos/steel-site.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/demos/shopping-assistant.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/hero-five-poster-v6.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/hero-five-poster-v6.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/faster-poster-v1.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/rules-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/decide-poster-v7.jpg"
+    },
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5186/explorations/home-ceo/learn-poster-v7.jpg"
+    }
+  ],
+  "checks": [
+    {
+      "name": "desktop",
+      "value": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "height": 11221,
+        "h1": [
+          "Every decision made right and made fast.You hear only about the exceptions."
+        ],
+        "brokenImages": [],
+        "headerHeight": 72,
+        "buttons": [
+          {
+            "text": "FasterNothing waits in a queue nobo",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "RightThe right person signs, with t",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "ProvenThe answer exists before anyo",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "Ready for AIAI drafts and chases. A",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "Quality managementProblems stay fix",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "Document managementOne current vers",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "Manufacturing executionThe record b",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "Product lifecycleEvery decision tra",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "Life sciences",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "Process & consumer",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "Discrete manufacturing",
+            "label": null,
+            "disabled": false
+          },
+          {
+            "text": "",
+            "label": "Previous customers",
+            "disabled": true
+          },
+          {
+            "text": "",
+            "label": "Next customers",
+            "disabled": false
+          }
+        ],
+        "links": [
+          {
+            "text": "Sign In",
+            "href": "https://app.unifize.com"
+          },
+          {
+            "text": "Book a demo",
+            "href": "https://www.unifize.com/#demo"
+          },
+          {
+            "text": "Sign In",
+            "href": "https://app.unifize.com"
+          },
+          {
+            "text": "Book a demo",
+            "href": "https://www.unifize.com/#demo"
+          },
+          {
+            "text": "Book a demo →",
+            "href": "https://www.unifize.com/#demo"
+          },
+          {
+            "text": "See how it works",
+            "href": "https://www.unifize.com/platform"
+          },
+          {
+            "text": "Book a 30-minute walkthrough",
+            "href": "https://www.unifize.com/#demo"
+          }
+        ]
+      }
+    },
+    {
+      "name": ".cx-out__tab 0",
+      "value": {
+        "pressed": "true",
+        "panelId": "cx-out-stage",
+        "panelText": ""
+      }
+    },
+    {
+      "name": ".cx-out__tab 1",
+      "value": {
+        "pressed": "true",
+        "panelId": "cx-out-stage",
+        "panelText": ""
+      }
+    },
+    {
+      "name": ".cx-out__tab 2",
+      "value": {
+        "pressed": "true",
+        "panelId": "cx-out-stage",
+        "panelText": ""
+      }
+    },
+    {
+      "name": ".cx-out__tab 3",
+      "value": {
+        "pressed": "true",
+        "panelId": "cx-out-stage",
+        "panelText": ""
+      }
+    },
+    {
+      "name": ".hm-suite__pick 0",
+      "value": {
+        "pressed": "true",
+        "panelId": "hm-suite-stage",
+        "panelText": "URIEngineering IndustriesMy Conversations 24Search conversations⌘KAll 24Unread 6Mine 12Recurring sea"
+      }
+    },
+    {
+      "name": ".hm-suite__pick 1",
+      "value": {
+        "pressed": "true",
+        "panelId": "hm-suite-stage",
+        "panelText": "URMEngineering IndustriesMy Conversations 24Search conversations⌘KAll 24Unread 6Mine 12Cleaning vali"
+      }
+    },
+    {
+      "name": ".hm-suite__pick 2",
+      "value": {
+        "pressed": "true",
+        "panelId": "hm-suite-stage",
+        "panelText": "URMEngineering IndustriesMy Conversations 24Search conversations⌘KAll 24Unread 6Mine 12Cleaning vali"
+      }
+    },
+    {
+      "name": ".hm-suite__pick 3",
+      "value": {
+        "pressed": "true",
+        "panelId": "hm-suite-stage",
+        "panelText": "UPNEngineering IndustriesMy Conversations 24Search conversations⌘KAll 24Unread 6Mine 12PRT-4412 hous"
+      }
+    },
+    {
+      "name": ".hm-ind__tab 0",
+      "value": {
+        "pressed": "true",
+        "panelId": "_R_9pbsnqbrb_-panel",
+        "panelText": "Decision trails that stand up to inspectors, sponsors, and assessors.Medical DevicesA design change "
+      }
+    },
+    {
+      "name": ".hm-ind__tab 1",
+      "value": {
+        "pressed": "true",
+        "panelId": "_R_9pbsnqbrb_-panel",
+        "panelText": "Controlled changes and evidence across formulation, production, and release.ChemicalsA formulation c"
+      }
+    },
+    {
+      "name": ".hm-ind__tab 2",
+      "value": {
+        "pressed": "true",
+        "panelId": "_R_9pbsnqbrb_-panel",
+        "panelText": "Configuration, supplier, and production decisions with the rationale intact.AutomotiveOne late 8D pu"
+      }
+    },
+    {
+      "name": "reel",
+      "before": 0,
+      "after": 1169
+    },
+    {
+      "name": "mobile",
+      "value": {
+        "width": 390,
+        "scrollWidth": 390,
+        "height": 12369
+      }
+    },
+    {
+      "name": "mobile-menu",
+      "value": {
+        "open": true,
+        "links": 43,
+        "height": 40
+      }
+    },
+    {
+      "name": "footer-disclosure",
+      "value": {
+        "name": "SolutionsSolutions",
+        "open": true,
+        "contentHeight": 398.21875
+      }
+    },
+    {
+      "name": "footer-disclosure",
+      "value": {
+        "name": "IndustriesIndustries",
+        "open": true,
+        "contentHeight": 284.765625
+      }
+    },
+    {
+      "name": "route /?panel=systems",
+      "value": {
+        "title": "Design Library — Collections",
+        "headings": [
+          "Design Systems",
+          "Quiet Serif",
+          "Blueprint",
+          "Signal Serif",
+          "Interfere",
+          "Steel",
+          "Conversion",
+          "Plasticity",
+          "MNH",
+          "Signal Grid",
+          "Decision Rails",
+          "Design Systems"
+        ],
+        "brokenImages": [],
+        "bodyWidth": 1440,
+        "bodyHeight": 2704
+      }
+    },
+    {
+      "name": "route /?panel=system&section=unifize-page",
+      "value": {
+        "title": "Design Library — Collections",
+        "headings": [
+          "Decision Rails",
+          "Overview",
+          "When to choose it",
+          "Explore",
+          "Color",
+          "Space & structure",
+          "Typography",
+          "How the language works",
+          "References & attribution"
+        ],
+        "brokenImages": [
+          "http://127.0.0.1:5186/design-library/previews/unifize/hero.png",
+          "http://127.0.0.1:5186/design-library/previews/unifize/how.png",
+          "http://127.0.0.1:5186/design-library/previews/unifize/fit.png"
+        ],
+        "bodyWidth": 1440,
+        "bodyHeight": 1158
+      }
+    },
+    {
+      "name": "route /?panel=sections&system=unifize",
+      "value": {
+        "title": "Design Library — Collections",
+        "headings": [
+          "Sections",
+          "Navigation",
+          "Decision hero",
+          "Customer logos",
+          "Decision record",
+          "How it works",
+          "Starting points",
+          "Product platform",
+          "Industries",
+          "Customer stories",
+          "Resources",
+          "Walkthrough invitation"
+        ],
+        "brokenImages": [],
+        "bodyWidth": 1440,
+        "bodyHeight": 1826
+      }
+    },
+    {
+      "name": "route /?panel=pages&system=unifize",
+      "value": {
+        "title": "Design Library — Collections",
+        "headings": [
+          "Pages",
+          "Portfolio homepage",
+          "Creative tool landing page",
+          "Revenue platform landing page",
+          "Observability landing page",
+          "Browser infrastructure landing page",
+          "Marketing automation landing page",
+          "CAD product landing page",
+          "Venture capital homepage",
+          "Retrieval platform landing page",
+          "Benchmark evaluations page",
+          "Decision platform landing page"
+        ],
+        "brokenImages": [],
+        "bodyWidth": 1440,
+        "bodyHeight": 2949
+      }
+    },
+    {
+      "name": "route /?panel=sources&section=unifize-page",
+      "value": {
+        "title": "Design Library — Collections",
+        "headings": [
+          "Decision Rails: references",
+          "Unifize: reference and limits"
+        ],
+        "brokenImages": [],
+        "bodyWidth": 1440,
+        "bodyHeight": 1676
+      }
+    },
+    {
+      "name": "route /?section=unifize-hero",
+      "value": {
+        "title": "Design Library — Collections",
+        "headings": [
+          "Decision hero",
+          "Decision Rails",
+          "Unifize: reference and limits"
+        ],
+        "brokenImages": [],
+        "bodyWidth": 1440,
+        "bodyHeight": 1418
+      }
+    },
+    {
+      "name": "route /?view=unifize-page",
+      "value": {
+        "title": "Design Library — Collections",
+        "headings": [],
+        "brokenImages": [],
+        "bodyWidth": 1440,
+        "bodyHeight": 11313
+      }
+    }
+  ],
+  "hashes": {
+    "pilot/src/unifize.jsx": "108032d0556d902566de9ce8419e6a3ee7c254d04496f3dd1f46fbab47e63c2d",
+    "pilot/src/unifize-data.js": "e21433e0c8acc608fec38f59f927582f9e7c14dad410fbd6eee61b6e74522021",
+    "pilot/src/main.jsx": "480a856650b2b644c73013695a80476d2b46fc00624f6242cf2935ec6dc9d848",
+    "pilot/src/catalog.jsx": "321bc27dbed6c4ce881f2c4947f8e9f45a0987152d9b511635aeb4c3ac1bbefe",
+    "pilot/src/system-analysis.js": "9ef5c6bb70fccd97b14591b7991c85808bba1289050484a393a5ac99c6730859",
+    "pilot/src/type-systems.js": "722a8c71583d5a83aa26cb2b678565fd8f1cd47a32f7ae4a4e63d717c2574039",
+    "pilot/public/unifize-source/page.html": "e9580e2850edb728f8790d69bd72af733d464e9aa23de5566f689a4bcd7da760",
+    "pilot/public/unifize-source/source.css": "84e58be307f08133b96aaf42a147bb622ea3e386c6655ae141a2a34a1102a3e2",
+    "pilot/public/unifize-source/tokens.css": "fe5cd76a487b4d43cf2f83d22d50d720b58e78ce20d8d9b953797fc65d5d4737",
+    "pilot/public/unifize-source/layout.css": "8193d2df0a52a388222779b147cc268737e202aa40d11e069162cac21f09c8b0",
+    "pilot/public/unifize-source/local-layout.css": "789f51ed3e3dd972cd09276a0b9c5b1b09b913462aad9b331e3fe23733960a66",
+    "pilot/public/unifize-source/interactions.js": "17c6615e257c00653fcc2f0095fdb853c763d235f295795bfcd426cbdfbe786f",
+    "pilot/public/unifize-source/states.json": "674659489ecc90aab5237392284043641854d8430750764c5dbd3cce317ae421"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Wolo portfolio visual atlas",
+  "revision": "2026-11-11",
+  "columns": 2,
+  "rows": 5,
+  "cell_width": 480,
+  "image_height": 270,
+  "font_scale": 2,
+  "frames": [
+    {
+      "path": "atlas-stills/slash-global.jpg",
+      "shot_id": "slash-global",
+      "label": "Anchored montage",
+      "frame": 228,
+      "pts_seconds": 9.5,
+      "frame_space": "source",
+      "title": "Slash Global"
+    },
+    {
+      "path": "atlas-stills/velo.jpg",
+      "shot_id": "velo",
+      "label": "Glass and colored strands",
+      "frame": 414,
+      "pts_seconds": 17.25,
+      "frame_space": "source",
+      "title": "Velo"
+    },
+    {
+      "path": "atlas-stills/slash-4-july.jpg",
+      "shot_id": "slash-4-july",
+      "label": "Archive and fixed serif captions",
+      "frame": 696,
+      "pts_seconds": 23.2,
+      "frame_space": "source",
+      "title": "Slash \u2014 4th of July"
+    },
+    {
+      "path": "atlas-stills/spacex.jpg",
+      "shot_id": "spacex",
+      "label": "Type becomes an argument",
+      "frame": 735,
+      "pts_seconds": 24.5245,
+      "frame_space": "source",
+      "title": "SpaceX IPO"
+    },
+    {
+      "path": "atlas-stills/slash-cornbread.jpg",
+      "shot_id": "slash-cornbread",
+      "label": "Paper and handwritten marks",
+      "frame": 174,
+      "pts_seconds": 7.25,
+      "frame_space": "source",
+      "title": "Slash \u2014 Cornbread"
+    },
+    {
+      "path": "atlas-stills/nsave-referrals.jpg",
+      "shot_id": "nsave-referrals",
+      "label": "Referral mechanism as a diagram",
+      "frame": 570,
+      "pts_seconds": 9.5,
+      "frame_space": "source",
+      "title": "Nsave Referrals"
+    },
+    {
+      "path": "atlas-stills/worm-launch.jpg",
+      "shot_id": "worm-launch",
+      "label": "Isolate the actionable control",
+      "frame": 408,
+      "pts_seconds": 13.6,
+      "frame_space": "source",
+      "title": "Worm Launch"
+    },
+    {
+      "path": "atlas-stills/okbet-launch.jpg",
+      "shot_id": "okbet-launch",
+      "label": "One conversation as the plot",
+      "frame": 384,
+      "pts_seconds": 16.0,
+      "frame_space": "source",
+      "title": "Okbet Launch"
+    },
+    {
+      "path": "atlas-stills/hyperdash-ui.jpg",
+      "shot_id": "hyperdash-ui",
+      "label": "Crop into visible product evidence",
+      "frame": 324,
+      "pts_seconds": 13.5,
+      "frame_space": "source",
+      "title": "Hyperdash"
+    },
+    {
+      "path": "atlas-stills/pvp-hyperdash.jpg",
+      "shot_id": "pvp-hyperdash",
+      "label": "Atmosphere before clean UI",
+      "frame": 156,
+      "pts_seconds": 6.5,
+      "frame_space": "source",
+      "title": "PVP \u00d7 Hyperdash"
+    }
+  ]
+}

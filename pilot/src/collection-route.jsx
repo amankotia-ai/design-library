@@ -19,6 +19,6 @@ function ReadyCollection({panel,seen,restoreY,children}){
 }
 export function CollectionRoute({panel,restoreY,children}){
  const seen=useRef(false);
- const title=panel==='systems'?'Design Systems':panel==='sections'?'Sections':'Pages';
+ const title=panel==='skills'?'Skills':panel==='films'?'Film & Motion':panel==='systems'?'Design Systems':panel==='sections'?'Sections':'Pages';
  return <CollectionErrorBoundary title={title}><Suspense fallback={<PendingCollection panel={panel} seen={seen}/>}><ReadyCollection panel={panel} seen={seen} restoreY={restoreY}>{children}</ReadyCollection></Suspense></CollectionErrorBoundary>;
 }

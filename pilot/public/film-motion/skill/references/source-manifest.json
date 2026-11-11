@@ -1,0 +1,789 @@
+{
+  "researched_on": "2026-11-06",
+  "posts": 32,
+  "video_assets": 34,
+  "decoded_frames": 27935,
+  "sources": [
+    {
+      "post_id": "2118387847853908115",
+      "source_url": "https://x.com/leapxyz/status/2118387847853908115",
+      "posting_account": "leapxyz",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2118387847853908115-1",
+          "media_url": "https://video.twimg.com/amplify_video/2118379725634547712/vid/avc1/1920x1080/w1hXvvhMeeSLTMaE.mp4",
+          "sha256": "6def474d31e037a99af9e8cdc0ac6475bf8f23514add2c8e8f8279a0bc09cc51",
+          "decoded_frames": 1000,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "25/1",
+          "average_frame_rate": "25/1",
+          "video_stream_duration_seconds": "40.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a/2118387847853908115-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2118439490247389628",
+      "source_url": "https://x.com/BuffetDesigns/status/2118439490247389628",
+      "posting_account": "BuffetDesigns",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2118439490247389628-1",
+          "media_url": "https://video.twimg.com/amplify_video/2118439452678991872/vid/avc1/1920x1080/TAsIz8TKSmwGKL53.mp4",
+          "sha256": "8744d940a3f420a8ca6cb9a8401558dfc36c19e169bdd52c3da37544323cc962",
+          "decoded_frames": 180,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "16200000/539983",
+          "video_stream_duration_seconds": "5.999811",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a/2118439490247389628-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2118426646609096710",
+      "source_url": "https://x.com/XRarchitect/status/2118426646609096710",
+      "posting_account": "XRarchitect",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2118426646609096710-1",
+          "media_url": "https://video.twimg.com/amplify_video/2118400697251291136/vid/avc1/1920x1080/iTA54Wr3k41CEJCx.mp4",
+          "sha256": "af96098ad7acc6a1cffe92950d6939f111aac43e75a3c8d76ed95d5441d1bee9",
+          "decoded_frames": 1371,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "45.700000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a/2118426646609096710-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ],
+      "quoted_film_source": "https://x.com/theworldlabs/status/2118424455873741028"
+    },
+    {
+      "post_id": "2112624102016249952",
+      "source_url": "https://x.com/runinfrai/status/2112624102016249952",
+      "posting_account": "runinfrai",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2112624102016249952-1",
+          "media_url": "https://video.twimg.com/amplify_video/2112622250721787904/vid/avc1/1920x1080/5z69mDlkMAnUhTR-.mp4",
+          "sha256": "263178a001b324c0641b79835907000ecd43afcfcc38c806581f688b4abd5e3b",
+          "decoded_frames": 2223,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "37.050000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a/2112624102016249952-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2118340232944717908",
+      "source_url": "https://x.com/motionstashco/status/2118340232944717908",
+      "posting_account": "motionstashco",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2118340232944717908-1",
+          "media_url": "https://video.twimg.com/amplify_video/2118340175977701376/vid/avc1/1920x1080/VtDY58Nd_2Hwuswr.mp4",
+          "sha256": "f9c578a82a9835f4344cc95012ed02c395fa335cd4b6f08c569bf8878fc3294a",
+          "decoded_frames": 574,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "9.566667",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a/2118340232944717908-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2117983868263473419",
+      "source_url": "https://x.com/leomeethewoo/status/2117983868263473419",
+      "posting_account": "leomeethewoo",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2117983868263473419-1",
+          "media_url": "https://video.twimg.com/amplify_video/2117983790417240064/vid/avc1/1920x1080/GW8k-Z424mtVTgxv.mp4",
+          "sha256": "a5b74103f6dffc19ddbf0b9f6b87a4ee8f4dd1eb0ee33bfde8ac76b8fac30aed",
+          "decoded_frames": 429,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30000/1001",
+          "average_frame_rate": "22500/749",
+          "video_stream_duration_seconds": "14.280933",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a/2117983868263473419-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2118388400730591469",
+      "source_url": "https://x.com/AravSrinivas/status/2118388400730591469",
+      "posting_account": "AravSrinivas",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2118388400730591469-1",
+          "media_url": "https://video.twimg.com/amplify_video/2118385205107146752/vid/avc1/1920x1080/uaTO5HzSIvYNqDxL.mp4",
+          "sha256": "c07bb81c5acdeda5be23e7cc2c97a7f1024700150145d75d68f56dad297d6ef9",
+          "decoded_frames": 2130,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "71.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a/2118388400730591469-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2117680635561312732",
+      "source_url": "https://x.com/ClaudeDevs/status/2117680635561312732",
+      "posting_account": "ClaudeDevs",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2117680635561312732-1",
+          "media_url": "https://video.twimg.com/amplify_video/2117680108706140161/vid/avc1/1920x1080/wGq7dIsPF9y9U62a.mp4",
+          "sha256": "7c401a9f2b9e9ec1b95b621f9a5fdd0df7b82756b76fed002a56776c27e8d5d2",
+          "decoded_frames": 192,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "24/1",
+          "average_frame_rate": "24/1",
+          "video_stream_duration_seconds": "8.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a/2117680635561312732-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2117634813108650450",
+      "source_url": "https://x.com/driceroland/status/2117634813108650450",
+      "posting_account": "driceroland",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2117634813108650450-1",
+          "media_url": "https://video.twimg.com/amplify_video/2117633966614142976/vid/avc1/3840x2160/e_FmE6Z9NVxDN38W.mp4",
+          "sha256": "8560aea9d3313f12d644f45709c4a7fe62082f394f18afbd365a725ddc0faaf3",
+          "decoded_frames": 110,
+          "width": 3840,
+          "height": 2160,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "3.666667",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a-b8/2117634813108650450-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2117274985601577088",
+      "source_url": "https://x.com/leomeethewoo/status/2117274985601577088",
+      "posting_account": "leomeethewoo",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2117274985601577088-1",
+          "media_url": "https://video.twimg.com/amplify_video/2117273946953551873/vid/avc1/1690x1080/yoNwUR9-aQdCx0AH.mp4",
+          "sha256": "f4df3fc80aaee64dce73136941712ad637ef7375a4819976121c2d1934b377fd",
+          "decoded_frames": 1286,
+          "width": 1690,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "42.866667",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a-b8/2117274985601577088-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2117624804664647707",
+      "source_url": "https://x.com/PostiauxCharles/status/2117624804664647707",
+      "posting_account": "PostiauxCharles",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2117624804664647707-1",
+          "media_url": "https://video.twimg.com/amplify_video/2117620077566492674/vid/avc1/1920x1080/tYdbhNAok8wzXOyZ.mp4",
+          "sha256": "48f972f1d42eac92fdb64ed51e083a67d484ef4aa0321054f07cfeb362adfc9a",
+          "decoded_frames": 434,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "14.466667",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a-b8/2117624804664647707-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2117195000387863033",
+      "source_url": "https://x.com/BenjaminUIX/status/2117195000387863033",
+      "posting_account": "BenjaminUIX",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2117195000387863033-1",
+          "media_url": "https://video.twimg.com/amplify_video/2117194124998987776/vid/avc1/1920x1080/tweROedGLP0QwDGR.mp4",
+          "sha256": "6a09f89762dd9d8a422711571140773e4c5c71ddacfba248ecc2fd5fde6d0e60",
+          "decoded_frames": 990,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "33.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a-b8/2117195000387863033-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2117227499944108448",
+      "source_url": "https://x.com/iamcfw/status/2117227499944108448",
+      "posting_account": "iamcfw",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2117227499944108448-1",
+          "media_url": "https://video.twimg.com/amplify_video/2117226856911179776/vid/avc1/3840x2160/Vze8B3ynNY85gNK2.mp4",
+          "sha256": "3fc4ca5bfbe3685989f58dc24a0d755a7ff93dcb7c0d9db8e8f2c5a0a5306065",
+          "decoded_frames": 1671,
+          "width": 3840,
+          "height": 2160,
+          "nominal_frame_rate": "25/1",
+          "average_frame_rate": "25/1",
+          "video_stream_duration_seconds": "66.840000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a-b8/2117227499944108448-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2116964927734972835",
+      "source_url": "https://x.com/icyyfx_/status/2116964927734972835",
+      "posting_account": "icyyfx_",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2116964927734972835-1",
+          "media_url": "https://video.twimg.com/amplify_video/2116964858847473665/vid/avc1/1280x720/_dNDV_uwEdZzT0zS.mp4?tag=14",
+          "sha256": "c92eb7635545a75ce4d0c30b43dfb6e68c6a6493ef99d47242657b1d69f07f0b",
+          "decoded_frames": 738,
+          "width": 1280,
+          "height": 720,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "12.300000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a-b8/2116964927734972835-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2116887447753871477",
+      "source_url": "https://x.com/bykarnsarao/status/2116887447753871477",
+      "posting_account": "bykarnsarao",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2116887447753871477-1",
+          "media_url": "https://video.twimg.com/amplify_video/2116887165569478656/vid/avc1/1280x720/Vkb9WSs7epxUuC05.mp4?tag=14",
+          "sha256": "eb0ecaf3232d93fc3016c762853d554031ce9cb1206c4aca713ecc5288541e19",
+          "decoded_frames": 405,
+          "width": 1280,
+          "height": 720,
+          "nominal_frame_rate": "15/1",
+          "average_frame_rate": "15/1",
+          "video_stream_duration_seconds": "27.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a-b8/2116887447753871477-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2116893654329721255",
+      "source_url": "https://x.com/alimdesigner_/status/2116893654329721255",
+      "posting_account": "alimdesigner_",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2116893654329721255-1",
+          "media_url": "https://video.twimg.com/amplify_video/2116893614806589440/vid/avc1/1920x1080/J-LvdORRurk0HK3J.mp4",
+          "sha256": "6e6b106fbca491d1c6dd25dbf7c152ef4c3d2823650918fe5fec21d6ca25ae1d",
+          "decoded_frames": 159,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "5.300000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-a-b8/2116893654329721255-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2116874214133350667",
+      "source_url": "https://x.com/stevelauda_/status/2116874214133350667",
+      "posting_account": "stevelauda_",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2116874214133350667-1",
+          "media_url": "https://video.twimg.com/amplify_video/2116874180956434433/vid/avc1/1920x1080/_ZSaxQ6K0XkdOg5U.mp4",
+          "sha256": "f0420c930054597f2f167fd280f1bd203373865d583e9fc644e9c2ab12bb7531",
+          "decoded_frames": 196,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "6.533333",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2116874214133350667-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2116487154801254831",
+      "source_url": "https://x.com/dipvizz/status/2116487154801254831",
+      "posting_account": "dipvizz",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2116487154801254831-1",
+          "media_url": "https://video.twimg.com/amplify_video/2116485657065672704/vid/avc1/1920x1080/G3o0MKpfuAUJuA5o.mp4",
+          "sha256": "be47a140478c0789693815e0f9b9f5991a05b17756c758bb7bba1475aae5578c",
+          "decoded_frames": 195,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30000/1001",
+          "average_frame_rate": "30000/1001",
+          "video_stream_duration_seconds": "6.506500",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2116487154801254831-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2116442307172114718",
+      "source_url": "https://x.com/PrathamRaj36466/status/2116442307172114718",
+      "posting_account": "PrathamRaj36466",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2116442307172114718-1",
+          "media_url": "https://video.twimg.com/amplify_video/2116441607272910848/vid/avc1/1920x1080/hrupHU7j_AhbptfA.mp4",
+          "sha256": "d77d69556887180bc361d4da7a9a77f56e60c05fd0abfde769eb8a81f5e75cbf",
+          "decoded_frames": 963,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "32.100000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2116442307172114718-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2116150784194924798",
+      "source_url": "https://x.com/leomeethewoo/status/2116150784194924798",
+      "posting_account": "leomeethewoo",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2116150784194924798-1",
+          "media_url": "https://video.twimg.com/amplify_video/2116150639902494720/vid/avc1/1920x1080/qtLAAKQ4bNYlPUOe.mp4",
+          "sha256": "dc59fae13a10b90dc3211c06fbd59576e899bb5e22c7b51ad087b5a0056e37f6",
+          "decoded_frames": 387,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "12.900000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2116150784194924798-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2113945989212148214",
+      "source_url": "https://x.com/madtirth/status/2113945989212148214",
+      "posting_account": "madtirth",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2113945989212148214-1",
+          "media_url": "https://video.twimg.com/amplify_video/2113943443160621056/vid/avc1/1920x1080/gfSdn6V46eZQMVTV.mp4",
+          "sha256": "86a813ac6c200c778e743a2fca9ffd46e813cc505abb94dc7e4645978c8a86fe",
+          "decoded_frames": 696,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "23.200000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2113945989212148214-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2115786794713440671",
+      "source_url": "https://x.com/JoeSelf_1/status/2115786794713440671",
+      "posting_account": "JoeSelf_1",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2115786794713440671-1",
+          "media_url": "https://video.twimg.com/amplify_video/2115786752619155456/vid/avc1/1280x720/CVmHz-YLrQZ8AgwJ.mp4",
+          "sha256": "b2f8eedb2045288b66582c865861dcaba96640fc5d4b7aa1978e14dd82a56ffe",
+          "decoded_frames": 493,
+          "width": 1280,
+          "height": 720,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "16.433333",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2115786794713440671-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2115445301725335578",
+      "source_url": "https://x.com/remy_godet/status/2115445301725335578",
+      "posting_account": "remy_godet",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2115445301725335578-1",
+          "media_url": "https://video.twimg.com/amplify_video/2115445127640383488/vid/avc1/1280x720/s4VZbXxuSf8B0FtA.mp4?tag=14",
+          "sha256": "2d82d7fa9527a0a24374a9f2e6b5734846ad8d830bc64a8308434fbe0f6dede0",
+          "decoded_frames": 1769,
+          "width": 1280,
+          "height": 720,
+          "nominal_frame_rate": "50/1",
+          "average_frame_rate": "50/1",
+          "video_stream_duration_seconds": "35.380000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2115445301725335578-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2115140975966454087",
+      "source_url": "https://x.com/anugrahthegoat/status/2115140975966454087",
+      "posting_account": "anugrahthegoat",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2115140975966454087-1",
+          "media_url": "https://video.twimg.com/amplify_video/2115140399073533952/vid/avc1/1920x1080/goCdy6NbOqfjxNDQ.mp4",
+          "sha256": "5328ed658019a130b8ef0f28ee435179c58f790bffc97b6c147df74bcb5250f2",
+          "decoded_frames": 150,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "5.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2115140975966454087-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2115433629182492788",
+      "source_url": "https://x.com/jayndeau/status/2115433629182492788",
+      "posting_account": "jayndeau",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2115433629182492788-1",
+          "media_url": "https://video.twimg.com/amplify_video/2115433330048925696/vid/avc1/1940x1080/p3RuwKcmyB0yLq9l.mp4",
+          "sha256": "ca65240c0b0467274d9c74a99d86b54f8a742af6e9e830c1494d18967e7a9e0b",
+          "decoded_frames": 1854,
+          "width": 1940,
+          "height": 1080,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "30.900000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2115433629182492788-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2115414518910111794",
+      "source_url": "https://x.com/VadimCarazan/status/2115414518910111794",
+      "posting_account": "VadimCarazan",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2115414518910111794-1",
+          "media_url": "https://video.twimg.com/amplify_video/2115413652845019136/vid/avc1/1920x1080/v31pEkoGRzjYat8P.mp4",
+          "sha256": "f97fcebde876eb488c23a40a16329af8a65380f5fd5b0f554e5a7eed007a5f2b",
+          "decoded_frames": 1800,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "30.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2115414518910111794-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2114697201473720711",
+      "source_url": "https://x.com/flamefxi/status/2114697201473720711",
+      "posting_account": "flamefxi",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2114697201473720711-1",
+          "media_url": "https://video.twimg.com/amplify_video/2114697184444858368/vid/avc1/1280x720/JLgIgfhf7UIVulHm.mp4",
+          "sha256": "667371aae94aa180b68fbcc3c3d0d0db3f6572f0b155e56163024a13cbe43e52",
+          "decoded_frames": 122,
+          "width": 1280,
+          "height": 720,
+          "nominal_frame_rate": "24000/1001",
+          "average_frame_rate": "73200/3053",
+          "video_stream_duration_seconds": "5.088333",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2114697201473720711-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2113490687912264068",
+      "source_url": "https://x.com/ayushsoni_io/status/2113490687912264068",
+      "posting_account": "ayushsoni_io",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2113490687912264068-1",
+          "media_url": "https://video.twimg.com/amplify_video/2113490639304486912/vid/avc1/3840x2040/EcylkMCKNc8zeYV_.mp4",
+          "sha256": "be469798563ab820eab5382d13c288d258cab57d81922a466dc001b4197fd48c",
+          "decoded_frames": 420,
+          "width": 3840,
+          "height": 2040,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "7.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2113490687912264068-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2112576405343236283",
+      "source_url": "https://x.com/AlexAperios/status/2112576405343236283",
+      "posting_account": "AlexAperios",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2112576405343236283-1",
+          "media_url": "https://video.twimg.com/amplify_video/2112576307221467136/vid/avc1/1080x1920/7KCO94ZV_x7lSMD1.mp4",
+          "sha256": "996a23c04ed21a63e3d46df8f7aedc8553cba840bbf299da65e1d38383f3ca38",
+          "decoded_frames": 600,
+          "width": 1080,
+          "height": 1920,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "10.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2112576405343236283-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        },
+        {
+          "asset_id": "2112576405343236283-2",
+          "media_url": "https://video.twimg.com/amplify_video/2112576332454375426/vid/avc1/1080x1440/8lQbPFXdjbc26H2K.mp4",
+          "sha256": "2bfdb1d21c6641e5ae5bb8afcdd1c0610662de8abcc4898720b98babd96625de",
+          "decoded_frames": 600,
+          "width": 1080,
+          "height": 1440,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "10.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2112576405343236283-2/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        },
+        {
+          "asset_id": "2112576405343236283-3",
+          "media_url": "https://video.twimg.com/amplify_video/2112576332479483904/vid/avc1/1080x1440/8laOCHqoN_zJGjZM.mp4",
+          "sha256": "1e3260e620da07a6e5b16ada0ca6853461ea98326b3c6014734b6e76d54949c4",
+          "decoded_frames": 600,
+          "width": 1080,
+          "height": 1440,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "10.000000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2112576405343236283-3/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2110838619078557910",
+      "source_url": "https://x.com/tjcages/status/2110838619078557910",
+      "posting_account": "tjcages",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2110838619078557910-1",
+          "media_url": "https://video.twimg.com/amplify_video/2110838581661237248/vid/avc1/1920x1080/hHMUOS42DYpwD56x.mp4",
+          "sha256": "e807d8bb7a3051b0fc5005b35fba3fd4e21536da14d2a7908f80f921bfaa3629",
+          "decoded_frames": 1010,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "16.833333",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2110838619078557910-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2110034769685962919",
+      "source_url": "https://x.com/ayushsoni_io/status/2110034769685962919",
+      "posting_account": "ayushsoni_io",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2110034769685962919-1",
+          "media_url": "https://video.twimg.com/amplify_video/2110033998273822720/vid/avc1/2040x2040/m5StaZ4avq3HaQXb.mp4",
+          "sha256": "8502a34f8b489f9b0cc27d7c1ba0104aa00fbf254a080bf9b7d8277590233935",
+          "decoded_frames": 630,
+          "width": 2040,
+          "height": 2040,
+          "nominal_frame_rate": "60/1",
+          "average_frame_rate": "60/1",
+          "video_stream_duration_seconds": "10.500000",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2110034769685962919-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ]
+    },
+    {
+      "post_id": "2107856619979579679",
+      "source_url": "https://x.com/peer_rich/status/2107856619979579679",
+      "posting_account": "peer_rich",
+      "status": "retrieved",
+      "assets": [
+        {
+          "asset_id": "2107856619979579679-1",
+          "media_url": "https://video.twimg.com/amplify_video/2107672070364790784/vid/avc1/1920x1080/ozjiPh9RLOmX14Uq.mp4",
+          "sha256": "d6c7885e2685fd9b56f42b9122c99c630f69a1c91fdf449de3ea8ad82a7d4271",
+          "decoded_frames": 1558,
+          "width": 1920,
+          "height": 1080,
+          "nominal_frame_rate": "30/1",
+          "average_frame_rate": "30/1",
+          "video_stream_duration_seconds": "51.933333",
+          "complete_frame_pts_index_in_evidence_project": "research/dense-b/2107856619979579679-1/frames.csv",
+          "visual_review": "complete_consecutive_frame_thumbnail_scan",
+          "audio_review": "not_listened",
+          "original_speed_playback": "not_reviewed"
+        }
+      ],
+      "quoted_film_source": "https://x.com/karrisaarinen/status/2107676903553585155"
+    }
+  ],
+  "additional_memorable_film": {
+    "url": "https://motion.so/studio",
+    "asset_url": "https://assets.frameapp.ai/Memorable_latest.mp4",
+    "decoded_frames": 1378,
+    "thumbnail_scan": "complete",
+    "audio_review": "not_listened",
+    "playback": "not_reviewed"
+  },
+  "skale_scope": {
+    "portfolio_entries_inventoried": 32,
+    "preview_excerpts_sampled": 3,
+    "whole_portfolio_dense_review": false
+  }
+}

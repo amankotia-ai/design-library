@@ -1,0 +1,66 @@
+{
+  "schema": "speech-edit-research-sidecar-0.1",
+  "synthetic": true,
+  "notice": "Illustrative arithmetic only; not an input for video_quality.py and not an observed film or viewer result.",
+  "edit_revision": "synthetic-r01",
+  "source_media_revision": "synthetic-take-a",
+  "transcript_revision": "synthetic-transcript-r01",
+  "output_fps": {"num": 30, "den": 1},
+  "source_to_program": [
+    {"segment_id": "keep-01", "source_range_seconds": [0, 2], "program_start_seconds": 0, "speed_source_per_program_second": 1},
+    {"segment_id": "keep-02", "source_range_seconds": [3, 6], "program_start_seconds": 2, "speed_source_per_program_second": 1}
+  ],
+  "word_occurrences": [
+    {
+      "id": "utterance-assignment-01",
+      "source_word_id": "take-a-assign-01",
+      "segment_id": "keep-02",
+      "text": "assign",
+      "source_range_seconds": [3.4, 3.8],
+      "program_range_seconds": [2.4, 2.8],
+      "start_uncertainty_seconds": [2.37, 2.43],
+      "uncertainty_basis": "synthetic supplied bound; not a confidence interval"
+    }
+  ],
+  "eligible_propositions": [
+    {
+      "id": "assignment-action",
+      "claim_id": "assignment_changes_owner",
+      "shot_ids": ["proof.assign-owner"],
+      "word_occurrence_ids": ["utterance-assignment-01"],
+      "intended_relation": "illustrates",
+      "intended_meaning": "The visible owner selection performs the spoken assignment action.",
+      "speech_anchor": {"occurrence_id": "utterance-assignment-01", "edge": "start"},
+      "visual_event_frame": 75,
+      "authored_delta_window_seconds": [-0.15, 0.25],
+      "opportunity_window_seconds": [2.3, 3.5],
+      "stable_proof_intervals_seconds": [[2.5, 3.4]],
+      "read_requirement": {"seconds": 0.7, "basis": "estimated"},
+      "semantic_review": "unknown",
+      "evidence": []
+    }
+  ],
+  "expected_arithmetic": {
+    "mapped_word_program_range_seconds": [2.4, 2.8],
+    "visual_event_seconds": 2.5,
+    "delta_seconds": 0.1,
+    "delta_bounds_seconds": [0.07, 0.13],
+    "window_error_seconds": 0,
+    "longest_stable_opportunity_seconds": 0.9,
+    "semantic_read_margin_seconds": 0.2,
+    "eligible_proposition_count": 1,
+    "confirmed_covered_proposition_count": 0,
+    "unknown_semantic_proposition_count": 1
+  },
+  "revision_effort": {
+    "request": "Synthetic placeholder; no benchmark performed",
+    "acceptance": "unknown",
+    "active_labor_seconds": null,
+    "elapsed_to_accepted_export_seconds": null,
+    "machine_runtime_seconds": null,
+    "monetary_cost": null,
+    "currency": null,
+    "collateral_defects": null,
+    "unaffected_beats_reviewed": null
+  }
+}

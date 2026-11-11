@@ -1,0 +1,382 @@
+{
+  "archives": [
+    {
+      "entry": "expanded-templates",
+      "archive": "output/new-blank-plates.zip",
+      "archiveBytes": 85651195,
+      "sha256": "a6a20ef082a8a69335d1c9e97d74eb78707d139d53e5e0977212551241956f07",
+      "archiveCrcPassed": true,
+      "cover": "expanded-showcases/preview.jpg"
+    },
+    {
+      "entry": "oak-retail",
+      "archive": "output/oak-retail-five-plates.zip",
+      "archiveBytes": 34919115,
+      "sha256": "23b5210fa67a664c372e10980c319128750a131b99898bc36790fd0bf29e8d0b",
+      "archiveCrcPassed": true,
+      "cover": "oak-retail-extension/preview.jpg"
+    },
+    {
+      "entry": "warm-wood",
+      "archive": "output/vadim-showcase-plates.zip",
+      "archiveBytes": 16416792,
+      "sha256": "87a65657f3d01bfd6cd21ae6cc897933ccb4e972331ad1e8ac143dbbaaf73b08",
+      "archiveCrcPassed": true,
+      "cover": "vadim-showcases/preview.jpg"
+    },
+    {
+      "entry": "mobile-scenes",
+      "archive": "output/mobile-seven-templates.zip",
+      "archiveBytes": 46711844,
+      "sha256": "620b6814d8a45dbcf2abb2b6e635656efb06af3da9bda2d0a7c301d9970e3887",
+      "archiveCrcPassed": true,
+      "cover": "mobile-reference-pack/blank-preview.jpg"
+    },
+    {
+      "entry": "dark-wood-mobile",
+      "archive": "output/uds-mobile-template/dark-wood-mobile-template.zip",
+      "archiveBytes": 39480483,
+      "sha256": "0450edeeaa36410ea103053e6c6283ff5ab85fe9061b19f2ba41b1092b433d22",
+      "archiveCrcPassed": true,
+      "cover": "dark-wood-mobile-template/blank-mobile.png"
+    }
+  ],
+  "images": [
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/cispy-board.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "edb3d59345d3a374f586d2cc3e0312309612770a4ef27a4f5e3e82c17d018192"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/cispy-business-card.png",
+      "width": 1420,
+      "height": 1108,
+      "sha256": "5d3da1353b21d7d524c9288f49ff949960dededb8d2f732e7429769a62427707"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/cispy-facade-sign.png",
+      "width": 1158,
+      "height": 1359,
+      "sha256": "da0b9de334f6477e3ec911240bdc04e36f23a28ff9d7d34fb766bc1200d515f9"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/cispy-held-phone.png",
+      "width": 1309,
+      "height": 1201,
+      "sha256": "300ff63e2ef1c17334f77109d6d15df337e4624e71030f8174daa2e080f7c09d"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/cispy-poster-bank.png",
+      "width": 1821,
+      "height": 864,
+      "sha256": "1b060f9f2a3659751e1f7607a25db24a507858f7f1fb28fef909710f97c236de"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/cispy-stacked-cards.png",
+      "width": 1886,
+      "height": 834,
+      "sha256": "32c44590702350d974203499072e282e7625e435d280d877e297549e30a8278d"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/cispy-tablet.png",
+      "width": 1339,
+      "height": 1174,
+      "sha256": "4f0bffdf42c3fb85a2b155dc79b5f029ea32cf883ad317a3617cfc2d950b3179"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/cispy-tote.png",
+      "width": 1268,
+      "height": 1241,
+      "sha256": "a1b02fc17009a295712d5324b365be2e9d72929205f5f1e74500f4423fde9ed3"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/cispy-wall-display.png",
+      "width": 1666,
+      "height": 944,
+      "sha256": "dbfb221196a7008a46ee4f442d7002fd195f1c2fa9ddedc81a971dc28ae0df0b"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/solyt-social-triptych.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bcc961ae64884ede70d83fd21a2607debfccf53376c7c7229efaa64b1380f3e4"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/strivenet-apparel.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "47d57ce1cda892aaa72044c8b48400af4bc867c281e1dbd3d4f361ebfcd62c0d"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/strivenet-color-matrix.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "269d093f27e7d6748242bd5237f6db2dd7b828878eba96fe9f4ffac92469b500"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/strivenet-held-profile.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8f022b78d9ce4e7a6e5a805524806fd0b27d1e18b1039bba84cc61f74ba8fd1f"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/strivenet-posters.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6678affd93c6b1b0b8fe71f835a165657894497a68b738a7dc2faacc93fac6ba"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-brand-tiles.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "77cfba1b33b3e7a997648f146452df85025947e7b2a99eb510b57e2bc02b9667"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-complete-kit.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "606302cd7a255b6415efb6bcf86fcf58f1808f96113058c4799eeacaba8c2276"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-cube-cluster.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "98ae011fa4406703f1e4c6ae8e7fa790635018fbf19f96e69399cf8b6ce12da5"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-cups.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fac53afb3051e751e32a190c6535e25d52041f412a448bb06819dd4536289424"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-open-box.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "21b6b463d16ec317fcfe42cdd816b54b63597f190e3a0cfaf44a76d4bd863763"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-overlapping-cards.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cbf983baea20efe617a762075773c782ccb8cbd8b6e0bf7e5b0c4b2572b0bc30"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-pouches.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "efcfb073b00da28fe5bee2bd7f7acaaadd69f53b30ba1cbf05727daa5f8357b8"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-sachet-grid.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0678dd9ba52a9d910dc42c593d2399655a3ef83873ca5796ed16d91038ebe910"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-shopping-bags.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c1a38823823f01df238610d1d13a97102d79f79d0d7ffafa39507b1b3afb4705"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-small-kit.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d5f381ed5894913b8ae006286d95879bf176b0dfe67ae15c032a6b7b7d3a37ca"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/variety-social-grid.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5753ebbd90a472f685185f6e5f88001c4044444ab8cdcb7ebdc64da79920d9e7"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/wellspin-address-detail.png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "49a9656caabf5d5ad53dd200679887c06336e7deffe9cf6a8d8c5b001adb4994"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/wellspin-clear-card.png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "cabf02b89fbd8d93d4d5d51682d89053d998abf0c59d49f39bb333621e2b52ed"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/wellspin-dock-detail.png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "97b8e0defd74f84cd1345f1aa12df72f69a301ab35f6854d3518aedbc65c5f1f"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/wellspin-profile.png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "bdd0a2e323f57c7956060408eb52e89642945038e654bcef409aaa3bea237742"
+    },
+    {
+      "entry": "expanded-templates",
+      "source": "output/new-blank-plates.zip::expanded-showcases/plates/wesoft-brand-cards.png",
+      "width": 1676,
+      "height": 938,
+      "sha256": "7e554a42ba18aa2f30588c85e1f5c01724c752a433a8385d26bf32d8965b7ce4"
+    },
+    {
+      "entry": "oak-retail",
+      "source": "output/oak-retail-five-plates.zip::oak-retail-extension/plates/oak-canvas-tote.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1d3e588a1085baebdb0e1b1047ccb1e84af820278a03740e38bdec51efa287e9"
+    },
+    {
+      "entry": "oak-retail",
+      "source": "output/oak-retail-five-plates.zip::oak-retail-extension/plates/oak-desktop-display.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "58eb6470a8e1806a644cea1376a6195facd9c63b1cfda484182a5fb124392283"
+    },
+    {
+      "entry": "oak-retail",
+      "source": "output/oak-retail-five-plates.zip::oak-retail-extension/plates/oak-entrance-glass.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "595eb460cddf0a8e1599a901f87f0c5a697ad44dd90762ac35b5391f4a5f4fef"
+    },
+    {
+      "entry": "oak-retail",
+      "source": "output/oak-retail-five-plates.zip::oak-retail-extension/plates/oak-presentation-box.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b95b492fcec5d653263ae6de268cc2e8c0d9458b39df9f7a04f4a4c8debefc78"
+    },
+    {
+      "entry": "oak-retail",
+      "source": "output/oak-retail-five-plates.zip::oak-retail-extension/plates/oak-stationery-flatlay.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c89d1b56399028340dc99860d1b97f81626e60511116a669b03184caf480d731"
+    },
+    {
+      "entry": "warm-wood",
+      "source": "output/vadim-showcase-plates.zip::vadim-showcases/plates/vadim-auditorium-display.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "337ea173a0c488f255def2e624bbacffc1701b848e7aaaf4d1a93275fae84095"
+    },
+    {
+      "entry": "warm-wood",
+      "source": "output/vadim-showcase-plates.zip::vadim-showcases/plates/vadim-five-social-cards.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "167d005b44f58e1676b33d0e3ca8c4ddc5c0d9504f54c27e1ced0f6b4e4d83f5"
+    },
+    {
+      "entry": "warm-wood",
+      "source": "output/vadim-showcase-plates.zip::vadim-showcases/plates/vadim-laptop-sticker.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4db7f07b6250798890cddbbd4de447ae3c217da11a102858468001b8a02a04c8"
+    },
+    {
+      "entry": "warm-wood",
+      "source": "output/vadim-showcase-plates.zip::vadim-showcases/plates/vadim-phone-desk.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "67ea6b6e94ec8fd4e3846e6cb00df019ec5639be3ba60b100cb9445c2d7ba5bb"
+    },
+    {
+      "entry": "mobile-scenes",
+      "source": "output/mobile-seven-templates.zip::mobile-reference-pack/templates/01-metallic-icon-macro/blank.png",
+      "width": 1200,
+      "height": 1433,
+      "sha256": "0adbb75c7a7211cc62c7722d886bf59b45ffab190e0a7682796eb70f58da7989"
+    },
+    {
+      "entry": "mobile-scenes",
+      "source": "output/mobile-seven-templates.zip::mobile-reference-pack/templates/02-dark-ticket-phone/blank.png",
+      "width": 1200,
+      "height": 1600,
+      "sha256": "ec6fd75813b63b77189f98b89ba461140d3338832221471b5f42f46f12e72883"
+    },
+    {
+      "entry": "mobile-scenes",
+      "source": "output/mobile-seven-templates.zip::mobile-reference-pack/templates/03-calendar-handheld/blank.png",
+      "width": 680,
+      "height": 680,
+      "sha256": "c51f70e5a855a3bc15b1bda1fe6d0cffdcde79e4f2595d5d8a5a3d52628c655a"
+    },
+    {
+      "entry": "mobile-scenes",
+      "source": "output/mobile-seven-templates.zip::mobile-reference-pack/templates/04-music-campaign/blank.png",
+      "width": 1054,
+      "height": 1405,
+      "sha256": "28908ea433a0b848646d1737320b9b8f790a8e548f32c54f55e068c8d051c675"
+    },
+    {
+      "entry": "mobile-scenes",
+      "source": "output/mobile-seven-templates.zip::mobile-reference-pack/templates/05-person-forward-phone/blank.png",
+      "width": 1199,
+      "height": 898,
+      "sha256": "89064323d8aa4e81a564b9285eb07702775a61f7b8bc2b985077fcbf63cf98fe"
+    },
+    {
+      "entry": "mobile-scenes",
+      "source": "output/mobile-seven-templates.zip::mobile-reference-pack/templates/06-pov-handheld-phone/blank.png",
+      "width": 1199,
+      "height": 898,
+      "sha256": "674b7806f8b6e248e739b9d9863467fffec459d406db0ef282fdfd7819d6cfd8"
+    },
+    {
+      "entry": "mobile-scenes",
+      "source": "output/mobile-seven-templates.zip::mobile-reference-pack/templates/07-low-angle-person-phone/blank.png",
+      "width": 1199,
+      "height": 898,
+      "sha256": "f035ef092fde3320675f9606d99029aa51549a793f14fd215d231f3bca65916a"
+    },
+    {
+      "entry": "dark-wood-mobile",
+      "source": "output/uds-mobile-template/dark-wood-mobile-template.zip::dark-wood-mobile-template/blank-mobile.png",
+      "width": 1200,
+      "height": 1600,
+      "sha256": "51313799ce5fecc6509c75319d462c348f718089c9209dee3bc857c6648b2038"
+    },
+    {
+      "entry": "dark-wood-mobile",
+      "source": "output/uds-mobile-template/dark-wood-mobile-template.zip::dark-wood-mobile-template/screen-placement-guide.jpg",
+      "width": 1200,
+      "height": 1600,
+      "sha256": "5dc5f7bf47a8e48d7ad51ccecca8c1a08633dfde3d2caa551198dfd45f67e7c4"
+    }
+  ]
+}

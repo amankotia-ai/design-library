@@ -1,0 +1,268 @@
+{
+  "base": "http://127.0.0.1:5173/design-library/",
+  "revision": {
+    "main.jsx": "6fd8829791be20f7da198ce632238ead8740d076163ac324fabd0c89d47209cf",
+    "render-assets.jsx": "4b655f310ca0314c178043934d6b66a8ddee8d67d79bdcc6467246d54370bbd5",
+    "render-assets.css": "88ed2b17e6fea23a5d83a2c893f3aa9412eb433d6b95f66fc46712ef9d4b4494",
+    "skill-collections.js": "2bcc7f14df4a997ab4c03f378ef353312097213fc84119e93757331aae68dc88",
+    "render-assets-data.json": "7b0d3d627a96ac8ec108805a4a104d71e80e1170d2655334afb19aa379b1e41f",
+    "catalog.css": "c5c51918627bf83e4626ea831fa1948efd87dc0b3d7e29d6cae389c81fa02904",
+    "collection-route.jsx": "7146b2c1dca5038841a4e99a68f505e99a1b4a511d73ac0c7f742215095ef5b0",
+    "library-loading.jsx": "fde57d90798a27968f06469f03450ad62757fd08105e3340c780aec097c05ed2"
+  },
+  "checks": [
+    {
+      "name": "desktop index, keyboard navigation, six peers, covers, primary nav and history",
+      "pass": true,
+      "details": {
+        "width": 1440,
+        "doc": 1440,
+        "header": 1440
+      }
+    },
+    {
+      "name": "product screen routing, Relay pair, disclosure keyboard, detail Back and reload",
+      "pass": true
+    },
+    {
+      "name": "Product Renders and all six Mockup Templates covers",
+      "pass": true
+    },
+    {
+      "name": "legacy links, mapped breadcrumbs and unknown entry handling",
+      "pass": true
+    },
+    {
+      "name": "browser downloads, bytes and filenames",
+      "pass": true,
+      "details": [
+        {
+          "id": "relay-illustrated",
+          "bytes": 14129031
+        },
+        {
+          "id": "relay-viewport",
+          "bytes": 5214114
+        },
+        {
+          "id": "arco",
+          "bytes": 23457285
+        },
+        {
+          "id": "dark-wood-mobile",
+          "bytes": 39480483
+        },
+        {
+          "id": "ruled",
+          "bytes": 7604325
+        },
+        {
+          "id": "composition-atlas",
+          "bytes": 5106806
+        }
+      ]
+    },
+    {
+      "name": "Ruled popup, six recipes, desktop and grid switches, export",
+      "pass": true
+    },
+    {
+      "name": "Composition Atlas popup and layout previews",
+      "pass": true,
+      "details": [
+        "Composition Atlas",
+        "01 Large app in landscape",
+        "02 Tinted perimeter / opaque page",
+        "03 Paired tall feature panels",
+        "04 Tactile illustration + feature",
+        "05 Grain-flow / lower-edge crop",
+        "06 Macro component / landscape",
+        "07 Macro component / portrait",
+        "08 Content-height page section",
+        "09 Textured inset + component",
+        "10 Related context / focal card",
+        "11 Art tiles / different UI ratios",
+        "12 Brand and product board"
+      ]
+    },
+    {
+      "name": "corrected shot geometry opens on desktop and mobile, preserves all three widths and marks the planned capture",
+      "pass": true,
+      "details": {
+        "desktop": {
+          "width": 1440,
+          "doc": 1440,
+          "headings": [
+            "Wide app window",
+            "Full app window",
+            "App content close-up"
+          ],
+          "statuses": [
+            "wide-app-window · USED IN CORRECTED EXAMPLE",
+            "full-app-window · PLANNED CAPTURE",
+            "app-content-macro · USED IN CORRECTED EXAMPLE"
+          ],
+          "geometry": [
+            {
+              "width": 81.99984296482413,
+              "ratio": 1.7847533632286996,
+              "labelFont": "14px"
+            },
+            {
+              "width": 91.99905778894473,
+              "ratio": 1.7847533632286996,
+              "labelFont": "14px"
+            },
+            {
+              "width": 111.99748743718592,
+              "ratio": 1.7847533632286996,
+              "labelFont": "14px"
+            }
+          ]
+        },
+        "mobile": {
+          "width": 390,
+          "doc": 390,
+          "headings": [
+            "Wide app window",
+            "Full app window",
+            "App content close-up"
+          ],
+          "statuses": [
+            "wide-app-window · USED IN CORRECTED EXAMPLE",
+            "full-app-window · PLANNED CAPTURE",
+            "app-content-macro · USED IN CORRECTED EXAMPLE"
+          ],
+          "geometry": [
+            {
+              "width": 81.99982040229885,
+              "ratio": 1.785760102629891,
+              "labelFont": "14px"
+            },
+            {
+              "width": 91.99892241379311,
+              "ratio": 1.785760102629891,
+              "labelFont": "14px"
+            },
+            {
+              "width": 111.99712643678161,
+              "ratio": 1.785760102629891,
+              "labelFont": "14px"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "mobile and tablet layouts including all collection routes",
+      "pass": true,
+      "details": {
+        "tablet": {
+          "Skills": {
+            "width": 768,
+            "doc": 768,
+            "header": 768
+          },
+          "Product Screen Compositions": {
+            "width": 768,
+            "doc": 768,
+            "header": 768
+          },
+          "Product Renders": {
+            "width": 768,
+            "doc": 768,
+            "header": 768
+          },
+          "Mockup Templates": {
+            "width": 768,
+            "doc": 768,
+            "header": 768
+          },
+          "Ruled": {
+            "width": 768,
+            "doc": 768,
+            "header": 768
+          },
+          "Composition Atlas": {
+            "width": 768,
+            "doc": 768,
+            "header": 768
+          },
+          "Relay / Wide view & detail": {
+            "width": 768,
+            "doc": 768,
+            "header": 768
+          }
+        },
+        "mobile": {
+          "Skills": {
+            "width": 390,
+            "doc": 390,
+            "header": 390
+          },
+          "Product Screen Compositions": {
+            "width": 390,
+            "doc": 390,
+            "header": 390
+          },
+          "Product Renders": {
+            "width": 390,
+            "doc": 390,
+            "header": 390
+          },
+          "Mockup Templates": {
+            "width": 390,
+            "doc": 390,
+            "header": 390
+          },
+          "Ruled": {
+            "width": 390,
+            "doc": 390,
+            "header": 390
+          },
+          "Composition Atlas": {
+            "width": 390,
+            "doc": 390,
+            "header": 390
+          },
+          "Relay / Wide view & detail": {
+            "width": 390,
+            "doc": 390,
+            "header": 390
+          },
+          "Ruled study": {
+            "width": 390,
+            "doc": 390
+          },
+          "Atlas study": {
+            "width": 390,
+            "doc": 390
+          }
+        }
+      }
+    }
+  ],
+  "errors": [],
+  "screenshots": [
+    "qa-skills-desktop.png",
+    "qa-screen-compositions-desktop.png",
+    "qa-relay-illustrated-desktop.png",
+    "qa-relay-viewport-desktop.png",
+    "qa-product-renders-desktop.png",
+    "qa-mockup-templates-desktop.png",
+    "qa-ruled-entry-desktop.png",
+    "qa-ruled-study-desktop.png",
+    "qa-atlas-study-desktop.png",
+    "qa-shot-map-desktop.png",
+    "qa-shot-map-mobile.png",
+    "qa-skills-tablet.png",
+    "qa-skills-mobile.png",
+    "qa-product-screen-compositions-mobile.png",
+    "qa-product-renders-mobile.png",
+    "qa-ruled-mobile.png",
+    "qa-composition-atlas-mobile.png",
+    "qa-relay-wide-view-detail-mobile.png",
+    "qa-atlas-study-mobile.png"
+  ],
+  "revisionDrift": []
+}

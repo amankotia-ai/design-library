@@ -1,0 +1,54 @@
+{
+  "target": "/Users/abhishekmankotia/Documents/ChatGPT/Design Library/pilot",
+  "preview": "http://127.0.0.1:5175/design-library/?panel=films&view=films",
+  "implementation": {
+    "src/film-library.jsx": "62c6b1e2c12b3ca0fcd6290e203596805dab0ac93235390d1939fa24ee35e321",
+    "src/film-reference-data.js": "3bc9baf06431e039d5ec48e63da9b835c92bb41352b5802f8ddd1fe405aed2a9",
+    "src/film-references.jsx": "5d75fc1c98449e486aa7d4f20d5b25cdf985847097e83b5eb3487d80776b19c2",
+    "src/film-references.css": "8be8a5435e896b6223ecd506186dafaf77275aa0025ae60b5890c4e403def5e1",
+    "public/film-motion/manifest.json": "9d09d1f1cfb6a241cfa8256e65502057c36c1899264c47084ac66b228601133b"
+  },
+  "delivery": {
+    "verifiedFiles": 2882,
+    "mismatches": 0
+  },
+  "checks": {
+    "productionBuild": "passed on staged revision",
+    "existingChecks": [
+      "check",
+      "check:film",
+      "check:studies",
+      "check-film-learnings.mjs"
+    ],
+    "existingChecksStatus": "passed",
+    "dataIntegrity": "10 unique films, local videos/posters/notes, 30 timecoded moments within duration, 20 valid related-lesson links"
+  },
+  "browser": {
+    "routes": "All 10 native players reached readyState 4 with duration and no error; all stayed paused initially.",
+    "search": "worm returned 1 of 10",
+    "topic": "Art direction returned 2 of 10",
+    "tabs": [
+      "Craft notes",
+      "Apply it",
+      "References"
+    ],
+    "seek": "Worm jumped to 22.5s without autoplay",
+    "playback": "Space started playback; currentTime advanced from 22.51 to 28.50; Space paused playback",
+    "responsive": "390px collection and detail document widths equal viewport; desktop and mobile screenshots captured",
+    "consoleErrors": 0
+  },
+  "screenshots": [
+    "collection-mobile.jpg",
+    "film-mobile.jpg",
+    "film-desktop.jpg",
+    "collection-desktop.jpg",
+    "collection-desktop-full.jpg"
+  ],
+  "researchLimit": "Analysis is based on full-duration frame sampling and selected dense windows; no full original-speed/audio assessment.",
+  "independentQA": {
+    "reviewer": "/root/library_integration_review",
+    "status": "passed; no blocking defect",
+    "scope": "Actual delivered source, registry/media/timecode checks, desktop collection/detail and mobile screenshots",
+    "screenshotLimit": "Full-page mobile collection includes unloaded offscreen lazy poster boxes after the first three; this is capture coverage, not a confirmed UI defect."
+  }
+}

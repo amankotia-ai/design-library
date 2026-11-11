@@ -1,0 +1,169 @@
+{
+  "review_date": "2026-11-11",
+  "analyst_group": "a",
+  "source_page": "https://wolo.digital/work/",
+  "coverage_note": "All overview samples and all frames in the three targeted windows were visually inspected. This is sampled full-duration review with local consecutive-frame windows, not every-frame whole-film review.",
+  "films": [
+    {
+      "slug": "velo",
+      "decoded_frames": 868,
+      "unique_frames_visually_inspected": 205,
+      "reviews": [
+        {
+          "study_directory": "studies/velo",
+          "kind": "sampled_overview",
+          "decoded_frame_range_half_open": [
+            0,
+            868
+          ],
+          "source_pts_first": 0.0,
+          "source_pts_last": 36.0,
+          "step": 6,
+          "selected_frames": 145,
+          "thumbnail_width_generated": 320,
+          "sheets_inspected": [
+            "studies/velo/sheets/00000.jpg",
+            "studies/velo/sheets/00001.jpg",
+            "studies/velo/sheets/00002.jpg",
+            "studies/velo/sheets/00003.jpg",
+            "studies/velo/sheets/00004.jpg",
+            "studies/velo/sheets/00005.jpg"
+          ],
+          "inspection_method": "tools.view_image; every generated sheet actually inspected",
+          "display_resize": "Larger window sheets were resized by the tool; overview sheets displayed at generated size."
+        },
+        {
+          "study_directory": "studies/velo-window-logo",
+          "kind": "consecutive_frame_window",
+          "decoded_frame_range_half_open": [
+            84,
+            156
+          ],
+          "source_pts_first": 3.5,
+          "source_pts_last": 6.458333,
+          "step": 1,
+          "selected_frames": 72,
+          "thumbnail_width_generated": 480,
+          "sheets_inspected": [
+            "studies/velo-window-logo/sheets/00000.jpg",
+            "studies/velo-window-logo/sheets/00001.jpg",
+            "studies/velo-window-logo/sheets/00002.jpg"
+          ],
+          "inspection_method": "tools.view_image; every generated sheet actually inspected",
+          "display_resize": "Larger window sheets were resized by the tool; overview sheets displayed at generated size."
+        }
+      ],
+      "audio": "not_listened",
+      "original_speed_playback": "not_performed",
+      "full_resolution_every_frame_review": "not_performed"
+    },
+    {
+      "slug": "slash-global",
+      "decoded_frames": 648,
+      "unique_frames_visually_inspected": 168,
+      "reviews": [
+        {
+          "study_directory": "studies/slash-global",
+          "kind": "sampled_overview",
+          "decoded_frame_range_half_open": [
+            0,
+            648
+          ],
+          "source_pts_first": 0.0,
+          "source_pts_last": 26.75,
+          "step": 6,
+          "selected_frames": 108,
+          "thumbnail_width_generated": 320,
+          "sheets_inspected": [
+            "studies/slash-global/sheets/00000.jpg",
+            "studies/slash-global/sheets/00001.jpg",
+            "studies/slash-global/sheets/00002.jpg",
+            "studies/slash-global/sheets/00003.jpg",
+            "studies/slash-global/sheets/00004.jpg"
+          ],
+          "inspection_method": "tools.view_image; every generated sheet actually inspected",
+          "display_resize": "Larger window sheets were resized by the tool; overview sheets displayed at generated size."
+        },
+        {
+          "study_directory": "studies/slash-global-window-grid",
+          "kind": "consecutive_frame_window",
+          "decoded_frame_range_half_open": [
+            60,
+            132
+          ],
+          "source_pts_first": 2.5,
+          "source_pts_last": 5.458333,
+          "step": 1,
+          "selected_frames": 72,
+          "thumbnail_width_generated": 480,
+          "sheets_inspected": [
+            "studies/slash-global-window-grid/sheets/00000.jpg",
+            "studies/slash-global-window-grid/sheets/00001.jpg",
+            "studies/slash-global-window-grid/sheets/00002.jpg"
+          ],
+          "inspection_method": "tools.view_image; every generated sheet actually inspected",
+          "display_resize": "Larger window sheets were resized by the tool; overview sheets displayed at generated size."
+        }
+      ],
+      "audio": "not_listened",
+      "original_speed_playback": "not_performed",
+      "full_resolution_every_frame_review": "not_performed"
+    },
+    {
+      "slug": "slash-4-july",
+      "decoded_frames": 1343,
+      "unique_frames_visually_inspected": 231,
+      "reviews": [
+        {
+          "study_directory": "studies/slash-4-july",
+          "kind": "sampled_overview",
+          "decoded_frame_range_half_open": [
+            0,
+            1343
+          ],
+          "source_pts_first": 0.0,
+          "source_pts_last": 44.533333,
+          "step": 8,
+          "selected_frames": 168,
+          "thumbnail_width_generated": 320,
+          "sheets_inspected": [
+            "studies/slash-4-july/sheets/00000.jpg",
+            "studies/slash-4-july/sheets/00001.jpg",
+            "studies/slash-4-july/sheets/00002.jpg",
+            "studies/slash-4-july/sheets/00003.jpg",
+            "studies/slash-4-july/sheets/00004.jpg",
+            "studies/slash-4-july/sheets/00005.jpg",
+            "studies/slash-4-july/sheets/00006.jpg"
+          ],
+          "inspection_method": "tools.view_image; every generated sheet actually inspected",
+          "display_resize": "Larger window sheets were resized by the tool; overview sheets displayed at generated size."
+        },
+        {
+          "study_directory": "studies/slash-4-july-window-type",
+          "kind": "consecutive_frame_window",
+          "decoded_frame_range_half_open": [
+            1180,
+            1252
+          ],
+          "source_pts_first": 39.333333,
+          "source_pts_last": 41.7,
+          "step": 1,
+          "selected_frames": 72,
+          "thumbnail_width_generated": 480,
+          "sheets_inspected": [
+            "studies/slash-4-july-window-type/sheets/00000.jpg",
+            "studies/slash-4-july-window-type/sheets/00001.jpg",
+            "studies/slash-4-july-window-type/sheets/00002.jpg"
+          ],
+          "inspection_method": "tools.view_image; every generated sheet actually inspected",
+          "display_resize": "Larger window sheets were resized by the tool; overview sheets displayed at generated size."
+        }
+      ],
+      "audio": "not_listened",
+      "original_speed_playback": "not_performed",
+      "full_resolution_every_frame_review": "not_performed"
+    }
+  ],
+  "total_generated_sheets_inspected": 27,
+  "total_unique_frames_visually_inspected": 604
+}

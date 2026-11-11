@@ -1,0 +1,64 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=FJZkfjM8WhI",
+  "retrieved_date": "2026-11-10",
+  "transcription": {
+    "engine": "faster-whisper1.2.1",
+    "model": "small.en",
+    "cached_revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f",
+    "compute_type": "int8",
+    "cpu_threads": 6,
+    "beam_size": 5,
+    "vad_filter": true,
+    "input_decoding": "FFmpeg float32 mono16kHz",
+    "elapsed_seconds": 250.94268703460693,
+    "segment_count": 318,
+    "first_segment_start": 0.0,
+    "last_segment_end": 921.12,
+    "human_verified": false,
+    "timestamp_caution": "Raw final ASR segment ends at 921.12s, exceeding measured audio duration 921.001s by 0.119s; clamp edit/caption timings to measured media duration."
+  },
+  "visual_review": {
+    "type": "sampled",
+    "source_frames": 31,
+    "sample_stride_frames": 720,
+    "normal_speed_playback": false,
+    "audio_listening": false
+  },
+  "files": [
+    {
+      "path": "reference-audio.webm",
+      "bytes": 14797038,
+      "sha256": "fac20c01cd5ce318cda5224bb38cc4b2a9920280700a0f93c7ed305eec6f0edc"
+    },
+    {
+      "path": "reference-video.mp4",
+      "bytes": 20185665,
+      "sha256": "6b1c9b061f3a8eb21572d682feecff04403aefa948721d9f51a73a97f5ab985d"
+    },
+    {
+      "path": "transcript-asr.json",
+      "bytes": 67984,
+      "sha256": "93a9490df1180cb7b338afde2f51620f88a363ef88c16eae2c4e3763a03c679e"
+    },
+    {
+      "path": "transcript-asr.txt",
+      "bytes": 22189,
+      "sha256": "d81e8715d80ede3486cd2d38eef2891ac61b9b72852d66cef9b63fc4935a1bdb"
+    },
+    {
+      "path": "overview-sampled-exact.jpg",
+      "bytes": 337405,
+      "sha256": "79c9bab97ac5dcc025e57866753302097387ecade8ff82c6970cc805cc4dcafb"
+    },
+    {
+      "path": "overview-sampled-manifest.json",
+      "bytes": 9890,
+      "sha256": "bccd08bb6b3f88c192d24145671e3126bf3d448b9e67e5d8793a572418b4d774"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 10313,
+      "sha256": "0257787c9b92a7336a2bdbbe5c5d5b243b9e2180ade81cd9062da14279f1b1a7"
+    }
+  ]
+}

@@ -15,8 +15,9 @@ export function SystemPreview({system}){
   '--specimen-rule':colors.Rule||colors.Paper,
   '--specimen-accent':colors.Teal||colors.Blue||colors.Blueprint||colors.Red||colors.Ink,
   '--specimen-highlight':colors.Lime||colors.Paper,
+  ...(system.id==='unifize'?{'--specimen-paper':'#1f2126','--specimen-ink':'#f7f8fa','--specimen-rule':'#41444b','--specimen-accent':'#70aeff'}:{}),
  };
- return <div className={cn('system-preview',system.id==='conare'?'system-preview-conare':system.id==='mnh'?'system-preview-mnh':system.id==='plasticity'?'system-preview-plasticity':signal?'system-preview-signal':steel?'system-preview-steel':editorial?'system-preview-editorial':'system-preview-blueprint')} style={palette} role="img" aria-label={`${system.name} typography and color palette specimen.`}>
+ return <div className={cn('system-preview',system.id==='unifize'?'system-preview-unifize':system.id==='conare'?'system-preview-conare':system.id==='mnh'?'system-preview-mnh':system.id==='plasticity'?'system-preview-plasticity':signal?'system-preview-signal':steel?'system-preview-steel':editorial?'system-preview-editorial':'system-preview-blueprint')} style={palette} role="img" aria-label={`${system.name} typography and color palette specimen.`}>
   <div className="system-specimen" aria-hidden="true">
    <div className="specimen-typography">
     <div className="specimen-letterforms"><span className="specimen-aa">Aa</span><div className="specimen-alphabet">Aa Bb Cc Dd<br/>Ee Ff Gg Hh<br/><span>0123456789</span></div></div>

@@ -65,3 +65,11 @@ The detailed Conare evaluations fidelity correction, including the shared Produc
 ## GitHub Pages deployment
 
 The site is built from `pilot/` by `.github/workflows/pages.yml`. Pushes to `main` run `npm ci`, build the Vite app, and deploy `pilot/dist` through GitHub Pages. It is served from the `/design-library/` subpath (https://amankotia-ai.github.io/design-library/ once the repository is named `design-library`). `pilot/vite.config.js` sets that `base`; app code resolves public paths and in-app links with `withBase` and `rebase` from `pilot/src/base.js`, and files inside `pilot/public/` reference each other with relative paths. See `docs/runs/2026-11-02-subpath-base.md`.
+
+## Decision Rails / Unifize
+
+The Unifize collection adds the complete public decision-platform homepage, twelve browsable sections, source typography and shared tokens, product/industry selectors, and aligned comparisons. Open `/?panel=system&section=unifize-page`. Source evidence, adaptations and independent review are recorded in [the production run](docs/runs/unifize-2026-11-10/README.md).
+
+## Skills
+
+Open `/?panel=skills` to browse Product Screen Compositions, Product Renders, Mockup Templates, Ruled, and Film & Motion. Product Screen Compositions shows the installed skill’s 20 layouts as neutral placeholders, with a full-size preview and editable definition for each. The original 12-layout Composition Atlas is available under Resources. Ruled opens the interactive grid playground. See [the collection and verification record](docs/runs/skill-collections-2026-11-11/README.md).

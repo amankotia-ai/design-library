@@ -1,0 +1,772 @@
+{
+  "base": "http://127.0.0.1:5182/design-library/",
+  "checks": [
+    {
+      "id": "spring-motion",
+      "presetCount": 2,
+      "cases": [
+        {
+          "label": "Light damping",
+          "metrics": "Position\n-0.600 units\nVelocity\n-2.473 units/s\nAcceleration\n35.614 units/s²",
+          "visualHash": "396dc481cf1a905ac1edd5ec53ec82ee4d7cf3903b5d48da96c221f43f1c9829",
+          "values": [
+            [
+              "Time",
+              "0.37"
+            ],
+            [
+              "Damping ratio ζ",
+              "0.12"
+            ],
+            [
+              "Natural frequency f₀",
+              "1.15"
+            ]
+          ]
+        },
+        {
+          "label": "Heavier damping",
+          "metrics": "Position\n0.091 units\nVelocity\n-1.469 units/s\nAcceleration\n10.097 units/s²",
+          "visualHash": "0db59ac992b09dbe82d955606c717d1cab2dd169734052ee40e7b3eebe359482",
+          "values": [
+            [
+              "Time",
+              "0.37"
+            ],
+            [
+              "Damping ratio ζ",
+              "0.7"
+            ],
+            [
+              "Natural frequency f₀",
+              "1.15"
+            ]
+          ]
+        }
+      ],
+      "reset": true,
+      "equationCount": 3,
+      "katexErrors": 0,
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440
+      },
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileControls": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileEquations": {
+        "viewport": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "id": "bezier-paths",
+      "presetCount": 2,
+      "cases": [
+        {
+          "label": "Direct route",
+          "metrics": "Position\n(269.8, 184.0) px\nParametric speed\n564.6 px / t\nSecond derivative\n(0, 0)\n\npx per unit t²",
+          "visualHash": "0b0efcfb30b4d27cf113614f5288c29fb380cf37778c8953702977ac219fb0db",
+          "values": [
+            [
+              "Path parameter t",
+              "0.37"
+            ],
+            [
+              "P₁ horizontal",
+              "250"
+            ],
+            [
+              "P₁ vertical",
+              "190"
+            ],
+            [
+              "P₂ horizontal",
+              "430"
+            ],
+            [
+              "P₂ vertical",
+              "135"
+            ]
+          ]
+        },
+        {
+          "label": "Curved detour",
+          "metrics": "Position\n(311.1, 168.6) px\nParametric speed\n187.5 px / t\nSecond derivative\n(-1244, 545)\n\npx per unit t²",
+          "visualHash": "3b5377c941ff20e6adb2b4976d7fb578ade79cbe9927850665e69c37d62272b5",
+          "values": [
+            [
+              "Path parameter t",
+              "0.37"
+            ],
+            [
+              "P₁ horizontal",
+              "520"
+            ],
+            [
+              "P₁ vertical",
+              "70"
+            ],
+            [
+              "P₂ horizontal",
+              "130"
+            ],
+            [
+              "P₂ vertical",
+              "280"
+            ]
+          ]
+        }
+      ],
+      "reset": true,
+      "equationCount": 3,
+      "katexErrors": 0,
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440
+      },
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileControls": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileEquations": {
+        "viewport": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "id": "camera-parallax",
+      "presetCount": 2,
+      "cases": [
+        {
+          "label": "Close foreground",
+          "metrics": "Near camera sensitivity\n-175.0 px/unit\n\nDepth 1.20 world units\n\nMiddle camera sensitivity\n-65.6 px/unit\n\nDepth 3.20 world units\n\nFar camera sensitivity\n-33.9 px/unit\n\nDepth 6.20 world units",
+          "visualHash": "059f24048d8b4270f9da8e287f1c1df58fc2ad6db5ee447231e88b0c9b45b1b3",
+          "values": [
+            [
+              "Camera translation c",
+              "0.45"
+            ],
+            [
+              "Focal length f",
+              "210"
+            ],
+            [
+              "Near-plane depth",
+              "1.2"
+            ]
+          ]
+        },
+        {
+          "label": "Distant foreground",
+          "metrics": "Near camera sensitivity\n-70.0 px/unit\n\nDepth 3.00 world units\n\nMiddle camera sensitivity\n-42.0 px/unit\n\nDepth 5.00 world units\n\nFar camera sensitivity\n-26.3 px/unit\n\nDepth 8.00 world units",
+          "visualHash": "70e00b8451f32f037acbadfa32c662343239651d48e8bab1154e8371fd4397e6",
+          "values": [
+            [
+              "Camera translation c",
+              "0.45"
+            ],
+            [
+              "Focal length f",
+              "210"
+            ],
+            [
+              "Near-plane depth",
+              "3"
+            ]
+          ]
+        }
+      ],
+      "reset": true,
+      "equationCount": 3,
+      "katexErrors": 0,
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440
+      },
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileControls": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileEquations": {
+        "viewport": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "id": "framing-crop",
+      "presetCount": 2,
+      "cases": [
+        {
+          "label": "Subject protected",
+          "metrics": "Protected area retained\n100.0%\n\nRectangle intersection; geometric only\n\nFull source retained\n22.1%\n\nVisible source area / original area\n\nSource crop size\n345 × 615\n\nScale 0.975 delivery px/source px",
+          "visualHash": "03ee9cbe801f344a73caa1280e7107395581dc993e237608b7af4c252992d263",
+          "values": [
+            [
+              "Delivery aspect W/H",
+              "0.56"
+            ],
+            [
+              "Horizontal anchor",
+              "0.64"
+            ],
+            [
+              "Vertical anchor",
+              "0.5"
+            ],
+            [
+              "Zoom beyond cover",
+              "1.3"
+            ]
+          ]
+        },
+        {
+          "label": "Subject lost",
+          "metrics": "Protected area retained\n0.0%\n\nRectangle intersection; geometric only\n\nFull source retained\n22.1%\n\nVisible source area / original area\n\nSource crop size\n345 × 615\n\nScale 0.975 delivery px/source px",
+          "visualHash": "4318203cd068843526e4b9b3eaf4aa4b66bfac4b2902c226b37cce8d134e7cf0",
+          "values": [
+            [
+              "Delivery aspect W/H",
+              "0.56"
+            ],
+            [
+              "Horizontal anchor",
+              "0"
+            ],
+            [
+              "Vertical anchor",
+              "0.5"
+            ],
+            [
+              "Zoom beyond cover",
+              "1.3"
+            ]
+          ]
+        }
+      ],
+      "reset": true,
+      "equationCount": 3,
+      "katexErrors": 0,
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440
+      },
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileControls": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileEquations": {
+        "viewport": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "id": "speech-timing",
+      "presetCount": 3,
+      "cases": [
+        {
+          "label": "Aligned cue",
+          "metrics": "Edited word onset\n2.50 s\n\nComplete word retained.\n\nPicture offset\n+0.00 s\n\nTiming difference, not a universal lip-sync tolerance.",
+          "visualHash": "bbbe1e98b37309e36bb28d2694bc32acdb87add566dfbf4e23e516f5e13cc204",
+          "values": [
+            [
+              "Trim source start",
+              "2.2"
+            ],
+            [
+              "Playback rate",
+              "1"
+            ],
+            [
+              "Requested picture cue",
+              "2.5"
+            ],
+            [
+              "Output frame rate",
+              "30"
+            ]
+          ]
+        },
+        {
+          "label": "Word clipped",
+          "metrics": "Edited word onset\nTrimmed away\n\nInspect the cut; a partial word is not a complete spoken anchor.\n\nPicture offset\nNo valid anchor\n\nTiming difference, not a universal lip-sync tolerance.",
+          "visualHash": "d4a9a51645bf7d760013e0ab62b583f6e8cd1adce4b4d006a74746936a79fe20",
+          "values": [
+            [
+              "Trim source start",
+              "4.4"
+            ],
+            [
+              "Playback rate",
+              "1"
+            ],
+            [
+              "Requested picture cue",
+              "2.5"
+            ],
+            [
+              "Output frame rate",
+              "30"
+            ]
+          ]
+        },
+        {
+          "label": "Picture late",
+          "metrics": "Edited word onset\n2.50 s\n\nComplete word retained.\n\nPicture offset\n+0.60 s\n\nTiming difference, not a universal lip-sync tolerance.",
+          "visualHash": "fe989107559d782e53d3889584d93911e591fd42dd0f89eb8c960f86a1ee2732",
+          "values": [
+            [
+              "Trim source start",
+              "2.2"
+            ],
+            [
+              "Playback rate",
+              "1"
+            ],
+            [
+              "Requested picture cue",
+              "3.1"
+            ],
+            [
+              "Output frame rate",
+              "30"
+            ]
+          ]
+        }
+      ],
+      "reset": true,
+      "equationCount": 3,
+      "katexErrors": 0,
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440
+      },
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileControls": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileEquations": {
+        "viewport": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "id": "reading-window",
+      "presetCount": 3,
+      "cases": [
+        {
+          "label": "Short caption",
+          "metrics": "Stable opportunity\n3.70 s\n\n0.80–4.50 s within the visible interval.\n\nAssumed requirement\n2.73 s\n\n7 words counted from this caption.\n\nPlanning margin\n+0.97 s\n\nA diagnostic for this declared reading rate.",
+          "visualHash": "95f419a52465bf1f0d576573aee9f5e69687b1fcdbb0603daa394cd39ad84da1",
+          "values": [
+            [
+              "TEXTAREA",
+              "Assign an owner. Move the work forward."
+            ],
+            [
+              "Caption duration",
+              "5"
+            ],
+            [
+              "Entrance motion",
+              "0.8"
+            ],
+            [
+              "Exit motion",
+              "0.5"
+            ],
+            [
+              "Assumed reaction time",
+              "0.4"
+            ],
+            [
+              "Assumed reading rate",
+              "180"
+            ]
+          ]
+        },
+        {
+          "label": "More copy",
+          "metrics": "Stable opportunity\n3.70 s\n\n0.80–4.50 s within the visible interval.\n\nAssumed requirement\n8.40 s\n\n24 words counted from this caption.\n\nPlanning margin\n-4.70 s\n\nA diagnostic for this declared reading rate.",
+          "visualHash": "13a77c5689d1c222a027d7c856849521ec0133f02d84810e8ff54e8bc62a41bd",
+          "values": [
+            [
+              "TEXTAREA",
+              "Assign an owner, update the queue, notify the team, record the decision, review the next deadline, and make the next step visible to everyone."
+            ],
+            [
+              "Caption duration",
+              "5"
+            ],
+            [
+              "Entrance motion",
+              "0.8"
+            ],
+            [
+              "Exit motion",
+              "0.5"
+            ],
+            [
+              "Assumed reaction time",
+              "0.4"
+            ],
+            [
+              "Assumed reading rate",
+              "180"
+            ]
+          ]
+        },
+        {
+          "label": "More time",
+          "metrics": "Stable opportunity\n10.70 s\n\n0.80–11.50 s within the visible interval.\n\nAssumed requirement\n8.40 s\n\n24 words counted from this caption.\n\nPlanning margin\n+2.30 s\n\nA diagnostic for this declared reading rate.",
+          "visualHash": "5b9dec5db67c09b5ad394ee50fec77c3a49b20180a391d60098704c145d67966",
+          "values": [
+            [
+              "TEXTAREA",
+              "Assign an owner, update the queue, notify the team, record the decision, review the next deadline, and make the next step visible to everyone."
+            ],
+            [
+              "Caption duration",
+              "12"
+            ],
+            [
+              "Entrance motion",
+              "0.8"
+            ],
+            [
+              "Exit motion",
+              "0.5"
+            ],
+            [
+              "Assumed reaction time",
+              "0.4"
+            ],
+            [
+              "Assumed reading rate",
+              "180"
+            ]
+          ]
+        }
+      ],
+      "reset": true,
+      "equationCount": 3,
+      "katexErrors": 0,
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440
+      },
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileControls": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileEquations": {
+        "viewport": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "id": "sound-mixing",
+      "presetCount": 3,
+      "cases": [
+        {
+          "label": "Headroom",
+          "metrics": "Conservative amplitude bound\n0.710\n\na+b is an all-time upper bound; it need not be reached.\n\nSampled raw peak\n0.676\n\n0 of 401 plotted samples exceed ±1. Sampling may miss a higher peak.\n\nExact raw RMS ·50 ms\n0.355\n\nIncludes the actual frequency and phase relationship over this window.",
+          "visualHash": "9325e6ad0484f9f95664980939530f42aa8a44fd17e196a14f94f194ae2dfa22",
+          "values": [
+            [
+              "Tone A gain · 80 Hz",
+              "-9"
+            ],
+            [
+              "Tone B gain",
+              "-9"
+            ],
+            [
+              "Tone B frequency",
+              "120"
+            ],
+            [
+              "Tone B relative phase",
+              "0"
+            ]
+          ]
+        },
+        {
+          "label": "Clipping",
+          "metrics": "Conservative amplitude bound\n2.000\n\na+b is an all-time upper bound; it need not be reached.\n\nSampled raw peak\n1.906\n\n162 of 401 plotted samples exceed ±1. Sampling may miss a higher peak.\n\nExact raw RMS ·50 ms\n1.000\n\nIncludes the actual frequency and phase relationship over this window.",
+          "visualHash": "0867fb22a56e8d03fb76bac184dd6b3db771d43864be9ef134605c92345dc6c8",
+          "values": [
+            [
+              "Tone A gain · 80 Hz",
+              "0"
+            ],
+            [
+              "Tone B gain",
+              "0"
+            ],
+            [
+              "Tone B frequency",
+              "120"
+            ],
+            [
+              "Tone B relative phase",
+              "0"
+            ]
+          ]
+        },
+        {
+          "label": "Cancellation",
+          "metrics": "Conservative amplitude bound\n2.000\n\na+b is an all-time upper bound; it need not be reached.\n\nSampled raw peak\n0.000\n\n0 of 401 plotted samples exceed ±1. Sampling may miss a higher peak.\n\nExact raw RMS ·50 ms\n0.000\n\nIncludes the actual frequency and phase relationship over this window.",
+          "visualHash": "e2961dd8db41ce4b6059a3b27a3fcac8432be765e255c2898c90ffbf6997cac3",
+          "values": [
+            [
+              "Tone A gain · 80 Hz",
+              "0"
+            ],
+            [
+              "Tone B gain",
+              "0"
+            ],
+            [
+              "Tone B frequency",
+              "80"
+            ],
+            [
+              "Tone B relative phase",
+              "180"
+            ]
+          ]
+        }
+      ],
+      "reset": true,
+      "equationCount": 3,
+      "katexErrors": 0,
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440
+      },
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileControls": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileEquations": {
+        "viewport": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "id": "sampling-aliasing",
+      "presetCount": 3,
+      "cases": [
+        {
+          "label": "Slow rotation",
+          "metrics": "Signed alias\n+5.0 Hz\n\nThe input is below the Nyquist frequency.\n\nLast sampled frame\n8 · 0.333 s\n\nNyquist frequency: 12.0 Hz.\n\nSample agreement error\n0.0e+0\n\nNumerical difference in the sine coordinate at that sampled frame; ideally zero.",
+          "visualHash": "418998e63d5dc362407091a19c55fcbd9e590739aa48f01bc590cb626bbf1dc9",
+          "values": [
+            [
+              "Motion frequency",
+              "5"
+            ],
+            [
+              "Frame sampling rate",
+              "24"
+            ],
+            [
+              "Continuous playhead",
+              "0.37"
+            ]
+          ]
+        },
+        {
+          "label": "Reverse motion",
+          "metrics": "Signed alias\n-4.0 Hz\n\nThe input exceeds the Nyquist frequency.\n\nLast sampled frame\n8 · 0.333 s\n\nNyquist frequency: 12.0 Hz.\n\nSample agreement error\n3.7e-15\n\nNumerical difference in the sine coordinate at that sampled frame; ideally zero.",
+          "visualHash": "9631e803162de12a8c38ec01b67861a2f2fabef50e35a1c0f51840488f64b482",
+          "values": [
+            [
+              "Motion frequency",
+              "20"
+            ],
+            [
+              "Frame sampling rate",
+              "24"
+            ],
+            [
+              "Continuous playhead",
+              "0.37"
+            ]
+          ]
+        },
+        {
+          "label": "Frozen frames",
+          "metrics": "Signed alias\n+0.0 Hz\n\nThe input exceeds the Nyquist frequency.\n\nLast sampled frame\n8 · 0.333 s\n\nNyquist frequency: 12.0 Hz.\n\nSample agreement error\n2.0e-15\n\nNumerical difference in the sine coordinate at that sampled frame; ideally zero.",
+          "visualHash": "9b1a859dc46a1919cd989aedd7fdca085241774dff8f25cce99275af1772a8fc",
+          "values": [
+            [
+              "Motion frequency",
+              "24"
+            ],
+            [
+              "Frame sampling rate",
+              "24"
+            ],
+            [
+              "Continuous playhead",
+              "0.37"
+            ]
+          ]
+        }
+      ],
+      "reset": true,
+      "equationCount": 3,
+      "katexErrors": 0,
+      "desktop": {
+        "viewport": 1440,
+        "scrollWidth": 1440
+      },
+      "mobile": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileControls": {
+        "viewport": 390,
+        "scrollWidth": 390
+      },
+      "mobileEquations": {
+        "viewport": 390,
+        "scrollWidth": 390
+      }
+    }
+  ],
+  "playback": [
+    {
+      "id": "spring-motion",
+      "advanced": 0.45,
+      "play": true,
+      "pause": true,
+      "rewind": true,
+      "scrubPauses": true,
+      "resetPauses": true
+    },
+    {
+      "id": "bezier-paths",
+      "advanced": 0.11,
+      "play": true,
+      "pause": true,
+      "rewind": true,
+      "scrubPauses": true,
+      "resetPauses": true
+    },
+    {
+      "id": "sampling-aliasing",
+      "advanced": 0.075,
+      "play": true,
+      "pause": true,
+      "rewind": true,
+      "scrubPauses": true,
+      "resetPauses": true
+    }
+  ],
+  "errors": [],
+  "screenshots": [
+    "spring-motion-desktop.png",
+    "spring-motion-controls-desktop.png",
+    "spring-motion-equations-desktop.png",
+    "sound-mixing-desktop.png",
+    "sound-mixing-controls-desktop.png",
+    "sound-mixing-equations-desktop.png",
+    "spring-motion-mobile.png",
+    "spring-motion-controls-mobile.png",
+    "spring-motion-equations-mobile.png",
+    "sound-mixing-mobile.png",
+    "sound-mixing-controls-mobile.png",
+    "sound-mixing-equations-mobile.png",
+    "mathematics-collection.png",
+    "spring-motion-final-desktop.png",
+    "spring-motion-final-mobile.png",
+    "spring-motion-final-mobile-controls.png",
+    "spring-motion-final-mobile-equations.png",
+    "bezier-paths-final-desktop.png",
+    "bezier-paths-final-mobile.png",
+    "bezier-paths-final-mobile-controls.png",
+    "bezier-paths-final-mobile-equations.png",
+    "camera-parallax-final-desktop.png",
+    "camera-parallax-final-mobile.png",
+    "camera-parallax-final-mobile-controls.png",
+    "camera-parallax-final-mobile-equations.png",
+    "framing-crop-final-desktop.png",
+    "framing-crop-final-mobile.png",
+    "framing-crop-final-mobile-controls.png",
+    "framing-crop-final-mobile-equations.png",
+    "speech-timing-final-desktop.png",
+    "speech-timing-final-mobile.png",
+    "speech-timing-final-mobile-controls.png",
+    "speech-timing-final-mobile-equations.png",
+    "reading-window-final-desktop.png",
+    "reading-window-final-mobile.png",
+    "reading-window-final-mobile-controls.png",
+    "reading-window-final-mobile-equations.png",
+    "sound-mixing-final-desktop.png",
+    "sound-mixing-final-mobile.png",
+    "sound-mixing-final-mobile-controls.png",
+    "sound-mixing-final-mobile-equations.png",
+    "sampling-aliasing-final-desktop.png",
+    "sampling-aliasing-final-mobile.png",
+    "sampling-aliasing-final-mobile-controls.png",
+    "sampling-aliasing-final-mobile-equations.png"
+  ],
+  "revision": {
+    "package.json": "38feca940f469f2705deb11ccb4c465f74472707ff7d402459911e8fc34bd7a7",
+    "package-lock.json": "9bba415b9444ca157289f86ecbe2b74b577fab183f094e9203c115901567fb69",
+    "src/main.jsx": "d563693173464534bd550aaa379256520a402f302e32302c8c01c664ddf64b07",
+    "src/film-data.js": "d4a4cc60ea851791452dc824bed62302fc1c8947332c1242f276c760434caf2b",
+    "src/film-data.json": "3fd0651adad38ba7600b96ff40da2fd19d4e2627c50ddb1dfe0bc6d9850398b1",
+    "src/film-lab.css": "59019f32040c9346c915d01757d13283a6cfb5bbd4b762bed8e3ee67f1932a2e",
+    "src/film-lab.jsx": "310b106fb8f39428f8644cf2f9668b1e1e9ed003feba958b5bad8ebed9341494",
+    "src/film-library.css": "1902a00ec166f4ab95464fdbe8c59bfad8eb866ead4a5994901c982d2ba95f8f",
+    "src/film-library.jsx": "dc38fd10b316249cc9af91172a2d0941ffac27e2ddebb708dbf619fa156d2911",
+    "src/film-math.js": "aa620fd6abdd639b855d60e92f3132afe085fee4e2696f6c0eb48587da9d4561",
+    "src/film-motion-math.js": "bf5121ebf3b5fc2c7a14dbe5086bd2a0ef0e2337d2a868ade30f376b3490e783",
+    "src/film-motion-studies.jsx": "117694bd9f0068b403a9f068ef1b5a3d27b5fb341eb2b87537bce8bc0dd93108",
+    "src/film-studies.css": "2cf56710e4a8ddd371f0ac4353c714ca1d29d6c23f11e8dfae0973e290cd2e5b",
+    "src/film-studies.jsx": "624d355c92487fa412b7afd15acf216616f697769b1e7c8db5737bba28b56af9",
+    "src/film-study-registry.js": "1578188c9be27a374390cbefbfe423c47a848ad60fe36cfb9d7c07f0f78d05f1",
+    "src/film-study-thumbnails.jsx": "a377411ffa713e28229c1b39cac714c4ab289b41b565936861f9d5d8a189bcce",
+    "src/film-study-ui.jsx": "801a6645102db5d139b523a9e1118aa88d4dcf99c00192457bbf97db0c3f0561",
+    "src/film-timing-math.js": "1d2ccf9df240c0e33522e7f1da294ba87b9eef0af642f755a6e0d0cea87963d3",
+    "src/film-timing-studies.jsx": "e993392e944c6722a20f973e3626c58539b9774148fc373a91478343ff8a2fe0",
+    "scripts/check-film-motion.mjs": "888422e0cd57f8d90bd2c0c5ce576076708659167048962288f524b637a4b634",
+    "scripts/check-film-timing.mjs": "16fa3f216fcc204c4042e9670b7e6ea60f20217c096e32b0bac77e3b16b8f4fb"
+  },
+  "mathematicsCards": 9,
+  "equations": 24,
+  "status": "passed"
+}

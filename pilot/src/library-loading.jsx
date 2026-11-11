@@ -15,9 +15,9 @@ export function PreviewImage({src}){
 
 // Shown only while a collection's code is actually loading.
 export function CollectionSkeleton({panel}){
- const isSystems=panel==='systems';
+ const isSystems=panel==='systems'||panel==='films'||panel==='skills';
  const isPages=panel==='pages';
- const title=isSystems?'Design Systems':isPages?'Pages':'Sections';
+ const title=panel==='skills'?'Skills':panel==='films'?'Film & Motion':isSystems?'Design Systems':isPages?'Pages':'Sections';
  return <main className={isSystems?'system-home collection-skeleton':'asset-catalog collection-skeleton'} aria-busy="true">
   <div className="catalog-heading"><h1>{title}</h1>{!isSystems&&<div className="collection-skeleton-filters" aria-hidden="true"><i/>{!isPages&&<i/>}</div>}</div>
   <span className="sr-only" role="status">Loading {title}</span>

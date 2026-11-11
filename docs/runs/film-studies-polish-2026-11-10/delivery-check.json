@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "routes": [
+    "spring-motion",
+    "bezier-paths",
+    "camera-parallax",
+    "framing-crop",
+    "speech-timing",
+    "reading-window",
+    "sound-mixing",
+    "sampling-aliasing"
+  ],
+  "hashes": 21,
+  "errors": []
+}

@@ -1,0 +1,404 @@
+{
+  "schema_version": 1,
+  "title": "Wolo portfolio visual atlas",
+  "display_title": "Wolo portfolio visual atlas",
+  "stage": "reference",
+  "revision": "2026-11-11",
+  "selection_manifest": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-selection.json",
+  "selection_manifest_sha256": "7c31ee0871e06a0b4c2344b89eb8706ccdaa09dfe39125e41cabd2d4121180a8",
+  "columns": 2,
+  "rows": 5,
+  "sheet_width": 992,
+  "sheet_height": 1842,
+  "image_width": 480,
+  "image_height": 270,
+  "caption_height": 74,
+  "font": "bundled 5x7 bitmap, uppercase display",
+  "ordering": "input order; cells left-to-right then top-to-bottom; all indices zero-based",
+  "fit": "contain, source display aspect preserved, no crop, opaque RGB review background",
+  "color_note": "8-bit RGB review sheets; not a color-managed or alpha-preserving delivery master",
+  "ffmpeg_version": "ffmpeg version 9.0.2 Copyright (c) 2000-2026 the FFmpeg developers",
+  "review_scope": {
+    "sheets_generated": true,
+    "visually_reviewed": true,
+    "native_resolution_review": false,
+    "playback_review": false,
+    "audio_review": false
+  },
+  "sheets": [
+    {
+      "path": "sheet-000.png",
+      "sha256": "cb5d1ac2aae473a18a66cde6c68614404f52080393d86223ac8ee4f363a3668c",
+      "sheet_index": 0,
+      "populated_cells": 10,
+      "padding_cells": 0
+    }
+  ],
+  "frames": [
+    {
+      "selection_index": 0,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/slash-global.jpg",
+      "source_sha256": "3d3365df9fca38121f53cf93141cef2bf1ff075bfb147912b8122c210895592b",
+      "source_width": 640,
+      "source_height": 480,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "slash-global",
+      "label": "Anchored montage",
+      "display_label": "Anchored montage",
+      "frame": 228,
+      "frame_space": "source",
+      "pts_seconds": 9.5,
+      "label_lines": [
+        "0000 | SHOT SLASH-GLOBAL",
+        "SOURCE F 228 | PTS 9.5 S",
+        "ANCHORED MONTAGE"
+      ],
+      "fitted_width": 360,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 0,
+      "cell_bounds_xywh": [
+        12,
+        78,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        72,
+        78,
+        360,
+        270
+      ]
+    },
+    {
+      "selection_index": 1,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/velo.jpg",
+      "source_sha256": "5ba7b5f9645c28fd7b0561c6c39c5884e975162e4bdf33e31635a33d8575e0db",
+      "source_width": 640,
+      "source_height": 360,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "velo",
+      "label": "Glass and colored strands",
+      "display_label": "Glass and colored strands",
+      "frame": 414,
+      "frame_space": "source",
+      "pts_seconds": 17.25,
+      "label_lines": [
+        "0001 | SHOT VELO",
+        "SOURCE F 414 | PTS 17.25 S",
+        "GLASS AND COLORED STRANDS"
+      ],
+      "fitted_width": 480,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 1,
+      "cell_bounds_xywh": [
+        500,
+        78,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        500,
+        78,
+        480,
+        270
+      ]
+    },
+    {
+      "selection_index": 2,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/slash-4-july.jpg",
+      "source_sha256": "5692ae46cefd7b043e6e76294bd64e31426cef4b5f6395b676facfc8ed024c90",
+      "source_width": 640,
+      "source_height": 360,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "slash-4-july",
+      "label": "Archive and fixed serif captions",
+      "display_label": "Archive and fixed serif captions",
+      "frame": 696,
+      "frame_space": "source",
+      "pts_seconds": 23.2,
+      "label_lines": [
+        "0002 | SHOT SLASH-4-JULY",
+        "SOURCE F 696 | PTS 23.2 S",
+        "ARCHIVE AND FIXED SERIF CAPTIONS"
+      ],
+      "fitted_width": 480,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 2,
+      "cell_bounds_xywh": [
+        12,
+        430,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        12,
+        430,
+        480,
+        270
+      ]
+    },
+    {
+      "selection_index": 3,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/spacex.jpg",
+      "source_sha256": "718fcb4224fb4722667784f3c71a6f9eefcdf21b9508ac564da3deb26e6e962d",
+      "source_width": 640,
+      "source_height": 360,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "spacex",
+      "label": "Type becomes an argument",
+      "display_label": "Type becomes an argument",
+      "frame": 735,
+      "frame_space": "source",
+      "pts_seconds": 24.5245,
+      "label_lines": [
+        "0003 | SHOT SPACEX",
+        "SOURCE F 735 | PTS 24.5245 S",
+        "TYPE BECOMES AN ARGUMENT"
+      ],
+      "fitted_width": 480,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 3,
+      "cell_bounds_xywh": [
+        500,
+        430,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        500,
+        430,
+        480,
+        270
+      ]
+    },
+    {
+      "selection_index": 4,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/slash-cornbread.jpg",
+      "source_sha256": "2449603bafd5b5b14f0d00c2069ab538f0bcee4c46b30e103e092b33b1f49816",
+      "source_width": 640,
+      "source_height": 480,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "slash-cornbread",
+      "label": "Paper and handwritten marks",
+      "display_label": "Paper and handwritten marks",
+      "frame": 174,
+      "frame_space": "source",
+      "pts_seconds": 7.25,
+      "label_lines": [
+        "0004 | SHOT SLASH-CORNBREAD",
+        "SOURCE F 174 | PTS 7.25 S",
+        "PAPER AND HANDWRITTEN MARKS"
+      ],
+      "fitted_width": 360,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 4,
+      "cell_bounds_xywh": [
+        12,
+        782,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        72,
+        782,
+        360,
+        270
+      ]
+    },
+    {
+      "selection_index": 5,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/nsave-referrals.jpg",
+      "source_sha256": "87074ed75f9d10d51d27fe8b198528bf6d3a97388adfaafea99be40eb8381bbf",
+      "source_width": 640,
+      "source_height": 360,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "nsave-referrals",
+      "label": "Referral mechanism as a diagram",
+      "display_label": "Referral mechanism as a diagram",
+      "frame": 570,
+      "frame_space": "source",
+      "pts_seconds": 9.5,
+      "label_lines": [
+        "0005 | SHOT NSAVE-REFERRALS",
+        "SOURCE F 570 | PTS 9.5 S",
+        "REFERRAL MECHANISM AS A DIAGRAM"
+      ],
+      "fitted_width": 480,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 5,
+      "cell_bounds_xywh": [
+        500,
+        782,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        500,
+        782,
+        480,
+        270
+      ]
+    },
+    {
+      "selection_index": 6,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/worm-launch.jpg",
+      "source_sha256": "431149338a1f386c24da78739f7b1b8b9eea3e5eaee79059c7615f4311337c5f",
+      "source_width": 640,
+      "source_height": 360,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "worm-launch",
+      "label": "Isolate the actionable control",
+      "display_label": "Isolate the actionable control",
+      "frame": 408,
+      "frame_space": "source",
+      "pts_seconds": 13.6,
+      "label_lines": [
+        "0006 | SHOT WORM-LAUNCH",
+        "SOURCE F 408 | PTS 13.6 S",
+        "ISOLATE THE ACTIONABLE CONTROL"
+      ],
+      "fitted_width": 480,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 6,
+      "cell_bounds_xywh": [
+        12,
+        1134,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        12,
+        1134,
+        480,
+        270
+      ]
+    },
+    {
+      "selection_index": 7,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/okbet-launch.jpg",
+      "source_sha256": "617f0878c48f9831eda5d6844509dd0e3f34258b786e57ed28c0b1d32d846462",
+      "source_width": 640,
+      "source_height": 360,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "okbet-launch",
+      "label": "One conversation as the plot",
+      "display_label": "One conversation as the plot",
+      "frame": 384,
+      "frame_space": "source",
+      "pts_seconds": 16.0,
+      "label_lines": [
+        "0007 | SHOT OKBET-LAUNCH",
+        "SOURCE F 384 | PTS 16.0 S",
+        "ONE CONVERSATION AS THE PLOT"
+      ],
+      "fitted_width": 480,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 7,
+      "cell_bounds_xywh": [
+        500,
+        1134,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        500,
+        1134,
+        480,
+        270
+      ]
+    },
+    {
+      "selection_index": 8,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/hyperdash-ui.jpg",
+      "source_sha256": "932042ecfb725bfa3b8583d539bddebecc5ee7486628b875a75755b927c2740b",
+      "source_width": 640,
+      "source_height": 360,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "hyperdash-ui",
+      "label": "Crop into visible product evidence",
+      "display_label": "Crop into visible product evidence",
+      "frame": 324,
+      "frame_space": "source",
+      "pts_seconds": 13.5,
+      "label_lines": [
+        "0008 | SHOT HYPERDASH-UI",
+        "SOURCE F 324 | PTS 13.5 S",
+        "CROP INTO VISIBLE PRODUCT EVIDENCE"
+      ],
+      "fitted_width": 480,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 8,
+      "cell_bounds_xywh": [
+        12,
+        1486,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        12,
+        1486,
+        480,
+        270
+      ]
+    },
+    {
+      "selection_index": 9,
+      "source_path": "/Users/abhishekmankotia/Downloads/MovieMaker/research/wolo-study/atlas-stills/pvp-hyperdash.jpg",
+      "source_sha256": "aac422622fa79220e688a6d8ccdee4eaa667f8217fbc68db42acdaf1bef0889d",
+      "source_width": 640,
+      "source_height": 360,
+      "source_sample_aspect_ratio": "1:1",
+      "shot_id": "pvp-hyperdash",
+      "label": "Atmosphere before clean UI",
+      "display_label": "Atmosphere before clean UI",
+      "frame": 156,
+      "frame_space": "source",
+      "pts_seconds": 6.5,
+      "label_lines": [
+        "0009 | SHOT PVP-HYPERDASH",
+        "SOURCE F 156 | PTS 6.5 S",
+        "ATMOSPHERE BEFORE CLEAN UI"
+      ],
+      "fitted_width": 480,
+      "fitted_height": 270,
+      "sheet": "sheet-000.png",
+      "sheet_index": 0,
+      "cell_index": 9,
+      "cell_bounds_xywh": [
+        500,
+        1486,
+        480,
+        344
+      ],
+      "image_bounds_xywh": [
+        500,
+        1486,
+        480,
+        270
+      ]
+    }
+  ],
+  "visual_review": {
+    "status": "sheet-000.png visually inspected",
+    "date": "2026-11-11",
+    "notes": "All ten labeled film stills and source time/frame captions are visible. This is an atlas, not playback review."
+  }
+}

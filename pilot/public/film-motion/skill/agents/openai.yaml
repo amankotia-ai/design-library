@@ -1,0 +1,4 @@
+interface:
+  display_name: "Software Film Director"
+  short_description: "Direct software launches, feature films, and VSLs"
+  default_prompt: "Use $software-film-director to direct a software film from references and story through animation, sound, and finishing."

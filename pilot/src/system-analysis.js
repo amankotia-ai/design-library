@@ -28,3 +28,10 @@ export const systemAnalysis={
   ]
  }
 };
+
+systemAnalysis.unifize={
+ palette:[{name:'Paper',value:'#ffffff',role:'Light explanation surfaces.'},{name:'Ink',value:'#17191f',role:'Text on light surfaces.'},{name:'Charcoal',value:'#1f2126',role:'Hero, proof and closing backgrounds.'},{name:'Rule',value:'#e4e7eb',role:'Thin rails and boundaries on light surfaces.'},{name:'Blue',value:'#005bb7',role:'Primary actions and product emphasis.'},{name:'Sky',value:'#70aeff',role:'Highlighted words against charcoal.'}],
+ foundations:[['Frame','At 1440px, outer rails sit at x48 and x1392. The hero splits at x720; content starts near x91.'],['Spacing','Source styles use a 4px scale with 20–48px responsive content padding and larger section intervals.'],['Typography','IBM Plex Sans headings, Inter body, and JetBrains Mono utility labels. All are retained source fonts.'],['Responsive layout','At 390px the hero stacks copy above the illustration. Multi-column explanations and industry cards reflow; navigation uses native disclosures.']],
+ patterns:[{title:'Make the exception visible',body:'A quiet statement sits beside a vivid field of owners, decisions and the single item needing attention.',image:withBase('/previews/unifize/hero.png'),alt:'Dark split hero and blue decision illustration.',caption:'Decision hero'},{title:'Explain the record',body:'Contrast scattered work with a governed record, then show rules, ownership and evidence in numbered rows.',image:withBase('/previews/unifize/how.png'),alt:'Three numbered workflow explanation rows.',caption:'How it works'},{title:'Offer a relevant starting point',body:'Parallel routes by solution, product and industry let different evaluators find the same platform.',image:withBase('/previews/unifize/fit.png'),alt:'Solution, product and industry starting points.',caption:'Starting points'}],
+ references:[{name:'Unifize homepage',url:'https://www.unifize.com/',capture:withBase('/references/unifize/viewport.png')}]
+};

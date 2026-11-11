@@ -1,0 +1,691 @@
+{
+  "source": "https://www.unifize.com/",
+  "capture": "2026-11-10",
+  "assets": [
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/3puv-i-5437ye.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "92a81f9a47df1f.css",
+      "type": "stylesheet",
+      "bytes": 4528
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/30w-xk2dsakbw.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "3f830054251221.css",
+      "type": "stylesheet",
+      "bytes": 12350
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/0yff31x_epp1j.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "b9bd653e843416.css",
+      "type": "stylesheet",
+      "bytes": 1606
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/11nam_9voxl96.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "045328da1cfcaf.css",
+      "type": "stylesheet",
+      "bytes": 16321
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/media/jetbrains_mono_variable-s.p.2rmhnsrc80fag.woff2?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "db2fdf854c76ee.woff2",
+      "type": "font",
+      "bytes": 40404
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/media/inter_variable-s.p.0gsaq8ukbf34m.woff2?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "b1b03dfb26ce71.woff2",
+      "type": "font",
+      "bytes": 48256
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/1vp305via1bp6.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "88fd6e4aacbe30.css",
+      "type": "stylesheet",
+      "bytes": 49182
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/3f4x9_1l5eewc.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "db652d197f42f3.css",
+      "type": "stylesheet",
+      "bytes": 1584
+    },
+    {
+      "url": "https://www.unifize.com/logo_dark.svg",
+      "file": "f923bcca4f43b0.svg",
+      "type": "image",
+      "bytes": 6513
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/43hh-tbtqcuuv.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "32f2f90571d082.css",
+      "type": "stylesheet",
+      "bytes": 1749
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/0zut7-hfcpa5k.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "0b564d0e4506aa.css",
+      "type": "stylesheet",
+      "bytes": 5246
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/33s4qu3l00a83.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "15bd3e15d2cb9b.css",
+      "type": "stylesheet",
+      "bytes": 42539
+    },
+    {
+      "url": "https://www.unifize.com/logo_light.svg",
+      "file": "d687b8ea4adee1.svg",
+      "type": "image",
+      "bytes": 6520
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/340_w7sxg2ot5.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "5fb065950d1f20.css",
+      "type": "stylesheet",
+      "bytes": 74049
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2w0-zdx_j6yd8.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "687edd68597352.css",
+      "type": "stylesheet",
+      "bytes": 11588
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/media/ibm_plex_sans_variable-s.p.15jby9eboz7vb.woff2?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "073cc8fc51e670.woff2",
+      "type": "font",
+      "bytes": 45712
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/281bhbyv3z336.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "8b5e8d86844caf.css",
+      "type": "stylesheet",
+      "bytes": 4596
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/28_jr3xqy4gzw.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "6abe2d9400e62c.css",
+      "type": "stylesheet",
+      "bytes": 214505
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/31vssj0dbm_oc.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "1e054172a2bb1a.css",
+      "type": "stylesheet",
+      "bytes": 66790
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/0fbg6ewuz45ti.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "1a4ecf88da5ee1.css",
+      "type": "stylesheet",
+      "bytes": 102155
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/3f-x6zn5ig6qx.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "c803e9cd5daa36.css",
+      "type": "stylesheet",
+      "bytes": 12912
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/faster-poster-v1.jpg",
+      "file": "8496013ef9ca52.jpg",
+      "type": "image",
+      "bytes": 84178
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/0zangy03ten0m.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "b8ca3732e3c3ad.css",
+      "type": "stylesheet",
+      "bytes": 102369
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/1lc3k_ort63x_.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "dd4c266cfcf654.css",
+      "type": "stylesheet",
+      "bytes": 847
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/0alnxuqjp2o_l.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "412dfd67cb10b8.css",
+      "type": "stylesheet",
+      "bytes": 11412
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/3d4l2q0h6ngdg.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "e4d61546b85b26.css",
+      "type": "stylesheet",
+      "bytes": 81576
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/133al2ulquh1u.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "32c10ea4dd62c4.css",
+      "type": "stylesheet",
+      "bytes": 2055
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/04op6eumym59l.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "66c5f81929d42a.css",
+      "type": "stylesheet",
+      "bytes": 7896
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/rules-poster-v7.jpg",
+      "file": "c860f98fa56589.jpg",
+      "type": "image",
+      "bytes": 23881
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/decide-poster-v7.jpg",
+      "file": "17731250aed16e.jpg",
+      "type": "image",
+      "bytes": 15880
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/media/geist_variable-s.p.20f3xrkj613ah.woff2?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "8c550737f0f3dd.woff2",
+      "type": "font",
+      "bytes": 29400
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/learn-poster-v7.jpg",
+      "file": "580f1bc29c2211.jpg",
+      "type": "image",
+      "bytes": 20185
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/05-vxylo1fw52.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "da99bc416150f6.css",
+      "type": "stylesheet",
+      "bytes": 9871
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/hero-five-poster-v6.jpg",
+      "file": "465a16d90b2eeb.jpg",
+      "type": "image",
+      "bytes": 50651
+    },
+    {
+      "url": "https://www.unifize.com/customers/neocoil.png",
+      "file": "a2dd230017814a.png",
+      "type": "image",
+      "bytes": 6603
+    },
+    {
+      "url": "https://www.unifize.com/customers/airbus.png",
+      "file": "c6995842fb43f2.png",
+      "type": "image",
+      "bytes": 17949
+    },
+    {
+      "url": "https://www.unifize.com/customers/jll-mark.svg",
+      "file": "89e666c10c1007.svg",
+      "type": "image",
+      "bytes": 9213
+    },
+    {
+      "url": "https://www.unifize.com/customers/jamco.png",
+      "file": "ae4c33c4a3b9cf.png",
+      "type": "image",
+      "bytes": 37724
+    },
+    {
+      "url": "https://www.unifize.com/customers/ground-effects.png",
+      "file": "541435a97374ed.png",
+      "type": "image",
+      "bytes": 21393
+    },
+    {
+      "url": "https://www.unifize.com/customers/starfish-medical.svg",
+      "file": "8d2997be8bf2f9.svg",
+      "type": "image",
+      "bytes": 8493
+    },
+    {
+      "url": "https://www.unifize.com/customers/will-burt.png",
+      "file": "ca0bbbf497a116.png",
+      "type": "image",
+      "bytes": 3366
+    },
+    {
+      "url": "https://www.unifize.com/customers/scout-motors.svg",
+      "file": "1b52f01611570b.svg",
+      "type": "image",
+      "bytes": 2377
+    },
+    {
+      "url": "https://www.unifize.com/customers/wavestream.png",
+      "file": "f46768d4f891c0.png",
+      "type": "image",
+      "bytes": 9930
+    },
+    {
+      "url": "https://www.unifize.com/customers/ketjen.svg",
+      "file": "d386ecb76a6814.svg",
+      "type": "image",
+      "bytes": 5725
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/142ad_w1dkh48.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "4bf695cdffbd81.css",
+      "type": "stylesheet",
+      "bytes": 625
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/0tm0pzh_u0r0-.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "fa26d4c097b2b3.css",
+      "type": "stylesheet",
+      "bytes": 4493
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/20g62lg3n6mca.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "7b7c302a9bfe2e.css",
+      "type": "stylesheet",
+      "bytes": 21656
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2ejegf5ivu-xu.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "65241114aee466.css",
+      "type": "stylesheet",
+      "bytes": 17318
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2ui0owpxu714-.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "9fc20503a50e1d.css",
+      "type": "stylesheet",
+      "bytes": 3162
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/1j25q4mb2hnne.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "b5abf3b406bfc3.css",
+      "type": "stylesheet",
+      "bytes": 78633
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/1bloxqxxcytcb.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "c5a5510d3168b4.css",
+      "type": "stylesheet",
+      "bytes": 1756
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/3iefg-9k6du6x.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "fd03ce89845da5.css",
+      "type": "stylesheet",
+      "bytes": 36076
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/1d6b-ab94z7rt.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "ea8ddc7ca1bfb5.css",
+      "type": "stylesheet",
+      "bytes": 37115
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/3gof3o5a460ds.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "c4530767752c33.css",
+      "type": "stylesheet",
+      "bytes": 80426
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/1h1-4qjf05srp.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "18b09bd45eb917.css",
+      "type": "stylesheet",
+      "bytes": 4688
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2d0in7n1vpl_w.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "3903cbe95de62f.css",
+      "type": "stylesheet",
+      "bytes": 26090
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2zbckfygxzvtr.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "2d3585cffcf2b2.css",
+      "type": "stylesheet",
+      "bytes": 59096
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/3gvxs6ld-b88c.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "1a677cff89f1aa.css",
+      "type": "stylesheet",
+      "bytes": 10563
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2-xqzwsl9kacv.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "932b0f4ad105f4.css",
+      "type": "stylesheet",
+      "bytes": 559
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2772kqel5-9y7.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "a7e6c485b3f5c2.css",
+      "type": "stylesheet",
+      "bytes": 481
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2z6dp8kxuqrve.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "022b270b5693fc.css",
+      "type": "stylesheet",
+      "bytes": 1480
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/37dhohy4y4qwu.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "fc558108f5d063.css",
+      "type": "stylesheet",
+      "bytes": 9193
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/32bsy37yc9da2.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "ef623d95ca6b9e.css",
+      "type": "stylesheet",
+      "bytes": 4601
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2vrsg_g7a1g07.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "b2c01aea82164d.css",
+      "type": "stylesheet",
+      "bytes": 48297
+    },
+    {
+      "url": "https://www.unifize.com/unifize-symbol.svg",
+      "file": "88784b254ff78d.svg",
+      "type": "image",
+      "bytes": 1525
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/3rcr935hvhodv.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "b74232fdaf0612.css",
+      "type": "stylesheet",
+      "bytes": 75321
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/0t97fkemvekjn.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "de21e2e63f8a28.css",
+      "type": "stylesheet",
+      "bytes": 468
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2m579981haozp.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "96c5761e692809.css",
+      "type": "stylesheet",
+      "bytes": 6466
+    },
+    {
+      "url": "https://www.unifize.com/media/videos/how-unifize-improved-our-non-conformance-closure-time-by-75-within-the-first-month.webp",
+      "file": "f47de34cc2e851.webp",
+      "type": "image",
+      "bytes": 47174
+    },
+    {
+      "url": "https://www.unifize.com/media/videos/implementing-a-collaborative-eqms-in-4-weeks.webp",
+      "file": "b8e39ab3cf0408.webp",
+      "type": "image",
+      "bytes": 48690
+    },
+    {
+      "url": "https://www.unifize.com/media/videos/how-unifize-helps-save-time.webp",
+      "file": "e502b4d456e1d2.webp",
+      "type": "image",
+      "bytes": 62838
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2bssk-wi95-3l.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "fd17d792c7e116.css",
+      "type": "stylesheet",
+      "bytes": 598
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/36qehm7drydhy.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "2d7c7634c184e4.css",
+      "type": "stylesheet",
+      "bytes": 7971
+    },
+    {
+      "url": "https://www.unifize.com/media/videos/how-i-reduced-mock-recall-time-down-to-18-minutes-with-unifize.webp",
+      "file": "89186cc95e7fac.webp",
+      "type": "image",
+      "bytes": 47480
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/0xm8tvyuk64_p.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "d579bc48ab9497.css",
+      "type": "stylesheet",
+      "bytes": 29712
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/3s-e656135500.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "6a4d1ca61d8298.css",
+      "type": "stylesheet",
+      "bytes": 4213
+    },
+    {
+      "url": "https://www.unifize.com/media/case-studies/turning-paper-chaos-into-connected-quality-how-efco-made-decisions-70-faster-with-unifize/01-efco-logo-5.webp",
+      "file": "f150be31b81af0.webp",
+      "type": "image",
+      "bytes": 10502
+    },
+    {
+      "url": "https://www.unifize.com/_next/static/chunks/2rc8p2tu9uxto.css?dpl=dpl_A8oYVAcvBrtTxH5C6L5x9AjJgDkc",
+      "file": "ffb0002a7cfcf9.css",
+      "type": "stylesheet",
+      "bytes": 7498
+    },
+    {
+      "url": "https://www.unifize.com/media/videos/about-erica-and-her-role-at-adaptive-health.webp",
+      "file": "5a02449fb5950c.webp",
+      "type": "image",
+      "bytes": 45472
+    },
+    {
+      "url": "https://www.unifize.com/media/videos/importance-of-approvals.webp",
+      "file": "899352e403d144.webp",
+      "type": "image",
+      "bytes": 45944
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6475b503eba1a8c129c44339/67ac83a353315213e777341d_Frame%20633192-7.png",
+      "file": "9cf89f864c65b7.png",
+      "type": "image",
+      "bytes": 15355
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6475b503eba1a8c129c44339/67ac86b8aee7ab87cd608286_Frame%20633192-14.png",
+      "file": "272664fbf266c5.png",
+      "type": "image",
+      "bytes": 14294
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6475b503eba1a8c129c44339/67ac85303820b36e4d5c806e_Frame%20633192-11.png",
+      "file": "3c2915677be19d.png",
+      "type": "image",
+      "bytes": 32958
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6475b503eba1a8c129c44339/67ac719b470a92fea21fb942_Frame%20633193-1.png",
+      "file": "829255bceee58d.png",
+      "type": "image",
+      "bytes": 30601
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6475b503eba1a8c129c44339/67ac73ca9496ffbaf35ede0d_Frame%20633192-5.png",
+      "file": "ce76250e78308b.png",
+      "type": "image",
+      "bytes": 18037
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6475b503eba1a8c129c44339/67ac726270f0afde8296cf4e_Frame%20633192-2.png",
+      "file": "b2a271cb5fe2e8.png",
+      "type": "image",
+      "bytes": 21000
+    },
+    {
+      "url": "https://api.iconify.design/logos:sap.svg",
+      "file": "1c2d380d6f7c93.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://api.iconify.design/simple-icons:slack.svg",
+      "file": "2245a04e51103c.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://api.iconify.design/mdi:email-outline.svg",
+      "file": "34f2f9111ba6b0.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://api.iconify.design/streamline-logos:microsoft-sharepoint-logo-block.svg",
+      "file": "1df40eb7cdecc4.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://api.iconify.design/mdi:file-delimited-outline.svg",
+      "file": "92c45c4c3c2296.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://www.unifize.com/explorations/close-mark/close-mark-poster-v1.webp",
+      "file": "6af3501911ec79.webp",
+      "type": "image",
+      "bytes": 6744
+    },
+    {
+      "url": "https://api.iconify.design/cib:oracle-netsuite.svg",
+      "file": "9f139bb712af23.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://api.iconify.design/mdi:shield-key-outline.svg",
+      "file": "8ce830274f79e9.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://api.iconify.design/simple-icons:dynamics365.svg",
+      "file": "78ae882e74a873.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://api.iconify.design/simple-icons:salesforce.svg",
+      "file": "5b801e2ae9724c.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://api.iconify.design/simple-icons:jira.svg",
+      "file": "3f2719168feb42.svg",
+      "type": "image",
+      "bytes": 0
+    },
+    {
+      "url": "https://www.unifize.com/media/videos/reducing-redundancies-and-getting-things-done-faster-with-unifize.webp",
+      "file": "49c31bf32ac995.webp",
+      "type": "image",
+      "bytes": 50218
+    },
+    {
+      "url": "https://www.unifize.com/media/videos/how-smaller-groups-lead-to-70-faster-actions.webp",
+      "file": "dccf29e6523a0b.webp",
+      "type": "image",
+      "bytes": 44052
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/proven-poster-v1.jpg",
+      "file": "b2c6e701918d91.jpg",
+      "type": "image",
+      "bytes": 90773
+    },
+    {
+      "url": "https://www.unifize.com/media/videos/using-dashboards-on-unifize-to-make-management-review-meetings-easier.webp",
+      "file": "9aa16edac7080a.webp",
+      "type": "image",
+      "bytes": 71784
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/ai-v1.mp4",
+      "file": "5147dd3633ca8e.mp4",
+      "type": "media",
+      "bytes": 330881
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/rules-v7.mp4",
+      "file": "7c03842c063cc4.mp4",
+      "type": "media",
+      "bytes": 128322
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/faster-v1.mp4",
+      "file": "ad5c0eb8c702e2.mp4",
+      "type": "media",
+      "bytes": 433544
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/hero-five-v6.mp4",
+      "file": "12cd301155fa3b.mp4",
+      "type": "media",
+      "bytes": 2986471
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/right-poster-v1.jpg",
+      "file": "3fe70a3cee52d5.jpg",
+      "type": "image",
+      "bytes": 85573
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/proven-v1.mp4",
+      "file": "04ecd2bf46f34d.mp4",
+      "type": "media",
+      "bytes": 344875
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/decide-v7.mp4",
+      "file": "c7a13fa0a67900.mp4",
+      "type": "media",
+      "bytes": 96780
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/ai-poster-v1.jpg",
+      "file": "00cb23cf25ed43.jpg",
+      "type": "image",
+      "bytes": 72796
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/learn-v7.mp4",
+      "file": "d2b576d0fd9907.mp4",
+      "type": "media",
+      "bytes": 83487
+    },
+    {
+      "url": "https://www.unifize.com/explorations/home-ceo/right-v1.mp4",
+      "file": "34a7f5cbb64338.mp4",
+      "type": "media",
+      "bytes": 927733
+    }
+  ],
+  "parts": [
+    "header",
+    "hero",
+    "customers",
+    "decision",
+    "how",
+    "fit",
+    "products",
+    "industries",
+    "stories",
+    "resources",
+    "closing",
+    "footer"
+  ],
+  "limitations": [
+    "Decorative animation frozen; reference states captured at a single instant.",
+    "No source application backend, booking form, analytics, or tracking scripts copied.",
+    "Source fonts and imagery retained for attributed design study."
+  ]
+}

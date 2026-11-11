@@ -1,0 +1,577 @@
+{
+  "target": "/Users/abhishekmankotia/Documents/ChatGPT/Design Library/pilot",
+  "files": [
+    {
+      "path": "package.json",
+      "sha256": "a5641d535a1a9cc18bf259e4f582e5e8a1abe1f5275438a9ff24615fe0bab290"
+    },
+    {
+      "path": "src/main.jsx",
+      "sha256": "d563693173464534bd550aaa379256520a402f302e32302c8c01c664ddf64b07"
+    },
+    {
+      "path": "src/collection-route.jsx",
+      "sha256": "2faab4687c7970f2366a2e34761dc0f20fc71f812b61d64119e21319ab919788"
+    },
+    {
+      "path": "src/library-loading.jsx",
+      "sha256": "e82e2e3996fb6fa322ea4146e7ea1a060af609e274b2942d9e2b45a34831bf45"
+    },
+    {
+      "path": "src/film-data.js",
+      "sha256": "d4a4cc60ea851791452dc824bed62302fc1c8947332c1242f276c760434caf2b"
+    },
+    {
+      "path": "src/film-data.json",
+      "sha256": "4297c57ca5b0534b75d52ac28e151410fe5a3243c0041d3838a301ee010e9267"
+    },
+    {
+      "path": "src/film-library.jsx",
+      "sha256": "28c4d9c1c90bebf6c7a275c92ed59f8f74f2d5d67b71c78ce6a500be7b0207e6"
+    },
+    {
+      "path": "src/film-library.css",
+      "sha256": "1902a00ec166f4ab95464fdbe8c59bfad8eb866ead4a5994901c982d2ba95f8f"
+    },
+    {
+      "path": "src/film-math.js",
+      "sha256": "aa620fd6abdd639b855d60e92f3132afe085fee4e2696f6c0eb48587da9d4561"
+    },
+    {
+      "path": "src/film-lab.jsx",
+      "sha256": "310b106fb8f39428f8644cf2f9668b1e1e9ed003feba958b5bad8ebed9341494"
+    },
+    {
+      "path": "src/film-lab.css",
+      "sha256": "59019f32040c9346c915d01757d13283a6cfb5bbd4b762bed8e3ee67f1932a2e"
+    },
+    {
+      "path": "scripts/check-film-library.mjs",
+      "sha256": "5b93935d342ed0f47c44cd0e371c6aa3c92867c00101145ac063885a778c4172"
+    },
+    {
+      "path": "scripts/check-film-math.mjs",
+      "sha256": "4c033729aad41492a895c4a97c8d2f0457224349d0de8140fb6d7bbe0b0bfae4"
+    },
+    {
+      "path": "public/film-motion/software-film-director-v3.4.zip",
+      "sha256": "b288114e34f716ed6877dbca2b1f23780d096562d30c72525556d2216b99c19d"
+    },
+    {
+      "path": "public/film-motion/manifest.json",
+      "sha256": "5c01dc7a29ceea4e70aabd2ca447709a7cfa6cf53e51fef49aba5553abda1c05"
+    },
+    {
+      "path": "public/film-motion/research/reference-study-a-tail.md",
+      "sha256": "c7643ba789d30a30926c049c60fba2e5602cdffe1d90ba3f481f9fdfe87da349"
+    },
+    {
+      "path": "public/film-motion/research/cli-verification.md",
+      "sha256": "89ebca966ee0f097b61e2dcfe89c76d91af1b72f9893029761d0e83f4ac1981f"
+    },
+    {
+      "path": "public/film-motion/research/distilled-findings-a.md",
+      "sha256": "a47a8368acad96525fc245c6aa98a66665ea338584582a76c9fcd1bc9aa04256"
+    },
+    {
+      "path": "public/film-motion/research/reference-study-a.md",
+      "sha256": "b453bc948835337ad251c54c14b8a142043437630591cd474b6ab38d93dc20d8"
+    },
+    {
+      "path": "public/film-motion/research/INDEX.md",
+      "sha256": "d947095a92b19ddba2776053549c26e3d9925b849a763692f124276554a416ee"
+    },
+    {
+      "path": "public/film-motion/research/reference-study-b.md",
+      "sha256": "a7d6bcfdadc137cf212ae5b5e6f9e084dbfd6e52bbd42b98e97e5776b75e1b4e"
+    },
+    {
+      "path": "public/film-motion/research/rendering-tools.md",
+      "sha256": "17f0ca3a86931b9607c06240f881e744e2f3eb8aee539d5f5a584d8de9fe9ff0"
+    },
+    {
+      "path": "public/film-motion/research/portfolio-studies.md",
+      "sha256": "5a4a861d39550ea353b5eb2132837a642720374cc57fd3471efc06b5f5b16339"
+    },
+    {
+      "path": "public/film-motion/research/distilled-findings-b.md",
+      "sha256": "c3815ec127431a256f1ee576c5fc270bd4e9f8f5ee9685e992d082e6b33b02be"
+    },
+    {
+      "path": "public/film-motion/research/LEARNINGS.md",
+      "sha256": "cf019e0b6a12277134326887471219b319d71f860eaaf43244600b3e3b5ab54e"
+    },
+    {
+      "path": "public/film-motion/research/video-model/validation.md",
+      "sha256": "f4535c4d312c490bbcb8b94ec95ba8fe130c435f779f80d645b52a1ca77fb8f4"
+    },
+    {
+      "path": "public/film-motion/research/video-model/runtime-repo-review.md",
+      "sha256": "70a25be8e10e9aab1d07980c708e3fedd2ab020c21af0825d4b296d79772c478"
+    },
+    {
+      "path": "public/film-motion/research/video-model/INDEX.md",
+      "sha256": "b88fd8a8327538b632e92a6ddfd3ce06d932b9622057a7b6b87f0f54282a4aa2"
+    },
+    {
+      "path": "public/film-motion/research/video-model/source-investigation.md",
+      "sha256": "6a194531f72c464ab185e3785161edf073f3a93a637274de6a9faefcc0354930"
+    },
+    {
+      "path": "public/film-motion/research/video-model/three-source-review.md",
+      "sha256": "327b0177d8b0f1cc2135792747d297d241b676856a9a60a6c16e57ce74346f90"
+    },
+    {
+      "path": "public/film-motion/research/video-model/second-video/linked-resource-provenance.json",
+      "sha256": "3b4ed77f8ab48798d29de852388de2308431990219e5fde351f7538b34e2285a"
+    },
+    {
+      "path": "public/film-motion/research/video-model/second-video/linked-resource-review.md",
+      "sha256": "39a88ff6e23950d3f1af6b212f9872c7a412cb653ffb0670d5f99a9c5cbd691a"
+    },
+    {
+      "path": "public/film-motion/research/video-model/second-video/validation.md",
+      "sha256": "5cdae0b4dcf3c35a49814e9b5a95b60a364aa177b2d1004c788e6ad8d61f39ff"
+    },
+    {
+      "path": "public/film-motion/research/video-model/second-video/evidence-manifest.json",
+      "sha256": "e4bdb7e81798abcb4e357eb9977fa788db99f30efadbecbac24ffe8e226e7e57"
+    },
+    {
+      "path": "public/film-motion/research/video-model/second-video/INDEX.md",
+      "sha256": "e87130b7e05bbc3339adab0a7475e20fd0ee4ffa937de690934e772245ee0d7e"
+    },
+    {
+      "path": "public/film-motion/research/video-model/second-video/source-notes.md",
+      "sha256": "fae9b311a1e994051535516bfaceb2b853f7c6ab0db5cff2631ca1b51b087c85"
+    },
+    {
+      "path": "public/film-motion/research/math-reference-shuding/REFERENCE-STUDY.md",
+      "sha256": "227acca9321664440043643b6916fab7ec9fc0ee6e99361013946d1f05604e3d"
+    },
+    {
+      "path": "public/film-motion/research/math-reference-shuding/evidence-manifest.json",
+      "sha256": "92546aa847e56699395d560818d18d18e18af574fe10020b95afafe644cbc219"
+    },
+    {
+      "path": "public/film-motion/research/creator-studies/gawx-process-sources.md",
+      "sha256": "28cbc00bb39d10070795f48ec357a3b12ab9d8d7199cc23a13b343354e0dad49"
+    },
+    {
+      "path": "public/film-motion/research/creator-studies/forum-research.md",
+      "sha256": "b42f7f20a4f9db49858ed7df6dc5130d391d16d8c5e649ef96b35fbb87782c70"
+    },
+    {
+      "path": "public/film-motion/research/creator-studies/routine-visual-study.md",
+      "sha256": "7fb5677037a39dedd90bdbcbf360c42b003f95162ac16e5a34c58775e14264ea"
+    },
+    {
+      "path": "public/film-motion/research/creator-studies/daniel-visual-study.md",
+      "sha256": "5a639c7ace7c1c5d265380ee184633bb09151f34d04978f56e0ca54dd2de2eed"
+    },
+    {
+      "path": "public/film-motion/research/creator-studies/creative-process-visual-study.md",
+      "sha256": "017539a0b0a512c2c2501c7677853b902f2eaceb64afe88cbe22484cbd82df30"
+    },
+    {
+      "path": "public/film-motion/research/creator-studies/INDEX.md",
+      "sha256": "86adf1f31ea83b089b9d129d83b87d21e833f7deb968d623468753f3ab17de60"
+    },
+    {
+      "path": "public/film-motion/research/creator-studies/peer-review-decisions.md",
+      "sha256": "8314c2ef629a3e3cbbd7186ca403ab8e21d7c8ffb8e58eca8070dc2932b013dc"
+    },
+    {
+      "path": "public/film-motion/research/creator-studies/adjacent-creators.md",
+      "sha256": "0c4fefc89c2ceaac22977be1b3f383fbb5224303804887f3e4955b19f81763ed"
+    },
+    {
+      "path": "public/film-motion/skill/INSTALL.md",
+      "sha256": "4c9a455d702d8b3402a9513c505764469889403565e286ee96dc526bab42bfb7"
+    },
+    {
+      "path": "public/film-motion/skill/SKILL.md",
+      "sha256": "017f46ada2f0517329760779bdf4beb8a14a9b9bd26c8efc0131de42abbc1599"
+    },
+    {
+      "path": "public/film-motion/skill/references/source-manifest.json",
+      "sha256": "751120943d3ea09308b38c763e5f0ae52c7b387e3ea8fc1ef121d7274f83bc5d"
+    },
+    {
+      "path": "public/film-motion/skill/references/reference-analysis.md",
+      "sha256": "24f21865f7e5e46c4b508b9a53a0d9c95fd029ddccf286214be59a6534f66458"
+    },
+    {
+      "path": "public/film-motion/skill/references/speech-led-editing.md",
+      "sha256": "afdfa7ae193d54d5ad157d9402e61b4d3e6fb701dd6c8fef7dcf6040ec0b3394"
+    },
+    {
+      "path": "public/film-motion/skill/references/contact-sheets.md",
+      "sha256": "459efc53bcd383fa77437f3a2da85e2c33ebd2737c24a89795eab2751da9177e"
+    },
+    {
+      "path": "public/film-motion/skill/references/video-quality-model.md",
+      "sha256": "5b2dccabf3a1ebce7cb90e63304fc9e2dec56bf505fd9082087e5150b3f849b7"
+    },
+    {
+      "path": "public/film-motion/skill/references/assets-and-compositing.md",
+      "sha256": "4141806dc1381f86edad326178c052c49a00cf6d501d5f563439452e08ab007d"
+    },
+    {
+      "path": "public/film-motion/skill/references/stageshow-source.json",
+      "sha256": "1a045b0682b826696f4553c70899894648704d61f5f175f36ba1bbae7fba4c94"
+    },
+    {
+      "path": "public/film-motion/skill/references/film-calculus.md",
+      "sha256": "49c9f662c6d09772a56400db95a11b04ca30bb1fe49bba7f8ef045ab8492f5ce"
+    },
+    {
+      "path": "public/film-motion/skill/references/studies-b.md",
+      "sha256": "2952a5cf913de476a3c05e60c1149c95dd6bfddf66488555995cd617cbf4e9df"
+    },
+    {
+      "path": "public/film-motion/skill/references/stageshow-framing.md",
+      "sha256": "a9c5fa087f41059e3e8fb91938acb7361987410aa64fbbb03362cfa4f450d97b"
+    },
+    {
+      "path": "public/film-motion/skill/references/rendering-and-tools.md",
+      "sha256": "655348bb778ee5e6a5b5de7b27ba6737028a4fabc0567f49928124b0dbb68338"
+    },
+    {
+      "path": "public/film-motion/skill/references/cli-collaboration.md",
+      "sha256": "80d24151cc8f7aa9e9647cedda319333f8f432384c358bb0ad24393625ebfb19"
+    },
+    {
+      "path": "public/film-motion/skill/references/creative-quality.md",
+      "sha256": "21061b934f1befe62c984bc1791ca5137bf602534a605140c797ed1d7b7c45fe"
+    },
+    {
+      "path": "public/film-motion/skill/references/team-and-handoffs.md",
+      "sha256": "67b447968fc707d0b136b29e2526d994285f1da0da4fa91ae8feb61fabd3ed7a"
+    },
+    {
+      "path": "public/film-motion/skill/references/story-and-sound.md",
+      "sha256": "d0979a5b8b8806cc97dae572189d485dc04608a86c636f57aa879749041ddb1b"
+    },
+    {
+      "path": "public/film-motion/skill/references/production-contract.md",
+      "sha256": "384fed35df8fcee7ea824186ae959905870ced076920f5b8bf97aa75f80459d2"
+    },
+    {
+      "path": "public/film-motion/skill/references/reference-library.md",
+      "sha256": "5641b0719866be31bcf8dbc81d95d0a4fc74f05e99acbedf5a9715a82847112d"
+    },
+    {
+      "path": "public/film-motion/skill/references/repository-techniques.md",
+      "sha256": "f4998074705d8f132d6d24beaa498ff7921252daf141de139057dbc6a0f4c35f"
+    },
+    {
+      "path": "public/film-motion/skill/references/rea-provenance.json",
+      "sha256": "9742e6c6e6a0449e9bf9314917e06b6ff760fb721874f266e689e752e6e93bc8"
+    },
+    {
+      "path": "public/film-motion/skill/references/camera-and-motion.md",
+      "sha256": "d816665bb20602fd6800d56b1a5dd4fca5feb83cfa278259ee4b2fdcf55956e6"
+    },
+    {
+      "path": "public/film-motion/skill/references/studies-a-extra.md",
+      "sha256": "0e46b648700315005351bf730ed9e9d2785006cecca053f461c10d2485458982"
+    },
+    {
+      "path": "public/film-motion/skill/references/elevenlabs-production.md",
+      "sha256": "48e9b53d76d37756869ef14484cf02e054afc45de29df50794c4eee5cbd9ba88"
+    },
+    {
+      "path": "public/film-motion/skill/references/studies-a.md",
+      "sha256": "9c38439d78d67fcb20587f50925dc92085ed4be130dc09799e96f910c7da74fd"
+    },
+    {
+      "path": "public/film-motion/skill/references/speech-edit-model.md",
+      "sha256": "3a72ee16872e6953b569175f7551d00eea594360751507fa591a3c3cda49dc6b"
+    },
+    {
+      "path": "public/film-motion/skill/references/portfolio-studies.md",
+      "sha256": "5a4a861d39550ea353b5eb2132837a642720374cc57fd3471efc06b5f5b16339"
+    },
+    {
+      "path": "public/film-motion/skill/references/creator-evidence.md",
+      "sha256": "e518b01ff408d0c2251f97afb82b4f79031cb6d82322a5a9d6a0d5441d876431"
+    },
+    {
+      "path": "public/film-motion/skill/references/runtime.md",
+      "sha256": "b5e5228d931d2cd3d494bd9fbbd3c28d85288b491043bfc53e5896ba8695d758"
+    },
+    {
+      "path": "public/film-motion/skill/references/finishing-and-review.md",
+      "sha256": "46089915ab1c19e1bd5287c78d31688e9513867fe12f728e50b17b5c185eb2e0"
+    },
+    {
+      "path": "public/film-motion/skill/references/directions.md",
+      "sha256": "a8580ca6d067f1b3f236f7453c26d9165b1fd0c5dab7f19c69400daa105a8f1f"
+    },
+    {
+      "path": "public/film-motion/skill/references/creator-craft.md",
+      "sha256": "913bc65b968f1de8dafb5edc7e23999f4793fb081f43ed342a79239317ff4e2b"
+    },
+    {
+      "path": "public/film-motion/skill/agents/openai.yaml",
+      "sha256": "b0e35ea907017ad6c1d1e6e0eae43199033124b22e3b506798008b7072e3d897"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/cinematographer.md",
+      "sha256": "9e60cccc7a900c6bcdd8b17b997fd23970d9f5baf86694ff963a30d47aeb8d5a"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/asset-designer.md",
+      "sha256": "b9794b8e56b8af5a36b781c4c3cbc456514b423ca46554909cdfb74a8b8c3684"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/reference-analyst.md",
+      "sha256": "b3ebc720d75b03c7ebd05ff52d98b657d55499455abf6c6d9ee94d5a76cfd312"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/narrator.md",
+      "sha256": "5f9adeda890e385373a95d18270ff5cfcf0671794922548adf828ae17a8beac9"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/render-engineer.md",
+      "sha256": "6e5c98ffac65ae363c8f245e7dd2ff602c9fe3d4f0266f377cb160eee17e1f2f"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/story-strategist.md",
+      "sha256": "ca8716229e15b77e4dc60b9f58b75b64ecb0501da47cd71830aba625796d75da"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/sound-designer.md",
+      "sha256": "2f49b544fe188bd0b73b40b8ae102af35823b9a2190f5706f56d99a3ad1afa99"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/art-director.md",
+      "sha256": "bfacba3c4273a0585f5c6ac117eb446535b9b62ce87ebd0f6df06bc0bc0ead27"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/editor.md",
+      "sha256": "a0ff24e5f6b2297ad8e04d1019afdfa9658db9c7d1417d96915e3a7f490192de"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/director.md",
+      "sha256": "d187fafc2873391970230b063b7a002e9b6702cb896d8ce475e4001e5fc99d42"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/ui-designer.md",
+      "sha256": "15616cac4b2449eefedfd670f64a1bced6445507a6363c36eb5f16d57bc7ff3b"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/compositor-colorist.md",
+      "sha256": "eee6a6f7fd92b7b77d0d4e5306115f9236b85746ad6a083661727f645b5144c2"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/motion-designer.md",
+      "sha256": "f0cf10c2ba835bae34241f32eb54782f0035758fc6bc7fd86441d561701950b3"
+    },
+    {
+      "path": "public/film-motion/skill/agents/roles/independent-reviewer.md",
+      "sha256": "7d523144da4fad5f1914ff790c951eff16d2bb6d44964ed17e88dd111a6201d0"
+    },
+    {
+      "path": "public/film-motion/skill/scripts/contact_sheet.py",
+      "sha256": "8c619e96be53536eb0e10da46626193855c9ea24f472bcf562ba13a3a10a1e78"
+    },
+    {
+      "path": "public/film-motion/skill/scripts/film_team.py",
+      "sha256": "4975a976e27236d18e3fa13f25333cb87f6f9196a30d0fd16762a5850b089444"
+    },
+    {
+      "path": "public/film-motion/skill/scripts/video_quality.py",
+      "sha256": "298856f6a2b68a6a485a43dbcd278a4076de84b98cfa4f0b5f3da071cc1d5d52"
+    },
+    {
+      "path": "public/film-motion/skill/scripts/analyze_video.py",
+      "sha256": "829cc344a1fcf57971301b8a589a433e6858985e816e3ee48854e0505d8c3633"
+    },
+    {
+      "path": "public/film-motion/skill/scripts/init_project.mjs",
+      "sha256": "0a677036c67a7306da1585548e3b4bd9debfbe7c7be1020dc9fbc02ccae974a6"
+    },
+    {
+      "path": "public/film-motion/skill/scripts/tests/test_video_quality.py",
+      "sha256": "b7f5aaf5d577f8ad183b1bcdb37f05d013f39ca35e6d63cc69e32ca648627074"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/preview.html",
+      "sha256": "bd1fa1dc7994584df1a0484ad780b511b97a628afab18e30d993fc58da0eca07"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/index.html",
+      "sha256": "f2d29992f05195bab096347a42a6ef6fc416f0d19236a8836ea326f9d956fcbc"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/film.js",
+      "sha256": "bd185d1b8a1e747e7c9c23e42c22a97aaaaa1f0b742c6ab70ffe82c04443c8fb"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/.gitignore",
+      "sha256": "dd2665579d6131cbb0b7e4acfd4fc4020bed7eec04cb1615259e47982e0c24af"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/package-lock.json",
+      "sha256": "58cb29416494aa6affa69a27baf3044b9e4497b71bb270c463221075bbd5f3e5"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/package.json",
+      "sha256": "36eb8634c4080c67af75fbe492acc1b65bdc5a348d2d32c44a410947a2f40dc8"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/film.css",
+      "sha256": "389f92445d08a7a219bc46922ea563ef3078c81da863b0b4f97f1ba15da38535"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/RUNTIME.md",
+      "sha256": "0696c479d5f9fdc7ca7bfc3fe4a5a2615efb6e35493ffbb34088df9cc4e57032"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/scripts/film.mjs",
+      "sha256": "229dfce6e714076cd59891c3dc7da62628cf6fa567c9d79181b5b30a6b2ca702"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/lib/time.js",
+      "sha256": "8024a2741b60a6e9dd350025d234f037df1b305b52f09c5b2ceb300a7a5d9a68"
+    },
+    {
+      "path": "public/film-motion/skill/assets/starter/lib/preview.js",
+      "sha256": "7dbfc2905ca091d2ffee86799563b2726187d021231857b580bac47358bc1aa7"
+    },
+    {
+      "path": "public/film-motion/skill/assets/film-calculus/film-math.mjs",
+      "sha256": "aa620fd6abdd639b855d60e92f3132afe085fee4e2696f6c0eb48587da9d4561"
+    },
+    {
+      "path": "public/film-motion/skill/assets/film-calculus/README.md",
+      "sha256": "6de2ecb97012b2356f77b11b4ba4ca025ee98b49b0d1565b57bd5b6eafd0acbe"
+    },
+    {
+      "path": "public/film-motion/skill/assets/quality-model/speech-edit-example.json",
+      "sha256": "e489e51714a6a887d3ec5edff144d396789a738a51154f65c407aa0ee32535bf"
+    },
+    {
+      "path": "public/film-motion/skill/assets/quality-model/example.json",
+      "sha256": "a9304e040cbb8d001a93dd67530527b034e678c808dda4c09eb36b91fa59365d"
+    }
+  ],
+  "changed": [
+    "package.json",
+    "src/main.jsx",
+    "src/collection-route.jsx",
+    "src/library-loading.jsx",
+    "src/film-data.js",
+    "src/film-data.json",
+    "src/film-library.jsx",
+    "src/film-library.css",
+    "src/film-math.js",
+    "src/film-lab.jsx",
+    "src/film-lab.css",
+    "scripts/check-film-library.mjs",
+    "scripts/check-film-math.mjs",
+    "public/film-motion/software-film-director-v3.4.zip",
+    "public/film-motion/manifest.json",
+    "public/film-motion/research/reference-study-a-tail.md",
+    "public/film-motion/research/cli-verification.md",
+    "public/film-motion/research/distilled-findings-a.md",
+    "public/film-motion/research/reference-study-a.md",
+    "public/film-motion/research/INDEX.md",
+    "public/film-motion/research/reference-study-b.md",
+    "public/film-motion/research/rendering-tools.md",
+    "public/film-motion/research/portfolio-studies.md",
+    "public/film-motion/research/distilled-findings-b.md",
+    "public/film-motion/research/LEARNINGS.md",
+    "public/film-motion/research/video-model/validation.md",
+    "public/film-motion/research/video-model/runtime-repo-review.md",
+    "public/film-motion/research/video-model/INDEX.md",
+    "public/film-motion/research/video-model/source-investigation.md",
+    "public/film-motion/research/video-model/three-source-review.md",
+    "public/film-motion/research/video-model/second-video/linked-resource-provenance.json",
+    "public/film-motion/research/video-model/second-video/linked-resource-review.md",
+    "public/film-motion/research/video-model/second-video/validation.md",
+    "public/film-motion/research/video-model/second-video/evidence-manifest.json",
+    "public/film-motion/research/video-model/second-video/INDEX.md",
+    "public/film-motion/research/video-model/second-video/source-notes.md",
+    "public/film-motion/research/math-reference-shuding/REFERENCE-STUDY.md",
+    "public/film-motion/research/math-reference-shuding/evidence-manifest.json",
+    "public/film-motion/research/creator-studies/gawx-process-sources.md",
+    "public/film-motion/research/creator-studies/forum-research.md",
+    "public/film-motion/research/creator-studies/routine-visual-study.md",
+    "public/film-motion/research/creator-studies/daniel-visual-study.md",
+    "public/film-motion/research/creator-studies/creative-process-visual-study.md",
+    "public/film-motion/research/creator-studies/INDEX.md",
+    "public/film-motion/research/creator-studies/peer-review-decisions.md",
+    "public/film-motion/research/creator-studies/adjacent-creators.md",
+    "public/film-motion/skill/INSTALL.md",
+    "public/film-motion/skill/SKILL.md",
+    "public/film-motion/skill/references/source-manifest.json",
+    "public/film-motion/skill/references/reference-analysis.md",
+    "public/film-motion/skill/references/speech-led-editing.md",
+    "public/film-motion/skill/references/contact-sheets.md",
+    "public/film-motion/skill/references/video-quality-model.md",
+    "public/film-motion/skill/references/assets-and-compositing.md",
+    "public/film-motion/skill/references/stageshow-source.json",
+    "public/film-motion/skill/references/film-calculus.md",
+    "public/film-motion/skill/references/studies-b.md",
+    "public/film-motion/skill/references/stageshow-framing.md",
+    "public/film-motion/skill/references/rendering-and-tools.md",
+    "public/film-motion/skill/references/cli-collaboration.md",
+    "public/film-motion/skill/references/creative-quality.md",
+    "public/film-motion/skill/references/team-and-handoffs.md",
+    "public/film-motion/skill/references/story-and-sound.md",
+    "public/film-motion/skill/references/production-contract.md",
+    "public/film-motion/skill/references/reference-library.md",
+    "public/film-motion/skill/references/repository-techniques.md",
+    "public/film-motion/skill/references/rea-provenance.json",
+    "public/film-motion/skill/references/camera-and-motion.md",
+    "public/film-motion/skill/references/studies-a-extra.md",
+    "public/film-motion/skill/references/elevenlabs-production.md",
+    "public/film-motion/skill/references/studies-a.md",
+    "public/film-motion/skill/references/speech-edit-model.md",
+    "public/film-motion/skill/references/portfolio-studies.md",
+    "public/film-motion/skill/references/creator-evidence.md",
+    "public/film-motion/skill/references/runtime.md",
+    "public/film-motion/skill/references/finishing-and-review.md",
+    "public/film-motion/skill/references/directions.md",
+    "public/film-motion/skill/references/creator-craft.md",
+    "public/film-motion/skill/agents/openai.yaml",
+    "public/film-motion/skill/agents/roles/cinematographer.md",
+    "public/film-motion/skill/agents/roles/asset-designer.md",
+    "public/film-motion/skill/agents/roles/reference-analyst.md",
+    "public/film-motion/skill/agents/roles/narrator.md",
+    "public/film-motion/skill/agents/roles/render-engineer.md",
+    "public/film-motion/skill/agents/roles/story-strategist.md",
+    "public/film-motion/skill/agents/roles/sound-designer.md",
+    "public/film-motion/skill/agents/roles/art-director.md",
+    "public/film-motion/skill/agents/roles/editor.md",
+    "public/film-motion/skill/agents/roles/director.md",
+    "public/film-motion/skill/agents/roles/ui-designer.md",
+    "public/film-motion/skill/agents/roles/compositor-colorist.md",
+    "public/film-motion/skill/agents/roles/motion-designer.md",
+    "public/film-motion/skill/agents/roles/independent-reviewer.md",
+    "public/film-motion/skill/scripts/contact_sheet.py",
+    "public/film-motion/skill/scripts/film_team.py",
+    "public/film-motion/skill/scripts/video_quality.py",
+    "public/film-motion/skill/scripts/analyze_video.py",
+    "public/film-motion/skill/scripts/init_project.mjs",
+    "public/film-motion/skill/scripts/tests/test_video_quality.py",
+    "public/film-motion/skill/assets/starter/preview.html",
+    "public/film-motion/skill/assets/starter/index.html",
+    "public/film-motion/skill/assets/starter/film.js",
+    "public/film-motion/skill/assets/starter/.gitignore",
+    "public/film-motion/skill/assets/starter/package-lock.json",
+    "public/film-motion/skill/assets/starter/package.json",
+    "public/film-motion/skill/assets/starter/film.css",
+    "public/film-motion/skill/assets/starter/RUNTIME.md",
+    "public/film-motion/skill/assets/starter/scripts/film.mjs",
+    "public/film-motion/skill/assets/starter/lib/time.js",
+    "public/film-motion/skill/assets/starter/lib/preview.js",
+    "public/film-motion/skill/assets/film-calculus/film-math.mjs",
+    "public/film-motion/skill/assets/film-calculus/README.md",
+    "public/film-motion/skill/assets/quality-model/speech-edit-example.json",
+    "public/film-motion/skill/assets/quality-model/example.json"
+  ]
+}

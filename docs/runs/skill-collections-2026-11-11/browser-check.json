@@ -1,0 +1,18 @@
+{
+  "browser": "157.0.8103.40",
+  "base": "http://127.0.0.1:5173/design-library/",
+  "checks": [
+    "Skills desktop at 1440px",
+    "Keyboard disclosure, entry links and browser Back/Forward",
+    "Legacy URLs and shot geometry resource",
+    "Product Renders and all six template packs; Oak pack browser download",
+    "Skills tablet at 768px",
+    "Skills mobile at 390px",
+    "Product screen study mobile at 390px",
+    "Template pack mobile at 390px",
+    "Ruled collection mobile at 390px",
+    "Composition Atlas collection mobile at 390px",
+    "Ruled and Atlas launch from mobile collection pages"
+  ],
+  "errors": []
+}

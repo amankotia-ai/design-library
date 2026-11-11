@@ -31,3 +31,7 @@
 .type-system-sample{margin:12px 0 0;font-family:var(--type-family),sans-serif;font-size:var(--type-size);line-height:var(--type-leading);font-weight:var(--type-weight);font-stretch:var(--type-stretch,normal);letter-spacing:var(--type-tracking,normal);overflow-wrap:anywhere;color:var(--library-ink)}
 .library .system-detail .type-system-note{margin-top:4px}
 @media(max-width:700px){.type-system-sample{font-size:min(var(--type-size),11vw)}}
+
+@font-face{font-family:TypeUnifize;src:url('../public/unifize-source/073cc8fc51e670.woff2') format('woff2');font-weight:100 700;font-display:swap}
+@font-face{font-family:TypeUnifizeBody;src:url('../public/unifize-source/b1b03dfb26ce71.woff2') format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:TypeUnifizeMono;src:url('../public/unifize-source/db2fdf854c76ee.woff2') format('woff2');font-weight:100 800;font-display:swap}

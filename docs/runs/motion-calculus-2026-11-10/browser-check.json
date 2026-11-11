@@ -1,0 +1,237 @@
+{
+  "base": "http://127.0.0.1:5183/design-library/",
+  "checks": [
+    {
+      "id": "spring-motion",
+      "presets": [
+        {
+          "label": "Underdamped",
+          "values": [
+            [
+              "Time",
+              "0.65"
+            ],
+            [
+              "Damping ratio ζ",
+              "0.12"
+            ],
+            [
+              "Natural frequency f₀",
+              "1.15"
+            ]
+          ],
+          "metrics": "Position\n-0.097 units\nVelocity\n4.137 units/s\nAcceleration\n-2.113 units/s²",
+          "visualHash": "3c351bd098c0ff174decb9f59b1570d0d5273e6f8498c4778f9c2eabe74852f1"
+        },
+        {
+          "label": "Critical",
+          "values": [
+            [
+              "Time",
+              "0.65"
+            ],
+            [
+              "Damping ratio ζ",
+              "1"
+            ],
+            [
+              "Natural frequency f₀",
+              "1.15"
+            ]
+          ],
+          "metrics": "Position\n0.052 units\nVelocity\n-0.310 units/s\nAcceleration\n1.761 units/s²",
+          "visualHash": "a942f8af8f6e730f39fcd943965fefb3cf2deb2de144f2069c72de6420fd21f4"
+        },
+        {
+          "label": "Overdamped",
+          "values": [
+            [
+              "Time",
+              "0.65"
+            ],
+            [
+              "Damping ratio ζ",
+              "1.6"
+            ],
+            [
+              "Natural frequency f₀",
+              "1.15"
+            ]
+          ],
+          "metrics": "Position\n0.219 units\nVelocity\n-0.556 units/s\nAcceleration\n1.411 units/s²",
+          "visualHash": "ea6c0ab996c34109a376b8c30e9f2f042c65277e2c08652d656276010f19fbf1"
+        }
+      ],
+      "reset": true,
+      "play": true,
+      "pause": true,
+      "scrubPauses": true,
+      "resetPauses": true
+    },
+    {
+      "id": "bezier-paths",
+      "presets": [
+        {
+          "label": "Linear",
+          "values": [
+            [
+              "Elapsed time",
+              "1.4"
+            ],
+            [
+              "Easing function",
+              "linear"
+            ],
+            [
+              "Journey duration",
+              "4"
+            ],
+            [
+              "P₁ horizontal",
+              "170"
+            ],
+            [
+              "P₁ vertical",
+              "65"
+            ],
+            [
+              "P₂ horizontal",
+              "480"
+            ],
+            [
+              "P₂ vertical",
+              "280"
+            ]
+          ],
+          "metrics": "Position\n(235.5, 166.4) px\nSpeed\n149.4 px/s\n\nVelocity (149.4, -2.0) px/s\n\nAcceleration\n50.1 px/s²\n\nVector (27.6, 41.8) px/s²",
+          "visualHash": "61cf9619d8eb1bbf85cde21d22d65a5e3ed8e17228cb3617bfc0411d810a4e62"
+        },
+        {
+          "label": "Cubic ease",
+          "values": [
+            [
+              "Elapsed time",
+              "1.4"
+            ],
+            [
+              "Easing function",
+              "smoothstep"
+            ],
+            [
+              "Journey duration",
+              "4"
+            ],
+            [
+              "P₁ horizontal",
+              "170"
+            ],
+            [
+              "P₁ vertical",
+              "65"
+            ],
+            [
+              "P₂ horizontal",
+              "480"
+            ],
+            [
+              "P₂ vertical",
+              "280"
+            ]
+          ],
+          "metrics": "Position\n(195.8, 168.8) px\nSpeed\n193.1 px/s\n\nVelocity (191.8, -22.2) px/s\n\nAcceleration\n172.2 px/s²\n\nVector (133.2, 109.2) px/s²",
+          "visualHash": "9491b70b2de657c75e409446aa0daec1af9f4b0ab902c97b933d74a8b0dba6d1"
+        },
+        {
+          "label": "Quintic ease",
+          "values": [
+            [
+              "Elapsed time",
+              "1.4"
+            ],
+            [
+              "Easing function",
+              "smootherstep"
+            ],
+            [
+              "Journey duration",
+              "4"
+            ],
+            [
+              "P₁ horizontal",
+              "170"
+            ],
+            [
+              "P₁ vertical",
+              "65"
+            ],
+            [
+              "P₂ horizontal",
+              "480"
+            ],
+            [
+              "P₂ vertical",
+              "280"
+            ]
+          ],
+          "metrics": "Position\n(170.3, 173.0) px\nSpeed\n211.3 px/s\n\nVelocity (206.4, -45.4) px/s\n\nAcceleration\n288.2 px/s²\n\nVector (243.0, 154.9) px/s²",
+          "visualHash": "ec1081798e001d3576fecf1e124ab64d1223de6123c9a4484d1f6ad34e6f4d3f"
+        }
+      ],
+      "reset": true,
+      "play": true,
+      "pause": true,
+      "scrubPauses": true,
+      "resetPauses": true
+    }
+  ],
+  "screenshots": [
+    "spring-motion-desktop.png",
+    "spring-motion-equations-desktop.png",
+    "spring-motion-768.png",
+    "spring-motion-controls-768.png",
+    "spring-motion-equations-768.png",
+    "spring-motion-390.png",
+    "spring-motion-controls-390.png",
+    "spring-motion-equations-390.png",
+    "bezier-paths-desktop.png",
+    "bezier-paths-equations-desktop.png",
+    "bezier-paths-768.png",
+    "bezier-paths-controls-768.png",
+    "bezier-paths-equations-768.png",
+    "bezier-paths-390.png",
+    "bezier-paths-controls-390.png",
+    "bezier-paths-equations-390.png",
+    "mathematics-collection.png"
+  ],
+  "errors": [],
+  "revision": {
+    "src/film-motion-math.js": "1579e718e31f948a72c6fe809d5ccbc60351c0f735d3f0258584d42604f69379",
+    "src/film-motion-studies.jsx": "74220035ec48a7909ef68b933a8b2825e15507c4dde9702a79089d1a0f4d4522",
+    "src/film-study-thumbnails.jsx": "344ca314392b5ed7f213f2d0e2499bc10a71f8d3bf33953047ccce5f4b343d9d",
+    "src/film-study-ui.jsx": "801a6645102db5d139b523a9e1118aa88d4dcf99c00192457bbf97db0c3f0561",
+    "src/film-study-registry.js": "e4cb4287debacf81cd736430cfceb3a005963d099a8de2ed22a5bb6cc3d44d2c",
+    "src/film-data.json": "fe1ef55cd4c5d1b0228ecad624db06f0b23502a71e472b6d176ae4e2d9768759",
+    "scripts/check-film-motion.mjs": "e74fa087c2931cdf63e988da0f93434f5c7a3346e2af952cc7855c071bbefef7",
+    "public/film-motion/studies/film-motion-math.js": "1579e718e31f948a72c6fe809d5ccbc60351c0f735d3f0258584d42604f69379",
+    "public/film-motion/studies/spring-motion.md": "a8bc65829b07c00b4856f9b2e1af7c2a92033f3bbfe92d47b4355bcbf7fbed2b",
+    "public/film-motion/studies/bezier-paths.md": "f5e64dfd3b75ef15306eabcdadc8f896a84c9b9d7b33eacc52da13b04ee82adc",
+    "public/film-motion/manifest.json": "c13e8b92fcb75ca36bc62c293f43a56c0dad7d5718f935dc6526f58681a02ccc"
+  },
+  "durationScaling": {
+    "short": {
+      "Position": "(170.3, 173.0) px",
+      "Speed": "422.6 px/s",
+      "Acceleration": "1152.8 px/s²"
+    },
+    "long": {
+      "Position": "(170.3, 173.0) px",
+      "Speed": "211.3 px/s",
+      "Acceleration": "288.2 px/s²"
+    },
+    "positionUnchanged": true,
+    "speedHalved": true,
+    "accelerationQuartered": true
+  },
+  "singlePass": true,
+  "status": "passed"
+}

@@ -1,0 +1,583 @@
+[
+  {
+    "entry": "ruled",
+    "source": "grid-study/qa/free-serif-corrected.png",
+    "width": 626,
+    "height": 504,
+    "sha256": "eeb40c724f9098163f36f28e0b9a582e1cdd8c606d709092c788f3417c39b5ea"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/app.js",
+    "importedAs": "/render-assets/ruled/study/app.js",
+    "sha256": "39a19c54c0816a1556da67262dbb3e70af4e3cec4ffe42f046d753cb9d611846"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/fonts/General-Sans-LICENSE.txt",
+    "importedAs": "/render-assets/ruled/study/assets/fonts/General-Sans-LICENSE.txt",
+    "sha256": "145e7fe2429a3336ba215c070ef722000e01348a3e1baaa127e871bb5012f554"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/fonts/Inter-LICENSE.txt",
+    "importedAs": "/render-assets/ruled/study/assets/fonts/Inter-LICENSE.txt",
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/fonts/Noto-Serif-Display-LICENSE.txt",
+    "importedAs": "/render-assets/ruled/study/assets/fonts/Noto-Serif-Display-LICENSE.txt",
+    "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/fonts/general-sans-variable.woff2",
+    "importedAs": "/render-assets/ruled/study/assets/fonts/general-sans-variable.woff2",
+    "sha256": "49d3fbd2f1bcc9850d8d939cabf107d6ade508ce08419fca466b06879e4a0a8e"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/fonts/inter-medium.ttf",
+    "importedAs": "/render-assets/ruled/study/assets/fonts/inter-medium.ttf",
+    "sha256": "8c883f63b2c4157d997319f2c8bc6995ed4357ef371940d31ca159004a4aae63"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/fonts/inter-regular.ttf",
+    "importedAs": "/render-assets/ruled/study/assets/fonts/inter-regular.ttf",
+    "sha256": "1b08e7fc267a5c7e1d614100f604b83e7e8a0be241f0f288faa2b3ac93a683ba"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/fonts/noto-serif-display-variable.woff2",
+    "importedAs": "/render-assets/ruled/study/assets/fonts/noto-serif-display-variable.woff2",
+    "sha256": "f6ad32efa44ecbe519c54acceb975ec0926b62596204c8d0ea456f296061efc8"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/landscape.webp",
+    "importedAs": "/render-assets/ruled/study/assets/landscape.webp",
+    "sha256": "455372f710e9f501a17383bccca0e16883046a909fc3388c809d747cc3dc73e8"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/linen.webp",
+    "importedAs": "/render-assets/ruled/study/assets/linen.webp",
+    "sha256": "401cf960929887324213d1816130d2a98e5eebe9c8a4eb86f7dab6a6a0821c1a"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/portrait.webp",
+    "importedAs": "/render-assets/ruled/study/assets/portrait.webp",
+    "sha256": "c3f8756b5ad561dacf49af2b4b7ae5b36575e3bb83bc7a835e9bf3fc1c1a3f97"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-01-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-01-1.webp",
+    "sha256": "39af12e67ae55983283baf994db4c4e36ad01ff176cfbe07f4772da0f51835e2"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-02-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-02-1.webp",
+    "sha256": "f0bb0b5e149cf660ef6054a11caaaf89ba2a76f6d71ef32520a0a8f86914caa9"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-02-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-02-2.webp",
+    "sha256": "64a287fe75317d93d2fc450f9f4cadc6838b9076d62b93867c87fa75a3138fee"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-02-3.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-02-3.webp",
+    "sha256": "659f5cf3ca676b3c51972cebc21f87954e78431f9eafad755bc911f6e46a54fd"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-02-4.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-02-4.webp",
+    "sha256": "0bb24a1aca62c345cac0b171920bb3f284b8daee274f2ccb854a5fbe0a536aef"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-03-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-03-1.webp",
+    "sha256": "b3d49dced8abb7e372099f1be020180a3de78c876a2e3464a68d7d98b0b0e70c"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-04-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-04-1.webp",
+    "sha256": "380e084a1045929a2d2beea2e3a66730d105bb35c8edab692335f78c42d785d1"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-05-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-05-1.webp",
+    "sha256": "190d8459e8d7bb10a4509b961e1171eacc57142917a9c141573de59fb64ce47c"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-05-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-05-2.webp",
+    "sha256": "c219c80d7cf641519fa466b7a12a65b396345fec420db3f4e8df0e6de3512010"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-05-3.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-05-3.webp",
+    "sha256": "7b6393d5d50be2e33beec6b717e9c19f0c2a72e1a102dcd7a00ef8c16e4b228f"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-05-4.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-05-4.webp",
+    "sha256": "bc8d6e12ab1db0b56b03f2f4578b3cc1bb1478d187e2c5194ff511a43cdf49d3"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-06-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-06-1.webp",
+    "sha256": "08b865eb4e63972af5cb76a3cf12a6e3c9ec831c8cff7ae7d7a27062600ddbdf"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-07-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-07-1.webp",
+    "sha256": "42b4a5a03ea88aec9b480f884b539cd9b28b43bbd8aa520a59aa51e67d640ca3"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-08-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-08-1.webp",
+    "sha256": "ddffe7832145611b97c26c7851f15f674369b2852d20af087a35dfc30ffefcf1"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-09-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-09-1.webp",
+    "sha256": "c158eb842e09d606ae674ce1e938a7667f674a948d25e980b94629f521ef521e"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-10-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-10-1.webp",
+    "sha256": "3382d45912f49e7cf019cee3b94b5debf2c7a52455af83fa0102ebe3b64cbda0"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-10-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-10-2.webp",
+    "sha256": "cd1e1eed550dc117d0983f7b41fa746b266c204d9e1cc1bb340b8038b53a8d96"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-10-3.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-10-3.webp",
+    "sha256": "052a82b12c002b6ffb2f9e058b958800c57d29c8bea178d65c20ef5bbddf2092"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-10-4.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-10-4.webp",
+    "sha256": "475e80a1dbb7832ebee3d083a413fa85a4502973b531d287fac53c031c1c4626"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-11-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-11-1.webp",
+    "sha256": "20a19080a44a50022b56bbf4c6aa44807646d7b048ef2d453869c2611d0558f6"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-12-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-12-1.webp",
+    "sha256": "781735814395368a27d8f9fcfa3c565513a90169088f737667c6376d2f4a76f8"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-13-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-13-1.webp",
+    "sha256": "44c3fdfa40754e7f7b419f9cda7d586844aa859ce4cc11ea2121a0454c9fc82e"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-14-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-14-1.webp",
+    "sha256": "bb30128ff4e7433f8fb230efb3707ecff757bf6a29b4d308233fa27306dc8861"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-14-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-14-2.webp",
+    "sha256": "9856a5d206b47959e9b456993f129a58570416a188d061f25c4f4d69bdb24320"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-14-3.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-14-3.webp",
+    "sha256": "ae6596aa4e1c8f30e6d7c485fa35302d86bf74b1dd9c902304046488eea7ca46"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-14-4.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-14-4.webp",
+    "sha256": "d477464a929ebc360a776e544a40cd78cd4a7ec40047031f3aaf008fe82a6514"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-15-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-15-1.webp",
+    "sha256": "7603fdf591d4a5818013eaa51bf12629a60298c475b8730593cea58238ddb666"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-15-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-15-2.webp",
+    "sha256": "eee566dd1996f7b4a7bf8400e2dcf6b28dcefc4eda81fb2e632e13f60607a699"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-15-3.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-15-3.webp",
+    "sha256": "1ec695c85e9a1285f5fe5b1f5be65f1cfc6fec08ac4a30166040c87e7c7a10c3"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-15-4.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-15-4.webp",
+    "sha256": "287cb2788f6143d4291ccf3ca4f790a62d442a80f898c9e943af8055d016a87f"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-16-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-16-1.webp",
+    "sha256": "384bdd6a13dbcb6ded4c0029fefc1e9b6e6fb6f2634ab5cdd3d733b5e976a210"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-16-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-16-2.webp",
+    "sha256": "ad5a5e58b703f753f799efa2a57305e25c7b41cf5d74afb8ceb37f4cd5d7ae75"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-17-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-17-1.webp",
+    "sha256": "e71d23af56a95b67503389713f9180cb6148e3f01f04c294ecf4d1169f25a073"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-18-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-18-1.webp",
+    "sha256": "751ce06e04ce8a5b412c511305430bb9c5b5fe43502e77dbf217a91f13034182"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-19-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-19-1.webp",
+    "sha256": "f9999b5760d9228889fcba4e8ee96ac4f2338b62c6d94b55a73a8c0cbf2357ad"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-19-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-19-2.webp",
+    "sha256": "920e930cdb86548cc027555e5e25d7c59c59ad05a199d05c16910c0e64e7ac8e"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-19-3.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-19-3.webp",
+    "sha256": "f557b385cade68805c50cd1e0c3782d5232c827849f7f5598749070f39389f89"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-19-4.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-19-4.webp",
+    "sha256": "e7b9fdff58202fa1a56fc5afc8c7e6451ed958283eeea3ff3629c3ed4604f327"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-20-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-20-1.webp",
+    "sha256": "508efdf105621fb80bfa7878f5cdba910bc815744831c800d247d148bdc842a3"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-20-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-20-2.webp",
+    "sha256": "957fbd7851c04257f9d2bee855ada080b2080b2d1106be0eccf50db562ab79ac"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-21-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-21-1.webp",
+    "sha256": "64b2961f499984c51661ee909a60612a0e3eb7f9a8a9fff212f58b5bb927729c"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-21-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-21-2.webp",
+    "sha256": "fb37c09abc404f77e992bf993a8b49041de7ba838a235f4e8e691bee5feabfb4"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-22-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-22-1.webp",
+    "sha256": "b8ae20c13f8a6ce81d9fb503148b62a67eeebc7969da36680b0b2e4d0f74380b"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-22-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-22-2.webp",
+    "sha256": "acc286b5b98ca911ac35671cdaf5eac06c61bbb9e459cec6a33eebbc20373154"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-22-3.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-22-3.webp",
+    "sha256": "4abf29b9f379ca8e35eafc4e6c8973e7e2f2652eb7c9e9298901a8cfc53199fd"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-22-4.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-22-4.webp",
+    "sha256": "ddfc40b1ed63a492a90bb13a8cc82172a4fbc7178f18cc1447416498c3ee0989"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-23-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-23-1.webp",
+    "sha256": "411664e537235b464b75b67f911ba451a82073aa99fa4b183c59ddb4c47849d4"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-23-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-23-2.webp",
+    "sha256": "458dfd24c0d05f5240f02ac13003d2da283b0e33221d1a3c7481e75fb004d093"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-24-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-24-1.webp",
+    "sha256": "6f581aacffe028fbef052c0ebe93330be8cb2d0ceaa8abe974df423bcac0af1d"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-25-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-25-1.webp",
+    "sha256": "b44e4f7be5acad3ed9d5a7dfe7037305b5fa0257f177c69a55f984de2ad85e11"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-25-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-25-2.webp",
+    "sha256": "aa5837f6dab41cb9ef84596c852c6db28b23b2d431a1e7c0169098f1b4e99463"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-26-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-26-1.webp",
+    "sha256": "d1e6fd8c410134483b4a6af739171c65c2adf3c9b1f0aa3ea6e8f5f84b7fa25f"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-27-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-27-1.webp",
+    "sha256": "f6cd208fd73f6e70579342cfe12c636c7b7e1e1090bb8470eb98c6b956a21e73"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-27-2.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-27-2.webp",
+    "sha256": "80fb1d09b26784adb33cd4c9db423f4723f07b4429969bf42888e668237e258d"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-27-3.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-27-3.webp",
+    "sha256": "22f7bd308e45c64fc9f5f4c7be6c5dc012169c5208836e39ededc998701ce7a0"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-27-4.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-27-4.webp",
+    "sha256": "d50bc6b1b514b275a3de8d45047216c60130a3e419db3be051f65374a5cb372f"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-28-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-28-1.webp",
+    "sha256": "28e2ca3ad736c4e478ec3f1322a17da40b81be2831f59e9f57dda52f7fe1dabc"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/ref-29-1.webp",
+    "importedAs": "/render-assets/ruled/study/assets/ref-29-1.webp",
+    "sha256": "9f5cb6d5bbdf8ce264b4a49628fc2ed17051cfc7509066bbc93432fe8e2b4e8d"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/video-3.mp4",
+    "importedAs": "/render-assets/ruled/study/assets/video-3.mp4",
+    "sha256": "7c552f7dd37ae1c304a2ef70b10815d46cfc49fcdf8b780a5741e5aa6557aa81"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/video-4.mp4",
+    "importedAs": "/render-assets/ruled/study/assets/video-4.mp4",
+    "sha256": "268e910ed5481e1c6ee052c81e747c5f29b72e11185a6be6f4bae2e4c9f1a05c"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/assets/video-5.mp4",
+    "importedAs": "/render-assets/ruled/study/assets/video-5.mp4",
+    "sha256": "04fe72882130597e12d8bd899b60b571e8d47b776db4dd2eda3c1fa4ed30aa8a"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/composition.css",
+    "importedAs": "/render-assets/ruled/study/composition.css",
+    "sha256": "1f945ac66df3d3a20f743094de6d5e546d21890321832df05c018edd3ef4021b"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/data.js",
+    "importedAs": "/render-assets/ruled/study/data.js",
+    "sha256": "f48ea34e3d69c7b001f0fab3ca59048e1e23ba71402e2981c284189526c75b8c"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/grid-math.js",
+    "importedAs": "/render-assets/ruled/study/grid-math.js",
+    "sha256": "d0b1c1c7a8c1c68c907a5070320d898d13c219c80b36fccce44f4ce709c50058"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/index.html",
+    "importedAs": "/render-assets/ruled/study/index.html",
+    "sha256": "139b63a8d85b8c4f4bf4129490d8113dc943723e026bc471ad907deda9886aae"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/lessons.js",
+    "importedAs": "/render-assets/ruled/study/lessons.js",
+    "sha256": "2713bd4c6a9818e570c2cf841c74d0b601f4cb43483b4800deaaf792a27832fc"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/reference-data.json",
+    "importedAs": "/render-assets/ruled/study/reference-data.json",
+    "sha256": "8d6c20ccf8385475788b6b71584ade1733ce1ef773fcabf7848b18befba2a4cf"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/dist/style.css",
+    "importedAs": "/render-assets/ruled/study/style.css",
+    "sha256": "d2713167f3ac304d851014866d45067fee250fcfcf0ecd293546c8dd8e912196"
+  },
+  {
+    "entry": "ruled",
+    "source": "grid-study/README.md",
+    "importedAs": "/render-assets/ruled/README.md",
+    "sha256": "d9a4a629b0fd96118b27401720a098e64c14c17fe7e3747fb7f235640b58a338"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "output/art-direction-calibration/template-atlas.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "ff70d11ea1d9ee10df84e0e0337a01afc93b58ba99274f32117f19b0d2c20847"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "output/art-direction-calibration/portrait-card-corrected.png",
+    "width": 865,
+    "height": 610,
+    "sha256": "93bdcac885674d922bd9211f6259576e5b88db13c1b36892c36e27bbee7e1081"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "output/art-direction-calibration/template-atlas.html",
+    "sha256": "666f7eed0fe7afa738a49fa6316a8dd1bce5a92237ae8286a6838df6ab5d7a47",
+    "archivePath": "template-atlas.html",
+    "adaptedViewer": "/render-assets/composition-atlas/study.html",
+    "viewerSha256": "650baa02a7fc89061e8f76c5230198e4c6eebd04c644a75cf0cb2f39a0075ba0"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/nature-window.json",
+    "archivePath": "templates/nature-window.json",
+    "sha256": "6b3cc0694705b37645e112b9cc688d40aaea318904172d9103379621eef2b5eb"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/nature-tinted-page.json",
+    "archivePath": "templates/nature-tinted-page.json",
+    "sha256": "5e06c15bf684c017b6b1c9598c3423a44bb8a94552a9b5a4e2596a27274f0b99"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/painted-feature-pair.json",
+    "archivePath": "templates/painted-feature-pair.json",
+    "sha256": "e081c45edd72fad33bdde5548b7ec85934d7b1134d8dcca8fb060e01ad9d27ba"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/editorial-illustrated-feature.json",
+    "archivePath": "templates/editorial-illustrated-feature.json",
+    "sha256": "7eb5f60060bd288cee8968e3394e3b7360a5d25f5d00c825c88f06a3e7334be4"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/grain-flow-window.json",
+    "archivePath": "templates/grain-flow-window.json",
+    "sha256": "f11debdeeeea0cea76677865bfda59ac585fc53e2a65464a2be5bf68c839cfb8"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/macro-section.json",
+    "archivePath": "templates/macro-section.json",
+    "sha256": "7a742a6ba0bc289cfafe045a95333003f65e4ea1ebce8348c537b1b437017305"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/macro-section-portrait.json",
+    "archivePath": "templates/macro-section-portrait.json",
+    "sha256": "c6426309933fc47491b05626e11b6d21ece59e9e5e70ba996a5e83e3e0ae3323"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/tall-page-section.json",
+    "archivePath": "templates/tall-page-section.json",
+    "sha256": "fbda0b18b2cbb363b8cb8468a7fbbfab402e1b6feb0618f95ce8261b2e8a482f"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/textured-component-field.json",
+    "archivePath": "templates/textured-component-field.json",
+    "sha256": "9e36021a00d872c38ab3aa8a93ebb24da5eee0d8fef14173d026e61e4b0b0484"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/layered-component-context.json",
+    "archivePath": "templates/layered-component-context.json",
+    "sha256": "e7f470ef21124ad4f6ca7023503171d00a4736f19d9d171963d202b4fb0af85d"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/three-feature-art-tiles.json",
+    "archivePath": "templates/three-feature-art-tiles.json",
+    "sha256": "5952fdd03f2ba5ffd14b532ab0b55f4f1f1d6fdce0b1b236e90712d001a3bd7f"
+  },
+  {
+    "entry": "composition-atlas",
+    "source": "product-screen-compositions/assets/templates/brand-product-board.json",
+    "archivePath": "templates/brand-product-board.json",
+    "sha256": "9e2c7d5bc06922bccee5e2a274bf11b7aa355bf3372d43569a6557b3ad6281fc"
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "entry": "arco",
+    "source": "output/arco-tech-brand/delivery/01-phone.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "4e552453bfa61467ccd8d2b1f97725b4d362eb1c40bfc97d05c3e391ef9b6de0"
+  },
+  {
+    "entry": "arco",
+    "source": "output/arco-tech-brand/delivery/02-auditorium.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "fe22d0783ccd14039f08792c5407928e9db4fdaf85f1889a77fb095c3c22b086"
+  },
+  {
+    "entry": "arco",
+    "source": "output/arco-tech-brand/delivery/03-social-cards.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "d121d29705a2f2e2e0020eeca0c575033a8590f91c2af26607fcc25234da08e4"
+  },
+  {
+    "entry": "arco",
+    "source": "output/arco-tech-brand/delivery/04-laptop-sticker.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "46331831076c7955cbbe4a6fb6442a0c54f3aced208f43f3b36e4e5a46b13d2b"
+  },
+  {
+    "entry": "aster-oak",
+    "source": "output/aster-and-oak-4k/delivery/01-pouches-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "75715cad345b4189e8ffaa1b2177f97159051b86f86908640ff1dbb05ee4f795"
+  },
+  {
+    "entry": "aster-oak",
+    "source": "output/aster-and-oak-4k/delivery/02-stacked-cards-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "d3156d68b7e6f7cfb6de44c0ce3406aab5fe715f3ae596ea61a7461abdb7ca6e"
+  },
+  {
+    "entry": "aster-oak",
+    "source": "output/aster-and-oak-4k/delivery/03-sachets-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "b5c530bf4312594d87a2ddd07f347eee3e610fd7aea7104c8e5ed9e118f717f0"
+  },
+  {
+    "entry": "aster-oak",
+    "source": "output/aster-and-oak-4k/delivery/04-logo-profile-panels-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "221a7ef821ff7b889c950b5b6490025c47e38cc23128e4bdf97bdfc7d6c92358"
+  },
+  {
+    "entry": "aster-oak",
+    "source": "output/aster-and-oak-4k/delivery/05-held-profile-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "9020dce1a339d6462b281b8b98e2e93213e586632bb5a33d143a011454e66dec"
+  },
+  {
+    "entry": "sidequest",
+    "source": "output/sidequest-app-mockups/renders/sidequest-explore-forward.png",
+    "width": 1449,
+    "height": 1085,
+    "sha256": "3a8e748fc45f039e027c21dbf129d89d6b6c6488e16b2e57b9afe51c7695476b"
+  },
+  {
+    "entry": "sidequest",
+    "source": "output/sidequest-app-mockups/renders/sidequest-route-pov.png",
+    "width": 1449,
+    "height": 1085,
+    "sha256": "d7d7aaab1c6a3a722da58da06fa835da6827876d2b3f607c40e92f9bd124fabb"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/morrow-atmospheric-hero/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "2896ca96233883991edb6530fbec43527be6551888247cef532ef9e0236444ed"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/morrow-macro-closeup/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "c6ba2970f9fa4c05ba97dd572d93165ca0734b3cb39363206553fd95543ab009"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/morrow-macro-detail/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "a860f1202dab2d368e7d6824cf20b2b7b1d8cbb596191677eaa7e5fbe6e5af54"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/morrow-paired-workflow/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "dfe8ff12d0f9b537a707fb23e13347560982e1e61a9d90da726751f9af7294d1"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/morrow-quiet-feature/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "5ba828a77c6f08b2527803ee2f907a206699bf23cd3ee2486b8766907e8f22dd"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/relay-atmospheric-hero/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "b746b9d3d3ec640487caf38ba0e502dd7924c3f92300a593bc0a44ca5b0ad242"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/relay-macro-closeup/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "abe0cfa2b2f61a6a5ed5913b2519c3c82161f3a181e855ef6d13a00c9d5c8b88"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/relay-macro-detail/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "3c6a1d118ea9677f84c1dbcf9b96863c3ae98e57ea5c2f930d41ae9a578045ea"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/relay-paired-workflow/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "f0e5856ce9ef8a6ac610b73b01f83dcc2c020cdf9429dc418f89f16ea44cd05a"
+  },
+  {
+    "entry": "product-screens",
+    "source": "output/product-screen-system/renders/relay-quiet-feature/render.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "3883b672580961add201e655b35e92097f9b4a3d35b9c2da935d882dd38f6e2f"
+  },
+  {
+    "entry": "relay-five-shots",
+    "source": "output/five-shot-proof/final/01-operational-closeup.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "a6ce50f8c62866395c1a8b29e2f4af4abce505dc2bc53b308523f5d54419c3fd"
+  },
+  {
+    "entry": "relay-five-shots",
+    "source": "output/five-shot-proof/final/02-quiet-feature.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "d170835d70a8b65048094acfdb1d0903aa4f35e7b348891c9e552b592970ba1d"
+  },
+  {
+    "entry": "relay-five-shots",
+    "source": "output/five-shot-proof/final/03-dark-feature-study.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "dd13944028df13824d1a3ea094f58fbcf532587b32688b70f657f7bd704ec4f6"
+  },
+  {
+    "entry": "relay-five-shots",
+    "source": "output/five-shot-proof/final/04-graphic-workflow.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "024d88c9df837f0f6e3f1ea087c7f8755b15d55491eb236f012da660063475c8"
+  },
+  {
+    "entry": "relay-five-shots",
+    "source": "output/five-shot-proof/final/05-product-mosaic.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "390ec3e3b2f1cceff1e925845d7bd536d9c7ca41fa63bd74127b4d38cae59acf"
+  },
+  {
+    "entry": "relay-nature",
+    "source": "output/nature-shots/final/06-misty-forest.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "c1269807f0096270a229a9e385ebc77c40d694af2c7a19e18295cb2cb6a0d433"
+  },
+  {
+    "entry": "relay-nature",
+    "source": "output/nature-shots/final/07-golden-coast.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "1a9ebd8979ade1fa30636733cf34c3edbd4a8addf5da60009441bf3e23111b96"
+  },
+  {
+    "entry": "relay-illustrated",
+    "source": "output/preference-examples/final/01-painted-meadow.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "923ab28c97a563db204e3682a839eeccb960c213eb46d20bc20ddf6a5f1bf89d"
+  },
+  {
+    "entry": "relay-illustrated",
+    "source": "output/preference-examples/final/02-editorial-canopy.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "0b849ec7870a8d044e4a76d9cbe4ee080cc6d3f2c7b799879ebb309f719e7333"
+  },
+  {
+    "entry": "relay-viewport",
+    "source": "output/viewport-correction/final/01-wide-app.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "12b0544abbe069674f7805254be6112400b80e8ce426cb36db9917774e3e7673"
+  },
+  {
+    "entry": "relay-viewport",
+    "source": "output/viewport-correction/final/02-content-macro.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "6121054cd566ee54405835f00543c0d1c96f1a112d31fda2c727a6ff175f8df7"
+  },
+  {
+    "entry": "relay-viewport",
+    "source": "output/viewport-correction/final/shot-map.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "7ca5863e113c1e93daea36104808d5d5b9f16d7e89bdf461ae0e9be70caa9e27"
+  },
+  {
+    "entry": "coffee",
+    "source": "output/coffee-cup-examples-v2/field-example.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "b458ad740eabce76a7c3e3b208d583c54d8ee05ec1535acbf4f7abe422bf752d"
+  },
+  {
+    "entry": "coffee",
+    "source": "output/coffee-cup-examples-v2/daybreak-example.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "221f3deb5239e374b258ab5def655ad421faafac53073524a0c6e7f3559eb8ad"
+  },
+  {
+    "entry": "grove",
+    "source": "output/grove-tote-logo/grove-tote.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "8c69aea611a85935ce7becd68f7fd1a956789c8c9582d162d09af67de925b02c"
+  },
+  {
+    "entry": "grove",
+    "source": "output/grove-tote-logo/logo-detail.png",
+    "width": 355,
+    "height": 265,
+    "sha256": "b34e24da352fb174c69a67114b2226cc063bc779a8fe5a43a46e1e4f79b1e8be"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/01-gradient-title.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "9e02a9307b6feb796a22e74bfbddec90388bbafec48a85da1e3caf4f932e4cac"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/02-logo-scale-and-dock.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "aff953cd26e559dda5b629a41b2aaf0910694a48fb6e1ed67bf7aad7d0c40d60"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/03-metal-display-closeup.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "191b157507e2f62c383b7bdba68b78e1b503eb5451584ca56ec9d58d55c0b688"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/04-fleece-jacket.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "13352e5bb81ba1f3c9e72bb456926378503727862ca709985e49cfe7c2c92194"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/05-browser-closeup.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "14a020cf3f8b1122b599af849ef8cbb17e0d78a49c0ba730cab304e878e568bd"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/06-stacked-landscape-cards.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "dd4b01eec86d0309752987ed1da41a2501d737bc70ed9a6f7338e95d8db42f66"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/07-mint-border-title.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "38328a12721dd45c55ee99477d85a2cc89fc469b62bb02505a8e422c939da796"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/08-profile-and-logo-scale.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "c5a2352e47b268e1504118974e73d158a12f0363dbba0cd327f4273874701117"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/09-metal-lanyard-badge.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "c343c5f374f37208d41f7e283ba127be89022618b8668b529a7b2ab803fb7517"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/10-handheld-tablet.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "4be4183fd5caf3fad47881a86b47ee3d1414ad559e00be0907ba146ecbc556f7"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/11-three-social-posts.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "b21b1e112bdda4370b080cb57cc44e5758df97eb5ff451e3ef49d1eed1700126"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/12-three-app-dock.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "9c5063a4bd883f4bf357698a9d5a405f7c9dc4721816651ece91922231a13303"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/13-logo-and-profile-panels.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "6c57c0256a2c8ca6e567ce44aa31968cb0041ad6788367356e6945149f00cbb6"
+  },
+  {
+    "entry": "showcase-templates",
+    "source": "output/showcases/plates/14-gradient-partnership-card.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "322dc93a875dcf9a34545c102c7897eef3d3d78a018f67254d8222cf5eb6d3c4"
+  }
+]

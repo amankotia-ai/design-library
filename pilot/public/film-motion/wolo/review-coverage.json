@@ -1,0 +1,512 @@
+{
+  "reviewed_on": "2026-11-11",
+  "source_page": "https://wolo.digital/work/",
+  "method": "Full-duration sampled thumbnail review at 3.75 to 5 samples per second; selected consecutive-frame transition windows. All listed sheets visually inspected.",
+  "original_speed_playback": "not_performed",
+  "audio_listening": "not_performed",
+  "native_resolution_review": "one Worm still; no full native-resolution review",
+  "assets": [
+    {
+      "slug": "slash-global",
+      "title": "Slash Global",
+      "duration_seconds": 27.008,
+      "sha256": "4efd54273f3054859798b30036137107aae93f38771912402341e8d097f2db9e",
+      "decoded_frames": 648,
+      "unique_frames_visually_inspected": 168,
+      "studies": [
+        {
+          "path": "studies/slash-global",
+          "kind": "overview",
+          "step": 6,
+          "selected_frames": 108,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 648,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 26.75,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/slash-global/sheets/00000.jpg",
+            "studies/slash-global/sheets/00001.jpg",
+            "studies/slash-global/sheets/00002.jpg",
+            "studies/slash-global/sheets/00003.jpg",
+            "studies/slash-global/sheets/00004.jpg"
+          ]
+        },
+        {
+          "path": "studies/slash-global-window-grid",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 72,
+          "source_frame_start": 60,
+          "source_frame_end_exclusive": 132,
+          "first_selected_pts": 2.5,
+          "last_selected_pts": 5.458333,
+          "thumbnail_width": 480,
+          "inspected_sheets": [
+            "studies/slash-global-window-grid/sheets/00000.jpg",
+            "studies/slash-global-window-grid/sheets/00001.jpg",
+            "studies/slash-global-window-grid/sheets/00002.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "velo",
+      "title": "Velo",
+      "duration_seconds": 36.223129,
+      "sha256": "5987d00bf889ab527702c9396d64ed8f10b151fc7ca125ca85bf047e8196febf",
+      "decoded_frames": 868,
+      "unique_frames_visually_inspected": 205,
+      "studies": [
+        {
+          "path": "studies/velo",
+          "kind": "overview",
+          "step": 6,
+          "selected_frames": 145,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 868,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 36.0,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/velo/sheets/00000.jpg",
+            "studies/velo/sheets/00001.jpg",
+            "studies/velo/sheets/00002.jpg",
+            "studies/velo/sheets/00003.jpg",
+            "studies/velo/sheets/00004.jpg",
+            "studies/velo/sheets/00005.jpg"
+          ]
+        },
+        {
+          "path": "studies/velo-window-logo",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 72,
+          "source_frame_start": 84,
+          "source_frame_end_exclusive": 156,
+          "first_selected_pts": 3.5,
+          "last_selected_pts": 6.458333,
+          "thumbnail_width": 480,
+          "inspected_sheets": [
+            "studies/velo-window-logo/sheets/00000.jpg",
+            "studies/velo-window-logo/sheets/00001.jpg",
+            "studies/velo-window-logo/sheets/00002.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "slash-4-july",
+      "title": "Slash \u2014 4th of July",
+      "duration_seconds": 44.778,
+      "sha256": "6403b4e04f7e1675a59acf57cfaa941c44da7c1381460ba7b9606f1933c93cbb",
+      "decoded_frames": 1343,
+      "unique_frames_visually_inspected": 231,
+      "studies": [
+        {
+          "path": "studies/slash-4-july",
+          "kind": "overview",
+          "step": 8,
+          "selected_frames": 168,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 1343,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 44.533333,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/slash-4-july/sheets/00000.jpg",
+            "studies/slash-4-july/sheets/00001.jpg",
+            "studies/slash-4-july/sheets/00002.jpg",
+            "studies/slash-4-july/sheets/00003.jpg",
+            "studies/slash-4-july/sheets/00004.jpg",
+            "studies/slash-4-july/sheets/00005.jpg",
+            "studies/slash-4-july/sheets/00006.jpg"
+          ]
+        },
+        {
+          "path": "studies/slash-4-july-window-type",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 72,
+          "source_frame_start": 1180,
+          "source_frame_end_exclusive": 1252,
+          "first_selected_pts": 39.333333,
+          "last_selected_pts": 41.7,
+          "thumbnail_width": 480,
+          "inspected_sheets": [
+            "studies/slash-4-july-window-type/sheets/00000.jpg",
+            "studies/slash-4-july-window-type/sheets/00001.jpg",
+            "studies/slash-4-july-window-type/sheets/00002.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "spacex",
+      "title": "SpaceX IPO",
+      "duration_seconds": 39.893,
+      "sha256": "8cfc9d325414698489ec1f819451551a5c04458b1cbe85f1e981eeaa32bf1171",
+      "decoded_frames": 1195,
+      "unique_frames_visually_inspected": 222,
+      "studies": [
+        {
+          "path": "studies/spacex",
+          "kind": "overview",
+          "step": 7,
+          "selected_frames": 171,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 1195,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 39.706333,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/spacex/sheets/00000.jpg",
+            "studies/spacex/sheets/00001.jpg",
+            "studies/spacex/sheets/00002.jpg",
+            "studies/spacex/sheets/00003.jpg",
+            "studies/spacex/sheets/00004.jpg",
+            "studies/spacex/sheets/00005.jpg",
+            "studies/spacex/sheets/00006.jpg"
+          ]
+        },
+        {
+          "path": "windows/spacex-type-mask",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 60,
+          "source_frame_start": 735,
+          "source_frame_end_exclusive": 795,
+          "first_selected_pts": 24.5245,
+          "last_selected_pts": 26.493133,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "windows/spacex-type-mask/sheets/00000.jpg",
+            "windows/spacex-type-mask/sheets/00001.jpg",
+            "windows/spacex-type-mask/sheets/00002.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "slash-cornbread",
+      "title": "Slash \u2014 Cornbread",
+      "duration_seconds": 77.013,
+      "sha256": "b5eed8db2721210ebcabe0b5ce5276a4ddaeef8e6d06215dd94587e660c76be6",
+      "decoded_frames": 1847,
+      "unique_frames_visually_inspected": 348,
+      "studies": [
+        {
+          "path": "studies/slash-cornbread",
+          "kind": "overview",
+          "step": 6,
+          "selected_frames": 308,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 1847,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 76.75,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/slash-cornbread/sheets/00000.jpg",
+            "studies/slash-cornbread/sheets/00001.jpg",
+            "studies/slash-cornbread/sheets/00002.jpg",
+            "studies/slash-cornbread/sheets/00003.jpg",
+            "studies/slash-cornbread/sheets/00004.jpg",
+            "studies/slash-cornbread/sheets/00005.jpg",
+            "studies/slash-cornbread/sheets/00006.jpg",
+            "studies/slash-cornbread/sheets/00007.jpg",
+            "studies/slash-cornbread/sheets/00008.jpg",
+            "studies/slash-cornbread/sheets/00009.jpg",
+            "studies/slash-cornbread/sheets/00010.jpg",
+            "studies/slash-cornbread/sheets/00011.jpg",
+            "studies/slash-cornbread/sheets/00012.jpg"
+          ]
+        },
+        {
+          "path": "windows/slash-cornbread-collage-reveal",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 48,
+          "source_frame_start": 144,
+          "source_frame_end_exclusive": 192,
+          "first_selected_pts": 6.0,
+          "last_selected_pts": 7.958333,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "windows/slash-cornbread-collage-reveal/sheets/00000.jpg",
+            "windows/slash-cornbread-collage-reveal/sheets/00001.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nsave-referrals",
+      "title": "Nsave Referrals",
+      "duration_seconds": 39.829,
+      "sha256": "e759279b028e4cbf3e61ff61ccaec1145dd7724da2f2ce14d8509575ae2750c8",
+      "decoded_frames": 2389,
+      "unique_frames_visually_inspected": 272,
+      "studies": [
+        {
+          "path": "studies/nsave-referrals",
+          "kind": "overview",
+          "step": 15,
+          "selected_frames": 160,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 2389,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 39.75,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/nsave-referrals/sheets/00000.jpg",
+            "studies/nsave-referrals/sheets/00001.jpg",
+            "studies/nsave-referrals/sheets/00002.jpg",
+            "studies/nsave-referrals/sheets/00003.jpg",
+            "studies/nsave-referrals/sheets/00004.jpg",
+            "studies/nsave-referrals/sheets/00005.jpg",
+            "studies/nsave-referrals/sheets/00006.jpg"
+          ]
+        },
+        {
+          "path": "windows/nsave-referrals-referral-tree",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 120,
+          "source_frame_start": 450,
+          "source_frame_end_exclusive": 570,
+          "first_selected_pts": 7.5,
+          "last_selected_pts": 9.483333,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "windows/nsave-referrals-referral-tree/sheets/00000.jpg",
+            "windows/nsave-referrals-referral-tree/sheets/00001.jpg",
+            "windows/nsave-referrals-referral-tree/sheets/00002.jpg",
+            "windows/nsave-referrals-referral-tree/sheets/00003.jpg",
+            "windows/nsave-referrals-referral-tree/sheets/00004.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "worm-launch",
+      "title": "Worm Launch",
+      "duration_seconds": 50.41,
+      "sha256": "c8d50b466520e2b916d567448eb98ce18ff60205d19a657f9d78ddbcc7370e87",
+      "decoded_frames": 1512,
+      "unique_frames_visually_inspected": 375,
+      "studies": [
+        {
+          "path": "studies/worm-launch",
+          "kind": "overview",
+          "step": 6,
+          "selected_frames": 252,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 1512,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 50.2,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/worm-launch/sheets/00000.jpg",
+            "studies/worm-launch/sheets/00001.jpg",
+            "studies/worm-launch/sheets/00002.jpg",
+            "studies/worm-launch/sheets/00003.jpg",
+            "studies/worm-launch/sheets/00004.jpg",
+            "studies/worm-launch/sheets/00005.jpg",
+            "studies/worm-launch/sheets/00006.jpg",
+            "studies/worm-launch/sheets/00007.jpg",
+            "studies/worm-launch/sheets/00008.jpg",
+            "studies/worm-launch/sheets/00009.jpg",
+            "studies/worm-launch/sheets/00010.jpg"
+          ]
+        },
+        {
+          "path": "windows/worm-leverage",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 45,
+          "source_frame_start": 675,
+          "source_frame_end_exclusive": 720,
+          "first_selected_pts": 22.5,
+          "last_selected_pts": 23.966667,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "windows/worm-leverage/sheets/00000.jpg",
+            "windows/worm-leverage/sheets/00001.jpg"
+          ]
+        },
+        {
+          "path": "windows/worm-identity",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 102,
+          "source_frame_start": 1290,
+          "source_frame_end_exclusive": 1392,
+          "first_selected_pts": 43.0,
+          "last_selected_pts": 46.366667,
+          "thumbnail_width": 240,
+          "inspected_sheets": [
+            "windows/worm-identity/sheets/00000.jpg",
+            "windows/worm-identity/sheets/00001.jpg",
+            "windows/worm-identity/sheets/00002.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "okbet-launch",
+      "title": "Okbet Launch",
+      "duration_seconds": 37.674,
+      "sha256": "547deabd3a1464a71ae3b81e6de677b1efb9f072a7e62e555bb58fe0c23a63df",
+      "decoded_frames": 904,
+      "unique_frames_visually_inspected": 171,
+      "studies": [
+        {
+          "path": "studies/okbet-launch",
+          "kind": "overview",
+          "step": 6,
+          "selected_frames": 151,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 904,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 37.5,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/okbet-launch/sheets/00000.jpg",
+            "studies/okbet-launch/sheets/00001.jpg",
+            "studies/okbet-launch/sheets/00002.jpg",
+            "studies/okbet-launch/sheets/00003.jpg",
+            "studies/okbet-launch/sheets/00004.jpg",
+            "studies/okbet-launch/sheets/00005.jpg",
+            "studies/okbet-launch/sheets/00006.jpg"
+          ]
+        },
+        {
+          "path": "windows/okbet-phone-turn",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 24,
+          "source_frame_start": 324,
+          "source_frame_end_exclusive": 348,
+          "first_selected_pts": 13.5,
+          "last_selected_pts": 14.458333,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "windows/okbet-phone-turn/sheets/00000.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hyperdash-ui",
+      "title": "Hyperdash",
+      "duration_seconds": 76.928,
+      "sha256": "f6c095377455fa7bfe3bfaa78f435af86c86ad2ebdd806686fb4732648b37ae5",
+      "decoded_frames": 1846,
+      "unique_frames_visually_inspected": 348,
+      "studies": [
+        {
+          "path": "studies/hyperdash-ui",
+          "kind": "overview",
+          "step": 6,
+          "selected_frames": 308,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 1846,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 76.75,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/hyperdash-ui/sheets/00000.jpg",
+            "studies/hyperdash-ui/sheets/00001.jpg",
+            "studies/hyperdash-ui/sheets/00002.jpg",
+            "studies/hyperdash-ui/sheets/00003.jpg",
+            "studies/hyperdash-ui/sheets/00004.jpg",
+            "studies/hyperdash-ui/sheets/00005.jpg",
+            "studies/hyperdash-ui/sheets/00006.jpg",
+            "studies/hyperdash-ui/sheets/00007.jpg",
+            "studies/hyperdash-ui/sheets/00008.jpg",
+            "studies/hyperdash-ui/sheets/00009.jpg",
+            "studies/hyperdash-ui/sheets/00010.jpg",
+            "studies/hyperdash-ui/sheets/00011.jpg",
+            "studies/hyperdash-ui/sheets/00012.jpg"
+          ]
+        },
+        {
+          "path": "windows/hyperdash-heatmap",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 48,
+          "source_frame_start": 240,
+          "source_frame_end_exclusive": 288,
+          "first_selected_pts": 10.0,
+          "last_selected_pts": 11.958333,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "windows/hyperdash-heatmap/sheets/00000.jpg",
+            "windows/hyperdash-heatmap/sheets/00001.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pvp-hyperdash",
+      "title": "PVP \u00d7 Hyperdash",
+      "duration_seconds": 45.76,
+      "sha256": "e038f0c95fde8b2891531118e9d0432b02996a62729d0fd3cc03ccc040ca4c53",
+      "decoded_frames": 1098,
+      "unique_frames_visually_inspected": 213,
+      "studies": [
+        {
+          "path": "studies/pvp-hyperdash",
+          "kind": "overview",
+          "step": 6,
+          "selected_frames": 183,
+          "source_frame_start": 0,
+          "source_frame_end_exclusive": 1098,
+          "first_selected_pts": 0.0,
+          "last_selected_pts": 45.5,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "studies/pvp-hyperdash/sheets/00000.jpg",
+            "studies/pvp-hyperdash/sheets/00001.jpg",
+            "studies/pvp-hyperdash/sheets/00002.jpg",
+            "studies/pvp-hyperdash/sheets/00003.jpg",
+            "studies/pvp-hyperdash/sheets/00004.jpg",
+            "studies/pvp-hyperdash/sheets/00005.jpg",
+            "studies/pvp-hyperdash/sheets/00006.jpg",
+            "studies/pvp-hyperdash/sheets/00007.jpg"
+          ]
+        },
+        {
+          "path": "windows/pvp-screen-entry",
+          "kind": "consecutive_window",
+          "step": 1,
+          "selected_frames": 36,
+          "source_frame_start": 312,
+          "source_frame_end_exclusive": 348,
+          "first_selected_pts": 13.0,
+          "last_selected_pts": 14.458333,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "windows/pvp-screen-entry/sheets/00000.jpg",
+            "windows/pvp-screen-entry/sheets/00001.jpg"
+          ]
+        }
+      ]
+    }
+  ],
+  "group_records": [
+    "review-group-a.json",
+    "review-group-b.json",
+    "review-group-c.json",
+    "review-group-d.json"
+  ],
+  "totals": {
+    "full_films": 10,
+    "container_duration_seconds": 475.516129,
+    "decoded_frames": 13650,
+    "overview_samples": 1954,
+    "consecutive_window_samples": 699,
+    "unique_source_frames_visually_inspected": 2553,
+    "inspected_sheets": 113,
+    "consecutive_windows": 11
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "reviewed_on": "2026-11-11",
+  "films": [
+    {
+      "slug": "hyperdash-ui",
+      "decoded_frames": 1846,
+      "selected_frames": 308,
+      "step": 6,
+      "thumbnail_width": 320,
+      "inspected_sheets": [
+        "studies/hyperdash-ui/sheets/00000.jpg",
+        "studies/hyperdash-ui/sheets/00001.jpg",
+        "studies/hyperdash-ui/sheets/00002.jpg",
+        "studies/hyperdash-ui/sheets/00003.jpg",
+        "studies/hyperdash-ui/sheets/00004.jpg",
+        "studies/hyperdash-ui/sheets/00005.jpg",
+        "studies/hyperdash-ui/sheets/00006.jpg",
+        "studies/hyperdash-ui/sheets/00007.jpg",
+        "studies/hyperdash-ui/sheets/00008.jpg",
+        "studies/hyperdash-ui/sheets/00009.jpg",
+        "studies/hyperdash-ui/sheets/00010.jpg",
+        "studies/hyperdash-ui/sheets/00011.jpg",
+        "studies/hyperdash-ui/sheets/00012.jpg"
+      ],
+      "first_sample_pts": 0.0,
+      "last_sample_pts": 76.75,
+      "visual_review": "all overview samples inspected",
+      "playback": "not_performed",
+      "audio": "not_performed",
+      "native_resolution_review": "not_performed"
+    },
+    {
+      "slug": "pvp-hyperdash",
+      "decoded_frames": 1098,
+      "selected_frames": 183,
+      "step": 6,
+      "thumbnail_width": 320,
+      "inspected_sheets": [
+        "studies/pvp-hyperdash/sheets/00000.jpg",
+        "studies/pvp-hyperdash/sheets/00001.jpg",
+        "studies/pvp-hyperdash/sheets/00002.jpg",
+        "studies/pvp-hyperdash/sheets/00003.jpg",
+        "studies/pvp-hyperdash/sheets/00004.jpg",
+        "studies/pvp-hyperdash/sheets/00005.jpg",
+        "studies/pvp-hyperdash/sheets/00006.jpg",
+        "studies/pvp-hyperdash/sheets/00007.jpg"
+      ],
+      "first_sample_pts": 0.0,
+      "last_sample_pts": 45.5,
+      "visual_review": "all overview samples inspected",
+      "playback": "not_performed",
+      "audio": "not_performed",
+      "native_resolution_review": "not_performed"
+    }
+  ],
+  "windows": [
+    {
+      "id": "hyperdash-heatmap",
+      "start_frame": 240,
+      "end_frame_exclusive": 288,
+      "selected_frames": 48,
+      "inspected_sheets": [
+        "windows/hyperdash-heatmap/sheets/00000.jpg",
+        "windows/hyperdash-heatmap/sheets/00001.jpg"
+      ]
+    },
+    {
+      "id": "pvp-screen-entry",
+      "start_frame": 312,
+      "end_frame_exclusive": 348,
+      "selected_frames": 36,
+      "inspected_sheets": [
+        "windows/pvp-screen-entry/sheets/00000.jpg",
+        "windows/pvp-screen-entry/sheets/00001.jpg"
+      ]
+    }
+  ]
+}

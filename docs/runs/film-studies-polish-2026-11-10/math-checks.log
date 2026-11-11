@@ -1,0 +1,59 @@
+
+> design-library-pilot@0.1.0 check:film
+> node scripts/check-film-library.mjs && node scripts/check-film-math.mjs
+
+81 entries, all14 roles, source inventory, and portable download verified.
+✓ authored graph produces a concrete centered, settled proof
+✓ random seeking is pure and repeatable
+✓ forward derivatives match centered finite differences away from kinks
+✓ exact cuts are right-continuous with undefined time derivative at the cut
+✓ smooth cut changes the state and yields finite derivatives
+✓ responsive minimum reports its derivative kink instead of inventing a slope
+✓ point intervals collapse to evaluated field values
+✓ intervals enclose deterministic samples, including cuts and layout regime changes
+✓ safe settled proof and actual narrow-width violation are distinguished
+✓ coarse interval dependency ambiguity remains unresolved, not falsely proved
+✓ exposure bounds enclose the known settled duration and tighten to tolerance
+✓ integration budget exhaustion is reported honestly
+✓ invalid parameters and interval requests fail clearly
+✓ chart data is a sampled view of the same graph
+
+14 film-math checks passed. Interval claims remain conditional on real arithmetic; tests do not establish typography or audience comprehension.
+
+> design-library-pilot@0.1.0 check:studies
+> node scripts/check-film-motion.mjs && node scripts/check-film-timing.mjs && node scripts/check-film-studies.mjs
+
+✓ spring initial conditions and undamped limit
+✓ spring analytic velocity and acceleration match finite differences
+✓ spring seeks repeatably and rejects unsupported critical/overdamped domain
+✓ Bézier endpoints and endpoint tangents are exact
+✓ Bézier first and second derivatives match finite differences
+✓ straight equally spaced control points give constant parametric speed
+✓ perspective derivative and translation invariants
+✓ matching aspect with no zoom retains the complete source
+✓ cover fits without letterboxing across aspect, anchor and zoom extremes
+✓ a narrow edge anchor can crop the protected region out completely
+✓ nonfinite and boolean inputs are not accepted as geometric parameters
+
+11 motion/camera/crop checks passed. These verify the authored models, not artistic quality.
+✓ source → program respects trim, placement and rate
+✓ partly trimmed word retains only actual overlap
+✓ removed onset cannot produce a timing offset
+✓ picture timing uses nearest frame in seconds
+✓ word count handles punctuation, apostrophes and Unicode
+✓ reading opportunity intersects intervals and keeps a deficit
+✓ no overlap gives zero opportunity; empty caption has no requirement
+✓ decibel amplitude is exponential
+✓ coherent sine addition includes cross-term RMS
+✓ opposite coherent sines cancel
+✓ orthogonal complete periods give sum-of-power RMS
+✓ DC component is integrated without division by zero
+✓ finite-window analytic RMS agrees with independent quadrature
+✓ hard limiter bounds each plotted output
+✓ alias wraps frequency and preserves signed direction
+✓ original and aliased sine/cosine agree at every frame
+✓ playhead sample uses last actual frame
+✓ invalid ranges and nonfinite inputs fail explicitly
+✓ finite inputs that overflow and playheads past the edit are rejected
+19 film timing checks passed.
+All nine study routes, eight guides, downloadable math sources and relevant-guide links verified.

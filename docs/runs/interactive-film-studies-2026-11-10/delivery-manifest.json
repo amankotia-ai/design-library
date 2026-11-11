@@ -1,0 +1,105 @@
+{
+  "target": "/Users/abhishekmankotia/Documents/ChatGPT/Design Library/pilot",
+  "files": [
+    {
+      "path": "package.json",
+      "sha256": "e0da8b1d9c8b0ee71a3540f6b5cdc3cd835227b6a1b8615ac93da76e2faf575e"
+    },
+    {
+      "path": "src/film-library.jsx",
+      "sha256": "0a1156bbc98fe307e837dc3c2b541b93eb93a8afb8092fd6a9eac16b8cced698"
+    },
+    {
+      "path": "src/film-data.json",
+      "sha256": "3fd0651adad38ba7600b96ff40da2fd19d4e2627c50ddb1dfe0bc6d9850398b1"
+    },
+    {
+      "path": "src/film-study-ui.jsx",
+      "sha256": "7910548804887c601747dadf2a9060f5670191b88790e038c2226df536cb2955"
+    },
+    {
+      "path": "src/film-studies.jsx",
+      "sha256": "624d355c92487fa412b7afd15acf216616f697769b1e7c8db5737bba28b56af9"
+    },
+    {
+      "path": "src/film-studies.css",
+      "sha256": "5d0270970c390cff8fba3af2f70957a072ecd3c46f462de603de2dc0839faad8"
+    },
+    {
+      "path": "src/film-study-registry.js",
+      "sha256": "fdbbe13d14cae26ae70e3317da20d808081083afa298f0165b6f74e8a2a673d6"
+    },
+    {
+      "path": "src/film-motion-math.js",
+      "sha256": "bf5121ebf3b5fc2c7a14dbe5086bd2a0ef0e2337d2a868ade30f376b3490e783"
+    },
+    {
+      "path": "src/film-motion-studies.jsx",
+      "sha256": "b0a185d2f624715fa35e1cc1d288d1e03662dffea8049127bfc665f41851a941"
+    },
+    {
+      "path": "src/film-timing-math.js",
+      "sha256": "1d2ccf9df240c0e33522e7f1da294ba87b9eef0af642f755a6e0d0cea87963d3"
+    },
+    {
+      "path": "src/film-timing-studies.jsx",
+      "sha256": "b244b834e3674b66bf6f7e6f7e9b8af98416aac21a8b97f40c96a5cd5656c315"
+    },
+    {
+      "path": "scripts/check-film-motion.mjs",
+      "sha256": "888422e0cd57f8d90bd2c0c5ce576076708659167048962288f524b637a4b634"
+    },
+    {
+      "path": "scripts/check-film-timing.mjs",
+      "sha256": "16fa3f216fcc204c4042e9670b7e6ea60f20217c096e32b0bac77e3b16b8f4fb"
+    },
+    {
+      "path": "scripts/check-film-studies.mjs",
+      "sha256": "ca99c44884b406960960a4952f3fe239131beaca5e3befc6277832f6329431c0"
+    },
+    {
+      "path": "public/film-motion/manifest.json",
+      "sha256": "1ea80979aa342ddf2a78d8d0463f5405b50d328aa2961d09a8763a7cb30d5ed5"
+    },
+    {
+      "path": "public/film-motion/studies/film-timing-math.js",
+      "sha256": "1d2ccf9df240c0e33522e7f1da294ba87b9eef0af642f755a6e0d0cea87963d3"
+    },
+    {
+      "path": "public/film-motion/studies/bezier-paths.md",
+      "sha256": "963b5ed47dfd4ffb7d04ee73c4e75b2469af5eac25d2c589960d5b71044f805e"
+    },
+    {
+      "path": "public/film-motion/studies/film-motion-math.js",
+      "sha256": "bf5121ebf3b5fc2c7a14dbe5086bd2a0ef0e2337d2a868ade30f376b3490e783"
+    },
+    {
+      "path": "public/film-motion/studies/sound-mixing.md",
+      "sha256": "5a0feded4efed005d222231bc5d05d07546ebaf2b2bd007fa8607f3f61348fe4"
+    },
+    {
+      "path": "public/film-motion/studies/reading-window.md",
+      "sha256": "d5f31613990d6a501b75a761acfb34ee3e8d90434ca9d9d06d4337094ef60fef"
+    },
+    {
+      "path": "public/film-motion/studies/sampling-aliasing.md",
+      "sha256": "f43a8f02f5149a4016a4b0433f1fa06176a8178ddfd148beda65bf7afa061989"
+    },
+    {
+      "path": "public/film-motion/studies/camera-parallax.md",
+      "sha256": "460dffe8ef8fdedadefe37110caa41ceae860f97df2f7061e0e41f61c9345df6"
+    },
+    {
+      "path": "public/film-motion/studies/spring-motion.md",
+      "sha256": "cf524df7c6adb3c8cfb3a21d83ddb9bfefc51342651fcc138a59f8450e0e1334"
+    },
+    {
+      "path": "public/film-motion/studies/speech-timing.md",
+      "sha256": "13d192204fd51b0337f24c828563e766d4dc50b09d9b566c097b2e811bc3fc66"
+    },
+    {
+      "path": "public/film-motion/studies/framing-crop.md",
+      "sha256": "6aaec6f99ef227526075c2c7678a310a6cf8396cc728506872fc3b320d78d97d"
+    }
+  ]
+}

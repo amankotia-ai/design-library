@@ -1,0 +1,41 @@
+{
+  "target": "/Users/abhishekmankotia/Documents/ChatGPT/Design Library/pilot",
+  "files": [
+    {
+      "path": "src/film-motion-math.js",
+      "sha256": "3459ffa6bcc5e3c760e129fd261a749f5b6859488b22c07af200348ba33da390"
+    },
+    {
+      "path": "src/film-motion-studies.jsx",
+      "sha256": "b3d33fb720cd6220555675492574f697f96b0179e5ab31dd476cad1612bfb497"
+    },
+    {
+      "path": "src/film-study-thumbnails.jsx",
+      "sha256": "193be3f1f2fecb93d61f355cd0f5289a5013053595e675999ade5004f0a9f40e"
+    },
+    {
+      "path": "src/film-study-registry.js",
+      "sha256": "bad08a166a23f6620082f4673a79d578b22f48504bc8177c9072964cb05cba01"
+    },
+    {
+      "path": "src/film-data.json",
+      "sha256": "0dd14540fb376f43a27866debebe9cf44fa610fecd518114db09a20dd1da7166"
+    },
+    {
+      "path": "scripts/check-film-motion.mjs",
+      "sha256": "237c2e4def404c780135429f5e79f511c0072ed66aca053ac8713a339f714201"
+    },
+    {
+      "path": "public/film-motion/studies/film-motion-math.js",
+      "sha256": "3459ffa6bcc5e3c760e129fd261a749f5b6859488b22c07af200348ba33da390"
+    },
+    {
+      "path": "public/film-motion/studies/camera-parallax.md",
+      "sha256": "966bbe0f4449aa6230dd16b50a4d168af4039969201ec9227ffd56a5a79fa362"
+    },
+    {
+      "path": "public/film-motion/manifest.json",
+      "sha256": "a444cd235c3f940bc316ccc72d4c5652c82b833bcf4aff019472d62950091750"
+    }
+  ]
+}

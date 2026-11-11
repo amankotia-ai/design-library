@@ -1,0 +1,10 @@
+{
+  "files": {
+    "src/film-references.jsx": "2ac2b623211e45e8c592234022d0650f590e47f1bf85ae6346e76dce522a9c51",
+    "src/film-references.css": "57fa6345986011a622bf58d3c50d36e0b58f961e698a43e0e49e431bc1132ae5"
+  },
+  "changed": [
+    "src/film-references.jsx"
+  ],
+  "applied": true
+}

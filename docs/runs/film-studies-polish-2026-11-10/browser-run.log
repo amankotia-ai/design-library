@@ -1,0 +1,37 @@
+CAPTURES_READY /Users/abhishekmankotia/Downloads/MovieMaker/studies-polish/evidence
+{
+  "status": "passed",
+  "studies": 8,
+  "equations": 24,
+  "playback": [
+    {
+      "id": "spring-motion",
+      "advanced": 0.45,
+      "play": true,
+      "pause": true,
+      "rewind": true,
+      "scrubPauses": true,
+      "resetPauses": true
+    },
+    {
+      "id": "bezier-paths",
+      "advanced": 0.11,
+      "play": true,
+      "pause": true,
+      "rewind": true,
+      "scrubPauses": true,
+      "resetPauses": true
+    },
+    {
+      "id": "sampling-aliasing",
+      "advanced": 0.075,
+      "play": true,
+      "pause": true,
+      "rewind": true,
+      "scrubPauses": true,
+      "resetPauses": true
+    }
+  ],
+  "screenshots": 45,
+  "errors": []
+}

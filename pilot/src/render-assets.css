@@ -1,0 +1,182 @@
+.render-heading {
+  align-items: end;
+  margin-bottom: 24px;
+}
+
+.render-heading p, .render-summary {
+  color: var(--library-muted);
+  text-wrap: pretty;
+}
+
+.render-heading p {
+  margin: 8px 0 0;
+  max-width: 65ch;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.skill-gallery .detail-back, .render-detail .detail-back {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  margin-bottom: 12px;
+}
+
+.skill-guidance {
+  padding: 0 0 16px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid var(--library-rule);
+}
+
+.skill-guidance summary, .render-source summary {
+  cursor: pointer;
+  padding: 8px 0;
+  min-height: 40px;
+  font-size: 13px;
+  line-height: 24px;
+}
+
+.skill-guidance ol {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px 32px;
+  padding-left: 20px;
+  margin: 12px 0;
+  font-size: 13px;
+  line-height: 22px;
+}
+
+.skill-guidance li p {
+  margin: 4px 0 0;
+  color: var(--library-muted);
+}
+
+.render-meta {
+  color: var(--library-muted);
+  margin: 0;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.render-cards { align-items: start; }
+
+.render-cover, .render-scene-grid figure > a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 16/10;
+  border: 1px solid var(--library-preview-rule);
+  background: var(--library-wash);
+  overflow: hidden;
+}
+
+.render-cover img, .render-scene-grid img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.render-summary {
+  font-size: 13px;
+  line-height: 22px;
+  margin: 8px 0 0;
+}
+
+.render-detail { padding-bottom: 64px; }
+
+.render-detail-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 32px;
+  margin-bottom: 24px;
+}
+
+.render-detail-heading .eyebrow { margin: 0 0 8px; }
+
+.render-detail-heading h1 {
+  font-size: 36px;
+  line-height: 1.2;
+  font-weight: 500;
+  margin: 0 0 16px;
+  text-wrap: balance;
+}
+
+.render-intro {
+  font-size: 16px;
+  line-height: 26px;
+  max-width: 65ch;
+  margin: 0;
+  color: var(--library-muted);
+}
+
+.render-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  flex: none;
+  font-size: 13px;
+}
+
+.render-download, .render-open-study {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  min-height: 44px;
+  padding: 10px 14px;
+  border: 1px solid var(--library-rule);
+}
+
+.render-download:hover, .render-open-study:hover { border-color: var(--library-ink); }
+.render-download span { color: var(--library-muted); font-size: 11px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+.render-context {
+  border-top: 1px solid var(--library-rule);
+  padding-top: 16px;
+  margin: 24px 0 36px;
+  max-width: 90ch;
+  font-size: 13px;
+  line-height: 22px;
+  color: var(--library-muted);
+}
+
+.render-scenes-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px 24px;
+  margin-bottom: 20px;
+}
+
+.render-scenes-heading h2, .render-related h2 { font-size: 18px; font-weight: 500; margin: 0; text-wrap: balance; }
+.render-scenes-heading p { font-size: 11px; color: var(--library-muted); margin: 0; }
+.render-scene-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 24px; }
+.render-scene-grid figure { margin: 0; min-width: 0; }
+.render-scene-grid figcaption { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin-top: 10px; font-size: 12px; line-height: 20px; }
+.render-scene-grid figcaption > span:last-child { white-space: nowrap; color: var(--library-muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.render-source { border-top: 1px solid var(--library-rule); margin-top: 40px; padding-top: 16px; font-size: 13px; line-height: 24px; }
+.render-source p { max-width: 85ch; overflow-wrap: anywhere; color: var(--library-muted); }
+.render-source a, .render-related a { text-decoration: underline; text-underline-offset: 4px; }
+.render-related { display: flex; flex-wrap: wrap; gap: 12px 24px; margin-top: 40px; padding-top: 24px; border-top: 1px solid var(--library-rule); font-size: 13px; }
+.render-related h2 { width: 100%; }
+
+@media (max-width: 1000px) {
+  .render-detail-heading { align-items: start; flex-direction: column; gap: 20px; }
+  .render-actions { flex-direction: row; flex-wrap: wrap; }
+}
+
+@media (max-width: 700px) {
+  .render-heading, .render-scenes-heading { align-items: start; flex-direction: column; }
+  .skill-guidance ol { grid-template-columns: 1fr; }
+  .render-detail-heading h1 { font-size: 30px; }
+  .render-intro { font-size: 14px; line-height: 24px; }
+  .render-actions { width: 100%; }
+  .render-download, .render-open-study { max-width: 100%; gap: 12px; }
+  .render-context { margin-bottom: 28px; }
+  .render-scene-grid { grid-template-columns: 1fr; }
+  .render-scene-grid figcaption { font-size: 11px; }
+  .render-related a { min-height: 32px; }
+}

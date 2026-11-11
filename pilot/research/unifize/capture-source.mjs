@@ -1,0 +1,17 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import {createRequire} from 'node:module';
+const require=createRequire(import.meta.url);
+const {chromium}=require('/Users/abhishekmankotia/.codex/skills/product-screen-compositions/node_modules/playwright');
+const root=process.cwd();const out=path.join(root,'pilot/public/unifize-source');fs.mkdirSync(out,{recursive:true});
+const browser=await chromium.launch({headless:true,channel:'chrome'});const page=await browser.newPage({viewport:{width:1440,height:1000},deviceScaleFactor:1});
+const assets=new Map();const pending=[];
+page.on('response',r=>{const type=r.request().resourceType();if(!['stylesheet','image','font'].includes(type))return;pending.push((async()=>{try{const data=await r.body();const u=new URL(r.url());let ext=path.extname(u.pathname)||({font:'.woff2',image:'.png',stylesheet:'.css'}[type]);if(ext.length>8)ext='.'+type;const name=crypto.createHash('sha1').update(r.url()).digest('hex').slice(0,14)+ext;fs.writeFileSync(path.join(out,name),data);assets.set(r.url(),{url:r.url(),file:name,type,bytes:data.length});}catch{}})())});
+await page.goto('https://www.unifize.com/',{waitUntil:'networkidle',timeout:60000});await page.evaluate(()=>document.fonts.ready);
+const h=await page.evaluate(()=>document.body.scrollHeight);for(let y=0;y<h;y+=800){await page.evaluate(y=>scrollTo(0,y),y);await page.waitForTimeout(60)}await page.evaluate(()=>scrollTo(0,0));await page.waitForTimeout(500);
+await page.screenshot({path:'pilot/public/references/unifize/desktop.png',fullPage:true});await page.screenshot({path:'pilot/public/references/unifize/viewport.png'});
+const data=await page.evaluate(()=>({url:location.href,htmlAttrs:[...document.documentElement.attributes].map(x=>[x.name,x.value]),bodyAttrs:[...document.body.attributes].map(x=>[x.name,x.value]),body:document.body.innerHTML,styles:[...document.querySelectorAll('link[rel=stylesheet]')].map(x=>x.href),inlineStyles:[...document.querySelectorAll('style')].map(x=>x.textContent),sections:[...document.querySelectorAll('header,main>*,footer')].map(x=>({tag:x.tagName,id:x.id,class:x.className,text:x.textContent.slice(0,170),rect:{x:x.getBoundingClientRect().x,y:x.getBoundingClientRect().y,w:x.getBoundingClientRect().width,h:x.getBoundingClientRect().height}})),type:[...document.querySelectorAll('h1,h2,p,button')].slice(0,45).map(x=>({tag:x.tagName,text:x.textContent.slice(0,90),font:getComputedStyle(x).font,fontFamily:getComputedStyle(x).fontFamily,color:getComputedStyle(x).color,letterSpacing:getComputedStyle(x).letterSpacing}))}));
+fs.writeFileSync('pilot/research/unifize/capture.json',JSON.stringify(data,null,2));
+await page.setViewportSize({width:390,height:844});await page.evaluate(()=>scrollTo(0,0));await page.waitForTimeout(200);await page.screenshot({path:'pilot/public/references/unifize/mobile.png',fullPage:true});
+await Promise.all(pending);fs.writeFileSync('pilot/research/unifize/assets.json',JSON.stringify([...assets.values()],null,2));await browser.close();console.log(JSON.stringify({sections:data.sections,assets:assets.size,type:data.type.slice(0,12)},null,2));

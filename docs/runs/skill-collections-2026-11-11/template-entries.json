@@ -1,0 +1,413 @@
+[
+  {
+    "id": "expanded-templates",
+    "title": "Brand & packaging templates",
+    "category": "Mockup templates",
+    "summary": "Thirty blank scenes for packaging, retail, print, social cards, and devices.",
+    "note": "Generated photographic plates with fixed cameras and packed Blender scenes. The artwork overlay spans the canvas. Fit local decals separately when needed.",
+    "sourcePath": "output/expanded-showcases",
+    "images": [
+      {
+        "src": "/render-assets/expanded-templates/01.jpg",
+        "title": "Cispy board",
+        "width": 1536,
+        "height": 1024,
+        "original": "cispy-board.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/02.jpg",
+        "title": "Cispy business card",
+        "width": 1420,
+        "height": 1108,
+        "original": "cispy-business-card.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/03.jpg",
+        "title": "Cispy facade sign",
+        "width": 1158,
+        "height": 1359,
+        "original": "cispy-facade-sign.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/04.jpg",
+        "title": "Cispy held phone",
+        "width": 1309,
+        "height": 1201,
+        "original": "cispy-held-phone.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/05.jpg",
+        "title": "Cispy poster bank",
+        "width": 1821,
+        "height": 864,
+        "original": "cispy-poster-bank.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/06.jpg",
+        "title": "Cispy stacked cards",
+        "width": 1886,
+        "height": 834,
+        "original": "cispy-stacked-cards.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/07.jpg",
+        "title": "Cispy tablet",
+        "width": 1339,
+        "height": 1174,
+        "original": "cispy-tablet.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/08.jpg",
+        "title": "Cispy tote",
+        "width": 1268,
+        "height": 1241,
+        "original": "cispy-tote.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/09.jpg",
+        "title": "Cispy wall display",
+        "width": 1666,
+        "height": 944,
+        "original": "cispy-wall-display.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/10.jpg",
+        "title": "Solyt social triptych",
+        "width": 1672,
+        "height": 941,
+        "original": "solyt-social-triptych.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/11.jpg",
+        "title": "Strivenet apparel",
+        "width": 1672,
+        "height": 941,
+        "original": "strivenet-apparel.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/12.jpg",
+        "title": "Strivenet color matrix",
+        "width": 1672,
+        "height": 941,
+        "original": "strivenet-color-matrix.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/13.jpg",
+        "title": "Strivenet held profile",
+        "width": 1672,
+        "height": 941,
+        "original": "strivenet-held-profile.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/14.jpg",
+        "title": "Strivenet posters",
+        "width": 1672,
+        "height": 941,
+        "original": "strivenet-posters.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/15.jpg",
+        "title": "Variety brand tiles",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-brand-tiles.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/16.jpg",
+        "title": "Variety complete kit",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-complete-kit.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/17.jpg",
+        "title": "Variety cube cluster",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-cube-cluster.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/18.jpg",
+        "title": "Variety cups",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-cups.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/19.jpg",
+        "title": "Variety open box",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-open-box.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/20.jpg",
+        "title": "Variety overlapping cards",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-overlapping-cards.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/21.jpg",
+        "title": "Variety pouches",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-pouches.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/22.jpg",
+        "title": "Variety sachet grid",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-sachet-grid.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/23.jpg",
+        "title": "Variety shopping bags",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-shopping-bags.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/24.jpg",
+        "title": "Variety small kit",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-small-kit.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/25.jpg",
+        "title": "Variety social grid",
+        "width": 1672,
+        "height": 941,
+        "original": "variety-social-grid.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/26.jpg",
+        "title": "Wellspin address detail",
+        "width": 1122,
+        "height": 1402,
+        "original": "wellspin-address-detail.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/27.jpg",
+        "title": "Wellspin clear card",
+        "width": 1122,
+        "height": 1402,
+        "original": "wellspin-clear-card.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/28.jpg",
+        "title": "Wellspin dock detail",
+        "width": 1122,
+        "height": 1402,
+        "original": "wellspin-dock-detail.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/29.jpg",
+        "title": "Wellspin profile",
+        "width": 1122,
+        "height": 1402,
+        "original": "wellspin-profile.png"
+      },
+      {
+        "src": "/render-assets/expanded-templates/30.jpg",
+        "title": "Wesoft brand cards",
+        "width": 1676,
+        "height": 938,
+        "original": "wesoft-brand-cards.png"
+      }
+    ],
+    "preview": "/render-assets/expanded-templates/cover.jpg",
+    "download": "/render-assets/expanded-templates/download.zip",
+    "downloadLabel": "Download source pack",
+    "downloadBytes": 85651195,
+    "readme": "/render-assets/expanded-templates/README.md"
+  },
+  {
+    "id": "oak-retail",
+    "title": "Oak retail scenes",
+    "category": "Mockup templates",
+    "summary": "Five scenes in warm oak and limestone, from a desktop display to a canvas tote and entrance glass.",
+    "note": "Generated fixed-camera plates with fitted artwork guides. The included notes credit Vadim Carazan as a material and lighting reference.",
+    "sourcePath": "output/oak-retail-extension",
+    "images": [
+      {
+        "src": "/render-assets/oak-retail/01.jpg",
+        "title": "Canvas tote on an oak peg",
+        "width": 1672,
+        "height": 941,
+        "original": "oak-canvas-tote.png"
+      },
+      {
+        "src": "/render-assets/oak-retail/02.jpg",
+        "title": "Desktop display on an oak island",
+        "width": 1672,
+        "height": 941,
+        "original": "oak-desktop-display.png"
+      },
+      {
+        "src": "/render-assets/oak-retail/03.jpg",
+        "title": "Frosted decal at the entrance",
+        "width": 1672,
+        "height": 941,
+        "original": "oak-entrance-glass.png"
+      },
+      {
+        "src": "/render-assets/oak-retail/04.jpg",
+        "title": "Presentation box on a retail bench",
+        "width": 1672,
+        "height": 941,
+        "original": "oak-presentation-box.png"
+      },
+      {
+        "src": "/render-assets/oak-retail/05.jpg",
+        "title": "Stationery on oak",
+        "width": 1672,
+        "height": 941,
+        "original": "oak-stationery-flatlay.png"
+      }
+    ],
+    "preview": "/render-assets/oak-retail/cover.jpg",
+    "download": "/render-assets/oak-retail/download.zip",
+    "downloadLabel": "Download source pack",
+    "downloadBytes": 34919115,
+    "readme": "/render-assets/oak-retail/composition-notes.md"
+  },
+  {
+    "id": "warm-wood",
+    "title": "Warm wood scenes",
+    "category": "Mockup templates",
+    "summary": "Four sunlit applications for a desk phone, auditorium, social cards, and laptop sticker.",
+    "note": "Fixed-camera blank templates used by the ARCO examples. The source pack retains its reference images and composition notes.",
+    "sourcePath": "output/vadim-showcases",
+    "images": [
+      {
+        "src": "/render-assets/warm-wood/01.jpg",
+        "title": "Auditorium display",
+        "width": 1672,
+        "height": 941,
+        "original": "vadim-auditorium-display.png"
+      },
+      {
+        "src": "/render-assets/warm-wood/02.jpg",
+        "title": "Five social cards",
+        "width": 1672,
+        "height": 941,
+        "original": "vadim-five-social-cards.png"
+      },
+      {
+        "src": "/render-assets/warm-wood/03.jpg",
+        "title": "Laptop sticker",
+        "width": 1672,
+        "height": 941,
+        "original": "vadim-laptop-sticker.png"
+      },
+      {
+        "src": "/render-assets/warm-wood/04.jpg",
+        "title": "Phone desk",
+        "width": 1536,
+        "height": 1024,
+        "original": "vadim-phone-desk.png"
+      }
+    ],
+    "preview": "/render-assets/warm-wood/cover.jpg",
+    "download": "/render-assets/warm-wood/download.zip",
+    "downloadLabel": "Download source pack",
+    "downloadBytes": 16416792,
+    "readme": "/render-assets/warm-wood/composition-notes.md"
+  },
+  {
+    "id": "mobile-scenes",
+    "title": "Mobile scene templates",
+    "category": "Mockup templates",
+    "summary": "Seven mobile and campaign scenes, including handheld, first-person, and app-icon applications.",
+    "note": "Fixed-camera image compositions with placement surfaces and masks. People, hands, hardware, and photographic lighting are baked into the plates.",
+    "sourcePath": "output/mobile-reference-pack",
+    "images": [
+      {
+        "src": "/render-assets/mobile-scenes/01.jpg",
+        "title": "Metallic app-icon macro",
+        "width": 1200,
+        "height": 1433,
+        "original": "blank.png"
+      },
+      {
+        "src": "/render-assets/mobile-scenes/02.jpg",
+        "title": "Ticket phone on dark surface",
+        "width": 1200,
+        "height": 1600,
+        "original": "blank.png"
+      },
+      {
+        "src": "/render-assets/mobile-scenes/03.jpg",
+        "title": "Straight handheld calendar phone",
+        "width": 680,
+        "height": 680,
+        "original": "blank.png"
+      },
+      {
+        "src": "/render-assets/mobile-scenes/04.jpg",
+        "title": "Music campaign with eight art cards",
+        "width": 1054,
+        "height": 1405,
+        "original": "blank.png"
+      },
+      {
+        "src": "/render-assets/mobile-scenes/05.jpg",
+        "title": "Forward phone with person",
+        "width": 1199,
+        "height": 898,
+        "original": "blank.png"
+      },
+      {
+        "src": "/render-assets/mobile-scenes/06.jpg",
+        "title": "Top-down first-person handheld phone",
+        "width": 1199,
+        "height": 898,
+        "original": "blank.png"
+      },
+      {
+        "src": "/render-assets/mobile-scenes/07.jpg",
+        "title": "Low-angle phone with person",
+        "width": 1199,
+        "height": 898,
+        "original": "blank.png"
+      }
+    ],
+    "preview": "/render-assets/mobile-scenes/cover.jpg",
+    "download": "/render-assets/mobile-scenes/download.zip",
+    "downloadLabel": "Download source pack",
+    "downloadBytes": 46711844,
+    "readme": "/render-assets/mobile-scenes/README.md"
+  },
+  {
+    "id": "dark-wood-mobile",
+    "title": "Dark wood phone",
+    "category": "Mockup templates",
+    "summary": "A phone on dark wood with a fitted display mask, light, and placement guide.",
+    "note": "The camera and hardware are fixed. The pack includes a Blender scene and fitted artwork surface for replacing the display.",
+    "sourcePath": "output/uds-mobile-template",
+    "images": [
+      {
+        "src": "/render-assets/dark-wood-mobile/01.jpg",
+        "title": "Blank mobile",
+        "width": 1200,
+        "height": 1600,
+        "original": "blank-mobile.png"
+      },
+      {
+        "src": "/render-assets/dark-wood-mobile/02.jpg",
+        "title": "Screen placement guide",
+        "width": 1200,
+        "height": 1600,
+        "original": "screen-placement-guide.jpg"
+      }
+    ],
+    "preview": "/render-assets/dark-wood-mobile/cover.jpg",
+    "download": "/render-assets/dark-wood-mobile/download.zip",
+    "downloadLabel": "Download source pack",
+    "downloadBytes": 39480483,
+    "readme": "/render-assets/dark-wood-mobile/composition-notes.md"
+  }
+]

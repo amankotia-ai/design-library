@@ -1,0 +1,31 @@
+{
+  "implementation": {
+    "src/film-references.jsx": "2ac2b623211e45e8c592234022d0650f590e47f1bf85ae6346e76dce522a9c51",
+    "src/film-references.css": "57fa6345986011a622bf58d3c50d36e0b58f961e698a43e0e49e431bc1132ae5"
+  },
+  "breakdownsUnchanged": true,
+  "preserved": {
+    "films": 10,
+    "scenes": 100,
+    "transitions": 11,
+    "sourceFrames": 244
+  },
+  "checks": {
+    "build": "passed",
+    "filmLibrary": "passed",
+    "filmLearnings": "passed",
+    "filmStudies": "passed"
+  },
+  "browser": {
+    "desktop": "Simplified layout inspected at1456\u00d7901",
+    "mobile": "390px single column; documentWidth=viewportWidth=390",
+    "sceneSelection": "Worm scene10 shows matching content and seeks22.5s while paused",
+    "disclosures": "Reconstruction/source frames and film notes open/close; nested leverage study exposes ordered steps, takeaway, certainty and4frames",
+    "transitionSeek": "Jump control seeks22.5s while paused",
+    "viewportOverride": "cleared after testing"
+  },
+  "limits": [
+    "Poster-only final correction reviewed in source; final default screenshot refresh timed out.",
+    "Keyboard control semantics/focus styles source-reviewed; separate keyboard activation test not completed."
+  ]
+}

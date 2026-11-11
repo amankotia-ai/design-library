@@ -1,0 +1,51 @@
+.film-reference-overview{display:block;padding:24px 0 24px;margin:0 0 32px;border-bottom:1px solid var(--library-rule)}
+.film-reference-overview h2{font:400 26px/32px var(--library-font-heading);margin:0 0 12px;text-wrap:balance}
+.film-reference-overview p,.film-reference-overview li{font-size:13px;line-height:22px;color:var(--library-muted);text-wrap:pretty}
+.film-reference-overview p{margin:0 0 16px}.film-reference-overview ul{margin:0;padding-left:20px;list-style:disc}.film-reference-overview li+li{margin-top:6px}
+.film-reference-overview a{font-size:12px;text-decoration:underline;text-underline-offset:3px}
+.film-reference-poster{display:block;aspect-ratio:16/9;background:var(--library-wash);border:1px solid var(--library-preview-rule);overflow:hidden}
+.film-reference-poster img{display:block;width:100%;height:100%;object-fit:contain;background:#101010}
+.film-reference-card h2{text-wrap:balance}.film-reference-card .film-card-summary{display:block;overflow:visible;text-wrap:pretty}
+.film-breakdown-count{font-size:12px;line-height:20px;color:var(--library-muted);font-variant-numeric:tabular-nums;margin:12px 0 0}
+
+.film-reference-detail .system-detail-intro{display:block;padding-bottom:28px}
+.film-reference-detail .detail-utility{margin-bottom:28px}
+.film-reference-detail .system-detail-intro>.film-reference-meta{font:13px/20px var(--library-font-body);font-variant-numeric:tabular-nums;color:var(--library-muted);margin:0}
+.film-reference-detail .system-detail-copy{display:block;padding-bottom:48px}
+.library-system-detail .film-reference-pane{height:auto;min-height:0;display:block;overflow:visible;padding:0;top:24px}
+.film-reference-player{display:block;width:100%;aspect-ratio:16/9;object-fit:contain;background:#101010}
+.film-playback-error{margin:0;padding:16px 0;font-size:13px;line-height:22px}.film-playback-error a{text-decoration:underline}
+.film-scene-select{display:block;font:12px/20px var(--library-font-body);color:var(--library-muted);margin:0 0 24px}
+.film-scene-select span{display:block;margin-bottom:8px}
+.film-scene-select select{display:block;width:100%;min-height:44px;padding:10px 28px 10px 12px;background:var(--library-surface);color:var(--library-ink);border:1px solid var(--library-rule);font:13px/20px var(--library-font-body)}
+.film-scene-time{font:12px/20px var(--library-font-body);font-variant-numeric:tabular-nums;color:var(--library-muted);margin:0 0 8px}
+.film-scene-description{font:14px/24px var(--library-font-body);margin:0 0 28px;text-wrap:pretty}
+.film-analysis{margin:0}.film-analysis>div{margin:0 0 24px}.film-analysis dt{font:500 12px/20px var(--library-font-body);color:var(--library-muted);margin:0 0 6px}.film-analysis dd{font:14px/24px var(--library-font-body);margin:0;text-wrap:pretty}
+.film-disclosure{border-top:1px solid var(--library-rule);margin:0}.film-disclosure summary,.film-transition summary{min-height:48px;padding:14px 0;font:13px/20px var(--library-font-body);cursor:pointer;color:var(--library-ink);text-wrap:pretty}
+.film-disclosure-body{padding:8px 0 24px;font:14px/24px var(--library-font-body)}
+.film-disclosure-body>p{margin:0 0 20px;text-wrap:pretty}.film-disclosure-body>p:last-child{margin-bottom:0}
+.film-disclosure-body>section{margin:0 0 32px}.film-disclosure-body>section:last-child{margin:0}
+.film-reference-detail .film-disclosure-body h2{font:500 14px/24px var(--library-font-body);margin:0 0 12px;text-wrap:balance}
+.film-disclosure-body section>p{margin:0 0 20px;text-wrap:pretty}.film-note-muted{font-size:12px;line-height:20px;color:var(--library-muted)}
+.film-note-label{display:block;font-size:12px;line-height:20px;color:var(--library-muted);margin:0 0 6px}
+.film-note-steps{padding-left:20px;margin:0 0 24px}.film-note-steps li{padding-left:4px;margin-bottom:16px;text-wrap:pretty}
+.film-note-links{list-style:none;padding:0;margin:0 0 20px}.film-note-links li{margin:0 0 10px}.film-note-links a,.film-disclosure-body>a{text-decoration:underline;text-underline-offset:3px;font-size:13px}
+.film-source-frames{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:20px 0}
+.film-source-frames figure{min-width:0;margin:0}.film-source-frames a{display:block}.film-source-frames img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;background:#101010}.film-source-frames figcaption{font-size:11px;line-height:20px;color:var(--library-muted);font-variant-numeric:tabular-nums;margin-top:4px}
+.film-transition{border-bottom:1px solid var(--library-rule)}.film-transition .film-disclosure-body{padding-top:0}
+.film-seek-link{display:block;min-height:44px;background:none;border:0;padding:8px 0;color:var(--library-ink);font:12px/20px var(--library-font-body);font-variant-numeric:tabular-nums;text-decoration:underline;text-underline-offset:3px;margin-bottom:16px;text-align:left}
+.film-reference-detail :is(button,select,summary,a,video):focus-visible{outline:2px solid var(--library-brand-red);outline-offset:3px}
+@media(max-width:700px){.film-reference-overview{grid-template-columns:1fr;gap:16px;padding-top:0}.film-reference-detail .system-detail-intro{padding-bottom:24px}.library-system-detail .film-reference-pane{position:static;top:auto;height:auto;min-height:0;padding:0;margin:0 0 28px}.film-reference-detail .detail-utility{margin-bottom:24px}.film-reference-detail .system-detail-copy{padding-bottom:24px}.film-source-frames{gap:8px}}
+
+.film-reference-overview p{max-width:70ch;margin:0}
+.film-import-notes .film-markdown{font:14px/24px var(--library-font-body);overflow-wrap:anywhere}
+.film-import-notes .film-markdown :is(h2,h3,h4){font:500 14px/24px var(--library-font-body);margin:28px 0 12px;text-wrap:balance}
+.film-import-notes .film-markdown :is(p,li){font:14px/24px var(--library-font-body);text-wrap:pretty}
+.film-import-notes .film-markdown>p{margin:0 0 20px}
+.film-import-notes .film-markdown li{margin-bottom:12px}
+.film-import-notes .film-markdown+section{margin-top:32px}
+
+.film-craft{border-top:1px solid var(--library-rule);padding-top:24px;margin-top:4px}
+.film-reference-detail .film-craft h2{font:500 14px/24px var(--library-font-body);margin:0 0 24px;text-wrap:balance}
+.film-reference-detail .film-craft h3{font:500 12px/20px var(--library-font-body);color:var(--library-muted);margin:0 0 8px;text-wrap:balance}
+.film-craft .film-note-steps{list-style:decimal;font:14px/24px var(--library-font-body);margin-bottom:32px}

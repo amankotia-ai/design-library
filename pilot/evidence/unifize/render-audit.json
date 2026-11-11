@@ -1,0 +1,125 @@
+{
+  "errors": [],
+  "geometry": [
+    {
+      "id": "header",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 72
+      }
+    },
+    {
+      "id": "hero",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 980
+      }
+    },
+    {
+      "id": "customers",
+      "rect": {
+        "x": 0,
+        "y": 980,
+        "width": 1440,
+        "height": 231.375
+      }
+    },
+    {
+      "id": "decision",
+      "rect": {
+        "x": 0,
+        "y": 1212.375,
+        "width": 1440,
+        "height": 1839.6875
+      }
+    },
+    {
+      "id": "how",
+      "rect": {
+        "x": 0,
+        "y": 3053.0625,
+        "width": 1440,
+        "height": 1844.609375
+      }
+    },
+    {
+      "id": "fit",
+      "rect": {
+        "x": 0,
+        "y": 4898.671875,
+        "width": 1440,
+        "height": 776.625
+      }
+    },
+    {
+      "id": "products",
+      "rect": {
+        "x": 0,
+        "y": 5676.296875,
+        "width": 1440,
+        "height": 1261.953125
+      }
+    },
+    {
+      "id": "industries",
+      "rect": {
+        "x": 0,
+        "y": 6939.25,
+        "width": 1440,
+        "height": 1049.453125
+      }
+    },
+    {
+      "id": "stories",
+      "rect": {
+        "x": 0,
+        "y": 7989.703125,
+        "width": 1440,
+        "height": 792.390625
+      }
+    },
+    {
+      "id": "resources",
+      "rect": {
+        "x": 0,
+        "y": 8783.09375,
+        "width": 1440,
+        "height": 795.28125
+      }
+    },
+    {
+      "id": "closing",
+      "rect": {
+        "x": 0,
+        "y": 9579.375,
+        "width": 1440,
+        "height": 636.46875
+      }
+    },
+    {
+      "id": "footer",
+      "rect": {
+        "x": 0,
+        "y": 10215.84375,
+        "width": 1440,
+        "height": 1005.0625
+      }
+    }
+  ],
+  "audit": {
+    "scrollWidth": 1440,
+    "width": 1440,
+    "height": 11221,
+    "brokenImages": [],
+    "remoteMedia": []
+  },
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 12703
+  }
+}

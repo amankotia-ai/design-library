@@ -43,3 +43,7 @@
 .library .article-header {
   padding-inline: var(--library-header-inset);
 }
+
+@media (min-width: 701px) and (max-width: 900px) {
+ .library-home .article-header nav { flex-wrap: wrap; justify-content: flex-end; }
+}

@@ -1,0 +1,22 @@
+{
+  "runinfra": {
+    "nativeSeek": 6.067286,
+    "selectedBeat": 3,
+    "visibleCraftRows": 3,
+    "fullNotesOpen": false
+  },
+  "mobile": {
+    "viewport": 390,
+    "pageWidth": 390,
+    "videoWidth": 358,
+    "viewportRestored": true
+  },
+  "sampledGap": {
+    "beat": "-1",
+    "craftRows": 3,
+    "error": null,
+    "observation": "This moment is outside the analyzed intervals. Choose a beat to jump to an observed moment.",
+    "time": 249.449813
+  },
+  "gapRecovery": "Beat selection restored an observed interval"
+}

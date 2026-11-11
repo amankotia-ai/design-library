@@ -1,0 +1,19 @@
+{
+  "collectionCards": 53,
+  "gawxSeek": 42.666667,
+  "kayeInitialSeek": 240.24,
+  "kayeFinalSeek": {
+    "duration": 920.981333,
+    "error": null,
+    "paused": true,
+    "time": 840.84
+  },
+  "mobile": {
+    "viewport": 390,
+    "pageWidth": 390,
+    "videoWidth": 358,
+    "selectWidth": 358
+  },
+  "viewportRestored": true,
+  "fullNotesOpened": true
+}

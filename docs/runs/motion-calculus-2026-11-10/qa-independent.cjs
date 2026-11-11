@@ -1,0 +1,44 @@
+const {chromium}=require('/Users/abhishekmankotia/Downloads/MovieMaker/films/skill-capabilities-v3/project/node_modules/playwright');
+const assert=require('node:assert/strict'),fs=require('fs'),path=require('path'),crypto=require('crypto');
+const out=__dirname,root=path.resolve(__dirname,'../../studies-polish/pilot');
+const report={reviewer:'/root/design_qa',checks:[],errors:[],revision:{}};
+let browser;
+(async()=>{
+ browser=await chromium.launch({headless:true,executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
+ const page=await browser.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'});
+ page.on('pageerror',e=>report.errors.push(e.message));
+ const visit=async id=>{await page.goto('http://127.0.0.1:5183/design-library/?panel=film&entry='+id,{waitUntil:'networkidle'});await page.locator('.film-study').waitFor();await page.evaluate(()=>document.fonts.ready);};
+ const range=(label)=>page.getByRole('slider',{name:label,exact:true});
+ const set=async(label,value)=>{await range(label).evaluate((el,v)=>{Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value').set.call(el,String(v));el.dispatchEvent(new Event('input',{bubbles:true}));el.dispatchEvent(new Event('change',{bubbles:true}));},value);await page.waitForTimeout(35);};
+ const metric=async()=>page.locator('.study-metrics').innerText();
+ const capture=async name=>{await page.screenshot({path:path.join(out,name+'.png')});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),name+' document overflow');};
+ await visit('bezier-paths');
+ const start=await range('Elapsed time').inputValue();await page.waitForTimeout(300);assert.equal(await range('Elapsed time').inputValue(),start);report.checks.push('No autoplay with reduced motion');
+ await page.getByRole('button',{name:'Quintic ease',exact:true}).click();
+ assert.match(await metric(),/Speed\s+0\.0 px\/s/);assert.match(await metric(),/Acceleration\s+0\.0 px\/s²/);
+ await set('Elapsed time',4);assert.match(await metric(),/Speed\s+0\.0 px\/s/);assert.match(await metric(),/Acceleration\s+0\.0 px\/s²/);report.checks.push('Quintic endpoint velocity and acceleration are zero at both ends');
+ await page.getByRole('button',{name:'Cubic ease',exact:true}).click();assert.match(await metric(),/Speed\s+0\.0 px\/s/);assert.doesNotMatch(await metric(),/Acceleration\s+0\.0 px\/s²/);report.checks.push('Cubic endpoint velocity is zero and acceleration is nonzero');
+ await set('Elapsed time',1.2);
+ const before=await page.locator('.study-metrics dd').allTextContents();
+ await set('Journey duration',8);const after=await page.locator('.study-metrics dd').allTextContents();
+ assert.equal(before[0],after[0]);assert.equal(Number(await range('Elapsed time').inputValue()),2.4);
+ assert.ok(Math.abs(parseFloat(before[1])/2-parseFloat(after[1]))<.11);assert.ok(Math.abs(parseFloat(before[2])/4-parseFloat(after[2]))<.11);report.checks.push('Changing duration preserves progress/position and scales speed/acceleration');
+ await page.getByRole('button',{name:'Play Path',exact:true}).click();await page.waitForTimeout(180);
+ await page.getByRole('combobox',{name:'Easing function',exact:true}).selectOption('linear');
+ const paused=await range('Elapsed time').inputValue();await page.waitForTimeout(180);assert.equal(await range('Elapsed time').inputValue(),paused);assert.equal(await page.getByRole('button',{name:'Play Path',exact:true}).getAttribute('aria-pressed'),'false');report.checks.push('Changing easing during playback pauses');
+ await set('Journey duration',1);await page.getByRole('button',{name:'Rewind Path',exact:true}).click();await page.getByRole('button',{name:'Play Path',exact:true}).click();await page.waitForTimeout(1200);assert.equal(Number(await range('Elapsed time').inputValue()),1);assert.equal(await page.getByRole('button',{name:'Play Path',exact:true}).getAttribute('aria-pressed'),'false');report.checks.push('Once-only playback finishes exactly at duration');
+ await page.getByRole('button',{name:'Reset',exact:true}).click();await range('Elapsed time').focus();await page.keyboard.press('ArrowRight');assert.equal(Number(await range('Elapsed time').inputValue()),1.69);report.checks.push('Keyboard range adjustment works');
+ await capture('qa-bezier-desktop');
+ await page.setViewportSize({width:390,height:844});await page.locator('.study-controls').scrollIntoViewIfNeeded();await capture('qa-bezier-mobile-controls');await page.locator('.study-equations').scrollIntoViewIfNeeded();await capture('qa-bezier-mobile-equations');
+ assert.equal(await page.locator('.katex-error').count(),0);report.checks.push('Bézier equations render at mobile width');
+ await page.setViewportSize({width:1440,height:1000});await visit('spring-motion');
+ for(const [label,regime,value] of [['Underdamped','Underdamped return','.12'],['Critical','Critically damped return','1'],['Overdamped','Overdamped return','1.6']]){
+  await page.getByRole('button',{name:label,exact:true}).click();assert.ok(Math.abs(Number(await range('Damping ratio ζ').inputValue())-Number(value))<1e-8);await set('Time',.65);assert.equal(await page.locator('.study-insight strong').innerText(),regime);assert.equal(await page.locator('.katex-error').count(),0);
+ }
+ report.checks.push('All spring regimes have matching controls, live regime and valid equations');
+ await capture('qa-spring-overdamped-desktop');
+ await page.setViewportSize({width:390,height:844});await page.locator('.study-controls').scrollIntoViewIfNeeded();await capture('qa-spring-mobile-controls');await page.locator('.study-equations').scrollIntoViewIfNeeded();await capture('qa-spring-mobile-equations');
+ assert.equal(report.errors.length,0);
+ for(const file of ['src/film-motion-studies.jsx','src/film-motion-math.js','src/film-study-ui.jsx','src/film-studies.css'])report.revision[file]=crypto.createHash('sha256').update(fs.readFileSync(path.join(root,file))).digest('hex');
+ report.status='passed';fs.writeFileSync(path.join(out,'qa-independent.json'),JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));await browser.close();
+})().catch(async error=>{report.status='failed';report.failure=error.stack;fs.writeFileSync(path.join(out,'qa-independent.json'),JSON.stringify(report,null,2));console.error(error);if(browser)await browser.close();process.exit(1);});

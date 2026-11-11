@@ -1,0 +1,626 @@
+[
+  {
+    "id": "ref-2118387847853908115-1",
+    "editing": "The first 23.6 seconds build positioning inside one metallic world before the colored phone mosaic appears. Centered copy changes in place while background scale and intensity vary, so each claim feels like another clause rather than a fresh scene. The low-contrast pocket at 17.9–20.1s prepares the reveal; the chart-to-phone passage at 29.5–32.4s then supplies a readable product connection before the closing offer.",
+    "motion": "Radial ribs, rotating highlights and tunnel-like surfaces move around a protected central reading area. Category names replace one another in the same slot at 20.2–23.6s, with brief pale inversions punctuating the handoff. Later, the enlarged chart remains recognizable as framing reveals the phone around it: the useful motion changes context around persistent content, rather than introducing an unrelated zoom.",
+    "artDirection": "Near-black surfaces, cool specular light, fine metallic repetition and small white type establish a restrained material palette. The orange, red, blue and green product mosaic gains impact because the opening withholds saturated color. Wide empty areas around the copy and the final upright phone keep the material study subordinate to the message; exact mesh, lighting and camera construction are not established by the frames.",
+    "apply": [
+      "Plan the monochrome positioning section and colored product reveal as different intensity levels, retaining a consistent central copy anchor.",
+      "Build the chart as persistent content inside the phone composition, then animate framing around it so the detail-to-product reveal preserves identity."
+    ],
+    "evidence": [
+      "23.60–25.68s: first richly colored product mosaic",
+      "29.52–31.44s: chart line becomes the focal subject"
+    ]
+  },
+  {
+    "id": "ref-2118439490247389628-1",
+    "editing": "This six-second four-panel proof board presents concurrent examples, not consecutive acts. In the lower-left panel, payout information becomes a form, then an approve control at 3.3s and a held confirmation after 5s. Related customer records, invoices and status changes elsewhere create continuity between the snippets, but the small simultaneous views limit the time available to read each interaction.",
+    "motion": "Movement stays local to an established container: windows slide in a shallow stack, fields populate, rows select and the right-side detail pane opens. The lower-left action changes from purple emphasis to a pale pill and then a dark completed state. That localized action-to-result sequence makes the change legible without repeatedly moving the entire frame or rebuilding the surrounding panel geometry.",
+    "artDirection": "White administrative surfaces sit on pale lavender and textured gray, keeping email, payment and PDF artifacts recognizable. Purple concentrates attention on actions, while green identifies successful or processed states. The stacked artifacts have distinct front-to-back roles; preserving their overlap and contrast matters more than adding dramatic depth. A warm-ivory field gives the sparse status labels a quieter stage.",
+    "apply": [
+      "Expand one panel into a full-width sequence, giving the approve action and completed payout separate readable holds.",
+      "Carry the same customer or document through related views and reserve different colors for action and status."
+    ],
+    "evidence": [
+      "email behind payment form behind invoice PDF",
+      "dark payout-approved confirmation holds in the lower-left"
+    ]
+  },
+  {
+    "id": "ref-2118426646609096710-1",
+    "editing": "The first ten seconds withhold the complete device: switch, directional pad, buttons and loading screen arrive as purposeful fragments. The rotation at 10.1–11.1s resolves that curiosity, then a cartridge input leads to an active world. The 20–23.8s diagram/device split explains operation and output together; later environment variations reuse this grammar before the tactile frame releases into the closing identity.",
+    "motion": "Scale changes reveal something specific: close details expose relief, the edge-on turn explains thickness, and the cartridge enters the slot before screen content changes. At 20s the device moves right to make room for the world-model diagram. During subsequent state switches the screen remains active while casing and environmental light change together, making each variation a connected event.",
+    "artDirection": "Raking highlights, rounded controls, dark tactile surfaces and selective softness give the handheld object material credibility. The illustrated cartridges are narrative inputs rather than floating decoration. Blue, green, pink, orange and violet environments echo into the casing and surrounding light, binding object and screen world. The explanatory split preserves a clearer reading area than the oblique opening macros.",
+    "apply": [
+      "Plan incomplete product details, one full silhouette reveal and a clear input-to-output action before adding environment variants.",
+      "Derive casing light and background color from the active screen environment while keeping the device controls recognizable."
+    ],
+    "evidence": [
+      "cartridge enters the upper slot",
+      "The split explains operation and output in the same shot."
+    ]
+  },
+  {
+    "id": "ref-2112624102016249952-1",
+    "editing": "The film earns its offer through a clear sequence: mechanism at 7.3–9.3s, cache result at 9.8–13.1s, comparison at 15.4–17.4s, then plan, action and pricing cards at 18.2–27.5s. A concrete code example follows the abstract explanation at 29–31.5s. Sparse type bridges dense diagrams, and the final 3.7-second wordmark hold creates a decisive rest after the busy middle.",
+    "motion": "The same green geometry changes jobs: a highlight becomes a panel, a full-screen pixel wipe contracts into the brand mark, and a compatibility badge becomes the next offer's bar. The CTA expands into three pricing cards while the pointer remains near its action, preserving cause and result. Diagonal square wipes recur around 3.5s, 9.3s and 31.6s; layout, scale and masks provide most of the energy.",
+    "artDirection": "White grounds and dark technical panels establish a strong information hierarchy. Acid green is concentrated on emphasized words, matrix cells, chart endpoints and active controls, linking brand color to meaning. Monospace offer text, coarse stepped rectangle ends, square fragments and faint alignment grids belong to the same digital vocabulary. The price comparison uses horizontal spans and endpoints rather than an ambiguous decorative growth chart.",
+    "apply": [
+      "Storyboard mechanism → evidence → comparison → offer → integration artifact, with a quiet reading beat between dense displays.",
+      "Make one green rectangle and square-mask system become a highlight, badge, wipe and CTA; preserve its position through related states.",
+      "Replace every source metric and price with verified product evidence before adapting the structure."
+    ],
+    "evidence": [
+      "Background → tile → icon is one continuous semantic scale change.",
+      "Pointer remains near the active lower control so action and result remain spatially linked."
+    ]
+  },
+  {
+    "id": "ref-2118340232944717908-1",
+    "editing": "The concept ad moves from app identity to welcome, request, widget and task abundance in under eight seconds, followed by a dark closing hold. These are connected stages of access and recognition, but no completed planning result is demonstrated. The brief full-phone view around 5s gives context before the edit returns to the dock and expands the note/task motif.",
+    "motion": "The Notion icon and thin home bar keep the device recognizable while surrounding containers change. A close composer retracts into a home-screen widget; the dock compresses into a central task pill whose icon survives the transformation. Many pills spread out and recede around that center. Blue-white bloom and softened edges emphasize handoffs, while quieter holds reestablish the next focal object.",
+    "artDirection": "A blue-black atmospheric field unifies the phone, widget and final identity. White rounded controls and small icon highlights provide the strongest value contrast, with other app colors appearing briefly as context. Luminous transitions cluster around changes of state; applying the same glow to every reading moment would flatten the hierarchy and obscure the small interface labels.",
+    "apply": [
+      "Preserve the icon and home-bar anchor while independently animating each enclosing panel or widget.",
+      "Follow the submitted request with a specific visible outcome before using task multiplication as a scale metaphor."
+    ],
+    "evidence": [
+      "the icon is retained while the surrounding object changes",
+      "it does not demonstrate a completed planning outcome"
+    ]
+  },
+  {
+    "id": "ref-2117983868263473419-1",
+    "editing": "The quadrants loop independently, so there is no single beginning, climax or conclusion across this board. Within the ranking panel, table stacks establish a system, a large counter resolves, then a reward statement holds. The other panels separately cycle token-to-phone, currency identity and creator/community states. Their staggered phases demonstrate several motion grammars but split attention when viewed together.",
+    "motion": "The ranking loop changes vertical stack position and numerical emphasis around a stable reading zone. The lavender panel uses a turning token as the bridge to a phone; the currency panel moves reflective discs around fixed lower-middle copy. In the pastel panel, a field of faces reduces to one featured identity and expands again. Each loop alternates concentration and distribution without a shared camera move.",
+    "artDirection": "Each quadrant has its own coherent world: cobalt and white with halftone imagery, lavender with a blue token, charcoal with metallic coins, and white with pastel faces. Those materials suit their local subject, but combining all four palettes into one unrelated narrative would weaken continuity. Consistency within each panel—type scale, object finish and background contrast—is the most useful art-direction principle here.",
+    "apply": [
+      "Isolate the quadrant that fits the story and recreate its complete concentrate–hold–release cycle before combining it with other scenes.",
+      "Keep the result statement stationary while counters finish or peripheral objects move; let inactive objects provide context."
+    ],
+    "evidence": [
+      "the panels recur independently, not one coherent product narrative",
+      "Keep numerical count-up anchored, let the number finish before the reward statement"
+    ]
+  },
+  {
+    "id": "ref-2118388400730591469-1",
+    "editing": "The narrative links a request to agent work, then shows the person returning to tangible activity while the task progresses. Inventory, engineering/QA and campaign/legal scenes connect through concrete consequences rather than a disconnected feature list. Long message holds around 7–17s and 27–32s make those relationships readable. The closing black-ground proposition reunites the colorful agent cast introduced at the opening.",
+    "motion": "Large agent shapes cross the foreground, shrink into interface identities and later carry a task into the next setting. Slow push-ins and pullbacks adjust the relationship between person and message without competing with the reading area. Card height and text states change while the set remains stable. The yellow identity carried from campaign studio to purple legal office gives the cut an explicit connection.",
+    "artDirection": "Orange, teal, green, mustard and purple rooms share theatrical grounds, limited props, prominent lamps and consistent card surfaces. Empty space is reserved beside or above the person before a message appears. Matching agent color to room and contrasting selected wardrobe keeps the human silhouette legible. The scenes are staged narratives; these frames alone do not establish filmed versus generated production methods.",
+    "apply": [
+      "Write one request, one agent action and one visible human consequence per scene, then carry a specific result into the next person's scene.",
+      "Compose the set with an empty message zone first; introduce a large identity object that resolves into the UI card occupying it."
+    ],
+    "evidence": [
+      "The human returning to tangible work makes delegation visible as behavior",
+      "A carried yellow agent identity visually connects the prior studio to the new department."
+    ]
+  },
+  {
+    "id": "ref-2117680635561312732-1",
+    "editing": "The loop follows a causal order: app cluster, person, incoming connection, outgoing branches, then completion checks. The complete graph holds from roughly 5.1–7s, giving the viewer time to read the outcome before the diagram collapses to a seed. Each stage adds only the next necessary relationship, keeping the concept understandable without explanatory camera moves or a long text block.",
+    "motion": "Icons assemble centrally, then shift into three rows on the right to make room for the initiator. The person-to-Claude line draws before the outgoing branches, and checks arrive after the connections. Sequencing turns line animation into a dependency explanation. Small badge settling stays local; the closing shrink and dispersal return the image to a compact seed for the loop.",
+    "artDirection": "Warm cream margins, charcoal connectors, soft tile shadows and a coral Claude tile create a quiet diagram stage. App colors remain attached to their identities rather than decorating the background. The central intermediary has a distinct color and enough surrounding space to clarify its role. A flat frontal view preserves the graph's geometry; volumetric depth is not needed for the observed explanation.",
+    "apply": [
+      "Draw actor-to-intermediary first, outgoing paths second and completion states last, then hold the finished diagram.",
+      "Keep icon color tied to identity and route lines through clear negative space; use shadows only to separate tiles from the ground."
+    ],
+    "evidence": [
+      "The branch paths appear after the incoming connection",
+      "complete person→Claude→apps graph holds"
+    ]
+  },
+  {
+    "id": "ref-2117634813108650450-1",
+    "editing": "This 3.67-second four-up reel combines separate brand treatments rather than a complete sales story. One panel cycles artifacts, another promotes qualities word by word, a third swaps editorial images and the fourth simplifies an orbit of tiles to a central label. Rapid examples contrast with a held identity, but consequential product actions would need more time and space than this board provides.",
+    "motion": "The word list establishes an active band: the current term stays bright while earlier terms move up and dim. Elsewhere, blue/white cards slide over a large type specimen, photographs replace one another in a fixed area, and small tiles gather then disappear around a central label. Apparent depth comes from overlap and scale; the overall framing stays frontal.",
+    "artDirection": "Thin white dividers and charcoal panels hold the board together while generous inner margins separate its subjects. Blue is concentrated in the artifact stack; the word-list panel relies mainly on luminance and vertical position. Pink graphics and still-life imagery appear as deliberate samples in another panel. Separating those roles prevents every asset from competing for the same focal position.",
+    "apply": [
+      "Use an active-word column for a short sequence of qualities, keeping previous terms visible but dim as context.",
+      "Enlarge the relevant quadrant for a finished film and let its artifact changes explain one specific argument."
+    ],
+    "evidence": [
+      "Earlier words recede upward and dim.",
+      "apparent depth is stack overlap and scale"
+    ]
+  },
+  {
+    "id": "ref-2117274985601577088-1",
+    "editing": "Lavender identity passages alternate with dark operational UI, repeatedly widening from an abstract proposition into a specific control or result. Filters enter individually at 15.9–18s before the table is revealed; a front detail panel then becomes the priority. Later, buy/sell pills reduce to three readable bar pairs before the order form and chart action, deliberately consolidating density into evidence.",
+    "motion": "A branded disc persists across list, identity, action and chart scenes. At 7.1–8.4s it leaves the selected row and turns into the mark; near 38.8s it carries attention from the order action across the chart. Translucent rows slide through a fixed reading band, and scale changes isolate the next control. Layer translation and reframing preserve recognizable content between views.",
+    "artDirection": "Lavender-blue identity fields contrast with navy product panels. Purple marks selection and brand, while green and red/orange retain distinct trading-state meanings. Faint grids, soft surrounding rows and one brighter front panel establish hierarchy without making every layer equally sharp. The visible editing timeline below the film is presentation context, not evidence of the quality or timing of its sound design.",
+    "apply": [
+      "Use one branded object to carry attention between related UI states instead of introducing a new transition effect for every cut.",
+      "Reveal controls individually, hold the usable group, then pull back to its application context; retain one emphasized reading plane."
+    ],
+    "evidence": [
+      "the disc transfers onto the lavender ground",
+      "Labels arrive after the bars settle"
+    ]
+  },
+  {
+    "id": "ref-2117624804664647707-1",
+    "editing": "Four hard-cut framings separate object context from data inspection. The opening full monitor gives way at 3s to a frontal dashboard crop that holds through 8.3s while selections change; a three-quarter monitor view then restores the physical object. The final oblique close-up isolates chart and table detail. This showcases viewing conditions rather than a complete benefit-to-result story.",
+    "motion": "Most meaningful motion occurs inside the screen: the pointer visits heatmap cells, changing the tooltip or selection while surrounding charts remain stable. Shot scale changes at cuts rather than through a continuous orbit. The angled final view retains the screen edge as context while chart values change. Separating framing changes from UI actions clarifies which movement reveals new information.",
+    "artDirection": "A neutral gray environment lets the cyan heatmap, pale labels and small yellow accents carry the information hierarchy. The stand, cable, screen edge and restrained perspective establish an object identity. Both full-object and macro views preserve the same dashboard palette. Readability of small text in an oblique view still depends on the angle, output size and screen texture treatment.",
+    "apply": [
+      "Plan an establishing monitor shot, a frontal readable interaction, a three-quarter context view and a close detail as separate compositions.",
+      "Map an accurate screen recording into the mockup and inspect the final-sized oblique output for text and tooltip legibility."
+    ],
+    "evidence": [
+      "Hard cuts vary shot scale",
+      "The meaningful action is the hover/selection on the data"
+    ]
+  },
+  {
+    "id": "ref-2117195000387863033-1",
+    "editing": "Four independent excerpts play simultaneously: an AI integration/composer sequence, a pale agent-team demonstration, image-generation and fashion variations, and a sustainability argument. Their local arcs differ: the pale UI expands a URL into work-specific views, while the fashion panel proceeds from prompt to image to variations. The compilation is useful for comparing those structures, but its combined density cannot establish the reading pace of each original film.",
+    "motion": "Each quadrant chooses a different connective device. The dark AI panel contracts icons into identity before opening the composer; the pale agent panel moves from a single input to multiple agent panes. Fashion assets accumulate as particles, clipped figures and multiplying cards. The sustainability panel uses growing type, repeated trees and a large leaf-shaped wipe to turn the verbal argument into shapes and quantities.",
+    "artDirection": "The four systems are deliberately distinct: dark UI with vivid colored surrounds, pale agent surfaces, iridescent fashion imagery, and a restricted green/black/white palette. These are alternatives to compare, not one combined art direction. Within each panel, repeated contrast and material choices make disparate scenes belong together. Underlying production authorship is not established by the compilation, and the sustainability excerpt ends before its full conclusion.",
+    "apply": [
+      "Select the visual grammar that matches the subject, then map input, operation and result using that grammar alone.",
+      "Enlarge one quadrant for timing decisions; check reading holds in that isolated sequence before adapting its pace."
+    ],
+    "evidence": [
+      "four simultaneous, substantially different films/excerpts",
+      "a single entered URL expanding into a team of work-specific views"
+    ]
+  },
+  {
+    "id": "ref-2117227499944108448-1",
+    "editing": "The film alternates intimate centered text with artwork stacks, work lists, a dark financial chapter, a small character and a music-player passage. Pale information scenes give each collection room to read; selective full-color scenes establish and close the personal world. Repeating the shallow stack around 12s and 26.3s makes different interests feel related. The player thumbnail expanding into its environment at 54.2s gives the later color return a narrative reason.",
+    "motion": "Transitions preserve a visible part of the outgoing scene. At 2.5s a diagonal pale wipe breaks into small squares carrying the old gradient palette; colored squares later resolve into an artwork. Stacks widen leftward while the front image stays dominant. Small status chips recur as graph nodes, and a gradient square becomes a player thumbnail before filling the whole scene—continuity comes from changing an object's role and scale.",
+    "artDirection": "Broad lavender, peach, coral and amber regions support small central type rather than competing with it. Off-white grounds are reserved for precise lists and images, while the near-black chapter signals a subject change. Selection handles, braces, colored chips and shallow contact shadows form a consistent editorial vocabulary across media. The unusually small source type is part of its taste, but needs a separate readability decision for mobile output.",
+    "apply": [
+      "Write a palette script for the full sequence, assigning bright fields, pale information scenes and dark chapters different narrative jobs.",
+      "Design one colored asset that can persist as a chip, graph point, thumbnail and background; specify how its outgoing edge becomes the incoming scene."
+    ],
+    "evidence": [
+      "Palette continuity survives changes in medium",
+      "The background transition is literally an object changing scale and role."
+    ]
+  },
+  {
+    "id": "ref-2116964927734972835-1",
+    "editing": "The sequence follows a clear task: style question, selected clothing reference, typed request, submit action, results and brand. The prompt completes and briefly holds at 5s before attention moves to the submit button, so the action follows readable intent. Results occupy a stable left-headline/right-list composition at 6.7–8.8s. The separate black creator-credit ending should not be mistaken for the demonstrated product's own end card.",
+    "motion": "Translation and scale carry the eye from a chosen card to the prompt bar and then the submit control. The bar grows when the request wraps; the dark arrow control expands from a small ellipse before the pointer approaches. A streaked handoff leads to scrolling results while the headline stays fixed. The movement has concrete destinations instead of continuously travelling around the interface.",
+    "artDirection": "Pale blue/white grounds, black type, soft frame shadows and rounded prompt geometry keep the product stages calm. Clothing imagery supplies most of the variation. Strong blue glow is largely confined to the opening; reading phases use clearer edges and restrained contrast. Layered translucent card outlines suggest selection and depth without needing the entire product view to become an oblique 3D scene.",
+    "apply": [
+      "Finish the typed request, hold it, then move the pointer to submit; make each framing change land on the next actionable element.",
+      "Reserve blur for fast handoffs and keep the prompt, control and result labels sharp during their reading holds."
+    ],
+    "evidence": [
+      "Text becomes complete before the submit action.",
+      "a left headline stays stable while a vertical right-hand column"
+    ]
+  },
+  {
+    "id": "ref-2116887447753871477-1",
+    "editing": "Editorial collage introduces taste, then the same poster becomes an object the software can review. The 11.9–16.6s passage carries the poster into a request and places artwork beside review text, making action and feedback comparable. Later inspiration selection and a composer lead to a populated moodboard. Stable layouts connect these changes, so the tactile style supports a recognizable input-to-output thread rather than replacing it.",
+    "motion": "Cutouts arrive in discrete placements, the head silhouette enlarges to cover the collage, and posters or monograms change by substitution and scale. The source is 15fps, supporting a stepped-looking cadence without proving physical stop-motion capture. In the software passages, a selected row changes luminance, a cursor isolates an action and moodboard tiles populate in groups. Not every layer needs the same continuously smooth interpolation.",
+    "artDirection": "Brown and off-white form the home palette. Cutting-mat green, mountain blues/yellows, violet accents, paper edges and clipped photographic objects are controlled insertions with specific roles. Deliberate overlap and mismatched object scales make the collage tactile; dark review UI provides a contrasting information surface. The recurring head silhouette and poster keep identity intact across the physical-looking and digital parts.",
+    "apply": [
+      "Define consistent clipping quality, texture, lighting and scale for the cutout asset family before animating it.",
+      "Carry the same poster through selection, review and output; hold chosen object states deliberately at a higher export frame rate instead of lowering every layer's frame rate."
+    ],
+    "evidence": [
+      "The poster becomes the object being evaluated",
+      "Many changes are object substitutions or stepped placements"
+    ]
+  },
+  {
+    "id": "ref-2116893654329721255-1",
+    "editing": "The fixed 3×3 grid is the editorial structure: six design/motion panels above three talking-head clips show breadth at once. Changes occur inside cells rather than through a whole-frame sequence. The counter rising to 7,000 around 1.5–2.7s and labels appearing beside a speaker provide local emphasis. The attachment continues its concurrent panels through the ending, without a single shared product argument or end card.",
+    "motion": "Each cell has a bounded motion task: architecture assembles, a personal-name panel expands, card rows reorder and a purple field pulses into terrain. Talking heads gesture inside fixed frames while milestone graphics change locally. Because the separators and cell geometry remain stable, movement can vary without losing the board's organization. The timing of one panel should not be treated as the next act of another.",
+    "artDirection": "Uniform dividers and mostly pale design panels give diverse outputs a common display structure. A blue/white product panel and purple terrain supply selective color, while the human footage along the bottom introduces a different texture and scale. The grid is the unifying art direction; preserving consistent bounds and margins is more important here than forcing every subject into the same material treatment.",
+    "apply": [
+      "Use this format for a recap, portfolio proof board or comparison where simultaneous variety is the intended message.",
+      "For a launch film, isolate the relevant cell and enlarge its action rather than asking nine miniature stories to explain the product."
+    ],
+    "evidence": [
+      "The grid itself is the editorial system.",
+      "three differently framed talking-head clips remain in fixed cells throughout"
+    ]
+  },
+  {
+    "id": "ref-2116874214133350667-1",
+    "editing": "The study builds recognition in stages: small seed, separated pieces, assembled mark, readable wordmark, then a large shift into product UI. Short settled silhouettes between transformations give the viewer a chance to recognize each intermediate state. The move to a full green field at 3.5s marks the identity-to-product chapter. The ending recedes before a completed task result, so the sequence supplies a reveal grammar rather than a complete product demonstration.",
+    "motion": "Four cuboid-like pieces separate from the seed, converge and turn into a ring, then flatten toward the striped mark. Construction guides make the resolved geometry visible before the wordmark appears. A white composer subsequently enters large and reframes into an angled plane with layered edges and softened moving boundaries. The visible relationship is continuous transformation, but it does not establish one continuously morphed source mesh.",
+    "artDirection": "White and forest green provide uninterrupted contrast for the symbol construction. Serif identity lettering changes to functional sans-serif UI, giving brand and product different typographic roles. Dashed guides, rounded internal corners, layered white edges and pale shadows establish designed geometry and shallow thickness. A textured green field supports the composer without introducing an unrelated scene palette.",
+    "apply": [
+      "Make each primitive state readable before beginning the next transformation; reserve the biggest scale and background change for entry into the product.",
+      "Extend the revealed composer into a concrete input and output if adapting this as a full launch story."
+    ],
+    "evidence": [
+      "The settled silhouette precedes the next change.",
+      "The source does not prove a single continuous mesh morph."
+    ]
+  },
+  {
+    "id": "ref-2116487154801254831-1",
+    "editing": "These are four concurrent explanation studies, not four successive scenes. One shows a changing usage bar, another follows avatars through a processor to output, a third accumulates rows, and the last expands a participant grid before replacing it with a photo hero. The graph panel has the clearest local input–operation–result progression. The fixed board lets the viewer compare mechanisms, but divides attention between unrelated actions.",
+    "motion": "Each concept is expressed through the property that matters: bar length decreases, curved connectors converge, sparse rows multiply and a small grid grows in scale. In the bottom-right panel, the gray/lime interruption accompanies replacement by the landscape hero around 3.9–4.5s. Following a graph relationship creates a pan-like effect; it is not evidence that a 3D camera drives every panel.",
+    "artDirection": "Black, near-white and purple, with thin separators and rounded components, establish a shared visual vocabulary. Purple identifies participants, progress and processing rather than serving as a constantly changing atmosphere. The landscape/photo destination is a deliberate material change in one quadrant. Stable containers and restrained linework make the state changes readable despite the dense simultaneous presentation.",
+    "apply": [
+      "Isolate one mechanism and reveal source → connection → processor → result in a traceable direction.",
+      "Tie the functional accent to the relevant actors or states, and choose a single changing property for each explanatory beat."
+    ],
+    "evidence": [
+      "The meaningful change is bar state, not camera travel.",
+      "The directional path makes input, operation, and result distinguishable."
+    ]
+  },
+  {
+    "id": "ref-2116442307172114718-1",
+    "editing": "The sequence turns scattered expense activity into organization, then demonstrates scanning, integration and access through other contexts. The receipt scan at 14.2–16.4s is a concrete process beat between broader diagrams and statements. A later card/notification scene connects an object to workplace action. Fast headline passages repeatedly resolve into smaller held text, so impact is followed by time to understand the proposition.",
+    "motion": "Grid cells cascade from dark to light to carry the opening transition, while scattered transaction icons establish disorder. Construction lines gather into the brand mark, workflow framing follows the diagram horizontally, and a luminous scan band travels down the receipt. Copies of a memo spread then compress into an integration strip. Each movement corresponds to an operation—organize, route, scan or collect—rather than an arbitrary orbit.",
+    "artDirection": "Black technical boards and white product stages alternate within a strict black/white/lime palette. Lime marks useful operations: scan corners, the brand symbol, emphasis and the final identity field. Receipt rows, card edges, node lines and large type retain distinct visual roles despite sharing that palette. Holding background and accent roles consistent makes switches between abstract explanation and physical-looking objects feel intentional.",
+    "apply": [
+      "Pair each storyboard verb with visible evidence, such as a scan crossing a receipt or a route reaching an approval node.",
+      "Follow a moving headline with a stable reading state, and keep the same accent attached to the useful operation across different scene types."
+    ],
+    "evidence": [
+      "scatter → organize → scan → integrate → access elsewhere",
+      "A large type transition needs a settled readable result."
+    ]
+  },
+  {
+    "id": "ref-2116150784194924798-1",
+    "editing": "The board contains four unused shot studies, so it should inform material and shot design rather than supply an approved final-film structure. Locally, coins lead to identity or confirmation, while the lower-left panel changes a keypad into an amount and transaction result. Those short transformations repeat independently. The strongest editorial opportunity is to select a few related states and give them a deliberate causal sequence in a new film.",
+    "motion": "Coin turns expose side thickness before the discs face the viewer; staggered columns, rolling motion and showers vary density around stable copy. The lower-left interface coalesces loose numerals into a keypad, substitutes an amount and then introduces a green confirmation. Object translation and rotation are visible, but the footage does not establish which apparent viewpoint changes come from a moving camera.",
+    "artDirection": "Charcoal objects are separated from charcoal environments through rim/specular highlights, soft tonal gradients and curvature. Thin bright edges communicate metallic disc thickness. Green is concentrated on numerical and confirmation cues, keeping functional UI states distinct from the silver material system. The coins, curved supports, keypads and confirmation pills share a controlled light world rather than looking like unrelated assets.",
+    "apply": [
+      "Define dark-value separation, metal roughness, edge thickness and functional color before designing individual shots.",
+      "Choose actual geometry and lighting when changing reflections and thin edges carry the effect; use the unused board as a material reference, not a finished narrative template."
+    ],
+    "evidence": [
+      "four simultaneously playing shot studies",
+      "Green is concentrated on earning/confirmation cues"
+    ]
+  },
+  {
+    "id": "ref-2113945989212148214-1",
+    "editing": "The explanation moves from a broad organization metaphor toward one worker's responsibility, then goal, tools, budget, permissions and a particular event. Separating these concepts into successive states prevents the scope of the agent from becoming one overloaded screen. The Slack-like artifact at 3.3s grounds the abstract opening; the later device and labeled controls make authority and cost concrete before the film returns to paths and targets.",
+    "motion": "The oblique radar board turns toward a more readable circle, then a workplace panel expands into view. Orbital ellipses flatten into an identity, and a fast role list decelerates until one responsibility is selected. Later the device compresses into a beam whose paths organize the bot's operating space; a push/pan follows the pink target. Scale changes correspond to changing conceptual scope.",
+    "artDirection": "Color roles remain stable: mint identifies the worker, violet its operating space, pink the attention target and yellow time or completion. Monospaced goal text, grids, orbital geometry and CRT-like device surfaces tie physical and abstract views together. Dim surrounding role labels and quiet budget/permission screens create a reading hierarchy inside the luminous world. Exact source render tools or bloom settings are not established.",
+    "apply": [
+      "Storyboard responsibility, goal, tools, authority, cost, input, decision and output as separate readable concepts.",
+      "Assign each color and metaphor one job, and move framing only when the explanation changes scope or follows a meaningful event."
+    ],
+    "evidence": [
+      "organization → one worker → one responsibility → scope → one event",
+      "Mint marks the worker, violet marks its operating space"
+    ]
+  },
+  {
+    "id": "ref-2115786794713440671-1",
+    "editing": "The application frame and editing workspace remain visible throughout, making this a process/prototype recording rather than a finished launch film. After the opening establishes the composition, the active-label behavior cycles repeatedly instead of introducing new story scenes. That locked view is useful for comparing one motion system across repetitions, but editor chrome and repeated loops should not automatically carry into a final product film.",
+    "motion": "A vertical pill stack moves through a central active band while each pill's width and scale change with its position. Around 5s the stack reverses or overshoots, then cycles through the emphasis pattern again. Coordinating position, width and scale makes the selected term dominant while the other pills remain contextual. The overall canvas does not need to travel for this hierarchy to be visible.",
+    "artDirection": "A dominant orange field binds a bright family of colored word pills with consistent radii. A narrow chevron strip counterbalances the typography at left, while a yellow typographic area anchors the right. Individual pill colors remain recognizable as their relative importance changes. Stable background regions and repeated component geometry keep the energetic palette from losing its structure.",
+    "apply": [
+      "Define an active band and coordinate label position, width and scale around it; keep inactive labels legible as context.",
+      "Test the component on a locked canvas first, then crop away workspace chrome and give the behavior a narrative role in the finished film."
+    ],
+    "evidence": [
+      "The full application frame remains locked.",
+      "scale, width, and position are coupled"
+    ]
+  },
+  {
+    "id": "ref-2115445301725335578-1",
+    "editing": "The opening changes a cropped, oversized black word into a small readable statement, then builds through typography, identity construction, applications and product proof. At 6.58–7.80s, the centered wordmark interrupts the rapid construction sequence with a clear rest. The coin passage at 15–23s forms its own material chapter before the film returns to an action list, phone UI and payment cards; the final yellow identity receives a sustained hold.",
+    "motion": "Related assets change role instead of being replaced by unrelated effects: application cards multiply into an arc, sweep away and converge into one branded card. One coin becomes a coil, then a ring that meets circular typography; scale and repetition make the transition legible. During the later action statement, a yellow rounded highlight moves emphasis between words while the nearby UI list scrolls to a selected item.",
+    "artDirection": "Yellow, black, muted mint and greige connect flat type, rounded applications, UI and physical objects. The coin at roughly 16.6s is almost black, with a warm grazing edge separating it from the background; its material is carried by a restrained highlight rather than overall gloss. Frontal graphic compositions alternate with shallow-perspective cards and macro objects, while the recurring mark, arrows and coins maintain identity.",
+    "apply": [
+      "Choose a small set of brand primitives that can survive as typography, containers and physical objects; storyboard how each changes role.",
+      "Separate a fast construction passage from a resolved identity or product hold. Give the final lockup time after it finishes assembling."
+    ],
+    "evidence": [
+      "6.58–7.80s: centered wordmark breather",
+      "12.34–15.00s: application arc converges into card",
+      "17.54–21.20s: coil, ring and circular type"
+    ]
+  },
+  {
+    "id": "ref-2115140975966454087-1",
+    "editing": "This is a simultaneous four-panel reel, so each quadrant has its own sequence. The upper-left moves from swatches to a report; the lower-right moves from a generation motif to an executive-summary document. Read those as separate input-to-output studies. Combining their events into one chronological storyline would invent continuity that the attachment does not show.",
+    "motion": "The upper-left swatches stagger into view and become a footer within a larger report. In the upper-right, individual letters reorganize into the brand name before a request types with inline purple chips. The lower-right establishes a document, adds text and pushes into its content; the lower-left instead exchanges a typed statement for a glassy flower, a lavender ground and a landscape.",
+    "artDirection": "The reel assigns distinct visual roles to its surfaces: dark fields contain generation and prompts, pale documents make outputs recognizable, and purple chips mark functional inputs. Luminous gold, blue and violet imagery supplies metaphor around those concrete artifacts. The flower and landscape can create atmosphere, but the report and document are the elements that make an information task readable.",
+    "apply": [
+      "Select one quadrant's input, processing and output relationship before expanding it into a full film.",
+      "Let an abstract image introduce a concept, then give it a recognizable result such as a document. Preserve the same task across that change."
+    ],
+    "evidence": [
+      "Top-left 0–1s: swatches become report footer",
+      "Top-right 1.67–2.67s: letters reorganize",
+      "Bottom-right 1–3.5s: summary document and reframe"
+    ]
+  },
+  {
+    "id": "ref-2115433629182492788-1",
+    "editing": "The demonstration uses a repeated interaction cycle: invite a spin, rotate, settle on a location, then hold its information. The Shenzhen result remains readable at roughly 4–7.17s before the prototype changes to a card-based breadth statement. Later location changes repeat the exploration pattern; they are examples of a discovery interaction rather than successive claims in a linear sales narrative.",
+    "motion": "Pointer interaction removes the spin prompt and accelerates the globe, which then slows toward a result. The surrounding page stays stable, making object rotation distinct from camera movement. During 7.93–13s, two card rows travel horizontally in opposite directions around stationary central copy; the cards supply variety while the message remains the visual anchor.",
+    "artDirection": "Lime continents and location emphasis sit on a dark forest-green field, with the white invitation providing the initial reading point. The globe supplies spatial organization, while the side panel gives a selected place a conventional information surface. Photographic and text cards add human/detail content without requiring a new full-screen visual world for every destination.",
+    "apply": [
+      "Storyboard the user's action, the object's movement, its deceleration and the held result as separate states.",
+      "Keep the page frame fixed when spatial orientation is the information. Use peripheral movement only where a stationary central message still needs to be read."
+    ],
+    "evidence": [
+      "0.92–2.17s: interaction and decelerating rotation",
+      "4.02–7.17s: Shenzhen reading hold",
+      "7.93–13s: counter-moving card rows"
+    ]
+  },
+  {
+    "id": "ref-2115414518910111794-1",
+    "editing": "The identity is explained through expansion and return: a striped mark becomes a wordmark, a layout field, a photo mask and a poster, then contracts back into the mark. Chapter statements and portrait holds interrupt the transformations so the viewer can read each application. The close gathers repeated modules into a square, stripe icon and horizontal lockup before holding the identity across established palette changes.",
+    "motion": "At 3.67–4.80s the striped bar lengthens between the name's parts and grows into a rectangular field while retaining its narrow stripe rhythm. Portraits enter through related stripe masks; later the image wipes away and the panel contracts back to the logo. Translation, masking, scale and layout changes create momentum in a mainly frontal composition, without requiring an orbiting camera.",
+    "artDirection": "Stripe widths and gaps are the connective tissue: the same spacing functions as logo geometry, divider, viewport, image mask and repeating pattern. Forest green/lime, purple/peach, cyan/navy and yellow/gray are discrete palette states, changed at chapter boundaries. Portrait photography and aligned editorial type give the geometric system a human application rather than leaving it as an abstract logo exercise.",
+    "apply": [
+      "Define the module's stripe spacing, frame proportions and alignment rules before animating it into multiple roles.",
+      "After an expansion, hold a complete reading state. Test whether the resulting poster or photo composition works as a still before connecting it to the next transformation."
+    ],
+    "evidence": [
+      "3.67–4.80s: stripe bar becomes layout field",
+      "6.50–10.83s: portrait masks and contraction",
+      "24.85–29.98s: modules resolve into final lockup"
+    ]
+  },
+  {
+    "id": "ref-2114697201473720711-1",
+    "editing": "The five-second fragment turns an abstract duration statement into a calendar, expands into a field of product iterations and clears to a single product word. The density change is the argument: a stable calendar makes elapsed work concrete, the surrounding cards suggest repeated refinement, and the empty final field resolves that accumulation. This is a transition sequence rather than a complete product explanation.",
+    "motion": "The calendar's number grid stays fixed while colored circles pop or move between dates at roughly 1.38–2.63s. A wider composition then distributes small UI cards around the perimeter while central copy advances. The cards clear as the product word takes over, so the audience's attention returns to the same center instead of having to find a new focal point.",
+    "artDirection": "Off-white, faint construction circles and large cropped purple blocks establish a graphic workspace without filling it with detail. Orange marks the selected calendar state, and the perimeter crops imply more cards outside the frame. The brief purple/black change punctuates the final reduction, after which a sparse off-white hold gives the product word the highest priority.",
+    "apply": [
+      "Represent time with a recognizable stable structure, then animate state changes inside it.",
+      "Build the dense iteration view around the final reading anchor; remove peripheral material in time to leave a clear, settled destination."
+    ],
+    "evidence": [
+      "1.38–2.63s: stable calendar with animated dates",
+      "2.67–3.55s: peripheral UI cards",
+      "4.25–5.05s: sparse product-word hold"
+    ]
+  },
+  {
+    "id": "ref-2113490687912264068-1",
+    "editing": "The reel presents three editorial sections: a runtime/data statement, an enterprise credential row and a code-centered workflow. Short reveals lead into readable holds; the last section occupies roughly 3.02–6.98s, much longer than its entrance. The progression demonstrates component treatments, so a new launch film would still need an argument connecting the selected capabilities.",
+    "motion": "Typing reveals the first statement while the left-side line structure and two-column frame remain stable. A fade/cut introduces the credential tiles, then a fade/rise moves toward the code section. Code types early in the final interval and settles; the motion stops when the information needs to be read rather than maintaining camera movement over small text.",
+    "artDirection": "Dark olive surfaces, hairline grids and mint/teal accents make the composition feel technical without relying on bright bloom. Columns distinguish explanatory copy from structural imagery, while the final central code panel is supported by flanking feature descriptions. The camera remains frontal, preserving text scale and alignment as the principal sources of hierarchy.",
+    "apply": [
+      "Reveal the headline before its supporting system and finish the code animation before the main reading interval.",
+      "Use concise, relevant code and test it at delivery size. Preserve column alignment and type hierarchy through section changes."
+    ],
+    "evidence": [
+      "0–1.57s: two-column statement and hold",
+      "1.68–2.38s: enterprise credential row",
+      "3.02–6.98s: code section and reading hold"
+    ]
+  },
+  {
+    "id": "ref-2112576405343236283-1",
+    "editing": "The vertical loop stages the environment before the identity: warm horizon bands rise, the two-arch arrangement settles, radial rays build the mark and the lockup completes. A serif statement appears between the arches around 5.83–7.17s. Brand and copy then fade before the curves clear back toward the opening, giving the exit its own phase instead of cutting immediately after the reveal.",
+    "motion": "Orange/gold curved bands rise from below against burgundy, with overlap establishing depth in a frontal view. Pale wedge-like rays fan or spin into the radial mark during 3.35–4.83s; the reveal is visibly assembled from related parts. The background has a slower rise/clear cycle around the more concentrated identity event, allowing the lockup and vertical line to rest within it.",
+    "artDirection": "This 1080×1920 variant uses crisp nested arches and a narrow vertical reading region. Pale blue type and the mark contrast with warm red/orange fields, so warm/cool separation supports both depth and legibility. The gradient fields carry atmosphere while the curve edges define composition; the source study does not establish the exact shader or fine-grain finishing method.",
+    "apply": [
+      "Assign different timing roles to the broad background curves and the identity's smaller radial parts, then provide a settled copy hold.",
+      "Test the warm/cool separation and gradient ramps at the final aspect ratio and encoded delivery size; do not infer a finishing recipe from thumbnails."
+    ],
+    "evidence": [
+      "0–3.33s: two warm arches establish",
+      "3.35–5.67s: radial mark and lockup",
+      "5.83–7.17s: pale blue vertical serif line"
+    ]
+  },
+  {
+    "id": "ref-2112576405343236283-2",
+    "editing": "This variant gives atmospheric color more space than layered geometry. The upper cool field rises into an orange horizon, the image settles, and the black identity builds in the lower third. The lockup holds from roughly 5.60–8s, then exits before orange blends through pale pink tones toward the opening. The ten-second cycle is one variation, not a middle chapter of the other Elio clips.",
+    "motion": "The broad horizon moves upward through the frame while the tonal field changes from cold gray/blue to orange. The radial symbol and wordmark build between 3.35–5.58s, after the background has established its dominant state. Background transition and identity reveal therefore have different jobs: one establishes atmosphere, the other creates a compact focal event followed by a stable hold.",
+    "artDirection": "The 1080×1440 composition uses an atmospheric tonal field rather than the first variant's vertical serif line between crisp arches. A black lower-third lockup is separated from the warm orange field by value contrast. Cool-to-warm progression supplies depth without an oblique camera, while the large unoccupied upper area preserves the horizon's scale.",
+    "apply": [
+      "Establish the large color field before the identity reveal, then keep the lockup stable while its surroundings continue their slower cycle.",
+      "Evaluate the lower-third placement in the intended crop and test the encoded gradient for banding rather than assuming the reference's finishing process."
+    ],
+    "evidence": [
+      "0–1.67s: cool atmosphere rises into orange horizon",
+      "3.35–5.58s: lower-third identity build",
+      "5.60–8s: identity hold"
+    ]
+  },
+  {
+    "id": "ref-2112576405343236283-3",
+    "editing": "The third variant separates the construction into an orange semi-arc, a light-blue inner circle and a held layered horizon. The black radial identity arrives after this structure is established, then holds through roughly 8s. Its exit is followed by a separate clearing of the blue/orange layers, returning the composition to burgundy and making the loop's reset legible.",
+    "motion": "The first arc rises during 0–1.17s; the inner blue circle joins it during 1.18–2s. The curved layers then hold before the radial identity builds on the blue lower field at 3.35–5.58s. Overlap and vertical movement provide spatial separation in a fixed frontal frame; the final fall/fade removes those layers in preparation for the next cycle.",
+    "artDirection": "Burgundy, orange and light blue form distinct nested zones rather than one continuously blended atmosphere. The blue lower field gives the black lockup a clear local background, while the surrounding orange arc frames it. This is the crisper layered-shape counterpart to variant two's atmospheric horizon, with a shared palette relationship but a different edge structure.",
+    "apply": [
+      "Compose the nested shapes as a resolved still before timing their entrances; preserve a clear local field behind the identity.",
+      "Separate layer establishment, brand reveal, reading hold and loop reset so background motion does not compete with the mark's assembly."
+    ],
+    "evidence": [
+      "0–2s: orange arc then blue inner circle",
+      "2.02–3.33s: layered horizon hold",
+      "3.35–8s: radial identity build and hold"
+    ]
+  },
+  {
+    "id": "ref-2110838619078557910-1",
+    "editing": "The abstract opening becomes a recognizable UI within about two seconds, after which the film spends most of its time on an ordinary model-picker action. It separates orientation, pointer approach, menu expansion, list exploration and the selected result. The menu closes around 11.68–13.83s and the resulting picker state holds before the UI recedes to a quiet branded ending.",
+    "motion": "Soft concentric forms reveal a pale UI plane, followed by an apparent pullback that exposes the conversation around the composer. The dropdown grows vertically from an anchored picker at 6.27–6.83s. Its contents scroll while the bottom control stays spatially stable, so the viewer can track a changing list without a moving camera or a changing interaction origin.",
+    "artDirection": "Off-white fields, pale UI planes and restrained shadows keep attention on the dark send control, picker and menu text. The expanded menu is a rounded white surface with a subtle edge, distinct enough to read without becoming a decorative card stack. Abundant empty space at both ends contrasts with the information-rich middle, while stable frontal proof protects legibility.",
+    "apply": [
+      "Stage the approach, open state, selection and result separately; leave enough held screen time to understand what the picker changed.",
+      "Use an entry flourish only if it resolves quickly into the real product object. Keep controls anchored while menus or lists change around them."
+    ],
+    "evidence": [
+      "1.93–6.25s: composer orientation and pointer approach",
+      "6.27–11.67s: anchored dropdown and scroll",
+      "11.68–13.83s: selected result hold"
+    ]
+  },
+  {
+    "id": "ref-2110034769685962919-1",
+    "editing": "Most construction occurs in the first 1.68 seconds, followed by a much longer view of the completed graph. The sequence introduces one orange anchor, draws relationships, then adds magenta and yellow outputs. The held network is the result; treating this ten-second clip as continuous high-motion editing would obscure its deliberately uneven distribution of activity and rest.",
+    "motion": "Hairline boxes and connectors draw incrementally around the first square. A magenta card arrives at the upper right around 0.85–1.22s, followed by a yellow lower card and its relationships at 1.23–1.67s. The movement explains the graph's construction order rather than moving a camera through it; subsequent changes are minor compared with the initial assembly.",
+    "artDirection": "A square black canvas and subtle grid keep the surrounding structure quiet. Orange, magenta and yellow distinguish three important functional nodes from the darker card context and fine connector lines. Headline fragments in the upper-left and lower-right bracket the network, giving the diagram a reading frame without enclosing every element in another visible container.",
+    "apply": [
+      "Build the diagram in semantic order—anchor, relationships, outputs—and stop once the completed network is understandable.",
+      "Check each accent's functional role and test whether the held graph explains the intended task before adding further expressive motion."
+    ],
+    "evidence": [
+      "0–0.83s: orange anchor and connectors",
+      "0.85–1.67s: magenta and yellow nodes",
+      "1.68–10.48s: predominantly held completed graph"
+    ]
+  },
+  {
+    "id": "ref-2107856619979579679-1",
+    "editing": "The product performs a connected task: review destination, request list, selected diff, explanation beside code, comment and review action. The 14.53–24.63s proof section receives an extended reading interval before the film concentrates on acting through the comment workflow. After the review controls return, the UI fades and a short closing phrase precedes the final Linear hold; each chapter inherits the task established before it.",
+    "motion": "Early framing follows the interface hierarchy from an oblique sidebar to a list and a diff pane entering from the right. The image becomes more frontal when explanation and code need to be read together. Later macro reframing isolates submission and comment controls; code scrolling and composer-state changes supply the action within those held compositions. Apparent camera behavior is visible, but the source rig and renderer are not established.",
+    "artDirection": "Charcoal UI provides a subdued field for red/green diff evidence and purple actions. Cropping, shallow perspective and selective softness create a close physical feeling, while the content-heavy split layout reduces distortion. In the inspected comment still, peripheral text is softened but the composer and code relationship remains clear; the effect is selective attention, not a reason to blur essential proof.",
+    "apply": [
+      "Keep the same case, file and comment context through destination → evidence → action so each shot advances one task.",
+      "Use oblique framing for orientation and transitions, then return toward a frontal readable state when code or explanatory text becomes the point."
+    ],
+    "evidence": [
+      "6.87–12.17s: diff pane enters from right",
+      "14.53–24.63s: frontal explanation and code proof",
+      "30.53–40.83s: extended comment/composer workflow"
+    ]
+  },
+  {
+    "id": "ref-motion-memorable",
+    "editing": "The argument progresses from historical computing and present-day agents to repeated work, memory, recall and outcomes. The maze first embodies wasted repetition; later, completed maze tiles become a collection and a route graph makes recall operational. These returns connect the film's varied footage, diagrams and typography. Sparse waiting imagery and the sustained final identity create rests between denser montage passages rather than keeping every section equally active.",
+    "motion": "At 14.80–17.76s, a bright path head draws through a faint stationary maze, meets red dead ends and later becomes repeated fragments. Around 38–40.96s the tile collection clears across a visible replacement boundary before a violet route illuminates within a new graph; the evidence does not show each tile morphing into a line. Near the close, an angular path disperses into particles that gather into the symbol, carrying the route vocabulary into identity.",
+    "artDirection": "Historical and contemporary footage supply context, while near-black fields, violet paths and subdued networks clarify the abstract mechanism. Copy occupies negative space beside the maze or positions along the route rather than always sitting in a fixed caption box. Thin lines, dot fields and particles connect the explanatory and closing graphics; photographic outcome panels deliberately change medium when the argument shifts from mechanism to benefit.",
+    "apply": [
+      "Choose one relationship that can recur as problem, mechanism and identity; map its meaning at each return before designing transitions.",
+      "Establish the whole graph before highlighting its active route. Keep transitions faithful to observed continuity rather than inventing geometric morphs between unrelated data structures."
+    ],
+    "evidence": [
+      "14.80–17.76s: maze path and red dead ends",
+      "38–40.96s: replacement boundary then route highlight",
+      "47.60–51.96s: angular route, particles and identity"
+    ]
+  },
+  {
+    "id": "ref-skale-jev",
+    "editing": "The sampled 17-second preview changes explanatory medium in stages: direct presenter, side portrait with typed identity, modular diagram, categorized windows, a comparison and finally a spatial chart. The cuts and takeovers assign a different job to each section rather than leaving a presenter over one unchanging background. These observations describe the excerpt only; the full film's argument and pacing were not reviewed.",
+    "motion": "A modular takeover replaces the portrait with a white diagram around 3.5–6s. On the pink stage, stacked windows reorganize into three categories, followed by sequential cells and copy. In the final 14.2–17.4s passage, a translucent threshold plane moves through a column field, making a relationship visible through position rather than requiring another block of explanatory text.",
+    "artDirection": "White diagram surfaces and pink stages share a restrained graphic vocabulary with the presenter treatment. The inspected frame uses a faint grid, black typography, small corner-like brackets and a connected row of familiar model marks. Human footage establishes a person; aligned diagram elements carry the conceptual explanation. The final spatial chart should be understood as designed explanation, not automatically as genuine product UI.",
+    "apply": [
+      "Give presenter, diagram and comparison distinct jobs, then maintain type and alignment rules across their transitions.",
+      "For a spatial chart, define what its columns and threshold actually mean before animating the plane; verify reading time on the finished excerpt."
+    ],
+    "evidence": [
+      "Sampled preview 3.5–6s: modular white diagram",
+      "6.2–9.3s: windows reorganize into categories",
+      "14.2–17.4s: translucent threshold in column field"
+    ]
+  },
+  {
+    "id": "ref-skale-cognition",
+    "editing": "The preview establishes a phone exchange, alternates the woman and mascot, and develops question/reaction/reply edits before using a diagonal split screen around 8–12s. That shared frame briefly holds both sides of the exchange, then individual reactions return. Near 16–20s, the mascot's explanation leads into a drawn graph, changing from conversational setup to graphic explanation; the full film and vocal performance remain unreviewed.",
+    "motion": "Action comes from pickup, character reactions and changes in coverage rather than constant graphic movement. The diagonal split carries both participants in one composition, while later cuts restore individual emphasis. The drawn graph enters when the explanation becomes the subject, attaching the graphic to the conversational scene instead of placing unrelated overlays over every shot.",
+    "artDirection": "The inspected mascot frame combines a tactile brown plush character, a blue phone and a softly rendered interior, with a small subtitle near the lower center. The physical prop keeps the call understandable while the character supplies the visual contrast. Selective captions leave most of the image to the performance; sampled frames establish that arrangement but not the effectiveness of comedy or sound timing.",
+    "apply": [
+      "Establish a recognizable interaction and use reaction coverage to carry its logic before adding explanatory graphics.",
+      "Introduce a shared-frame treatment only when seeing both sides helps the exchange; keep subtitles secondary to the acting and inspect their readability at delivery size."
+    ],
+    "evidence": [
+      "0–8s: pickup and alternating exchange",
+      "8–12s: diagonal split screen",
+      "16–20s: mascot explanation leads into graph"
+    ]
+  },
+  {
+    "id": "ref-skale-baseten",
+    "editing": "The sampled preview divides its explanation into a presenter-and-graphic setup, staged questions, a tighter presenter with platform geometry, a policy-type passage and a radial diagram. Changes in background and density mark those chapters. The presenter is retained while the graphic subject develops, so the explanation can advance without repeatedly reintroducing who is speaking; this is an excerpt-level observation rather than a claim about the entire film.",
+    "motion": "The presenter composition narrows as a lavender isometric stage enters during the opening. Questions are then introduced progressively in the graphic region; around 8–14s a closer presenter crop is paired with black grid/platform geometry. High-contrast type takes over briefly before the radial line structure appears, changing the explanatory form at a clear boundary rather than animating all forms simultaneously.",
+    "artDirection": "The inspected split frame pairs warm clothing and green background foliage with a lavender technical field. Thin grid lines organize the right side, darker purple blocks and labels establish hierarchy, and large pale question text occupies the available graphic space. The presenter carries human context while the grid and diagram carry structure, with the divider making those roles immediately legible.",
+    "apply": [
+      "Reserve a stable region for the presenter and a separate region for successive explanatory states; assign each region one main job.",
+      "Use density and background changes to mark chapters, then test the animated question text at original speed before treating its hold as sufficient."
+    ],
+    "evidence": [
+      "0–2s: presenter narrows as lavender stage enters",
+      "2–8s: progressive question typography",
+      "8–20s: platform geometry, policy type and radial lines"
+    ]
+  },
+  {
+    "id": "ref-gawx-creative-process",
+    "editing": "The opening tightens from a warm desk setting into pen, hand and face details, making hesitation concrete before the film expands into diversions and planning. Returning pen imagery connects the obstacle to later execution. Clock, equipment, timeline and calendar inserts compress different duties into a production passage, followed by wider room and longer face coverage that creates a quieter destination before the graphic ending.",
+    "motion": "Variation comes from changing shot scale, rotated body framing, light-state shifts and repeated performer views, not only camera travel. The 42.7–56s reading window combines rotated framing, blue/red contrast and the returning pen to bridge idea and execution. Near the close, overlaid type and rounded masks reduce the live-action world into a simpler white brand composition. These are thematic windows from the scan, not measured transition timings.",
+    "artDirection": "Amber practical light, cool surroundings and saturated red/blue passages distinguish emotional and production states within the same recurring world. Tangible objects—pen, book, equipment and the visible brand plaque—carry context across changes of scale. The white ending deliberately simplifies the palette and image structure after the denser work passages; the evidence does not establish exact lenses, rigs or grading transforms.",
+    "apply": [
+      "Give the task a recurring object or state whose return shows a change; plan its setup and payoff before adding a montage.",
+      "Alternate useful close detail with locating context. Design a quieter destination for the stylistic peak and test whether the final simplification resolves the established story."
+    ],
+    "evidence": [
+      "Frames0–383: warm desk and tighter pen/hand/face views",
+      "Frames1024–1343: rotated framing and returning pen",
+      "Frames1920–2454: quieter passage then simplified graphic close"
+    ]
+  },
+  {
+    "id": "ref-gawx-routine",
+    "editing": "Short inserts of ordinary actions lead to a sustained sleeping composition, then repetition expands into a cumulative mosaic. Personal archives broaden the film's vocabulary before tactile camera and phone details return it to specific objects. The ending repeats desk poses and handwritten materials in a second mosaic, echoing the earlier layout with changed content. Density, intimacy and rest are arranged as contrasting passages rather than one continuously accelerating montage.",
+    "motion": "Within the first mosaic, room and portrait views change in a central slot while fragments accumulate around it; the center does not remain one fixed waking portrait. Later, foreground camera detail and a softly rendered person behind it shift the focus relationship, while the phone library changes image scale and density. The final credit panel arrives after the handwritten-page passage, with surrounding fragments completing the cumulative layout.",
+    "artDirection": "Blue rooms carry amber highlights, and bright windows are framed by darker foregrounds. Paper, screens, archives, reflected/water images and physical actions act as different kinds of personal evidence. In the overload passage the center can become darker than the periphery, making the change in density intentional rather than enforcing the same focal hierarchy everywhere. Product-proof adaptations would need a clearer reading destination after that overload.",
+    "apply": [
+      "Repeat a meaningful object or task with development, then use the second cumulative layout to show what has changed.",
+      "Assign a purpose to each material and density level. Separate subject/background values before adding selective focus or texture, keeping essential proof sharp."
+    ],
+    "evidence": [
+      "Frames448–559: central-slot changes and accumulating fragments",
+      "Frames1175–1468: tactile camera and phone details",
+      "Frames2093–2456: handwritten material and second mosaic"
+    ]
+  },
+  {
+    "id": "ref-daniel-shot-planning",
+    "editing": "The tutorial makes planning visible before the finished sequence: sampled guidance inventories ingredients/tools at 89–91s, assigns actions at 120–122s and orders shots at 167–170s. Its dense 595–601.96s window then exposes how separate shots are joined. Pouring, blade detail, held ingredients and blending form a planned progression, while the ending returns to a stable glass-and-ingredient composition instead of ending inside a transition.",
+    "motion": "In the dense window, the image drops toward the tabletop while pouring continues, then cuts to a blade close-up at frame14309. Later a dark table edge rises, and red blending imagery appears beneath it while the previous wider scene remains above; by frame14355 the blending texture fills the view. The edge bridges two scenes, so the result should not be described as one uninterrupted camera move.",
+    "artDirection": "Production views expose low handheld framing and a large side light, while the finished inserts emphasize tangible ingredients, cup, blade and tabletop. The dark edge provides a strong compositional boundary capable of hiding a handoff, and the red blended texture creates a distinct arrival. The source is a sampled 480p research copy, so exact optical finish, lighting ratios and source-size texture are not established.",
+    "apply": [
+      "Plan entities, actions and shot order separately, then stage both sides of a transition together around a shared edge or action.",
+      "Compare the move with a direct cut. Keep it when its departure and arrival preserve context and deliver a readable result; inspect the crossover as consecutive frames before judging it at playback speed."
+    ],
+    "evidence": [
+      "89–91/120–122/167–170s: inventory, actions and shot order",
+      "Frames14350–14355: table-edge crossover into blending",
+      "605–610s: stable final glass/ingredient composition"
+    ]
+  },
+  {
+    "id": "ref-shuding-calculus",
+    "editing": "The short demonstration moves through a sequence of inspectable results: function statement, two-variable surface, optimization history, derivative-based resize, exact/softened layouts, signal approximation and a complex-valued layout. Each sampled view pairs a mathematical operation with its visible consequence. This is an interface research demonstration; eight sampled frames cannot establish the exact cuts, transition feel or continuous pacing between those views.",
+    "motion": "The underlying interface derives geometry and diagnostics from the same operation graph, making parameter changes consequential rather than decorative. The sampled resize and softened-layout views show two different relationships: geometry updates from local derivatives, while softened steps turn abrupt layout changes into continuous ones. These are source-inspected mechanisms; the clip alone does not verify arbitrary React conversion or the smoothness of every animated transition.",
+    "artDirection": "The inspected optimization frame is a restrained white scientific composition: thin gray axes/grid, a blue result curve, a dashed threshold and an equation below. The chart and mathematical statement share the frame so the viewer can connect the operation with its effect. Hierarchy comes from position, line weight and one emphasized curve rather than layered cards or a moving cinematic camera.",
+    "apply": [
+      "Drive the visible scene, its trajectory plots and sensitivity readouts from one time-addressed function so every control changes a checkable result.",
+      "Label exact evaluation, softened approximation and sampled evidence separately. Show the affected geometry next to its equation, with consistent units and explicit threshold behavior."
+    ],
+    "evidence": [
+      "Sampled0/2/4s: function, surface and optimization",
+      "Sampled6/8s: derivative resize and softened layout",
+      "Source bundle: shared operation graph for exact/derivative/interval evaluators"
+    ]
+  },
+  {
+    "id": "ref-kaye-claude-motion",
+    "editing": "The tutorial separates two editing tasks: arranging supplied talking-head footage and authoring visuals from voiceover alone. Its observed comparison frames support evaluating those modes separately rather than declaring one general winner. The 360.36s slide explicitly examines opening duration, headline scale and time on the speaker, while the 630.63s sample shows a small text block inside a largely empty frame—an example of completed output with weak focal occupancy.",
+    "motion": "The visible workflow includes reference thumbnails, attached files and a long prompt before the comparison sequences. Timestamped ASR paraphrases describe a revision to visual entrances that lag the speech's energy, even when text is mechanically synchronized; this remains an unverified transcript account, not a listening observation. The practical distinction is between a cue arriving on a timestamp and the image arriving early enough, at enough scale, to communicate the phrase.",
+    "artDirection": "The evidence highlights composition as an editing decision: headline size, speaker allocation, reference coherence and the amount of frame occupied by the focal text. The small centered type in the sampled motion example leaves most of a dark field unused, while side-by-side vertical A/B frames create a consistent comparison format. The tutorial's pros/cons table records its creator's claims; it is not evidence of universal quality or cost advantages.",
+    "apply": [
+      "For each revision, name the time range, focal element and intended change—such as enlarging the headline or advancing its arrival—rather than requesting more motion in general.",
+      "Keep footage editing and voiceover-led authorship as separate comparisons. Evaluate readable scale, meaning and transitions alongside synchronization, and retain direct control over local scene/text changes."
+    ],
+    "evidence": [
+      "360.360s: opening timing and headline allocation slide",
+      "630.630s: tiny text in large dark frame",
+      "ASR620–642s: reported targeted correction to size and visual arrival; unverified transcript"
+    ]
+  }
+]

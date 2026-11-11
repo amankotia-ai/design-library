@@ -1,0 +1,256 @@
+{
+  "scope": "Audit of actual Design Library catalog against existing MovieMaker creator/video-model studies; global X/portfolio references inventoried by companion task. No new video observation performed.",
+  "actual_library": "/Users/abhishekmankotia/Documents/ChatGPT/Design Library/pilot",
+  "counts": {
+    "archived_documents": 81,
+    "film_cards_before_import": 10,
+    "breakdown_records_before_import": 10,
+    "creator_and_video_model_cards_to_add": 4,
+    "archived_x_posts": 32,
+    "archived_x_assets": 34,
+    "unique_x_asset_sha256": 34
+  },
+  "cards_to_add": [
+    {
+      "id": "gawx-creative-process",
+      "title": "The Creative Process",
+      "creator": "Gawx Art",
+      "source": "https://www.youtube.com/watch?v=LX_4HSqMX5g",
+      "media": "research/creator-studies/media/gawx-creative-process.mp4",
+      "analysis": "research/creator-studies/creative-process-visual-study.md",
+      "archive_id": "research-creator-studies-creative-process-visual-study",
+      "coverage": "research/creator-studies/creative-process-coverage.json",
+      "frames": "research/creator-studies/creative-process-all/frames.csv",
+      "preferred_stills": "research/creator-studies/creative-keyframes/selection-r03.json",
+      "viewer": "research/creator-studies/creative-keyframes/sheet-r03/index.html",
+      "review": "All 2455 consecutive thumbnails across 39 sheets; 12 larger selected frames and 40-frame light-state window. No playback or audio listening.",
+      "scene_bands_frames": [
+        [
+          0,
+          383
+        ],
+        [
+          384,
+          703
+        ],
+        [
+          704,
+          1023
+        ],
+        [
+          1024,
+          1343
+        ],
+        [
+          1344,
+          1599
+        ],
+        [
+          1600,
+          1919
+        ],
+        [
+          1920,
+          2239
+        ],
+        [
+          2240,
+          2454
+        ]
+      ],
+      "fps": "24/1",
+      "duration": 102.291667,
+      "import_notes": "Frame bands are reading windows, not exact cut boundaries. Working media is 1920x1080; info.json describes a higher available rendition. Preserve YouTube production/writing/mix/color credits rather than crediting all contributions to Gawx.",
+      "absent_from_film_cards": true,
+      "already_archived_as_document": true,
+      "archive_download": "/film-motion/research/creator-studies/creative-process-visual-study.md",
+      "missing_local_paths": [],
+      "media_bytes": 18640112,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "codec": "h264",
+      "has_audio_stream": false
+    },
+    {
+      "id": "gawx-routine",
+      "title": "ROUTINE",
+      "creator": "Gawx 2",
+      "source": "https://www.youtube.com/watch?v=GoTa5ETmQYw",
+      "media": "research/creator-studies/media/gawx-routine.mp4",
+      "analysis": "research/creator-studies/routine-visual-study.md",
+      "archive_id": "research-creator-studies-routine-visual-study",
+      "coverage": "research/creator-studies/routine-review-coverage.json",
+      "frames": "research/creator-studies/routine-all/frames.csv",
+      "preferred_stills": "research/creator-studies/routine-mechanisms-sheet-r02/manifest.json",
+      "viewer": "research/creator-studies/routine-mechanisms-sheet-r02/index.html",
+      "review": "All 2457 consecutive thumbnails across 39 sheets; 16 larger mechanism frames, 32-frame finish window and two working-source stills. No playback or audio listening.",
+      "scene_bands_frames": [
+        [
+          0,
+          319
+        ],
+        [
+          320,
+          447
+        ],
+        [
+          448,
+          559
+        ],
+        [
+          560,
+          1174
+        ],
+        [
+          1175,
+          1468
+        ],
+        [
+          1469,
+          2092
+        ],
+        [
+          2093,
+          2456
+        ]
+      ],
+      "fps": "73710000/3074321",
+      "duration": 102.477367,
+      "import_notes": "Use exact PTS CSV rather than metadata duration. Use revised r02 mechanism sheet; first revision had a corrected caption. Bands are approximate thematic regions, not exact shots.",
+      "absent_from_film_cards": true,
+      "already_archived_as_document": true,
+      "archive_download": "/film-motion/research/creator-studies/routine-visual-study.md",
+      "missing_local_paths": [],
+      "media_bytes": 18113646,
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "codec": "h264",
+      "has_audio_stream": false
+    },
+    {
+      "id": "daniel-schiffer-shot-planning",
+      "title": "How I Plan Shots & Transitions | B ROLL 101",
+      "creator": "Daniel Schiffer",
+      "source": "https://www.youtube.com/watch?v=3mZuJAWH1Ow",
+      "media": "research/creator-studies/media/daniel-shot-planning.mp4",
+      "analysis": "research/creator-studies/daniel-visual-study.md",
+      "archive_id": "research-creator-studies-daniel-visual-study",
+      "coverage": "research/creator-studies/daniel-visual-coverage.json",
+      "frames": "research/creator-studies/daniel-1hz/frames.csv",
+      "preferred_stills": "research/creator-studies/daniel-dense-blender/manifest.json",
+      "viewer": "research/creator-studies/daniel-dense-blender/index.html",
+      "review": "617 sampled thumbnails at 1 Hz across full tutorial plus 168 consecutive transition frames. 778 unique source frames reviewed. No playback, transcript or audio listening.",
+      "verified_windows_seconds": [
+        [
+          89,
+          91
+        ],
+        [
+          120,
+          122
+        ],
+        [
+          167,
+          170
+        ],
+        [
+          595,
+          601.958333
+        ],
+        [
+          605,
+          610
+        ]
+      ],
+      "fps": "24/1",
+      "duration": 616.166667,
+      "import_notes": "Tutorial has sampled full-duration coverage; avoid presenting as a full consecutive-frame breakdown. Dense transition source indices14280\u201314447. Edge-crossing visible at14350\u201314355.",
+      "absent_from_film_cards": true,
+      "already_archived_as_document": true,
+      "archive_download": "/film-motion/research/creator-studies/daniel-visual-study.md",
+      "missing_local_paths": [],
+      "media_bytes": 27905344,
+      "dimensions": [
+        854,
+        480
+      ],
+      "codec": "h264",
+      "has_audio_stream": false
+    },
+    {
+      "id": "kaye-claude-motion",
+      "title": "How To Make Insane Video Editing With Opus 5.5 (Claude Motion)",
+      "creator": "kaye.creatives",
+      "source": "https://www.youtube.com/watch?v=FJZkfjM8WhI",
+      "media": "research/video-model/second-video/reference-video.mp4",
+      "audio": "research/video-model/second-video/reference-audio.webm",
+      "analysis": "research/video-model/second-video/source-notes.md",
+      "archive_id": "research-video-model-second-video-source-notes",
+      "coverage": "research/video-model/second-video/evidence-manifest.json",
+      "preferred_stills": "research/video-model/second-video/overview-sampled-manifest.json",
+      "viewer": "research/video-model/second-video/overview-sampled-exact.jpg",
+      "review": "31 sampled source frames; complete318-segment local ASR, not human-verified. No original-speed playback or audio listening.",
+      "verified_frame_times_seconds": [
+        240.24,
+        270.27,
+        360.36,
+        390.39,
+        630.63,
+        840.84
+      ],
+      "fps": "24000/1001",
+      "duration": 920.961708,
+      "import_notes": "AV1 video-only MP4: verify browser support or make a local H.264 study derivative; audio separately available if useful. Do not turn ASR-only passages into asserted visual breakdowns. Raw ASR exceeds measured audio by0.119s.",
+      "absent_from_film_cards": true,
+      "already_archived_as_document": true,
+      "archive_download": "/film-motion/research/video-model/second-video/source-notes.md",
+      "missing_local_paths": [],
+      "media_bytes": 20185665,
+      "dimensions": [
+        854,
+        480
+      ],
+      "codec": "av1",
+      "has_audio_stream": false
+    }
+  ],
+  "defer_as_research_reference": [
+    {
+      "title": "10 GitHub Repos to 10x Your AI Motion Graphics",
+      "creator": "Matt Penny",
+      "source": "https://www.youtube.com/watch?v=aD9X6Lc3dVk",
+      "analysis": "research/video-model/source-investigation.md",
+      "reason": "Description, chapters and selected repository source examined; no transcript, source-frame analysis, original-speed playback or audio listening. No local video identified. Already represented in archived research documents; do not label as a film breakdown."
+    },
+    {
+      "title": "Adjacent creators / Gawx process sources",
+      "analysis": "research/creator-studies/adjacent-creators.md",
+      "reason": "Includes references to Aidin Robbins, Andy To, Sebastian Jern, Ben Marriott, Ordinary Folk and interviews. The index explicitly says these are not six completed film studies. Do not promote each mention into a completed breakdown."
+    }
+  ],
+  "duplicates": {
+    "x_asset_hash_duplicates": [],
+    "document_vs_film": "Research documents and browsable video cards are two views of the same studies; link existing analyses, do not count duplicated archived guides as new source films.",
+    "revisioned_evidence": "Use creative-keyframes selection-r03 and routine-mechanisms-sheet-r02. Older revisions are historical evidence, not new studies."
+  },
+  "ui_notes": [
+    {
+      "file": "src/film-references.jsx",
+      "line": 18,
+      "issue": "Inside Wolo\u2019s films / Ten complete films is hardcoded; make collection title and counts generic and data-driven."
+    },
+    {
+      "file": "src/film-references.jsx",
+      "line": 47,
+      "issue": "Wolo portfolio, full breakdown data, portfolio report and atlas are hardcoded for every film; show each source record\u2019s own optional links."
+    },
+    {
+      "issue": "Preserve existing simplified detail layout: one scene selector, selected editing/motion/art text, two native disclosures. Avoid adding parallel cards, tabs, metadata chips or duplicated scene lists."
+    }
+  ],
+  "checks": "All four candidate media and analysis files exist; archived documents already include these analyses. Reads only on actual library."
+}

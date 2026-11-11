@@ -1,0 +1,110 @@
+{
+  "reviewed_on": "2026-11-11",
+  "reviewer": "visual analysis agent group C",
+  "method": "Full-duration sampled contact sheets, plus specified consecutive-frame windows and one source-resolution still.",
+  "playback": "not_performed",
+  "audio_listening": "not_performed",
+  "assets": [
+    {
+      "slug": "worm-launch",
+      "sha256": "c8d50b466520e2b916d567448eb98ce18ff60205d19a657f9d78ddbcc7370e87",
+      "decoded_frames": 1512,
+      "selected_frames": 252,
+      "step": 6,
+      "sampled_fps": 5.0,
+      "source_pts_first": 0.0,
+      "source_pts_last": 50.2,
+      "thumbnail_width": 320,
+      "visual_review": "all_generated_sample_sheets_inspected",
+      "inspected_sheets": [
+        "studies/worm-launch/sheets/00000.jpg",
+        "studies/worm-launch/sheets/00001.jpg",
+        "studies/worm-launch/sheets/00002.jpg",
+        "studies/worm-launch/sheets/00003.jpg",
+        "studies/worm-launch/sheets/00004.jpg",
+        "studies/worm-launch/sheets/00005.jpg",
+        "studies/worm-launch/sheets/00006.jpg",
+        "studies/worm-launch/sheets/00007.jpg",
+        "studies/worm-launch/sheets/00008.jpg",
+        "studies/worm-launch/sheets/00009.jpg",
+        "studies/worm-launch/sheets/00010.jpg"
+      ],
+      "consecutive_windows": [
+        {
+          "path": "windows/worm-leverage",
+          "start_frame": 675,
+          "end_frame_exclusive": 720,
+          "selected_frames": 45,
+          "first_pts_seconds": 22.5,
+          "last_pts_seconds": 23.966667,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "windows/worm-leverage/sheets/00000.jpg",
+            "windows/worm-leverage/sheets/00001.jpg"
+          ]
+        },
+        {
+          "path": "windows/worm-identity",
+          "start_frame": 1290,
+          "end_frame_exclusive": 1392,
+          "selected_frames": 102,
+          "first_pts_seconds": 43.0,
+          "last_pts_seconds": 46.366667,
+          "thumbnail_width": 240,
+          "inspected_sheets": [
+            "windows/worm-identity/sheets/00000.jpg",
+            "windows/worm-identity/sheets/00001.jpg",
+            "windows/worm-identity/sheets/00002.jpg"
+          ]
+        }
+      ],
+      "native_resolution_review": "one_still",
+      "source_resolution_stills": [
+        {
+          "path": "studies/worm-launch/detail-4.6.jpg",
+          "requested_source_seconds": 4.6,
+          "resolution": [
+            1920,
+            1080
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "okbet-launch",
+      "sha256": "547deabd3a1464a71ae3b81e6de677b1efb9f072a7e62e555bb58fe0c23a63df",
+      "decoded_frames": 904,
+      "selected_frames": 151,
+      "step": 6,
+      "sampled_fps": 4.0,
+      "source_pts_first": 0.0,
+      "source_pts_last": 37.5,
+      "thumbnail_width": 320,
+      "visual_review": "all_generated_sample_sheets_inspected",
+      "inspected_sheets": [
+        "studies/okbet-launch/sheets/00000.jpg",
+        "studies/okbet-launch/sheets/00001.jpg",
+        "studies/okbet-launch/sheets/00002.jpg",
+        "studies/okbet-launch/sheets/00003.jpg",
+        "studies/okbet-launch/sheets/00004.jpg",
+        "studies/okbet-launch/sheets/00005.jpg",
+        "studies/okbet-launch/sheets/00006.jpg"
+      ],
+      "consecutive_windows": [
+        {
+          "path": "windows/okbet-phone-turn",
+          "start_frame": 324,
+          "end_frame_exclusive": 348,
+          "selected_frames": 24,
+          "first_pts_seconds": 13.5,
+          "last_pts_seconds": 14.458333,
+          "thumbnail_width": 320,
+          "inspected_sheets": [
+            "windows/okbet-phone-turn/sheets/00000.jpg"
+          ]
+        }
+      ],
+      "native_resolution_review": "not_performed"
+    }
+  ]
+}

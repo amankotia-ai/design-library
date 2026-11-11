@@ -1,0 +1,69 @@
+{
+  "status": "pass_data_and_source_completeness",
+  "scope": "Read-only independent data and media integrity QA; browser interaction and visual layout handled by root.",
+  "records": 43,
+  "beats": 521,
+  "sampled_entries": 6,
+  "checks": [
+    "All 43 video/poster/opening-frame/notes paths exist.",
+    "Every beat interval has start>=0, end>start and end within source duration.",
+    "All43media streams ffprobe successfully; durations differ from declared by less than100ms.",
+    "Six sampled entries correctly classified: three Skale previews, Schiffer, ShuDing, Kaye.",
+    "Three Elio variants remain distinct with7/6/7timed observations.",
+    "Quoted original attribution preserved for WorldLabs and Linear/KarriSaarinen.",
+    "Causal quadrant observations manually corrected to15source-groundedentries.",
+    "False A06native-frame fragment and malformed Schiffer duplicate removed.",
+    "ShuDing uses7actualwritten sample observations; no invented14sdescription.",
+    "No empty, leading-punctuation or danglingconnector description fragments in delivered521beats.",
+    "After parent identified missed inline-citation truncation, independently compared290ordinary source-bullet segments by exact source-frame PTS: all complete after regeneration.",
+    "Read final actual Documents/Design Library revision, not only staging; SHA256 recorded.",
+    "Manually checked non-bullet Gawx, Skale, Elio and corrected Causal/dipvizz/monthly-recap observations against originals.",
+    "Complete original analysis appears verbatim in all43downloadable notes."
+  ],
+  "resolved_findings": [
+    "Elio short hold/exit observations omitted by parser threshold",
+    "Concurrent panel labels lost or polluted by prior timing clauses",
+    "Native-frame evidence citation misparsed as separate beat",
+    "Schiffer malformed overlapping parsed beat",
+    "Causal action-before-timing syntax parsed incorrectly",
+    "Generic duplicated ShuDing sample descriptions",
+    "Kaye AV1 converted to H264withrecoveredsourceaudio",
+    "Inline native-frame citations no longer truncate ordinary descriptions",
+    "dipvizz bottom-right growth and replacement separated correctly",
+    "Monthly recap panel timings and omitted terrain observation restored",
+    "Metadata-loading callback now consumes pending seek instead of unconditionally resetting to the first beat."
+  ],
+  "limitations": [
+    "No new original-speed playback or audio-quality review performed.",
+    "Breakdowns retain their original thumbnail/sampled evidence scope.",
+    "A written source study can contain overlapping thematic bands or concurrent-panel observations; not all beats are exclusive shot boundaries."
+  ],
+  "correction": "Initial pass verified structural fields and known fixes but missed descriptions truncated at inline frame citations. Parent review found Leap incomplete sentences. Content completeness must be rechecked against original line-leading source bullets after parser regeneration.",
+  "actual_delivered_source": "/Users/abhishekmankotia/Documents/ChatGPT/Design Library/pilot/src/film-reference-imports.json",
+  "actual_delivered_sha256": "591803c55a9f32dd28e68821848586f22d102b5e7dc018586e4d80fc4a4f868e",
+  "normal_bullet_segments_compared": 290,
+  "complete_normal_bullet_matches": 290,
+  "missing_source_bullet_text": 0,
+  "downloaded_notes_with_complete_original_analysis": 43,
+  "actual_kaye_streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video"
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio"
+    }
+  ],
+  "jsx_verified": "Read actual delivered JSX: metadata callback consumes pendingSeek.current and returns when it is null, preserving a user-selected beat and avoiding overwrite after loaded() has already applied the pending seek.",
+  "jsx_sha256": "830ced799b890a763636390553f5de173203595a9d0f2c3affefd04461f896a7",
+  "browser_verification_reported_by_root": {
+    "fresh_kaye_initial_time_seconds": 240.24,
+    "readyState": 4,
+    "error": null,
+    "paused": true,
+    "last_beat_seek_seconds": 840.84,
+    "paused_after_last_beat_seek": true
+  },
+  "final_data_sha256": "591803c55a9f32dd28e68821848586f22d102b5e7dc018586e4d80fc4a4f868e"
+}

@@ -21,3 +21,6 @@
 .system-preview-signal .specimen-phrase em{font-weight:400}
 
 .system-preview-mnh,.type-specimen-mnh{font-family:MNH Lausanne,Arial,sans-serif}
+
+.system-preview-unifize{font-family:TypeUnifize,Arial,sans-serif;--specimen-paper:#1f2126;--specimen-ink:#f7f8fa;--specimen-rule:#41444b;--specimen-accent:#70aeff}.system-preview-unifize .specimen-phrase{font-family:TypeUnifize,Arial,sans-serif;font-weight:500}.system-preview-unifize .specimen-phrase span:last-child{color:#70aeff}
+.system-preview-unifize{--specimen-surface:var(--specimen-paper);--specimen-text:var(--specimen-ink);--specimen-heading:TypeUnifize,Arial,sans-serif;--specimen-body:TypeUnifizeBody,Arial,sans-serif;--specimen-mono:TypeUnifizeMono,monospace;--specimen-weight:500;--specimen-stretch:normal;--specimen-border:var(--specimen-rule)}

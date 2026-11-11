@@ -1,3 +1,4 @@
+import {unifizeSystem,unifizeSections,unifizeReference,unifizeComparisons} from './unifize-data.js';
 import {conareSystem,conareSections,conareReference,evalSections,evalReference} from './conare-data.js';
 import {mnhSystem,mnhSections,mnhReference} from './mnh-data.js';
 import {plasticitySystem,plasticitySections,plasticityReference} from './plasticity-data.js';
@@ -266,3 +267,5 @@ comparisons['conare-page']={width:1280,height:720,source:withBase('/references/c
 
 sections.push(...evalSections); references.push(evalReference);
 comparisons['conare-evals-page']={width:1280,height:720,source:withBase('/references/conare-evals/desktop-hero.png'),implementation:withBase('/previews/conare-evals/comparison.png'),author:'Conare',note:'Featured case rotates on the reference'};
+
+systems.push(unifizeSystem);sections.push(...unifizeSections);references.push(unifizeReference);Object.assign(comparisons,unifizeComparisons);

@@ -1,0 +1,328 @@
+{
+  "title": "Wolo editing motion and art direction playbook",
+  "version": 1,
+  "review_date": "2026-11-11",
+  "status": "Authored transferable decisions based on sampled visual review; not original production settings",
+  "report": "REFERENCE-STUDY.md",
+  "coverage": "review-coverage.json",
+  "unassessed": [
+    "audio",
+    "original_speed_playback",
+    "exact_easing",
+    "authoring_software",
+    "complete_native_resolution_finish"
+  ],
+  "patterns": [
+    {
+      "id": "attention_anchor",
+      "category": "editing",
+      "observation": "Keep one recognizable element stable while other content changes.",
+      "application": "Choose a caption location, device, line or silhouette and preserve it through the join.",
+      "evidence": [
+        {
+          "slug": "slash-global",
+          "approximate_seconds": [
+            2.5,
+            5.5
+          ]
+        },
+        {
+          "slug": "velo",
+          "approximate_seconds": [
+            4.0,
+            20.0
+          ]
+        },
+        {
+          "slug": "okbet-launch",
+          "approximate_seconds": [
+            4.25,
+            28.75
+          ]
+        },
+        {
+          "slug": "worm-launch",
+          "approximate_seconds": [
+            43.9,
+            46.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meaningful_edit_unit",
+      "category": "editing",
+      "observation": "Organize beats around an idea or completed action.",
+      "application": "Use conversation turns, input/result chains, offer conditions or semantic montage clusters.",
+      "evidence": [
+        {
+          "slug": "okbet-launch",
+          "approximate_seconds": [
+            4.25,
+            28.75
+          ]
+        },
+        {
+          "slug": "hyperdash-ui",
+          "approximate_seconds": [
+            41.0,
+            64.5
+          ]
+        },
+        {
+          "slug": "nsave-referrals",
+          "approximate_seconds": [
+            6.3,
+            28.6
+          ]
+        },
+        {
+          "slug": "slash-cornbread",
+          "approximate_seconds": [
+            0.0,
+            77.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "density_contrast",
+      "category": "editing",
+      "observation": "Alternate dense change and readable rest.",
+      "application": "Sketch an energy map; assign reading time to UI and detail, shorter exposure to recognizable identity.",
+      "evidence": [
+        {
+          "slug": "worm-launch",
+          "approximate_seconds": [
+            28.0,
+            46.2
+          ]
+        },
+        {
+          "slug": "pvp-hyperdash",
+          "approximate_seconds": [
+            0.0,
+            45.76
+          ]
+        },
+        {
+          "slug": "nsave-referrals",
+          "approximate_seconds": [
+            25.0,
+            39.8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scale_for_evidence",
+      "category": "motion",
+      "observation": "Enlarge the detail that answers the current question.",
+      "application": "Context, target, input, changed state, readable result; return to enough context for the next action.",
+      "evidence": [
+        {
+          "slug": "hyperdash-ui",
+          "approximate_seconds": [
+            10.0,
+            19.0
+          ]
+        },
+        {
+          "slug": "worm-launch",
+          "approximate_seconds": [
+            22.5,
+            25.2
+          ]
+        },
+        {
+          "slug": "okbet-launch",
+          "approximate_seconds": [
+            4.25,
+            9.0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "staged_relationship",
+      "category": "motion",
+      "observation": "Reveal relationships in intelligible order.",
+      "application": "Introduce actor, connector and consequence sequentially; use repetition to show quantity.",
+      "evidence": [
+        {
+          "slug": "nsave-referrals",
+          "approximate_seconds": [
+            7.5,
+            10.5
+          ]
+        },
+        {
+          "slug": "pvp-hyperdash",
+          "approximate_seconds": [
+            20.5,
+            25.75
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honest_transition",
+      "category": "editing",
+      "observation": "Select a cut, replacement or continuous move according to the relationship.",
+      "application": "Do not force every join into a morph; a shared shape or held label can bridge a cut.",
+      "evidence": [
+        {
+          "slug": "spacex",
+          "approximate_seconds": [
+            24.5245,
+            26.4931
+          ]
+        },
+        {
+          "slug": "slash-4-july",
+          "approximate_seconds": [
+            39.333,
+            41.7
+          ]
+        },
+        {
+          "slug": "slash-global",
+          "approximate_seconds": [
+            2.5,
+            5.4583
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story_material",
+      "category": "art_direction",
+      "observation": "Choose a limited material vocabulary that belongs to the story.",
+      "application": "Define stage, material, type role and accent before styling individual shots.",
+      "evidence": [
+        {
+          "slug": "slash-cornbread",
+          "approximate_seconds": [
+            6.0,
+            8.0
+          ]
+        },
+        {
+          "slug": "velo",
+          "approximate_seconds": [
+            0.0,
+            35.5
+          ]
+        },
+        {
+          "slug": "okbet-launch",
+          "approximate_seconds": [
+            0.0,
+            37.674
+          ]
+        }
+      ]
+    },
+    {
+      "id": "type_roles",
+      "category": "art_direction",
+      "observation": "Assign typography a communication role.",
+      "application": "Separate narration/caption, editorial statement, terminal output, annotation and identity.",
+      "evidence": [
+        {
+          "slug": "slash-4-july",
+          "approximate_seconds": [
+            0.0,
+            44.77
+          ]
+        },
+        {
+          "slug": "worm-launch",
+          "approximate_seconds": [
+            3.2,
+            4.4
+          ]
+        },
+        {
+          "slug": "worm-launch",
+          "approximate_seconds": [
+            28.0,
+            41.2
+          ]
+        },
+        {
+          "slug": "slash-cornbread",
+          "approximate_seconds": [
+            16.5,
+            24.8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "texture_allocation",
+      "category": "art_direction",
+      "observation": "Protect explanatory content from atmospheric treatment.",
+      "application": "Keep heavier texture in world-building or montage; simplify the surface around UI evidence.",
+      "evidence": [
+        {
+          "slug": "pvp-hyperdash",
+          "approximate_seconds": [
+            0.0,
+            25.75
+          ]
+        },
+        {
+          "slug": "hyperdash-ui",
+          "approximate_seconds": [
+            1.25,
+            19.0
+          ]
+        },
+        {
+          "slug": "slash-cornbread",
+          "approximate_seconds": [
+            50.8,
+            65.7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "motif_resolution",
+      "category": "editing",
+      "observation": "Let a recurring motif lead into a sparse identity ending.",
+      "application": "Return the line, mark, symbol or typed text to a clear final composition.",
+      "evidence": [
+        {
+          "slug": "slash-cornbread",
+          "approximate_seconds": [
+            73.0,
+            77.0
+          ]
+        },
+        {
+          "slug": "velo",
+          "approximate_seconds": [
+            27.0,
+            36.17
+          ]
+        },
+        {
+          "slug": "hyperdash-ui",
+          "approximate_seconds": [
+            70.5,
+            76.9
+          ]
+        },
+        {
+          "slug": "pvp-hyperdash",
+          "approximate_seconds": [
+            38.5,
+            45.76
+          ]
+        }
+      ]
+    }
+  ]
+}

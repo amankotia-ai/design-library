@@ -1,0 +1,26 @@
+{
+  "reviewer": "/root/design_qa",
+  "checks": [
+    "Native elapsed-time range responds to ArrowRight",
+    "Moving workbench below 10% visibility pauses playback",
+    "Returning the workbench to view does not restart playback",
+    "Visibilitychange handler pauses playback when document.hidden is true (simulated)",
+    "Returning to visible state does not restart playback"
+  ],
+  "errors": [],
+  "revision": {
+    "src/film-motion-studies.jsx": "b3d33fb720cd6220555675492574f697f96b0179e5ab31dd476cad1612bfb497",
+    "src/film-motion-math.js": "3459ffa6bcc5e3c760e129fd261a749f5b6859488b22c07af200348ba33da390",
+    "src/film-study-ui.jsx": "801a6645102db5d139b523a9e1118aa88d4dcf99c00192457bbf97db0c3f0561",
+    "src/film-studies.css": "2cf56710e4a8ddd371f0ac4353c714ca1d29d6c23f11e8dfae0973e290cd2e5b"
+  },
+  "offscreen": {
+    "workbenchTop": -640.15625,
+    "workbenchBottom": -81.921875,
+    "containerTop": 24,
+    "containerBottom": 976,
+    "visibleFraction": 0
+  },
+  "visibilityMode": "synthetic document.hidden getter plus visibilitychange event (headless tabs remained visible)",
+  "status": "passed"
+}

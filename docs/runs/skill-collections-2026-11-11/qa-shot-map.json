@@ -1,0 +1,32 @@
+[
+  {
+    "label": "desktop",
+    "route": "/design-library/render-assets/relay-viewport/shot-map.html",
+    "detail": {
+      "viewport": 1440,
+      "scrollWidth": 1440
+    },
+    "map": {
+      "viewport": 1440,
+      "scrollWidth": 1440,
+      "visualWidth": 1440,
+      "bodyWidth": 1360,
+      "title": "Viewport and shot geometry"
+    }
+  },
+  {
+    "label": "mobile",
+    "route": "/design-library/render-assets/relay-viewport/shot-map.html",
+    "detail": {
+      "viewport": 390,
+      "scrollWidth": 390
+    },
+    "map": {
+      "viewport": 390,
+      "scrollWidth": 390,
+      "visualWidth": 390,
+      "bodyWidth": 390,
+      "title": "Viewport and shot geometry"
+    }
+  }
+]

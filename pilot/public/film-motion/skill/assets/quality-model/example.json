@@ -1,0 +1,69 @@
+{
+  "schema_version": "0.1",
+  "synthetic": true,
+  "context": {
+    "audience": "Illustrative first-time product evaluators",
+    "objective": "Understand how one assignment changes the shared queue",
+    "placement": "Synthetic product-page example at 640 x 360",
+    "sound": "optional",
+    "next_stage": "animatic revision"
+  },
+  "timeline": {"fps": {"num": 30, "den": 1}, "total_frames": 600},
+  "director_decision": "revise",
+  "gates": [
+    {"id": "truth", "required": true, "status": "pass", "evidence": ["SYNTHETIC: assumed verified product states"]},
+    {"id": "performed_proof", "required": true, "status": "pass", "evidence": ["SYNTHETIC: action and result visible in s02"]},
+    {"id": "essential_readability", "required": true, "status": "unknown", "evidence": []},
+    {"id": "core_visual", "required": true, "status": "pass", "evidence": ["SYNTHETIC: assumed finished images"]},
+    {"id": "audio_intelligibility", "required": true, "status": "unknown", "evidence": []},
+    {"id": "output_integrity", "required": true, "status": "pass", "evidence": ["SYNTHETIC: assumed decoded animatic"]}
+  ],
+  "dimensions": [
+    {"id": "story", "weight": 0.2, "value": 0.75, "interval": [0.6, 0.85], "evidence": ["SYNTHETIC: causal setup and consequence"]},
+    {"id": "clarity", "weight": 0.2, "value": 0.6, "interval": [0.5, 0.75], "evidence": ["SYNTHETIC: one weak label"]},
+    {"id": "proof", "weight": 0.2, "value": 0.75, "evidence": ["SYNTHETIC: demonstrated state change"]},
+    {"id": "visual_identity", "weight": 0.15, "value": 0.8, "evidence": ["SYNTHETIC: coherent authored world"]},
+    {"id": "motion_pacing", "weight": 0.15, "value": 0.5, "evidence": ["SYNTHETIC: result hold needs assessment"]},
+    {"id": "sound", "weight": 0.1, "value": 0.7, "evidence": ["SYNTHETIC: temporary mix relationship"]}
+  ],
+  "claims": [
+    {"id": "assignment_updates_queue", "weight": 2, "truth": "verified", "proof_shots": ["s02"], "evidence": ["SYNTHETIC: assumed product walkthrough"]},
+    {"id": "shared_result", "weight": 1, "truth": "unknown", "proof_shots": ["s03"], "evidence": []}
+  ],
+  "shots": [
+    {
+      "id": "s01", "range": [0, 150], "consequential": false,
+      "claim_ids": [], "proof_review": "not_applicable", "evidence": [],
+      "stable_intervals": [[60, 135]],
+      "read_requirement": {"seconds": 2, "basis": "estimated", "evidence": ["SYNTHETIC: declared planning estimate"]}
+    },
+    {
+      "id": "s02", "range": [150, 390], "consequential": true,
+      "claim_ids": ["assignment_updates_queue"], "proof_review": "pass",
+      "evidence": ["SYNTHETIC: reviewed action/result at target display"],
+      "stable_intervals": [[270, 345]],
+      "read_requirement": {"seconds": 3, "basis": "estimated", "evidence": ["SYNTHETIC: estimate includes locating, understanding, registering the changed count"]},
+      "dimensions": [
+        {"id": "story", "weight": 0.2, "value": 0.75, "evidence": []},
+        {"id": "clarity", "weight": 0.2, "value": 0.5, "evidence": []},
+        {"id": "proof", "weight": 0.2, "value": 0.75, "evidence": []},
+        {"id": "visual_identity", "weight": 0.15, "value": 0.8, "evidence": []},
+        {"id": "motion_pacing", "weight": 0.15, "value": 0.5, "evidence": []},
+        {"id": "sound", "weight": 0.1, "value": 0.7, "evidence": []}
+      ]
+    },
+    {
+      "id": "s03", "range": [390, 600], "consequential": true,
+      "claim_ids": ["shared_result"], "proof_review": "unknown", "evidence": [],
+      "stable_intervals": [[450, 570]], "read_requirement": null,
+      "dimensions": [
+        {"id": "story", "weight": 0.2, "value": 0.75, "evidence": []},
+        {"id": "clarity", "weight": 0.2, "value": 0.75, "evidence": []},
+        {"id": "proof", "weight": 0.2, "value": 0.5, "evidence": []},
+        {"id": "visual_identity", "weight": 0.15, "value": 0.8, "evidence": []},
+        {"id": "motion_pacing", "weight": 0.15, "value": 0.75, "evidence": []},
+        {"id": "sound", "weight": 0.1, "value": 0.7, "evidence": []}
+      ]
+    }
+  ]
+}

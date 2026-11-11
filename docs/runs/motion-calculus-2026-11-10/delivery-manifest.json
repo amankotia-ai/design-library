@@ -1,0 +1,45 @@
+{
+  "target": "/Users/abhishekmankotia/Documents/ChatGPT/Design Library/pilot",
+  "files": [
+    {
+      "path": "src/film-motion-math.js",
+      "sha256": "1579e718e31f948a72c6fe809d5ccbc60351c0f735d3f0258584d42604f69379"
+    },
+    {
+      "path": "src/film-motion-studies.jsx",
+      "sha256": "74220035ec48a7909ef68b933a8b2825e15507c4dde9702a79089d1a0f4d4522"
+    },
+    {
+      "path": "src/film-study-thumbnails.jsx",
+      "sha256": "344ca314392b5ed7f213f2d0e2499bc10a71f8d3bf33953047ccce5f4b343d9d"
+    },
+    {
+      "path": "src/film-study-registry.js",
+      "sha256": "e4cb4287debacf81cd736430cfceb3a005963d099a8de2ed22a5bb6cc3d44d2c"
+    },
+    {
+      "path": "src/film-data.json",
+      "sha256": "fe1ef55cd4c5d1b0228ecad624db06f0b23502a71e472b6d176ae4e2d9768759"
+    },
+    {
+      "path": "scripts/check-film-motion.mjs",
+      "sha256": "e74fa087c2931cdf63e988da0f93434f5c7a3346e2af952cc7855c071bbefef7"
+    },
+    {
+      "path": "public/film-motion/studies/film-motion-math.js",
+      "sha256": "1579e718e31f948a72c6fe809d5ccbc60351c0f735d3f0258584d42604f69379"
+    },
+    {
+      "path": "public/film-motion/studies/spring-motion.md",
+      "sha256": "a8bc65829b07c00b4856f9b2e1af7c2a92033f3bbfe92d47b4355bcbf7fbed2b"
+    },
+    {
+      "path": "public/film-motion/studies/bezier-paths.md",
+      "sha256": "f5e64dfd3b75ef15306eabcdadc8f896a84c9b9d7b33eacc52da13b04ee82adc"
+    },
+    {
+      "path": "public/film-motion/manifest.json",
+      "sha256": "c13e8b92fcb75ca36bc62c293f43a56c0dad7d5718f935dc6526f58681a02ccc"
+    }
+  ]
+}

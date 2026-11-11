@@ -1,0 +1,387 @@
+{
+  "version": "3.4",
+  "entries": 81,
+  "scope": "All maintained skill documentation and authored top-level research findings; excludes duplicate validation workspaces, third-party source copies and raw media. Complete portable runtime and role prompts in the downloadable skill. Includes eight additional original interactive mathematical studies, with downloadable functions and visible equations.",
+  "sources": [
+    {
+      "path": "skills/software-film-director/references/film-calculus.md",
+      "sha256": "49c9f662c6d09772a56400db95a11b04ca30bb1fe49bba7f8ef045ab8492f5ce"
+    },
+    {
+      "path": "skills/software-film-director/SKILL.md",
+      "sha256": "017f46ada2f0517329760779bdf4beb8a14a9b9bd26c8efc0131de42abbc1599"
+    },
+    {
+      "path": "skills/software-film-director/INSTALL.md",
+      "sha256": "4c9a455d702d8b3402a9513c505764469889403565e286ee96dc526bab42bfb7"
+    },
+    {
+      "path": "skills/software-film-director/references/assets-and-compositing.md",
+      "sha256": "4141806dc1381f86edad326178c052c49a00cf6d501d5f563439452e08ab007d"
+    },
+    {
+      "path": "skills/software-film-director/references/camera-and-motion.md",
+      "sha256": "d816665bb20602fd6800d56b1a5dd4fca5feb83cfa278259ee4b2fdcf55956e6"
+    },
+    {
+      "path": "skills/software-film-director/references/cli-collaboration.md",
+      "sha256": "80d24151cc8f7aa9e9647cedda319333f8f432384c358bb0ad24393625ebfb19"
+    },
+    {
+      "path": "skills/software-film-director/references/contact-sheets.md",
+      "sha256": "459efc53bcd383fa77437f3a2da85e2c33ebd2737c24a89795eab2751da9177e"
+    },
+    {
+      "path": "skills/software-film-director/references/creative-quality.md",
+      "sha256": "21061b934f1befe62c984bc1791ca5137bf602534a605140c797ed1d7b7c45fe"
+    },
+    {
+      "path": "skills/software-film-director/references/creator-craft.md",
+      "sha256": "913bc65b968f1de8dafb5edc7e23999f4793fb081f43ed342a79239317ff4e2b"
+    },
+    {
+      "path": "skills/software-film-director/references/creator-evidence.md",
+      "sha256": "e518b01ff408d0c2251f97afb82b4f79031cb6d82322a5a9d6a0d5441d876431"
+    },
+    {
+      "path": "skills/software-film-director/references/directions.md",
+      "sha256": "a8580ca6d067f1b3f236f7453c26d9165b1fd0c5dab7f19c69400daa105a8f1f"
+    },
+    {
+      "path": "skills/software-film-director/references/elevenlabs-production.md",
+      "sha256": "48e9b53d76d37756869ef14484cf02e054afc45de29df50794c4eee5cbd9ba88"
+    },
+    {
+      "path": "skills/software-film-director/references/finishing-and-review.md",
+      "sha256": "46089915ab1c19e1bd5287c78d31688e9513867fe12f728e50b17b5c185eb2e0"
+    },
+    {
+      "path": "skills/software-film-director/references/portfolio-studies.md",
+      "sha256": "5a4a861d39550ea353b5eb2132837a642720374cc57fd3471efc06b5f5b16339"
+    },
+    {
+      "path": "skills/software-film-director/references/production-contract.md",
+      "sha256": "384fed35df8fcee7ea824186ae959905870ced076920f5b8bf97aa75f80459d2"
+    },
+    {
+      "path": "skills/software-film-director/references/reference-analysis.md",
+      "sha256": "24f21865f7e5e46c4b508b9a53a0d9c95fd029ddccf286214be59a6534f66458"
+    },
+    {
+      "path": "skills/software-film-director/references/reference-library.md",
+      "sha256": "5641b0719866be31bcf8dbc81d95d0a4fc74f05e99acbedf5a9715a82847112d"
+    },
+    {
+      "path": "skills/software-film-director/references/rendering-and-tools.md",
+      "sha256": "655348bb778ee5e6a5b5de7b27ba6737028a4fabc0567f49928124b0dbb68338"
+    },
+    {
+      "path": "skills/software-film-director/references/repository-techniques.md",
+      "sha256": "f4998074705d8f132d6d24beaa498ff7921252daf141de139057dbc6a0f4c35f"
+    },
+    {
+      "path": "skills/software-film-director/references/runtime.md",
+      "sha256": "b5e5228d931d2cd3d494bd9fbbd3c28d85288b491043bfc53e5896ba8695d758"
+    },
+    {
+      "path": "skills/software-film-director/references/speech-edit-model.md",
+      "sha256": "3a72ee16872e6953b569175f7551d00eea594360751507fa591a3c3cda49dc6b"
+    },
+    {
+      "path": "skills/software-film-director/references/speech-led-editing.md",
+      "sha256": "afdfa7ae193d54d5ad157d9402e61b4d3e6fb701dd6c8fef7dcf6040ec0b3394"
+    },
+    {
+      "path": "skills/software-film-director/references/stageshow-framing.md",
+      "sha256": "a9c5fa087f41059e3e8fb91938acb7361987410aa64fbbb03362cfa4f450d97b"
+    },
+    {
+      "path": "skills/software-film-director/references/story-and-sound.md",
+      "sha256": "d0979a5b8b8806cc97dae572189d485dc04608a86c636f57aa879749041ddb1b"
+    },
+    {
+      "path": "skills/software-film-director/references/studies-a-extra.md",
+      "sha256": "0e46b648700315005351bf730ed9e9d2785006cecca053f461c10d2485458982"
+    },
+    {
+      "path": "skills/software-film-director/references/studies-a.md",
+      "sha256": "9c38439d78d67fcb20587f50925dc92085ed4be130dc09799e96f910c7da74fd"
+    },
+    {
+      "path": "skills/software-film-director/references/studies-b.md",
+      "sha256": "2952a5cf913de476a3c05e60c1149c95dd6bfddf66488555995cd617cbf4e9df"
+    },
+    {
+      "path": "skills/software-film-director/references/team-and-handoffs.md",
+      "sha256": "67b447968fc707d0b136b29e2526d994285f1da0da4fa91ae8feb61fabd3ed7a"
+    },
+    {
+      "path": "skills/software-film-director/references/video-quality-model.md",
+      "sha256": "5b2dccabf3a1ebce7cb90e63304fc9e2dec56bf505fd9082087e5150b3f849b7"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/art-director.md",
+      "sha256": "bfacba3c4273a0585f5c6ac117eb446535b9b62ce87ebd0f6df06bc0bc0ead27"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/asset-designer.md",
+      "sha256": "b9794b8e56b8af5a36b781c4c3cbc456514b423ca46554909cdfb74a8b8c3684"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/cinematographer.md",
+      "sha256": "9e60cccc7a900c6bcdd8b17b997fd23970d9f5baf86694ff963a30d47aeb8d5a"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/compositor-colorist.md",
+      "sha256": "eee6a6f7fd92b7b77d0d4e5306115f9236b85746ad6a083661727f645b5144c2"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/director.md",
+      "sha256": "d187fafc2873391970230b063b7a002e9b6702cb896d8ce475e4001e5fc99d42"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/editor.md",
+      "sha256": "a0ff24e5f6b2297ad8e04d1019afdfa9658db9c7d1417d96915e3a7f490192de"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/independent-reviewer.md",
+      "sha256": "7d523144da4fad5f1914ff790c951eff16d2bb6d44964ed17e88dd111a6201d0"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/motion-designer.md",
+      "sha256": "f0cf10c2ba835bae34241f32eb54782f0035758fc6bc7fd86441d561701950b3"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/narrator.md",
+      "sha256": "5f9adeda890e385373a95d18270ff5cfcf0671794922548adf828ae17a8beac9"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/reference-analyst.md",
+      "sha256": "b3ebc720d75b03c7ebd05ff52d98b657d55499455abf6c6d9ee94d5a76cfd312"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/render-engineer.md",
+      "sha256": "6e5c98ffac65ae363c8f245e7dd2ff602c9fe3d4f0266f377cb160eee17e1f2f"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/sound-designer.md",
+      "sha256": "2f49b544fe188bd0b73b40b8ae102af35823b9a2190f5706f56d99a3ad1afa99"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/story-strategist.md",
+      "sha256": "ca8716229e15b77e4dc60b9f58b75b64ecb0501da47cd71830aba625796d75da"
+    },
+    {
+      "path": "skills/software-film-director/agents/roles/ui-designer.md",
+      "sha256": "15616cac4b2449eefedfd670f64a1bced6445507a6363c36eb5f16d57bc7ff3b"
+    },
+    {
+      "path": "skills/software-film-director/assets/starter/RUNTIME.md",
+      "sha256": "0696c479d5f9fdc7ca7bfc3fe4a5a2615efb6e35493ffbb34088df9cc4e57032"
+    },
+    {
+      "path": "skills/software-film-director/assets/film-calculus/README.md",
+      "sha256": "6de2ecb97012b2356f77b11b4ba4ca025ee98b49b0d1565b57bd5b6eafd0acbe"
+    },
+    {
+      "path": "research/INDEX.md",
+      "sha256": "d947095a92b19ddba2776053549c26e3d9925b849a763692f124276554a416ee"
+    },
+    {
+      "path": "research/LEARNINGS.md",
+      "sha256": "cf019e0b6a12277134326887471219b319d71f860eaaf43244600b3e3b5ab54e"
+    },
+    {
+      "path": "research/cli-verification.md",
+      "sha256": "89ebca966ee0f097b61e2dcfe89c76d91af1b72f9893029761d0e83f4ac1981f"
+    },
+    {
+      "path": "research/distilled-findings-a.md",
+      "sha256": "a47a8368acad96525fc245c6aa98a66665ea338584582a76c9fcd1bc9aa04256"
+    },
+    {
+      "path": "research/distilled-findings-b.md",
+      "sha256": "c3815ec127431a256f1ee576c5fc270bd4e9f8f5ee9685e992d082e6b33b02be"
+    },
+    {
+      "path": "research/portfolio-studies.md",
+      "sha256": "5a4a861d39550ea353b5eb2132837a642720374cc57fd3471efc06b5f5b16339"
+    },
+    {
+      "path": "research/reference-study-a-tail.md",
+      "sha256": "c7643ba789d30a30926c049c60fba2e5602cdffe1d90ba3f481f9fdfe87da349"
+    },
+    {
+      "path": "research/reference-study-a.md",
+      "sha256": "b453bc948835337ad251c54c14b8a142043437630591cd474b6ab38d93dc20d8"
+    },
+    {
+      "path": "research/reference-study-b.md",
+      "sha256": "a7d6bcfdadc137cf212ae5b5e6f9e084dbfd6e52bbd42b98e97e5776b75e1b4e"
+    },
+    {
+      "path": "research/rendering-tools.md",
+      "sha256": "17f0ca3a86931b9607c06240f881e744e2f3eb8aee539d5f5a584d8de9fe9ff0"
+    },
+    {
+      "path": "research/creator-studies/INDEX.md",
+      "sha256": "86adf1f31ea83b089b9d129d83b87d21e833f7deb968d623468753f3ab17de60"
+    },
+    {
+      "path": "research/creator-studies/adjacent-creators.md",
+      "sha256": "0c4fefc89c2ceaac22977be1b3f383fbb5224303804887f3e4955b19f81763ed"
+    },
+    {
+      "path": "research/creator-studies/creative-process-visual-study.md",
+      "sha256": "017539a0b0a512c2c2501c7677853b902f2eaceb64afe88cbe22484cbd82df30"
+    },
+    {
+      "path": "research/creator-studies/daniel-visual-study.md",
+      "sha256": "5a639c7ace7c1c5d265380ee184633bb09151f34d04978f56e0ca54dd2de2eed"
+    },
+    {
+      "path": "research/creator-studies/forum-research.md",
+      "sha256": "b42f7f20a4f9db49858ed7df6dc5130d391d16d8c5e649ef96b35fbb87782c70"
+    },
+    {
+      "path": "research/creator-studies/gawx-process-sources.md",
+      "sha256": "28cbc00bb39d10070795f48ec357a3b12ab9d8d7199cc23a13b343354e0dad49"
+    },
+    {
+      "path": "research/creator-studies/peer-review-decisions.md",
+      "sha256": "8314c2ef629a3e3cbbd7186ca403ab8e21d7c8ffb8e58eca8070dc2932b013dc"
+    },
+    {
+      "path": "research/creator-studies/routine-visual-study.md",
+      "sha256": "7fb5677037a39dedd90bdbcbf360c42b003f95162ac16e5a34c58775e14264ea"
+    },
+    {
+      "path": "research/video-model/INDEX.md",
+      "sha256": "b88fd8a8327538b632e92a6ddfd3ce06d932b9622057a7b6b87f0f54282a4aa2"
+    },
+    {
+      "path": "research/video-model/runtime-repo-review.md",
+      "sha256": "70a25be8e10e9aab1d07980c708e3fedd2ab020c21af0825d4b296d79772c478"
+    },
+    {
+      "path": "research/video-model/source-investigation.md",
+      "sha256": "6a194531f72c464ab185e3785161edf073f3a93a637274de6a9faefcc0354930"
+    },
+    {
+      "path": "research/video-model/three-source-review.md",
+      "sha256": "327b0177d8b0f1cc2135792747d297d241b676856a9a60a6c16e57ce74346f90"
+    },
+    {
+      "path": "research/video-model/validation.md",
+      "sha256": "f4535c4d312c490bbcb8b94ec95ba8fe130c435f779f80d645b52a1ca77fb8f4"
+    },
+    {
+      "path": "research/video-model/second-video/INDEX.md",
+      "sha256": "e87130b7e05bbc3339adab0a7475e20fd0ee4ffa937de690934e772245ee0d7e"
+    },
+    {
+      "path": "research/video-model/second-video/linked-resource-review.md",
+      "sha256": "39a88ff6e23950d3f1af6b212f9872c7a412cb653ffb0670d5f99a9c5cbd691a"
+    },
+    {
+      "path": "research/video-model/second-video/source-notes.md",
+      "sha256": "fae9b311a1e994051535516bfaceb2b853f7c6ab0db5cff2631ca1b51b087c85"
+    },
+    {
+      "path": "research/video-model/second-video/validation.md",
+      "sha256": "5cdae0b4dcf3c35a49814e9b5a95b60a364aa177b2d1004c788e6ad8d61f39ff"
+    },
+    {
+      "path": "research/math-reference-shuding/REFERENCE-STUDY.md",
+      "sha256": "227acca9321664440043643b6916fab7ec9fc0ee6e99361013946d1f05604e3d"
+    }
+  ],
+  "interactiveStudies": [
+    {
+      "id": "film-calculus",
+      "title": "The calculus of film"
+    },
+    {
+      "id": "spring-motion",
+      "title": "Spring motion & damping"
+    },
+    {
+      "id": "bezier-paths",
+      "title": "Paths, tangents & speed"
+    },
+    {
+      "id": "camera-parallax",
+      "title": "Camera, depth & parallax"
+    },
+    {
+      "id": "framing-crop",
+      "title": "Framing across formats"
+    },
+    {
+      "id": "speech-timing",
+      "title": "Speech, picture & the edit clock"
+    },
+    {
+      "id": "reading-window",
+      "title": "The opportunity to read"
+    },
+    {
+      "id": "sound-mixing",
+      "title": "Sound, gain & clipping"
+    },
+    {
+      "id": "sampling-aliasing",
+      "title": "Sampling & apparent motion"
+    }
+  ],
+  "interactiveSources": [
+    {
+      "path": "/film-motion/studies/bezier-paths.md",
+      "sha256": "f5e64dfd3b75ef15306eabcdadc8f896a84c9b9d7b33eacc52da13b04ee82adc"
+    },
+    {
+      "path": "/film-motion/studies/camera-parallax.md",
+      "sha256": "966bbe0f4449aa6230dd16b50a4d168af4039969201ec9227ffd56a5a79fa362"
+    },
+    {
+      "path": "/film-motion/studies/film-motion-math.js",
+      "sha256": "3459ffa6bcc5e3c760e129fd261a749f5b6859488b22c07af200348ba33da390"
+    },
+    {
+      "path": "/film-motion/studies/film-timing-math.js",
+      "sha256": "1d2ccf9df240c0e33522e7f1da294ba87b9eef0af642f755a6e0d0cea87963d3"
+    },
+    {
+      "path": "/film-motion/studies/framing-crop.md",
+      "sha256": "6aaec6f99ef227526075c2c7678a310a6cf8396cc728506872fc3b320d78d97d"
+    },
+    {
+      "path": "/film-motion/studies/reading-window.md",
+      "sha256": "d5f31613990d6a501b75a761acfb34ee3e8d90434ca9d9d06d4337094ef60fef"
+    },
+    {
+      "path": "/film-motion/studies/sampling-aliasing.md",
+      "sha256": "f43a8f02f5149a4016a4b0433f1fa06176a8178ddfd148beda65bf7afa061989"
+    },
+    {
+      "path": "/film-motion/studies/sound-mixing.md",
+      "sha256": "5a0feded4efed005d222231bc5d05d07546ebaf2b2bd007fa8607f3f61348fe4"
+    },
+    {
+      "path": "/film-motion/studies/speech-timing.md",
+      "sha256": "13d192204fd51b0337f24c828563e766d4dc50b09d9b566c097b2e811bc3fc66"
+    },
+    {
+      "path": "/film-motion/studies/spring-motion.md",
+      "sha256": "a8bc65829b07c00b4856f9b2e1af7c2a92033f3bbfe92d47b4355bcbf7fbed2b"
+    }
+  ],
+  "referenceFilms": {
+    "count": 10,
+    "studio": "Wolo",
+    "manifest": "/film-motion/wolo/source-manifest.json",
+    "reviewCoverage": "/film-motion/wolo/review-coverage.json",
+    "updated": "2026-11-11",
+    "scope": "Ten full films with posters, practical craft notes, timecoded moments, analysis, atlas and sampled visual review records; separate from the81 document entries."
+  }
+}

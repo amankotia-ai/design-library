@@ -1,0 +1,345 @@
+{
+  "retrieved_on": "2026-11-10",
+  "source_video": "https://www.youtube.com/watch?v=FJZkfjM8WhI",
+  "article_short_url": "https://higgsfield.ai/s/claude-motion-2-kaye-creatives-zJgoqE",
+  "article_canonical_url": "https://higgsfield.ai/@kaye_creatives/blogs/claude-motion",
+  "article_title": "Claude motion",
+  "author": "@kaye_creatives",
+  "article_id": "64538c5a-1f82-4903-87e9-00a0656051a2",
+  "published_at": "2026-11-06T22:08:43.664Z",
+  "updated_at": "2026-11-10T11:18:44.293Z",
+  "content_url": "https://cdn.higgsfield.ai/blog/2a116989-7e19-48aa-b253-090d22ea1ae2.bin",
+  "access": "Public unauthenticated HTML and linked CDN resources; article binary inspected for embedded source references/text, not fully decoded as current rich-text state. Browser UI unavailable (native pipe path).",
+  "archives": [
+    {
+      "name": "talking-head-reels.zip",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/86152bcc-1873-4237-89f4-1e690c5c8d7b.zip",
+      "sha256": "f74ef7321cf0ec0ef8db041559534cbae82733a0793a3a3726d34f9272049f3f",
+      "size_bytes": 719959,
+      "inventory": [
+        {
+          "path": "talking-head-reels/",
+          "size_bytes": 0
+        },
+        {
+          "path": "talking-head-reels/references/",
+          "size_bytes": 0
+        },
+        {
+          "path": "talking-head-reels/references/broll-sourcing.md",
+          "size_bytes": 7851
+        },
+        {
+          "path": "talking-head-reels/references/edit-planning.md",
+          "size_bytes": 5351
+        },
+        {
+          "path": "talking-head-reels/references/style-guide.md",
+          "size_bytes": 8854
+        },
+        {
+          "path": "talking-head-reels/references/renderer.md",
+          "size_bytes": 5232
+        },
+        {
+          "path": "talking-head-reels/references/edl-schema.md",
+          "size_bytes": 8878
+        },
+        {
+          "path": "talking-head-reels/scripts/",
+          "size_bytes": 0
+        },
+        {
+          "path": "talking-head-reels/scripts/vision_tools.py",
+          "size_bytes": 1545
+        },
+        {
+          "path": "talking-head-reels/scripts/presenter_mattes.py",
+          "size_bytes": 5698
+        },
+        {
+          "path": "talking-head-reels/scripts/cut_pauses.py",
+          "size_bytes": 7419
+        },
+        {
+          "path": "talking-head-reels/scripts/prepare_project.py",
+          "size_bytes": 4539
+        },
+        {
+          "path": "talking-head-reels/scripts/vision/",
+          "size_bytes": 0
+        },
+        {
+          "path": "talking-head-reels/scripts/vision/subject_mask.swift",
+          "size_bytes": 2002
+        },
+        {
+          "path": "talking-head-reels/scripts/vision/largest_subject_mask.swift",
+          "size_bytes": 2882
+        },
+        {
+          "path": "talking-head-reels/scripts/vision/person_track.swift",
+          "size_bytes": 2904
+        },
+        {
+          "path": "talking-head-reels/scripts/clip_sheet.py",
+          "size_bytes": 1659
+        },
+        {
+          "path": "talking-head-reels/scripts/master_audio.py",
+          "size_bytes": 2583
+        },
+        {
+          "path": "talking-head-reels/scripts/fontmetrics.py",
+          "size_bytes": 4427
+        },
+        {
+          "path": "talking-head-reels/scripts/common.py",
+          "size_bytes": 4880
+        },
+        {
+          "path": "talking-head-reels/scripts/check_setup.py",
+          "size_bytes": 3248
+        },
+        {
+          "path": "talking-head-reels/scripts/clip_matte.py",
+          "size_bytes": 3848
+        },
+        {
+          "path": "talking-head-reels/scripts/transcribe.py",
+          "size_bytes": 2218
+        },
+        {
+          "path": "talking-head-reels/scripts/reel_plan.py",
+          "size_bytes": 11310
+        },
+        {
+          "path": "talking-head-reels/scripts/textass.py",
+          "size_bytes": 15643
+        },
+        {
+          "path": "talking-head-reels/scripts/validate_edl.py",
+          "size_bytes": 7078
+        },
+        {
+          "path": "talking-head-reels/scripts/render_reel.py",
+          "size_bytes": 45780
+        },
+        {
+          "path": "talking-head-reels/SKILL.md",
+          "size_bytes": 7488
+        },
+        {
+          "path": "talking-head-reels/assets/",
+          "size_bytes": 0
+        },
+        {
+          "path": "talking-head-reels/assets/textures/",
+          "size_bytes": 0
+        },
+        {
+          "path": "talking-head-reels/assets/textures/halftone_1080x1920.png",
+          "size_bytes": 567218
+        },
+        {
+          "path": "talking-head-reels/assets/examples/",
+          "size_bytes": 0
+        },
+        {
+          "path": "talking-head-reels/assets/examples/example_edl.json",
+          "size_bytes": 35582
+        },
+        {
+          "path": "talking-head-reels/assets/fonts/",
+          "size_bytes": 0
+        },
+        {
+          "path": "talking-head-reels/assets/fonts/Anton-Regular.ttf",
+          "size_bytes": 170812
+        },
+        {
+          "path": "talking-head-reels/assets/fonts/OFL.txt",
+          "size_bytes": 4484
+        }
+      ],
+      "inspected_files": [
+        {
+          "path": "talking-head-reels/SKILL.md",
+          "sha256": "7dcc9f7f0c11916011f7682c40bbbf05509118055919a681b5df232f25e55771",
+          "scope": "full text"
+        },
+        {
+          "path": "talking-head-reels/references/edit-planning.md",
+          "sha256": "68d9d8a994a736368d819f165e64ed6d69f9bcc7a58d9ec65e62054719889bec",
+          "scope": "full text"
+        },
+        {
+          "path": "talking-head-reels/references/renderer.md",
+          "sha256": "00109a9f88e01c5ca747dad9d370e89f5f8a010b6a996ac7963fd9dd5a5455ec",
+          "scope": "full text"
+        },
+        {
+          "path": "talking-head-reels/references/broll-sourcing.md",
+          "sha256": "1aee8a8f3577a32fb0def3e02619c9d23522219ca3fb8a0140ced7b3536ef32f",
+          "scope": "full text"
+        },
+        {
+          "path": "talking-head-reels/scripts/cut_pauses.py",
+          "sha256": "0fd9132041f2a215e0f5e275382d8886ad0ce1a5796a7e6bb91b71a6e73a338a",
+          "scope": "full text"
+        },
+        {
+          "path": "talking-head-reels/scripts/validate_edl.py",
+          "sha256": "a81aa51e83830c6995297bfc8fae6e2c9fa6b3e5eb010c138f48eb3494c1833c",
+          "scope": "full text"
+        },
+        {
+          "path": "talking-head-reels/scripts/render_reel.py",
+          "sha256": "4e4e4e66441bc5244197b3bcdecdcdf74c76713fc6c17878f3ad6f92a3820e59",
+          "scope": "selected relevant implementation ranges"
+        }
+      ]
+    },
+    {
+      "name": "voiceover-glass-reel.zip",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/1f58c58a-fd92-49cf-b1b5-e2625a3dcedb.zip",
+      "sha256": "2eb3505df6287cf6f2b8f171e9f65606c65de8504c9326e55b21dc0957c65752",
+      "size_bytes": 50705,
+      "inventory": [
+        {
+          "path": "voiceover-glass-reel/",
+          "size_bytes": 0
+        },
+        {
+          "path": "voiceover-glass-reel/references/",
+          "size_bytes": 0
+        },
+        {
+          "path": "voiceover-glass-reel/references/troubleshooting.md",
+          "size_bytes": 2486
+        },
+        {
+          "path": "voiceover-glass-reel/references/example_story.json",
+          "size_bytes": 3196
+        },
+        {
+          "path": "voiceover-glass-reel/references/story.md",
+          "size_bytes": 4690
+        },
+        {
+          "path": "voiceover-glass-reel/references/look.md",
+          "size_bytes": 3703
+        },
+        {
+          "path": "voiceover-glass-reel/references/higgsfield.md",
+          "size_bytes": 6929
+        },
+        {
+          "path": "voiceover-glass-reel/PROMPT.md",
+          "size_bytes": 1466
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/",
+          "size_bytes": 0
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/ae_run.sh",
+          "size_bytes": 3948
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/tools/",
+          "size_bytes": 0
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/tools/to_wav.swift",
+          "size_bytes": 1848
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/tools/facebox.swift",
+          "size_bytes": 1988
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/tools/frames.swift",
+          "size_bytes": 1682
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/tools/transcribe_Info.plist",
+          "size_bytes": 449
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/tools/transcribe.swift",
+          "size_bytes": 4196
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/ae/",
+          "size_bytes": 0
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/ae/build_reel.jsx",
+          "size_bytes": 25266
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/ae/reel_lib.jsx",
+          "size_bytes": 11917
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/reel.py",
+          "size_bytes": 31817
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/build.sh",
+          "size_bytes": 661
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/render.sh",
+          "size_bytes": 2752
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/build_tools.sh",
+          "size_bytes": 716
+        },
+        {
+          "path": "voiceover-glass-reel/SKILL.md",
+          "size_bytes": 10474
+        }
+      ],
+      "inspected_files": [
+        {
+          "path": "voiceover-glass-reel/SKILL.md",
+          "sha256": "7078f2aa7035da5f4cff21701cc02df875901cc8b7debd6aa25bbe9fa09af32e",
+          "scope": "full text"
+        },
+        {
+          "path": "voiceover-glass-reel/references/story.md",
+          "sha256": "4fcddcdf301df0f948d9bd70fd2727c09c2893dad345212f1f7d94288709a856",
+          "scope": "full text"
+        },
+        {
+          "path": "voiceover-glass-reel/references/look.md",
+          "sha256": "610db837d5999de6a3eb69b7d51b82f7badcf71bd515aada9299af31c56e2561",
+          "scope": "full text"
+        },
+        {
+          "path": "voiceover-glass-reel/references/troubleshooting.md",
+          "sha256": "4777fc2376343fe46cdfbde0d5b7b5a4a9a0c87392c04fc1986ec2f194c47aed",
+          "scope": "full text"
+        },
+        {
+          "path": "voiceover-glass-reel/scripts/reel.py",
+          "sha256": "5dd18e8653c7877fe41eeab0c51e449e2d9371fee30014fa13cdb99431237e3b",
+          "scope": "selected relevant implementation ranges"
+        }
+      ]
+    }
+  ],
+  "raw_sources": [
+    {
+      "path": "higgsfield-linked-resource.html",
+      "sha256": "008546fd8792e74f12478825a66a72a655f69328650029b500861e02499c7f71"
+    },
+    {
+      "path": "higgsfield-article-content.bin",
+      "sha256": "e13dac09d247047498e79f8a2456a081708803e4bda8d17507ba6f6fa52e18e1"
+    }
+  ]
+}

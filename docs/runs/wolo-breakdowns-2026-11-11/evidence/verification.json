@@ -1,0 +1,71 @@
+{
+  "counts": [
+    {
+      "id": "wolo-velo",
+      "scenes": 9,
+      "techniques": 1,
+      "frames": 22
+    },
+    {
+      "id": "wolo-slash-global",
+      "scenes": 9,
+      "techniques": 1,
+      "frames": 22
+    },
+    {
+      "id": "wolo-slash-4-july",
+      "scenes": 10,
+      "techniques": 1,
+      "frames": 24
+    },
+    {
+      "id": "wolo-spacex",
+      "scenes": 9,
+      "techniques": 1,
+      "frames": 22
+    },
+    {
+      "id": "wolo-slash-cornbread",
+      "scenes": 10,
+      "techniques": 1,
+      "frames": 24
+    },
+    {
+      "id": "wolo-nsave-referrals",
+      "scenes": 8,
+      "techniques": 1,
+      "frames": 20
+    },
+    {
+      "id": "wolo-worm-launch",
+      "scenes": 15,
+      "techniques": 2,
+      "frames": 38
+    },
+    {
+      "id": "wolo-okbet-launch",
+      "scenes": 11,
+      "techniques": 1,
+      "frames": 26
+    },
+    {
+      "id": "wolo-hyperdash-ui",
+      "scenes": 11,
+      "techniques": 1,
+      "frames": 26
+    },
+    {
+      "id": "wolo-pvp-hyperdash",
+      "scenes": 8,
+      "techniques": 1,
+      "frames": 20
+    }
+  ],
+  "totalScenes": 100,
+  "transitionStudies": 11,
+  "sourceFrames": 244,
+  "verifiedDeliveryFiles": 248,
+  "build": "passed",
+  "independentSourceAndDataReview": "passed",
+  "browser": "Default breakdown and Worm scene10 selection/seek/frame pair verified before final spacing correction; final corrected DOM inspected. Final screenshot/mobile verification incomplete due browser tool timeout."
+}

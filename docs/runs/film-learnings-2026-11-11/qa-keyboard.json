@@ -1,0 +1,29 @@
+{
+  "reviewer": "/root/design_qa",
+  "checks": [
+    "Keyboard ArrowRight switches collection view to Lessons",
+    "Lesson opens on practical content with references hidden",
+    "Keyboard ArrowRight opens optional References",
+    "Actual source link opens its original document route",
+    "Mobile lesson reads in document flow without nested scroll pane or horizontal overflow",
+    "Mobile practical steps precede context and related navigation",
+    "Keyboard ArrowLeft restores Lesson content"
+  ],
+  "errors": [],
+  "revision": {
+    "src/film-library.jsx": "a54cded4b5be1e5727bf2007a4b641a410d12786fb53c343d5a39f45eee3b856",
+    "src/film-library.css": "09c8e6b7938720b5806c477703fdfbf6d96b6d076ae4cfc1e306492b52cdd292",
+    "src/film-learnings.jsx": "f1718eb642de6c6fdd67a73d09099c3eb06934e5d7307f013e23407ef6586926",
+    "src/film-learnings-data.js": "9f6ee4c93faa0ec0c28d85770f097bf951daf15a89538bc6c79d1f9c6b5d6392",
+    "scripts/check-film-learnings.mjs": "4e6986f1f94e539289458245f55fdf4b1726918587953e8f5c5494e8f593d8bf"
+  },
+  "mobile": {
+    "overflow": "visible",
+    "panePosition": "static",
+    "documentWidth": 390,
+    "viewport": 390,
+    "practiceTop": 371.796875,
+    "contextTop": 1158.796875
+  },
+  "status": "passed"
+}

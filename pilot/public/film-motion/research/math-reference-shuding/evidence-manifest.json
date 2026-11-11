@@ -1,0 +1,69 @@
+{
+  "reference_post": "https://x.com/shuding/status/2115082810738479363",
+  "post_access": "X web fetch403; public fxtwitter JSON mirror200",
+  "primary_page": "https://calculus-of-interfaces.vercel.app/",
+  "retrieved_date": "2026-11-10",
+  "bundle_url": "https://calculus-of-interfaces.vercel.app/chunk-qs9kw3wk.js",
+  "upstream_inspiration": "https://github.com/chenglou/handwired",
+  "handwired_commit": "257856e3b221140acb4cc4460626b850c0bd4ff1",
+  "coverage": {
+    "page_text": true,
+    "deployed_math_core_source": true,
+    "deployed_panel_copy_source": true,
+    "sampled_video_frames": 8,
+    "sample_times_seconds": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14
+    ],
+    "live_interaction_test": false,
+    "full_speed_playback": false
+  },
+  "files": [
+    {
+      "path": "post-fxtwitter.json",
+      "bytes": 6301,
+      "sha256": "75cefe844da5113098f23e11067c18b0afe11ce576449cd49bd1fe5dcd5e97c7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7346,
+      "sha256": "fae0c6bf5f86a91c151f792bbf8ac270073b5e28c0a2b930530ebcb3321dc24d"
+    },
+    {
+      "path": "app.js",
+      "bytes": 451960,
+      "sha256": "787e12ae63ccc61ce3be060cc23f96993eb6112542037a881d04f592dd0597d1"
+    },
+    {
+      "path": "inspected-math-core.js.txt",
+      "bytes": 7015,
+      "sha256": "2118965e6322276af3422109c8f6c2bd8012cb9df387a8a4886d9015d2572d00"
+    },
+    {
+      "path": "reference.mp4",
+      "bytes": 3459071,
+      "sha256": "144f490ef3354a11c4fd5ac046b52158475dce929c3bd8bf4fa1f94ad1b236c8"
+    },
+    {
+      "path": "sampled-sheet.jpg",
+      "bytes": 101474,
+      "sha256": "8a31e17684be83082d041bfef1f3e60982db0ef77687fc7da9b51508fd4a57e7"
+    },
+    {
+      "path": "sampled-manifest.json",
+      "bytes": 1124,
+      "sha256": "20190c7caef119a4e1b5017e916af759480ca2b0086fa3751ca3aa709a0a2ae3"
+    },
+    {
+      "path": "handwired-readme.md",
+      "bytes": 1835,
+      "sha256": "cacef7250efd46da97b16d620a153d55429ce8de92747b47f2b1c253727454af"
+    }
+  ]
+}

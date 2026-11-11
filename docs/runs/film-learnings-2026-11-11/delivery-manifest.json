@@ -1,0 +1,25 @@
+{
+  "target": "/Users/abhishekmankotia/Documents/ChatGPT/Design Library/pilot",
+  "files": [
+    {
+      "path": "src/film-library.jsx",
+      "sha256": "a54cded4b5be1e5727bf2007a4b641a410d12786fb53c343d5a39f45eee3b856"
+    },
+    {
+      "path": "src/film-library.css",
+      "sha256": "09c8e6b7938720b5806c477703fdfbf6d96b6d076ae4cfc1e306492b52cdd292"
+    },
+    {
+      "path": "src/film-learnings.jsx",
+      "sha256": "f1718eb642de6c6fdd67a73d09099c3eb06934e5d7307f013e23407ef6586926"
+    },
+    {
+      "path": "src/film-learnings-data.js",
+      "sha256": "9f6ee4c93faa0ec0c28d85770f097bf951daf15a89538bc6c79d1f9c6b5d6392"
+    },
+    {
+      "path": "scripts/check-film-learnings.mjs",
+      "sha256": "4e6986f1f94e539289458245f55fdf4b1726918587953e8f5c5494e8f593d8bf"
+    }
+  ]
+}
